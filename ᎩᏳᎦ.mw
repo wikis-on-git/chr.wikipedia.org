@@ -23,9 +23,12 @@
 ||{{Genus}}: || '''Tamias'''
 |}
 |-
-!align="center" colspan="2" bgcolor=pink|'''[[Species]]'''
+
+!align="center" bgcolor=pink|'''[[Species]]'''
 |-
-{|align="center" border="0"
+||
+{| align="center"
+|-
 ||''Tamias alpinus'' (ᎠᎸᏈᏂ ᎩᏳᎦ) 
 |-
 ||''T. amoenus'' (ᏗᎶᏂᎨ ᎩᏳᎦ)
@@ -71,6 +74,7 @@
 ||''T. townsendii'' (Townsend's ᎩᏳᎦ)  
 |-
 ||''T. umbrinus'' (ᎤᎢᏅᏔ ᎩᏳᎦ)
+|}
 |-
 
 ||
