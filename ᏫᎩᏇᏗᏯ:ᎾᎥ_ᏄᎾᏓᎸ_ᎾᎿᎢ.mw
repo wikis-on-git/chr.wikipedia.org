@@ -23,3 +23,6 @@ The namespace "Wikipedia:" hasn't been translated to "ᏫᎩᏇᏗᏯ:", so it i
 You should contact a developper and ask him to put "ᏫᎩᏇᏗᏯ"  for the "Wikipedia" namespace in the LanguageChr.php file on the server.
 Once it is done, then [[{{ns:4}}:Foo]] would expand to "ᏫᎩᏇᏗᏯ:Foo"
 [[User:Srtxg|Srtxg]] 02:44, 23 Aug 2004 (UTC)
+
+==Translations==
+Is there a comprehensive list of all translated namespaces, etc.? I would like to make basic items like stub notices except I don't know if they have been translated or not. [[User:Wikiacc|Wikiacc]] 22:56, 20 Jan 2005 (UTC)
