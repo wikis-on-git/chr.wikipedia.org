@@ -17,3 +17,9 @@ may be was the begin of the of the destruction of a piece of your culture.
 Congratulations for your wikipedia form catalonia.
 
 Plàcid [[User:80.58.40.235|80.58.40.235]] 18:26, 6 Aug 2004 (UTC)
+
+==ᏫᎩᏇᏗᏯ namespace doesn't exist yet==
+The namespace "Wikipedia:" hasn't been translated to "ᏫᎩᏇᏗᏯ:", so it is a bad idea to use its translation now.
+You should contact a developper and ask him to put "ᏫᎩᏇᏗᏯ"  for the "Wikipedia" namespace in the LanguageChr.php file on the server.
+Once it is done, then [[{{ns:4}}:Foo]] would expand to "ᏫᎩᏇᏗᏯ:Foo"
+[[User:Srtxg|Srtxg]] 02:44, 23 Aug 2004 (UTC)
