@@ -8,40 +8,6 @@ Learn [[Wikipedia:How to edit a page|how to edit pages]], experiment in the  [[W
 
 ''Important Note:'' To view these pages correctly, you will need a [[Unicode|Unicode-compatible Cherokee font]].
 
-|style="font-size:80%;" bgcolor="white"|
-<div align="right">
-[[#Browse Wikipedia by topic|Browse&nbsp;by&nbsp;topic]]<br/> 
-[[#Wikipedia in other languages|Other&nbsp;languages]]<br/>
-[[#Wikipedia's sister projects|Sister&nbsp;projects]]<br/>
-</div> 
-|}
-{| cellspacing="3" 
-|- valign="top"
-|width="55%" bgcolor="#fff3f3" style="border:1px solid #ffc9c9;padding:1em;padding-top:0.5em;"|
-
-<h3>Featured article</h3>
-{{feature}} 
-
-<h3>Selected anniversaries</h3>
-{{{{CURRENTMONTHNAME}}_{{CURRENTDAY}}_selected_anniversaries}}
-
-|width="45%" bgcolor="#f0f0ff" style="border:1px solid #c6c9ff;padding:1em;padding-top:0.5em;"|
-
-<h3>In the news</h3> 
-{{In_the_news}}
-
-<div align="left"><h3>Did you know...</h3></div> 
-{{Did you know}}
-|-
-|colspan="2" bgcolor="#F9F9FF" style="border:1px solid #cfcfff;padding:1em;padding-top:0.5em;padding-bottom:0em;"|
-===Browse Wikipedia by topic===
-
-{{Wikipediatoc}}
-
-{{Wikipediacats-flat}}
-
-|- 
-|colspan="2" bgcolor="#fffffc" style="border:1px solid #cfcfcf;padding:1em;padding-top:0.5em;padding-bottom:0em; font-size:100%;"|
 ===ᎠᏂᏐᎢ===
 {{Wikipedialang}}
 
@@ -50,5 +16,3 @@ Learn [[Wikipedia:How to edit a page|how to edit pages]], experiment in the  [[W
 
 If you find Wikipedia or its sister projects useful, please consider making a [http://wikimediafoundation.org/ fundraising donation]. Donations are used primarily for purchasing computer equipment and launching new [[m:Complete_list_of_wikimedia_projects#Proposed_projects|projects]].
 |}
-
-[nv:][en:]
