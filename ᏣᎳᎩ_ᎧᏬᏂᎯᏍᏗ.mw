@@ -2,37 +2,180 @@
 
 [[ᎠᏂᏣᎳᎩ]] ᎠᏂᏬᏂᏍᎩ ''polysynthetic'' [[ᎧᏬᏂᎯᏍᏗ]].
 
-
-
-{| border="1" cellpadding="3" style="border-collapse: collapse;text-align:left;"
-|- align="center" bgcolor="#f0f0f0"
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || '''a'''<br />[a] ou [ə] || '''e'''<br />[e] ou [ɛ] || '''i'''<br />[i] ou [ɪ] || '''o'''<br />[o] ou [ɔ] || '''u'''<br />[u] ou [ʊ] || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''v'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />[ə̃]
+{|border="1" style="border-collapse: collapse;"
+!bgcolor=#cccccc|Character
+!bgcolor=#cccccc|Unicode
+!bgcolor=#cccccc|Pronunciation   
 |-
-| align="center" bgcolor="#f0f0f0" | &nbsp;<br />&nbsp; || <font size="+2">Ꭰ</font> a || <font size="+2">Ꭱ</font> e || <font size="+2">Ꭲ</font> i || <font size="+2">Ꭳ</font> o || <font size="+2">Ꭴ</font> u || <font size="+2">Ꭵ</font> v
+|  &#x13A0;|| 13A0|| A
 |-
-| align="center" bgcolor="#f0f0f0" | '''g '''<br />[g] || <font size="+2">Ꭶ</font> ga — <font size="+2">Ꭷ</font> ka || <font size="+2">Ꭸ</font> ge || <font size="+2">Ꭸ</font> gi || <font size="+2">Ꭹ</font> go || <font size="+2">Ꭻ</font> gu || <font size="+2">Ꭼ</font> gv
+|  &#x13A1;|| 13A1|| E
 |-
-| align="center" bgcolor="#f0f0f0" |  '''h '''<br />[h] || <font size="+2">Ꭽ</font> ha || <font size="+2">Ꭾ</font> he || <font size="+2">Ꭿ</font> hi || <font size="+2">Ꮀ</font> ho || <font size="+2">Ꮁ</font> hu || <font size="+2">Ꮂ</font> hv
+|  &#x13A2;|| 13A2|| I
 |-
-| align="center" bgcolor="#f0f0f0" |  '''l '''<br />[l] || <font size="+2">Ꮃ</font> la || <font size="+2">Ꮄ</font> le || <font size="+2">Ꮅ</font> li || <font size="+2">Ꮆ</font> lo || <font size="+2">Ꮇ</font> lu || <font size="+2">Ꮈ</font> lv
+|  &#x13A3;|| 13A3|| O
 |-
-| align="center" bgcolor="#f0f0f0" |  '''m '''<br />[m] || <font size="+2">Ꮉ</font> ma || <font size="+2">Ꮊ</font> me || <font size="+2">Ꮋ</font> mi || <font size="+2">Ꮌ</font> mo || <font size="+2">Ꮍ</font> mu || &nbsp;
+|  &#x13A4;|| 13A4|| U
 |-
-| align="center" bgcolor="#f0f0f0" |  '''n '''<br />[n] || <font size="+2">Ꮎ</font> na — <font size="+2">Ꮏ</font> hna — <font size="+2">Ꮐ</font> nah || <font size="+2">Ꮑ</font> ne || <font size="+2">Ꮒ</font> ni || <font size="+2">Ꮓ</font> no || <font size="+2">Ꮔ</font> nu || <font size="+2">Ꮕ</font> nv
+|  &#x13A5;|| 13A5|| V
 |-
-| align="center" bgcolor="#f0f0f0" |  '''qu '''<br />[kw] || <font size="+2">Ꮖ</font> qua || <font size="+2">Ꮗ</font> que || <font size="+2">Ꮘ</font> qui || <font size="+2">Ꮙ</font> quo || <font size="+2">Ꮚ</font> quu || <font size="+2">Ꮛ</font> guv
+|  &#x13A6;|| 13A6|| Ga
 |-
-| align="center" bgcolor="#f0f0f0" |  '''s '''<br />[s] || <font size="+2">Ꮝ</font>s — <font size="+2">Ꮜ</font> sa || <font size="+2">Ꮞ</font> se || <font size="+2">Ꮟ</font> si || <font size="+2">Ꮠ</font> so || <font size="+2">Ꮡ</font> su || <font size="+2">Ꮢ</font> sv
+|  &#x13A7;|| 13A7|| Ka
 |-
-| align="center" bgcolor="#f0f0f0" |  '''d / t'''<br />[d] / [t] || <font size="+2">Ꮣ</font> da — <font size="+2">Ꮤ</font> ta || <font size="+2">Ꮥ</font> de — <font size="+2">Ꮦ</font> te || <font size="+2">Ꮧ</font> di — <font size="+2">Ꮨ</font> ti || <font size="+2">Ꮩ</font> do || <font size="+2">Ꮪ</font> du || <font size="+2">Ꮫ</font> dv
+|  &#x13A8;|| 13A8|| Ge
 |-
-| align="center" bgcolor="#f0f0f0" |  '''tl '''<br />[tɬ] || <font size="+2">Ꮬ</font> dla — <font size="+2">Ꮭ</font> tla || <font size="+2">Ꮮ</font> tle || <font size="+2">Ꮯ</font> tli || <font size="+2">Ꮰ</font> tlo || <font size="+2">Ꮱ</font> tlu || <font size="+2">Ꮲ</font> tlv
+|  &#x13A9;|| 13A9|| Gi
 |-
-| align="center" bgcolor="#f0f0f0" |  '''ts '''<br />[ʤ] || <font size="+2">Ꮳ</font> tsa || <font size="+2">Ꮴ</font> tse || <font size="+2">Ꮵ</font> tsi || <font size="+2">Ꮶ</font> tso || <font size="+2">Ꮷ</font> tsu || <font size="+2">Ꮸ</font> tsv
+|  &#x13AA;|| 13AA|| Go
 |-
-| align="center" bgcolor="#f0f0f0" |  '''w '''<br />[ɰ] || <font size="+2">Ꮹ</font> wa || <font size="+2">Ꮺ</font> we || <font size="+2">Ꮻ</font> wi || <font size="+2">Ꮼ</font> wo || <font size="+2">Ꮽ</font> wu || <font size="+2">Ꮾ</font> wv
+|  &#x13AB;|| 13AB|| Gu
 |-
-| align="center" bgcolor="#f0f0f0" |  '''y '''<br />[j] || <font size="+2">Ꮿ</font> ya || <font size="+2">Ᏸ</font> ye || <font size="+2">Ᏹ</font> yi || <font size="+2">Ᏺ</font> yo || <font size="+2">Ᏻ</font> yu || <font size="+2">Ᏼ</font> yv
+|  &#x13AC;|| 13AC|| Gv
+|-
+|  &#x13AD;|| 13AD|| Ha
+|-
+|  &#x13AE;|| 13AE|| He
+|-
+|  &#x13AF;|| 13AF|| Hi
+|-
+|  &#x13B0;|| 13B0|| Ho
+|-
+|  &#x13B1;|| 13B1|| Hu
+|-
+|  &#x13B2;|| 13B2|| Hv
+|-
+|  &#x13B3;|| 13B3|| La
+|-
+|  &#x13B4;|| 13B4|| Le
+|-
+|  &#x13B5;|| 13B5|| Li
+|-
+|  &#x13B6;|| 13B6|| Lo
+|-
+|  &#x13B7;|| 13B7|| Lu
+|-
+|  &#x13B8;|| 13B8|| Lv
+|-
+|  &#x13B9;|| 13B9|| Ma
+|-
+|  &#x13BA;|| 13BA|| Me
+|-
+|  &#x13BB;|| 13BB|| Mi
+|-
+|  &#x13BC;|| 13BC|| Mo
+|-
+|  &#x13BD;|| 13BD|| Mu
+|-
+|  &#x13BE;|| 13BE|| Na
+|-
+|  &#x13BF;|| 13BF|| Hna
+|-
+|  &#x13C0;|| 13C0|| Nah
+|-
+|  &#x13C1;|| 13C1|| Ne
+|-
+|  &#x13C2;|| 13C2|| Ni
+|-
+|  &#x13C3;|| 13C3|| No
+|-
+|  &#x13C4;|| 13C4|| Nu
+|-
+|  &#x13C5;|| 13C5|| Nv
+|-
+|  &#x13C6;|| 13C6|| Qua
+|-
+|  &#x13C7;|| 13C7|| Que
+|-
+|  &#x13C8;|| 13C8|| Qui
+|-
+|  &#x13C9;|| 13C9|| Quo
+|-
+|  &#x13CA;|| 13CA|| Quu
+|-
+|  &#x13CB;|| 13CB|| Quv
+|-
+|  &#x13CC;|| 13CC|| Sa
+|-
+|  &#x13CD;|| 13CD|| S
+|-
+|  &#x13CE;|| 13CE|| Se
+|-
+|  &#x13CF;|| 13CF|| Si
+|-
+|  &#x13D0;|| 13D0|| So
+|-
+|  &#x13D1;|| 13D1|| Su
+|-
+|  &#x13D2;|| 13D2|| Sv
+|-
+|  &#x13D3;|| 13D3|| Da
+|-
+|  &#x13D4;|| 13D4|| Ta
+|-
+|  &#x13D5;|| 13D5|| De
+|-
+|  &#x13D6;|| 13D6|| Te
+|-
+|  &#x13D7;|| 13D7|| Di
+|-
+|  &#x13D8;|| 13D8|| Ti
+|-
+|  &#x13D9;|| 13D9|| Do
+|-
+|  &#x13DA;|| 13DA|| Du
+|-
+|  &#x13DB;|| 13DB|| Dv
+|-
+|  &#x13DC;|| 13DC|| Dla
+|-
+|  &#x13DD;|| 13DD|| Tla
+|-
+|  &#x13DE;|| 13DE|| Tle
+|-
+|  &#x13DF;|| 13DF|| Tli
+|-
+|  &#x13E0;|| 13E0|| Tlo
+|-
+|  &#x13E1;|| 13E1|| Tlu
+|-
+|  &#x13E2;|| 13E2|| Tlv
+|-
+|  &#x13E3;|| 13E3|| Tsa
+|-
+|  &#x13E4;|| 13E4|| Tse
+|-
+|  &#x13E5;|| 13E5|| Tsi
+|-
+|  &#x13E6;|| 13E6|| Tso
+|-
+|  &#x13E7;|| 13E7|| Tsu
+|-
+|  &#x13E8;|| 13E8|| Tsv
+|-
+|  &#x13E9;|| 13E9|| Wa
+|-
+|  &#x13EA;|| 13EA|| We
+|-
+|  &#x13EB;|| 13EB|| Wi
+|-
+|  &#x13EC;|| 13EC|| Wo
+|-
+|  &#x13ED;|| 13ED|| Wu
+|-
+|  &#x13EE;|| 13EE|| Wv
+|-
+|  &#x13EF;|| 13EF|| Ya
+|-
+|  &#x13F0;|| 13F0|| Ye
+|-
+|  &#x13F1;|| 13F1|| Yi
+|-
+|  &#x13F2;|| 13F2|| Yo
+|-
+|  &#x13F3;|| 13F3|| Yu
+|-
+|  &#x13F4;|| 13F4|| Yv
 |}
 
 ==ᏳᏂᎪᏛ==
