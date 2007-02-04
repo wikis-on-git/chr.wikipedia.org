@@ -1,0 +1,513 @@
+[[Image:Intcode.png|right|framed|1922 Chart of the Morse Code Letters and Numerals]]
+'''Morse ᎠᏍᏓᏩᏛᏍᏙᏗ''' ᎨᏒᎢ ᎢᎬᎾᏗ ᎾᏍᎩᎾᎢ transmitting ᎠᏓᏃᎯᏎᏗ, ᎬᏗᏍᎬᎢ standardized ᎠᏍᏓᏩᏗᏒ ᏍᏆᎳᎢ ᎠᎴ ᎦᏅᎯᏓ ᏚᏙᏪᎸᎢ ᎠᎴ ᏧᏩᏚᏃᎯ — ᏱᏓᏟᎶᏍᏔᏅ ᎤᎾᏅᏛ ᏥᏄᏍᏗ "ᎠᏍᏓᏩᏛᏍᏗ" ᎠᎴ "dashes" — ᎾᏍᎩᎾᎢ ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ, ᏎᏍᏗ, ᎦᏬᏂᎯᏍᏗ ᎠᏕᎶᏆᏍᏗ ᎠᎴ ᎤᏤᎵᏛ ᎠᎦᏓᏅᏖᏗ ᎥᏓᏘᏃᎯᏎᏗ. ᎠᎴᏅᏔᏅ ᎪᏢᏅᎯ ᎾᏍᎩᎾᎢ [[Samuel Morse]] ᎤᏤᎵ ᎠᎾᎦᎵᏍᎩ [[Telegraphy|ᏗᎾᎪᎳᏛᏅ]] ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏰᎵ ᏯᏛᎾ ᎠᎺᏉᎯ-1830s, ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎾᏍᎩ ᎾᏍᏇ ᎤᏜᏅᏛ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎢᎬᏱ [[radio|ᎦᏬᏂᏍᎩ]] ᏗᏛᎪᏔᏅ ᎠᏓᎴᏂᏍᎬ ᎭᏫᎾᏗᏢ ᎯᎠ 1890s. ᏱᏂᎬᏛᎾ, ᎬᏙᏗ ᎯᎠ ᏚᏙᎳᏩᏛᎲ ᎤᏟ ᎢᎦᎢ ᎠᏓᏌᎳᏙᏗ tsunadatvgotanv technologies, ᎯᎠ ᏂᎬᎢ ᎬᏙᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎾᏊ ᎡᏆᏯ ᎠᏗᏅᏓ, ᏧᎦᎴᏅᏓ ᏂᏛᎴᏅᏓ ᎤᎢᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᎬᏙᏗ ᎠᎴ ᏐᎢ specialized ᏂᏚᏰᎸᏛᎢ, ᎠᏠᏯᏍᏗᏍᎩ navigational [[radio beacon|ᎦᏬᏂᏍᎩ ᏄᏍᏛ ᏗᎧᏃᏗ]], ᎦᏙᎯ ᏒᏃᏱ ᎡᎯ ᏅᏙ transmitter ᎢᏗᎦᏘᎭ, ᎠᎴ ᎾᎥᎢ [[Continuous wave|CW]] (ᏫᎬᎵᏱᎵᏒ ᏓᏍᏟᏁᎦ) [[amateur radio operator|ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎠᏅᏬᏗ]]. 
+
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏰᎵᏇ ᎾᏍᏋ transmitted ᎭᏫᎾᏗᏢ ᏎᏍᏗ ᏫᎦᎶᎯᏍᏗ: ᎠᎴᏅᏔᏅ ᏥᏄᏍᏗ ᎬᏙᏗ ᎠᎾᎦᎵᏍᎩ ᏧᏩᏚᏃᎯ ᎨᎳᏛᏍᏗ ᏗᎾᎪᎳᏛᏅ ᎤᏯᏅᎯ, ᎠᎴ ᎾᏍᎩ ᎾᏍᏇ ᏥᏄᏍᏗ audio ᎤᏃᏴᎬ, ᏥᏄᏍᏗ ᎦᏬᏂᏍᎩ ᏂᎬᎢ ᎬᏙᏗ ᏍᏆᎳᎢ ᎠᎴ ᎦᏅᎯᏓ ᏧᏩᏚᏃᎯ ᎠᎴ ᎤᏃᏴᎬ, ᎠᎴ ᏥᏄᏍᏗ ᎪᎱᏍᏗ ᎪᏢᏙᏗ ᎠᎴ ᎠᎪᏩᏛᏗ ᏂᎬᎢ (e.g. ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎠᏨᏍᏛ) ᎬᏗᏍᎬᎢ ᏄᏍᏛ ᏗᎧᏃᏗ ᎾᏍᎩᏯᎢ [[Aldis lamp|Aldis ᎠᏨᏍᏙᏗ]] ᎠᎴ [[heliograph|ᏄᏍᏛ ᏗᎧᏃᏗ]]. ᎢᎬᏂᏏᏍᎩ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ transmitted ᎬᏗᏍᎬᎢ ᎣᏍᏛ ᏔᎵ ᎧᏃᎮᎭ — ᎾᎿ ᎠᎴ ᎤᏣᏘᎾ — ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎢᎬᏱ ᎤᏙᏢᏒ digital ᎠᏍᏓᏩᏛᏍᏙᏗ. ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎠᏒᎾᏍᏗᏱ ᏑᏓᎵ ᎢᏧᏓᎴᎩ:
+# ᏍᏆᎳᎢ ᎤᏙᏪᎸ, ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ 'dit' (·)
+# ᎦᏅᎯᏓᎨ ᎤᏙᏪᎸ, ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ 'dah' (-)
+# intra-ᎠᎦᏓᏅᏖᏗ ᎠᏍᏆᎵᏍᏗ (ᎠᏰᎵ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ dashes ᎭᏫᏂᏗᏢ ᎠᎦᏓᏅᏖᏗ)
+# ᏍᏆᎳᎢ ᎠᏍᏆᎵᏍᏗ (ᎠᏰᎵ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ)
+# ᎠᏰᎵᏇ ᎢᏴ ᎠᏍᏆᎵᏍᏗ (ᎠᏰᎵ ᎤᏂᏁᏨ)
+# ᎦᏅᎯᏓ ᎠᏍᏆᎵᏍᏗ (ᎠᏰᎵ ᏗᏒᏍᏙᏗ)
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ [[digital]] [[modulation|ᏧᎾᏍᏗ]] ᎤᏔᏂᏗ ᎦᏙᎯ ᎠᏎᎸ ᎢᏗᎬᏁᏗ ᎾᏍᏋ ᎠᎯᏗᎨᎢ ᎥᎪᎵᏰᏍᎬ ᎾᎥᎢ ᎠᏂᏴᏫ ᏄᏠᏯᏍᏛᎾ ᎡᎵᏍ, ᎠᏃᏢᏍᎬ ᎾᏍᎩ ᏗᏙᎳᎩ ᎾᏍᎩᎾᎢ ᎠᏓᏅᏍᎬ automated digital ᎾᎯᏳ ᎢᎪᎯ ᎭᏫᎾᏗᏢ ᎧᏁᎬ ᎤᏲᏴᎬ ᎤᎶᎯᏍᏗ, ᏥᏄᏍᏗ ᎠᏔᎴᏒ ᎠᎹᏱ ᏥᏄᏍᏗ ᎠᏃᏢᏍᎬ ᎾᏍᎩ ᎤᎵᎶᎯ ᎾᏍᎩᎾᎢ ᎤᎢᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᏂᎬᎢ, ᏯᏛᎿ ᏥᏄᏍᏗ ᎾᎥᎢ ᎦᎶᎯᏍᏗ ᎤᎵᏍᏓ ᏗᎫᎪᏙᏗ ᏄᎵᏂᎬᎬ ᏙᏧᏓᎴᏅ Ꮎ ᏰᎵᏇ ᎾᏍᏋ ᎠᎯᏗᎨᎢ "keyed" ᏯᏛᎿ ᏥᏄᏍᏗ ᎾᎥᎢ ᏓᏓᏁᎲᎢ ᎠᎴ ᎠᏂᎲᏍᎬ ᎠᎾᎦᎵᏍᎩ ᎤᎳᏂᎬᎬ (e.g. ᎾᎥᎢ ᎣᏍᏛᏗᏍᏗ ᎠᏲᏍᏗᏍᎩ ᎾᎿ ᎠᎴ ᎤᏣᏘᎾ). ᏱᏂᎬᏛᎾ, ᎯᎠ ᏂᏙᏓᎳᎬᎾ ᏂᎦᏅᎯᏒ ᎯᎠ Morse ᎠᎦᏓᏅᏖᏗ ᎪᏢᏅᎯ ᎾᏍᎩ ᎠᏍᏓᏯ ᏓᏓᏁᏤᎸ automated ᏗᏛᎪᏔᏅ, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎾᏍᎩ ᎤᎭ ᏭᏪᏙᎢ ᎡᏆᏯ ᏅᎪᏢᎯᏌᏅ ᎾᎥᎢ ᎤᏟ ᎢᎦᎢ ᎤᏠᏱᎭ formats, ᎠᏠᏯᏍᏗᏍᎩ ᎯᎠ [[Baudot code|Baudot ᎠᏍᏓᏩᏛᏍᏙᏗ]] ᎠᎴ [[ASCII]].
+
+ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎤᏯᏅᎲ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᎯ ᎢᎦ ᎤᏙᎯᏳᎯᏯ ᏚᏓᎴᎿᎥ ᎾᏍᎩ ᏯᏛᎾ ᏂᏛᎴᏅᏓ ᎦᏙ ᎤᏍᏗ ᏥᏄᏍᏛᎩ ᎠᎴᏅᏔᏅ ᎤᏙᎷᏩᏛᏓ ᎾᎥᎢ [[Alfred Vail|Alfred ᎠᎾᏓᏁᎲ]] ᎭᏫᎾᏗᏢ collaboration ᎬᏙᏗ Morse. ᎭᏫᎾᏗᏢ 1848 ᎤᎾᏤᎵᏛ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏍᏓᏩᏗᏒ, ᎠᏠᏯᏍᏗᏍᎩ ᏗᎦᏁᏟᏴᏍᏗ ᏌᏚ ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ, ᏥᏄᏍᏛᎩ ᎤᏙᎷᏩᏛᏓ ᎭᏫᎾᏗᏢ Germany ᎠᎴ ᏭᎵᏱᎶᎸ ᎠᏠᏯᏍᏔᏅᎯ ᏥᏄᏍᏗ ᎯᎠ ᏗᏍᏆᎸᏙᏗ ᏰᎵᏊ ᏗᏙᎳᎩ ᏥᏄᏍᏗ "ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse". Morse ᎤᏤᎵ ᎠᎴᏅᏗᏍᎬ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ, ᎡᏆᏯ ᏩᏎᎸᎯ ᎬᏙᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏫᏒᏗ ᎧᏃᎮᎭ, ᎠᏓᏁᏟᏴᏍᏗ ᎤᎾᏅᏛ ᏥᏄᏍᏗ ᏔᎷᎩᏍᎩ ᏅᏃᎯ ᎠᎴ [[American Morse code|ᏴᏩᏁᎬ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ]], ᎠᎴ ᎨᏒᎢ ᎾᏊ ᎤᏙᎯᏳ ᎢᏅᎯ ᎢᏳᏓᎵ ᎬᏔᏅᎯ ᎾᏍᎩ ᎤᏩᏒ ᎭᏫᎾᏗᏢ ᎢᎦᏛ governmental ᎢᏗᏛᏁᏗ/tsunadatvgotanv.
+
+== ᏚᏙᎳᏩᏛᎲ ==
+
+ᎠᏓᎴᏂᏍᎬ ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏰᎵ ᏯᏛᎾ ᎠᎺᏉᎯ-1830s, [[Samuel Morse]] ᎠᎴ [[Alfred Vail|Alfred ᎠᎾᏓᏁᎲ]] ᎤᏙᎷᏩᏛᏓ [[electric telegraph|ᎠᎾᎦᎵᏍᎩ ᏗᎾᎪᎳᏛᏅ]], ᎦᏙ ᎤᏍᏗ ᎬᏔᏅᎯ ᎬᏙᏗ ᎠᎾᎦᎵᏍᎩ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ ᎠᎨᏔᏗᏍᏗ electromagnet Ꮎ ᏥᏄᏍᏛᎩ ᎤᏂᎷᏨ ᎾᎾᎢ ᎯᎠ ᎠᎩᏍᎬᎢ ᎤᎵᏍᏛ ᎯᎠ ᏫᏓᏲᎯᏍᏗ ᎤᏯᏅᎯ. ᎯᎠ technological ᎠᏎᎸᎯ ᎯᎠ iyuwakodi ᎪᏢᏅᎯ ᎾᏍᎩ ᏰᎵ ᏂᎨᏒᎾ ᎦᎴᏯᏛ ᎠᏂᏏᏴᏫᎭ ᎠᎦᏓᏅᏖᏗ ᎭᏫᎾᏗᏢ ᎠᏓᏙᎵᏍᏗ ᎤᏙᏢᏒ, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎯᎠ ᎪᏪᎵ Ꭺgoweli gowlisgi ᎠᏰᎲ ᎢᏰᎵᏍᏗᎢ ᎠᏓᏁᏟᏴᏍᏗᎭ ᎢᎬᎾᏗ ᏗᏛᎪᏔᏅ. ᎠᏓᎴᏂᏍᎬ ᎭᏫᎾᏗᏢ 1837, [[William Cooke]] ᎠᎴ [[Charles Wheatstone]] ᎠᏂᎩᏍᏔᏅ ᎠᎾᎦᎵᏍᎩ ᏗᎾᎪᎳᏛᏅ ᎭᏫᎾᏗᏢ England, ᎦᏙ ᎤᏍᏗ ᎾᏍᎩ ᎾᏍᏇ controlled electromagnets ᎭᏫᎾᏗᏢ ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ, ᏱᏂᎬᏛᎾ, ᎭᏫᎾᏗᏢ ᎤᎾᏤᎵ iyahdvnelidasdi ᏴᎩ ᏄᏍᏛ ᏗᎧᏃᏗ ᎨᏒᎩ rotated ᎭᏫᎾᏗᏢ ᎠᏓᏅᏍᏗ ᎠᏓᏎᎮᏗ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎠᎴᏂᏙᎲ ᎠᏓᏅᏒ. ᎭᏫᎾᏗᏢ ᏧᏓᎴᎾᎢ, Morse ᎠᎴ ᎠᎾᏓᏁᎲ ᎤᏤᎵ ᎠᎴᏅᏘᏍᎬ ᏗᎾᎪᎳᏛᏅ iyahdvnelidasdi, ᎦᏙ ᎤᏍᏗ ᎢᎬᏱ ᎤᏪᏅᏒ ᎾᎾᎯ ᎠᏥᏰᎶᎲ ᎭᏫᎾᏗᏢ 1844, ᎪᏪᎳᏅᎯ Ꭺ ᎠᏍᏓᏅᏅ —  ᎯᎳᎪ ᎢᏳ ᎬᏙᏗ ᎠᎾᎦᎵᏍᎩ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ ᏥᏄᏍᏛᎩ transmitted  ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ ᎤᏤᎵ electromagnet rotated ᏗᏂᏃᎨᏂ, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ Ꮎ ᎾᏍᎩ ᎤᎴᏅᎲ ᏗᏜᎪᏍᏗ ᎠᏓᏅ ᎠᏍᏓᏅᏅ, ᎠᎴ ᎯᎳᎪ ᎢᏳ ᎯᎠ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ ᏥᏄᏍᏛᎩ ᎠᎲᏓ ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ retracted ᎯᎠ ᏗᏂᏃᎨᏂ, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ Ꮎ ᎢᎦᏛ ᎯᎠ ᎠᏍᏓᏅᏅ ᏥᏄᏍᏛᎩ ᎠᎦᏍᎦᏂ ᎬᎨᏫᏍᏗ.
+
+ᎯᎠ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏛᎩ ᎤᏙᎷᏩᏛᏓ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ Ꮎ ᎠᏅᏬᏗ ᏰᎵᏇ ᎠᏁᏢᏙᏗ ᎯᎠ indentions ᎪᏪᎳᏅᎯ ᎾᎿ ᎯᎠ Ꭺ ᎠᏍᏓᏅᏅ ᎾᎾᎯ ᏓᎵᏍᏛ ᎨᏥᏃᎯᏎᏗ. ᎠᎴᏅᏘᏍᎬ, Morse ᎠᏰᎲ ᎠᏟᎶᏍᏙᏗ ᎾᏍᎩ ᎤᏩᏒ ᏩᏗᏱ ᏎᏍᏗ, ᎠᎴ ᎬᏙᏗ ᏗᏕᏠᏆᏍᏙᏗ ᎭᎦᏔ ᎦᎸᎳᏗᏢ ᎠᏂᏏᏴᏫᎭ ᎧᏁᏨ ᎧᎵ ᏗᏙᎳᎩ ᎯᎠ ᏎᏍᏗ ᎦᏙ ᎤᏍᏗ ᎠᏰᎲ ᏭᏪᏙᎢ ᎠᏓᏅᏒ. ᏱᏂᎬᏛᎾ, ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏛᎩ ᏄᎵᏍᏛ ᎤᏂᎪᏗᏗ ᎠᏠᏯᏍᏛ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎠᎴ ᎤᏤᎵᏛ ᎠᎦᏓᏅᏖᏗ, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎤᏟ ᎢᎦᎢ ᎧᎵᏬᎯ ᎨᏥᏃᎯᏎᏗ. ᎯᎠ ᏍᏆᎵᎯᎨᏍᏗ ᏚᏙᏪᎸᎢ ᎨᏒᎩ ᎤᏯᏅᎲ "ᎠᏍᏓᏩᏛᏍᏗ", ᎠᎴ ᎯᎠ ᎦᏅᎯᏓᎨ ᎠᏂᏏᏴᏫᎭ "dashes", ᎠᎴ ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎤᎪᏗᏗ ᏱᏓᏟᎶᏍᏔᏅ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎯᎠ ᎩᎵᏏ ᎦᏬᏂᎯᏍᏗ ᎨᏒᎩ ᏓᏥᏲᎯᏎᎸ ᎯᎠ shortest ᎠᏍᏓᏩᏗᏒ.
+
+ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᎴᏅᏗᏍᎬ Morse ᏗᎾᎪᎳᏛᏅ, ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ ᎤᏤᎵ ᏗᏂᏃᎨᏂ ᎪᏢᏅᎯ ᎠᎧᏁᏍᏗ ᎤᏃᏴᎬ ᏥᏄᏍᏗ ᎾᏍᎩ ᎤᏓᏅᏒ ᎾᎾᎯ ᎠᎴ atsinuqowisgv ᎾᎿ ᎦᏙᎬ ᎾᏍᎩᎾᎢ ᏓᏃᏪᎵᏍᎬ ᎯᎠ ᎠᏍᏓᏅᏅ. ᎠᏅᏬᏗ ᏄᎵᏍᏛ ᎤᏕᎶᏆᎥ ᎾᎿ ᎢᏴ ᎥᎪᎵᏰᏍᎬ ᎯᎠ ᎠᎧᏁᏍᏗ ᏥᏄᏍᏗ ᎯᎠ ᎠᏓᎴᏂᏍᎬ ᎠᎴ ᎤᎵᏍᏛ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ dashes, ᎦᏛᎬᎢ Ꮎ ᎾᏍᎩ ᏥᏄᏍᏛᎩ Ꮭ ᎦᏅᎯᏓᎨ ᎾᏍᎩ ᎢᏳᎵᏍᏙᏗ ᎬᏙᏗ ᎯᎠ ᎠᏍᏓᏅᏅ.
+
+ᎯᎳᎪ ᎢᏳ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏛᎩ ᎠᏠᏯᏍᏔᏅᎯ ᎦᏬᏂᏍᎩ, ᎯᎠ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ dashes ᎨᏒᎩ ᏄᎶᏒᏍᏛᎾ ᎠᏓᏅᏒ ᏥᏄᏍᏗ ᏍᏆᎳᎢ ᎠᎴ ᎦᏅᎯᏓ ᎤᏃᏴᎬ. ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎣᏂᏯᎨᏍᏙᏗ ᎠᏩᏛᏗ Ꮎ ᏴᏫ ᏗᏙᎳᎩ ᎤᏟ ᎢᎦᎢ ᎠᏏᎾᏒᎢ ᎾᎾᎢ ᎠᎩᏍᎬᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎯᎳᎪ ᎢᏳ ᎾᏍᎩ ᎨᏒᎢ ᏚᏕᏲᏅᎩ ᏥᏄᏍᏗ ᎦᏬᏂᎯᏍᏗ Ꮎ ᎨᏒᎢ ''ᎤᎾᏛᎦᏅ'', ᎾᏍᎩᏍᎩᏂ ᏂᎨᏒᎾ ᏌᏊ ᎥᎪᎵᏰᏍᎬ ᏂᏛᎴᏅᏓ ᎤᏆᏓᏛ[http://www.arrl.org/FandES/ead/learncw/][http://www.1728.com/morstest.htm][http://www.arsqrp.com/ars/pages/back_issues/2000_text/1200_text/morse.html]. ᏄᏍᏛ ᏨᏓᏓnusdv tsvdadakenedi ᎯᎠ ᎤᏃᏴᎬ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎠᏅᏬᏗ vocalise ᎠᏍᏓᏩᏛᏍᏗ ᏥᏄᏍᏗ "dah", ᎠᎴ ᎠᏍᏓᏩᏛᏍᏗ ᏥᏄᏍᏗ "dit". ᎯᎳᎪ ᎢᏳ dit ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎯᎠ ᏭᎵᏍᏆᏙᏅ ᏑᏓᎴᎩ ᎠᎦᏓᏅᏖᏗ, Ꮝ ᎤᏃᏴᎬ ᎨᏒᎢ shortened "di-" ᎢᎦᏘᎭ ᎢᎬᏁᏗ ᎤᏟ ᎢᏲᏍᏛ ᎠᎰᎵ ᎤᏃᏴᎬ ᏗᏍᏆᎸᏙᏗ.
+
+Morse ᎨᏥᏃᎯᏎᏗ ᎠᎴ ᏂᎦᎥᏊ transmitted ᎾᎥᎢ ᎤᏬᏰᏂ-ᎠᏂᎩᏍᏔᏅ ᏄᏍᏛ ᏗᎧᏃᏗ ᏯᏛᎿ ᏥᏄᏍᏗ [[telegraph key|ᏗᎾᎪᎳᏛᏅ ᏍᏚᎢᏍᏗ]], ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎾᎿᎢ ᎠᎴ ᏗᎧᏃᎩᏛ ᎬᏂᎨᏒ ᏄᏩᏁᎸ ᎾᎥᎢ ᎯᎠ ᎠᏏᎾᏒᎢ ᎯᎠ sender ᎠᎴ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ — ᎤᏟ ᎢᎦᎢ ugatohvsvi ᎠᏅᏬᏗ ᏰᎵᏇ ᎠᏓᏅᏍᏗ ᎠᎴ ᎠᎩᏍᏗ ᎾᎾᎢ ᎦᏣᏄᎳᎯᎨ ᎦᏣᏄᎳ. ᎭᏫᎾᏗᏢ ᏂᎦᎥ, ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏓᏛᏁᎲ ᎪᏪᎳᏅᎯ ᏗᎬᏟᎶᏍᏙᏗ ᏥᏄᏍᏗ ᏂᏙᏓᎳᎬᎾ ᏂᎦᏅᎯᏒ ᏂᎬᎢ ᏰᎵᏇ ᎾᏍᏋ ᎤᏯᏅᎲ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎠᎴ ᎯᎠ ᎠᎴᏂᏍᎬ ᎨᏒᎢ ᎬᏔᏅᎯ ᎧᎵ ᏗᎪᎥᎯ ᎾᏍᎩᎾᎢ ᎯᎠ ᏔᎵ ᏧᏓᎴᏅᏓ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎯᎠ [[English language|ᎩᎵᏏ]] ᏗᎦᎶᏆᏍᏙ ᎠᎴ ᎤᎾᎵᎪᏅᎯ ᏗᎬᏟᎶᏍᏙᏗ. 
+
+ᏗᎾᎪᎳᏛᏅ ᏚᎾᏓᏡᎬᎢ ᏗᎫᏮᎶᏔᏅ ᏚᎳᏏᏔᏅᎩ ᎾᎿ ᎯᎠ ᏂᎦᏅᎯᏒ ᎯᎠ ᎥᏓᏘᏃᎯᏎᏗ ᎠᏓᏅᏒ. ᎠᎲᏲᎵᏓ ᎠᏓᎾᏅᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎩ ᎤᏙᎷᏩᏛᏓ Ꮎ encoded ᏧᏣᏔᏊ ᎯᎸᏍᎩ ᎢᎧᏁᏣ ᎭᏫᎾᏗᏢ ᎯᏍᎩ-ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᏚᎾᏓᏟᏌᎲ Ꮎ ᎨᏒᎩ ᎠᏓᏅᏒ ᏥᏄᏍᏗ ᏏᏴᏫ ᎤᏂᏁᏨ. ᏱᏓᏟᎶᏍᏔᏅ: BYOXO ("ᎠᎴ ᏂᎯ ᎠᏁᎶᏗᏍᎬ ᎠᏓᎾᏏᏅᏍᏗ atsinuqowisgv ᎾᏍᎩ?"), LIOUY ("ᎦᏙᏃ ᎿᏛᎦ ᏂᎯ ᎾᏍᎩ ᏂᎨᏒᎾ ᎦᏬᎯᎵᏴᏛ ᎠᏆᏤᎵ ᎠᏛᏛᎲᏍᎩ?"), ᎠᎴ AYYLU ("ᎾᏍᎩ ᏂᎨᏒᎾ ᏰᎵ ᏧᎸᏌᏓ coded, ᏅᎬᎪᎪᎩ ᎤᏟ ᎢᎦᎢ ᏰᎵ ᏧᎸᏌᏓ."). ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎾᏍᎩ ᎯᎠ ᎯᏍᎩ-ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᏂᏁᏨ ᎨᏒᎩ ᎠᏓᏅᏒ ᎠᏂᏏᏴᏫᎭ ᎬᏗᏍᎬᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ. ᎭᏫᎾᏗᏢ [[computer network|ᎡᎵᏍ ᏓᎧᏁᎲ]]ᎪᎯᏳᏙᏗ terminology ᏌᏊ ᏯᏓᎢᏗᏏ ᎯᏁᎩ ᎯᎠ ᎠᏓᎾᏅᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ [[network layer|layered]] ᎾᎿ ᎦᏚᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎦᏙ ᎤᏍᏗ ᎭᏫᎾᏗᏢ ᎠᎦᏔᎲᏍᏗ ᎨᏒᎢ layered ᎾᎿ ᎦᏚᎢ ᏔᎵ ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎦᏙ ᎤᏍᏗ ᎭᏫᎾᏗᏢ ᎠᎦᏔᎲᏍᏗ ᎨᏒᎢ layered ᎾᎿ ᎦᏚᎢ ᏄᎵᏂᎬᎬ ᏗᎾᎪᎳᏛᏅ ᎤᏯᏅᎯ. ᏙᎢ ᎭᏫᎾᏗᏢ ᎬᏙᏗ ᎭᏫᎾᏗᏢ [[amateur radio|ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ]] ᎠᎴ ᎯᎠ [[Q code|Q ᎠᏍᏓᏩᏛᏍᏙᏗ]] ᎠᎴ [[Z code|Z ᎠᏍᏓᏩᏛᏍᏙᏗ]]; ᎤᏅᏌ ᎨᏒᎩ ᎠᎴ ᎠᎴ ᎬᏔᏅᎯ ᎾᎥᎢ ᎯᎠ ᎠᏅᏬᏗ ᎤᏅᏌ ᎾᏍᎩᎾᎢ ᎾᏛᏁᎸ ᎠᏓᏃᎯᏎᏗ ᎾᏍᎩᏯᎢ ᏕᎬᏔᏛ ᎢᎦ ᎣᏏ, ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎦᏁᏟᏴᏍᏗ, ᎠᎴ ᎠᎾᎦᎳᏔᏅ ᎠᏓᏃᎮᏗ.
+
+ᎯᎳᎪ ᎢᏳ ᎠᎦᏎᏍᏔᏅ ᏥᏄᏍᏗ ᏰᎵᏊ ᏗᏙᎳᎩ ᎾᏍᎩᎾᎢ ᎠᏓᏃᎯᏎᏗ encoding, Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏰᎲ ᎦᏣᏄᎳ lifespan Ꮎ ᎤᎭ ᎾᏍᎩ ᏂᎨᏒᎾ ᎩᎳ ᏭᏪᏙᎢ surpassed ᎾᎥᎢ ᏂᎦᎵᏍᏗᏍᎬᎫ ᏐᎢ electronic encoding ᎠᏓᏅᏖᏗ. Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏛᎩ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᏰᎵᏊ ᏗᏙᎳᎩ ᎾᏍᎩᎾᎢ ᎠᎺᏉᎯ ᏗᏛᎪᏔᏅ iyuwakodi 1999 ᎯᎳᎪ ᎢᏳ ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᏅᎪᏢᎯᏌᏅ ᎾᎥᎢ ᎯᎠ [[Global Maritime Distress Safety System|Global ᎠᎺᏉᎯ ᎠᎩᏍᎬᎢ ᏄᎾᏰᎯᏍᏛᎾ iyahdvnelidasdi]]. ᎯᎳᎪ ᎢᏳ ᎯᎠ [[French navy|ᎠᎦᎸᏥ ᎠᎺᏉᎯ ᎠᏂᏯᏫᏍᎩ]] ᎤᏑᎳᎪᏨ ᎬᏗᏍᎬᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎭᏫᎾᏗᏢ 1997, ᎯᎠ ᏭᎵᏍᏆᏙᏅ ᎥᏓᏘᏃᎯᏎᏗ transmitted ᏥᏄᏍᏛᎩ "ᏓᏯᏂᏍᎬ ᏂᎦᏛ. ᎪᎯ ᎨᏒᎢ ᎠᏆᏤᎵ ᎣᏂ ᎠᏠᏯᏍᏗ ᎤᏓᎷᎸ ᎠᏆᏤᎵ ᎢᎪᎯᏛ ᎡᎷᏪᎢ." ''ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ:'' [[international distress frequency|ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎠᎩᏍᎬᎢ ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+
+ᏝᏱᎪᎯᎩ ᎦᏲᎵ ᏂᎬᎢ publicized ᎦᏣᏄᎳ ᎠᏓᎪᎾᏙᏗ ᎤᎭ ᏭᏪᏙᎢ ᎠᏰᎲᎩ ᎠᏰᎵ ᎠᏏᎾᏍᏛ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏅᏬᏗ ᎠᎴ ᎠᏏᎾᏍᏛ [[cellphone]] [[short message service|SMS]] ᏓᎵᏍᏛ messaging ᏗᎦᎴᏴᏗᏍᎩ (ᎠᎪᏩᏛᏗ [[#External links|ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ]]). Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᎭ ᎤᏠᏱᎭ ᎤᏓᏠᏒ ᎯᎠ ᎠᏓᎪᎾᏙᏗ, ᏓᏓᏘᏂᏒ ᎤᏝᏅᏓᏕᎲ Ꮎ cellphone ᏗᏃᏢᏅᎥᏍᎩ ᎠᎾᏍᎬᏘ ᏭᎵᏱᎶᎸ ᎠᏓᏁᎸ ᎠᏁᏍᎬᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ interface ᎾᎾᎯ cellphones. ᎯᎠ interface ᏯᏓᎢᏗᏏ automatically ᎠᏁᏢᏙᏗ ᎯᎠ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ input ᎾᎾᎯ ᏓᎵᏍᏛ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ Ꮎ ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎠᏓᏅᏒ ᏂᎦᎵᏍᏗᏍᎬᎫ SMS ᏰᎵᏇ ᎢᎬᏁᏗ cellphone ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ ᎯᎠ ᎥᏓᏘᏃᎯᏎᏗ ᎤᏚᎳᏗ ᎾᏍᎩ ᏂᎨᏒᎾ ᎣᎾᏛ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎥᎪᎵᏰᏍᎬ ᎾᏍᎩ. ᏐᎢ speculated ᏗᏔᏲᏍᏙᏗ ᎠᏠᏯᏍᏛ ᎠᎩᏍᎬᎢ [[#Morse code as an assistive technology|ᎬᏂᎨᏒ ᏄᏍᏛ assistive ᎠᏔᏲᏍᏙᏗ  Morse ᎠᏍᏓᏩᏛᏍᏙᏗ]] ᎠᎴ ᎬᏗᏍᎬᎢ ᎯᎠ vibrating ᎬᏂᎦᎵᏍᏗ ᏄᏍᏛ ᏗᎧᏃᏗ ᎾᎿ ᎯᎠ cellphone ᎠᏁᏢᏙᏗ SMS ᎨᏥᏃᎯᏎᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏍᎩᎾᎢ tonudvhna, ᏧᏃᏰᏂ ᎠᏎᏊᎢ "ᏓᎪᎵᏰᏍᎬ" ᎯᎠ ᎠᏴᏍᏙᏗ ᎨᏥᏃᎯᏎᏗ. ᎯᎸᏍᎩ cellphones ᎦᏳᎳ ᎤᎭ informative ᎤᏃᏴᎬ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎵᏰᏑᏍᏔᏬ ᎤᏃᏴᎬ ᎠᎴ ᎬᏂᎦᎵᏍᏗ ᎨᏥᏃᎯᏎᏗ, ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ: ᎤᎪᏗᏗ [[Nokia]] cellphones ᎤᎭ ᏗᏓᏁᏤᏗ beep SMS ᎭᏫᎾᏗᏢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎯᎳᎪ ᎢᏳ ᎾᏍᎩ ᎠᎩᏍᎪᎢ SMS ᏓᎵᏍᏛ ᎥᏓᏘᏃᎯᏎᏗ. ᎾᏍᎩ ᎯᎠ ᏧᏓᎴᏅᏓ ᏧᎾᏍᏗ ᏰᎵᏇ ᎦᏂ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎾᎴᏂᏍᎬᎢ. ᎾᎿᎢ ᎠᎴ ᏦᎢᏁ ᎤᎾᏓᏟᏌᎲ ᏗᏔᏲᏍᏙᏗ ᎦᏳᎳ ᏰᎵ ᎠᏩᏛᏗ ᎾᏍᎩᎾᎢ ᎢᎦᏛ cellphones Ꮎ ᎠᎵᏍᎪᎸᏙᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ input ᎾᏍᎩᎾᎢ ᎠᏓᏅᏍᎬ SMS (ᎠᎪᏩᏛᏗ [[#External links|ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ]]).
+
+== ᎪᎯᏊ ᎢᏴ ᏥᎩ ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ==
+
+ᎯᎠ ᎪᎯᏊ ᎢᏴ ᏥᎩ ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏛᎩ ᎦᎾᎬᎢ ᎾᎥᎢ Friedrich Clemens Gerke ᎭᏫᎾᏗᏢ 1848 ᎠᎴ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎯᎠ ᏕᎦᏃᏣᎸ ᎠᏰᎵ Hamburg ᎠᎴ Cuxhaven ᎭᏫᎾᏗᏢ Germany. ᎤᎶᏐᏅ ᎢᎦᏛ ᎠᏲᎵ ᏗᎦᏁᏟᏴᏍᏗ ᎭᏫᎾᏗᏢ 1865 ᎾᏍᎩ ᎤᎭ ᏭᏪᏙᎢ standardised ᎾᎾᎢ ᎯᎠ ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᏕᎦᏃᏣᎸ ᏩᏥᏂ ᏗᏂᎳᏫᎩ ᎭᏫᎾᏗᏢ ᏨᏓᏓᏨᏍᏙᏗ (1865), ᎠᎴ ᎣᏂᏯᎨᏍᏙᏗ normed ᎾᎥᎢ ᎯᎠ ITU ᏥᏄᏍᏗ ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ.
+
+ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᏙᎢ ᎭᏫᎾᏗᏢ ᎬᏙᏗ ᎪᎯ ᎢᎦ, ᎾᏍᎩ ᎤᏁᎳᎩ ᎾᏍᎩ ᎤᎭ ᏗᏙᎳᎩ ᎾᎥᏂᎨᏍᏗ ᎠᏍᏓᏩᏛᏍᏗ ᎢᏯᏛᏁᏗ ᎯᎠ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ [[amateur radio|ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ]] ᎠᏅᏬᏗ.
+iyuwakodi 2003 ᎯᎠ [[International Telecommunications Union|ᎠᏰᎵ ᏚᎾᏙᏢᏒ Telecommunications ᏗᏌᏊ ᎤᎾᎵᎪᎯ]] (ITU) mandated Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎥᎦᏔᎲᎢ ᏥᏄᏍᏗ ᎢᎦᏛ ᎯᎠ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ licensing ᎠᎯᎸᏍᏗᏱ ᏂᎦᏅᎯᏒ ᎯᎠ ᎡᎶᎯ. ᎭᏫᎾᏗᏢ ᎢᎦᏛ ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ, ᎤᏙᎯᏳ ᎢᎦᏛᎭ ᎯᎠ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎦᏚ ᎠᏄᏬᏍᏗ ᎠᎴ ᏙᎢ ᎧᏃᎯᏴᎯ ᎾᏍᎩᎾᎢ ᏫᏓᏲᎯᏍᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏂᎬᎢ ᎾᏍᎩ ᎤᏩᏒ.
+
+ᎣᏂ ᏧᏩᎫᏛ Morse relies ᎾᎿ ᎾᏍᎩ ᎤᏩᏒ ([[On-off keying|ᎾᎿ-ᎤᏣᏘᎾ keyed]]) ᎦᏬᏂᏍᎩ ᏂᎬᎢ, ᎾᏍᎩ ᎧᏁᎦ ᎢᏯᏛᏁᏗ ᎦᏲᎵᎨ ᏂᎦᏛ ᎬᏔᏂᏓᏍᏗ ᎬᎾᏬᏍᎬ ᏐᎢ ᏚᏙᏢᏒ ᎦᏬᏂᏍᎩ ᏗᏛᎪᏔᏅ, ᎠᎴ ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎤᏙᎯᏳ ᎦᎸᎳᏗ ᎤᏃᏴᎬ / ᎡᎳᏗ ᏂᎬᎢ ᏄᏍᏗᏓᏅ. ᎾᏍᎩ ᎾᏍᎩ ᎾᏍᏇ ᎧᏁᎦ ᎢᏯᏛᏁᏗ ᎦᏲᎵᎨ [[bandwidth]] ᎬᎾᏬᏍᎬ ᎧᏁᎬ ᎤᏲᏴᎬ tsunadatvgotanv, ᎢᏯᏛᏁᎵᏓᏍᏗ 100-150 Hz, ᎤᏠᏱᎭᎢ ᎯᎠ ᎾᎥᏂᎨᏍᏙᏗ 4000 Hz [[Single-sideband modulation|ᏏᏴᏫ-sideband ᎧᏁᎬ ᎤᏲᏴᎬ]]. ᎯᎠ ᎤᏁᏉᏨᎯ ᎬᏙᏗ ᎤᏬᏢᏗ-ᎪᏪᎵᎠ, [[Q code|Q ᎠᏍᏓᏩᏛᏍᏙᏗ]], ᎠᎴ restricted format ᏫᏚᏳᎪᏛ ᎨᏥᏃᎯᏎᏗ ᎠᏛᏅᎢᏍᏔᏅ ᏗᏛᎪᏔᏅ ᎠᏰᎵ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎠᏅᏬᏗ ᎦᎪ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏓᏲᏔᎡᏗ ᏧᏣᏔᏊ ᎤᏂᏥ ᎦᏅᎪ ᎠᎴ ᏯᏓᎢᏗᏏ ᎤᎭ ᎡᏆ ᎤᏦᎠᏎᏗ ᎭᏫᎾᏗᏢ communicating ᎬᏗᏍᎬᎢ ᎧᏁᎬ ᎤᏲᏴᎬ ᎤᏔᏂᏗ ᎦᏙᎯ.
+
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎾᏍᎩ ᎾᏍᏇ ᎤᏙᎯᏳ ᎤᏂᎸᏉᏗ ᏄᎾᏛᏅ [[QRP operation|QRP ᎠᏅᏬᏗ]] ᎾᏍᎩᎾᎢ enabling ᎤᏙᎯᏳ ᎦᏅᎯᏓ ᎾᎿ ᎢᏴᎢ, ᎡᎳᏗ-ᎤᎳᏂᎬᎬ ᏗᏛᎪᏔᏅ. Readability ᏰᎵᏇ ᎾᏍᏋ ᏗᏍᏆᎸᏙᏗ ᎾᎥᎢ ᎠᎨᏲᏅᎯ ᎠᏅᏬᏗ ᎢᏧᎳᎭ ᎯᎳᎪ ᎢᏳ ᎯᎠ ᏂᎬᎢ ᎨᏒᎢ ᎾᏍᎩ ᎤᏩᏒ ᎠᏍᏓᏩᏛᏍᏗ ᎤᏃᏴᎬ. ᎪᎯ ᎨᏒᎢ ᎤᏍᏆᎸᎲ ᎯᎠ ᏯᏛᎾ ᎤᏙᎯᏳ Ꮎ ᎯᎠ transmitted ᏄᎵᏂᎬᎬ ᎨᏒᎢ concentrated ᎾᎾᎯ ᎤᏙᎯᏳ ᎤᏍᏗ [[bandwidth]], ᎠᏃᏢᏍᎬ ᎾᏍᎩ ᏰᎵᏊ ᎬᏙᏗ ayatoli ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ ᎢᏳᏍᏗ ᎧᏃᎮᏗ, Ꮎ ᎦᎾᎯᏍᏙᏗ ᎠᎴ ᎪᏣᎴᏍᏗᏱ ᏂᏓᏙᎳᎬᎾ ᎾᎿ nearby frequencies. ᎯᎠ ayatoli ᏂᎬᎢ bandwidth ᎾᏍᎩ ᎾᏍᏇ ᎠᎩᏍᎪᎢ ᎠᏜᏅᎠᏓᏗᏍᎬ ᎯᎠ ᏂᎬᏩᏍᏛ aural selectivity ᎯᎠ ᏴᏫ ᎤᏅᏥᏓ, ᎤᏗᏗᏢ enhancing ᎤᏓᏂᎳ ᏂᎬᎢ readability.
+
+ᎭᏫᎾᏗᏢ ᎯᎠ [[United States|ᎠᏫᏒᏗ ᎧᏃᎮᎭ]] iyuwakodi 1991, ᎬᏂᎨᏒ ᎾᏅᏁᎲ ᎯᎠ ᏅᏏᎾᏒ ᎠᏓᏅᏍᏗ ᎠᎴ ᎠᎩᏍᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᎾᎢ 5 ᎤᏂᏁᏨ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎢᏯᏔᏬᏍᏔᏅ (WPM) ᏥᏄᏍᏛᎩ ᎧᏁᏨ ᎢᏯᏛᏁᏗ ᎠᎩᏍᏗ [[Federal Communications Commission|FCC]] ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎪᏪᎵ ᎠᎵᏍᎪᎸᏗᏍᎩ. ᎬᏂᎨᏒ ᎾᏅᏁᎲ ᎪᎯ ᏅᏏᎾᏒ ᎨᏒᎢ ᏙᎢ ᎧᏁᏨ ᎢᏯᏛᏁᏗ ᎾᏍᎩᎾᎢ ᎯᎠ ᎠᏜᏅᏓᏗᏍᎬ ᎬᏙᏗ ᎯᎠ [[High frequency|HF ᎦᏚ ᎠᏄᏬᏍᏗ]]. iyuwakodi 2000, ᎥᎦᏔᎲᎢ ᎾᎾᎢ ᎯᎠ 20 WPM ᎤᏩᎾᏕᏍᎩ ᏥᏄᏍᏛᎩ ᎧᏁᏨ ᎢᏯᏛᏁᏗ ᎠᎩᏍᏗ ᎯᎠ ᏩᎦᎸᎳᏗᏴ ᎤᏩᎾᏕᏍᎩ ᎠᎴᏂᏍᎩ ᎪᏪᎵ ᎠᎵᏍᎪᎸᏗᏍᎩ (ᎤᏤᎵᏛ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ); ᎢᏳᎵᏍᏙᏗᏱ [[April 15|ᎫᏬᏂ 15]], 2000, ᎯᎠ FCC ᎠᎦᏲᎳᏛᎯ ᎯᎠ ᎤᏤᎵᏛ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ 5 WPM.<ref>{{cite web | title=1998 Biennial Regulatory Review — Amendment of Part 97 of the Commission's Amateur Service Rules. | url=http://www.arrl.org/announce/regulatory/wt98-143ro.pdf | accessdate=December 4 | accessyear=2005 }}</ref>
+
+ᎯᎠ ᎡᎶᎯ Radiocommunication ᏓᎾᎵᏃᎮᏍᎬᎢ 2003 (WRC-03) ᎪᏢᏅᎯ ᏫᎵ ᎯᎠ ᎠᏰᎵ ᏚᎾᏙᏢᏒ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ ᎾᏍᎩᎾᎢ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ licensing. ᎾᎥᏂᎨᏍᏙᏗ ᎦᏲᎵ ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ ᎠᏍᏓᏩᏗᏒ ᎠᎲᏓ ᎯᎠ morse ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ ᏂᏛᎴᏅᏓ ᎤᎾᏤᎵ licence ᏚᎵᏁᏨ ᎢᏯᏛᏁᏗ. ᎭᏫᎾᏗᏢ ᎫᏰᏉᏂ 2005 ᎯᎠ ᏂᎬᎾᏛ ᎠᏰᎵ tsunadatvgotanv ᎠᏂᎧᎻᏏᏂ ᎦᎴᏴᏔᏅᎯ ᎠᏓᏃᎯᏎᎯ ᎧᏁᎢᏍᏔᏅ Rulemaking Ꮎ, ᎢᏳᏃ ᎪᏢᏅᎯ ᏂᎪᎯᎸ FCC ᎠᏍᏓᏩᏛᏍᏙᏗ, ᏯᏓᎢᏗᏏ ᎪᏣᎴᏍᏗᏱ ᏂᎦᏛ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎦᏛᏗ ᎾᏍᎩᎾᎢ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ licensees ᎭᏫᎾᏗᏢ ᎯᎠ USA.  ᏥᏄᏍᏗ ᎬᏙᏗ ᏂᎦᏛ ᎠᏓᏃᎯᏎᎯ rulemaking ᎭᏫᎾᏗᏢ ᎯᎠ [[Administrative Procedures Act|ᏓᎳᏏᏛ ᎠᎯᎸᏍᏗᏱ ᎢᏯᏛᏁᎯ]], ᎾᏍᎩ ᏫᎵ ᎠᎩᏍᏗ iyuwakodi ᎾᏍᎩᎾᎢ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎾᎩᏍᏗ ᎾᎾᎯ ᎢᏳᎵᏍᏙᏗ, ᏥᏄᏍᏗ ᎦᏅᎯᏓ ᎧᏁᎢᏍᏙᏗ ᎠᎴᏫᏍᏙᏗ ᎠᏎ ᎾᏍᏋ ᎠᎦᏎᏍᏔᏅ.  ᎤᎪᏗᏗ utugi gvdi ᎯᎠ ᎠᎴᏫᏍᏙᏗ ᎧᏁᎢᏍᏙᏗ ᎠᎴ ᏗᏟᏴ ᏗᎦᏬᏂᎯᏍᏗ ᎾᏍᏋ ᎠᏥᎡᏗᏱ, ᏥᏄᏍᏗ ᎤᎪᏗᏗ ᎠᎴᏂᏍᎩ ᎠᏅᏬᏗ ᎤᏬᎯᏳ eliminating ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎦᏛᏗ ᎾᏍᏋ ᏗᏄᏬ ᏗᎦᏛᏗ ᎠᎴ ᎠᎵᏍᎦᏁᏍᎩ ᎯᎠ ᎤᏩᎫᏗᏗᏒ ᎦᏬᏂᏍᎩ, ᎾᎯᏳᎢ ᎠᏂᏐᎢ ᎤᎳᏂᎩᏗᏳ ᏚᏂᏴ Ꮎ ᎠᏂᏁᎬ ᎢᏯᏛᏁᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ outdated, ᎠᎴ ᎤᏍᏆᏂᎪᏗ ᎢᏤ ᎩᎬ atsinuqowisgv ᎯᎠ ᎦᎵᏓᏍᏛ.
+
+ᎠᎴᏂᏍᎩ ᎠᎴ ᎠᏂᏯᏫᏍᎩ ᎦᏬᏂᏍᎩ ᎠᏅᏬᏗ ᎠᏛᏅᎢᏍᏔᏅ ᎭᏫᎾᏗᏢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏰᎵᏇ ᎢᏳᏓᎵᎭ ᎪᎵᏍᏗ ("ᏗᏟᎶᏍᏔᏅ") ᎠᏍᏓᏩᏛᏍᏙᏗ ᎭᏫᎾᏗᏢ ᎤᎾᏤᎵ ᏗᏂᏍᎪᎵ ᎾᎾᎢ ᏓᎬᏩᎶᏛ ᎭᏫᎾᏗᏢ ᎤᎶᏒᏍᏗ 40 WPM.  ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎠᏓᎪᎾᏙᏗ ᎭᏫᎾᏗᏢ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᏟᎶᏍᏔᏅ ᎠᎴ ᎢᏳᏓᎵᎭᏊ ᎠᏰᎲᎩ.  ᎾᎿᎢ ᎠᎴ ᎾᏍᎩ ᎾᏍᏇ ᎯᎸᏍᎩ ᎠᎴᏂᏍᎩ ᏧᎾᏙᏢᎯ ᏧᎾᏓᏡᎩ Ꮎ ᎧᏁᏍᏗ ᎢᏯᏛᏁᏗ ᎠᎧᎵᏬᎯ ᎦᎸᎳᏗ ᎦᏣᏄᎳ ᏗᏟᎶᏍᏔᏅ, ᎯᎠ ᏩᎦᎸᎳᏗᏴ ᎾᏍᎩ ᎯᎠ ᎤᎭ ᏰᎵᏊ ᏗᏙᎳᎩ 60 WPM.  ᎭᏫᎾᏗᏢ ᎫᏰᏉᏂ 1939 ᎾᎾᎢ ᎠᏓᎪᎾᏙᏗ ᎭᏫᎾᏗᏢ [[Asheville]], [[North Carolina|ᎤᏴᏢ Carolina]] ᏗᏗᎦᎴᏴ R. Elroy ᎠᏫᏒᏗ ᏙᎢ-ᎠᏂᏙᎾᎥ ᎪᏪᎸ ᎾᏍᎩᎾᎢ Morse ᏗᏟᎶᏍᏔᏅ, 75.2 WPM. <ref>{{cite web| url=http://www.qsl.net/n9bor/n0hff.htm| title=The Art & Skill of Radio Telegraphy| accessdate=2006-04-21| year=April 20, 2002}}</ref> ᎭᏫᎾᏗᏢ ᎤᏤᎵ online ᎪᏪᎵ ᎾᎿ ᎦᎸᎳᏗ ᎦᏣᏄᎳ ᎠᏓᏅᏍᎬ, William Pierpont N0HFF ᏓᏓᏚᎬ ᎪᏪᎵ ᎢᎦᏛ ᎠᏅᏬᏗ ᎠᎾᏍᎬᏘ ᎤᎭ ᎤᎶᏒᎩ 100 WPM.  ᎾᎥᎢ ᎪᎯ iyuwakodi ᎤᏅᏌ ᎠᎴ "ᎠᏛᎩᏍᎬ" ᎯᎸᏍᎩ ᎢᎧᏁᏣ ᎠᎴ ᏗᏒᏍᏙᏗ ᎤᏟ ᎬᏰᎸᏗ ᎬᎾᏬᏍᎬ ᎤᏂᏁᏨ.  ᎾᏍᎩᎾᎢ slower ᎤᏩᎾᏕᏍᎩ, ᎯᎠ [[American Radio Relay League|ᏴᏩᏁᎬ ᎦᏬᏂᏍᎩ ᏭᏚᎸᏛ ᏗᎬᏙᏗ ᎤᎾᏙᏢᎯ]] ᎠᏂᏍᎪᎳᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ proficency certification ᎢᏯᏛᏁᏗ Ꮎ ᎠᏂᎩᏍᏗ ᎾᎾᎢ 10 WPM.  
+[[Image:J38TelegraphKey.jpg|thumb|250px|right| ᏫᏚᏳᎪᏛ "ᎦᏥᏃᏍᏛ ᏍᏚᎢᏍᏗ." ᎪᎯ Ꭴ.. ᏗᏟᎶᏍᏙᏗ, ᎤᎾᏅᏛ ᏥᏄᏍᏗ ᎯᎠ J-38, ᏥᏄᏍᏛᎩ ᎪᏢᏅᏅᎯ ᎭᏫᎾᏗᏢ ᎤᎪᏗᏗ ᎤᎪᏗᏗ ᎾᎯᏳᎨᏒ [[WWII]], ᎠᎴ ᎤᎾᎵᏃᎯᏴᎯ ᎭᏫᎾᏗᏢ ᏂᎬᎢ ᎬᏙᏗ ᎪᎯ ᎢᎦ. ᎭᏫᎾᏗᏢ  ᎦᏥᏃᏍᏛ ᏍᏚᎢᏍᏗ, ᎯᎠ ᏂᎬᎢ ᎨᏒᎢ "ᎾᎿ" ᎯᎳᎪ ᎢᏳ ᎯᎠ ᎦᏂᏴᏗ ᎨᏒᎢ pressed, ᎠᎴ "ᎤᏣᏘᎾ" ᎯᎳᎪ ᎢᏳ ᎾᏍᎩ ᎨᏒᎢ ᏓᏥᏲᏒᎩ. ᏂᎦᏅᎯᏒ ᎠᎴ timing  ᎯᎠ ''dits'' ᎠᎴ ''dahs'' ᎠᎴ ᏰᎵ ᏂᎦᏛ controlled ᎾᎥᎢ ᎯᎠ ᎠᏅᏬᏗ.]]
+[[Image:VibroplexBug.jpg|thumb|250px|right|[[Vibroplex]] semiautomatic ᏍᏚᎢᏍᏗ. ᎯᎠ ᎠᏚᎯᏂᏓᏍᏗ, ᎯᎳᎪ ᎢᏳ pressed  ᎯᎠ ᏚᏳᎪᏛ ᎾᎥᎢ ᎯᎠ ᎤᏚᏂᎯᏯᏍᏓ, ᎠᏛᎯᏍᏙᏗ  ᎧᏁᏉᎥᎢ ᎤᏠᏱᎭ  ''dits'', ᎯᎠ ᏂᎦᏅᎯᏒ ᎠᎴ timing  ᎦᏙ ᎤᏍᏗ ᎠᎴ controlled ᎾᎥᎢ  ᎠᏍᏆᏂᎪᏒᏗ ᏄᏓᎨᏒ ᏫᏚᏳᎪᏛ ᎯᎠ ᎣᏂᏗᏢ  ᎯᎠ ᏌᏊᎭ. ᎯᎳᎪ ᎢᏳ pressed  ᎯᎠ ᎠᎦᏍᎦᏂ ᎾᎥᎢ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ  ᎯᎠ ᎠᏩᏛᏗ ᎦᏰᏌᏛ, ᎯᎠ ᎠᏚᎯᏂᏓᏍᏗ ᎠᏛᎯᏍᏙᏗ  ''dah'', ᎯᎠ ᏂᎦᏅᎯᏒ  ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ controlled ᎾᎥᎢ ᎯᎠ ᎠᏅᏬᏗ. ᏎᏍᏗ ''dahs'' ᎧᏁᏍᏗ ᎢᏯᏛᏁᏗ ᏎᏍᏗ presses. ᎠᎦᏍᎦᏂ-ᏭᏓᏁᎸᎩ ᎠᏅᏬᏗ ᎬᏙᏗ  ᏍᏚᎢᏍᏗ ᎤᏁᏍᎨᎲ ᏥᏄᏍᏗ  ᏓᏎᏘ ᎾᏍᎩᏯᎢ  ᎪᎯ ᏌᏊ.]]
+[[Image:Bencher_paddle.jpg|thumb|250px|right| ᎠᏓᎾᏅᏗ ᎪᏢᏅᏅᎯ ᏐᏁᎳ ᎠᏚᎯᏂᏓᏍᏗ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᏧᏠᎯᏍᏗ ᎬᏙᏗ  electronic keyer  ᎠᏛᎯᏍᏙᏗ ᎦᎸᎳᏗ-ᎦᏣᏄᎳ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎯᎠ timing  ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ controlled ᎾᎥᎢ ᎯᎠ electronic keyer. ᎠᏒᎾᏍᏗ  ᎯᎠ ᎠᏚᎯᏂᏓᏍᏗ ᎨᏒᎢ ᏥᏄᏍᏗ ᎯᎠ [[Vibroplex]], ᎠᎴ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ ᎯᎠ ᏚᏳᎪᏛ ᎠᏚᎯᏂᏓᏍᏗ ᎠᏛᎯᏍᏙᏗ  ᎧᏁᏉᎥᎢ ᎤᏠᏱᎭ  ''dahs.'' ᎯᎠ ᏗᎵᏖᎸᏗ ᎠᎴ reversed ᎾᏍᎩᎾᎢ ᎠᎦᏍᎦᏂ-ᏭᏓᏁᎸᎩ ᎠᏅᏬᏗ. ]]
+
+ᎾᏍᎩ ᎤᏁᎳᎩ ᎯᎠ ᎧᏃᎮᎸᎯ [[telegraph key|ᏗᎾᎪᎳᏛᏅ ᏍᏚᎢᏍᏗ]] (ᎦᏥᏃᏍᏛ ᏍᏚᎢᏍᏗ) ᎨᏒᎢ ᏙᎢ ᎬᏔᏅᎯ ᎾᎥᎢ ᎤᎪᏗᏗ ᎠᎴᏂᏍᎩ, ᎯᎠ ᎬᏙᏗ ᏴᎩ- ᎠᎴ ᎠᏂᎧᎵ-ᎤᏩᏒ ᎠᎾᎩᏍᎩ electronic [[keyer]] (ᎤᎾᏅᏛ ᏥᏄᏍᏗ "ᏥᏍᎪᏯ") ᎨᏒᎢ ᎬᏂᎨᏒ ᏄᏍᏛᎢ ᎪᎯ ᎢᎦ.  [[Computer software|ᎡᎵᏍ software]] ᎨᏒᎢ ᎾᏍᎩ ᎾᏍᏇ ᎢᏳᏓᎵᎭ ᎠᏥᎾᏝᎢ ᎠᏛᎯᏍᏙᏗ ᎠᎴ decode Morse ᎠᏍᏓᏩᏛᏍᏙᏗ RF ᏂᎬᎢ.  ᎯᎠ fastest ᎦᏣᏄᎳ ᎢᏳᏊ ᎠᏓᏅᏒ ᎾᎥᎢ ᎦᏥᏃᏍᏛ ᏍᏚᎢᏍᏗ ᏥᏄᏍᏛᎩ achieved ᎭᏫᎾᏗᏢ 1942 ᎾᎥᎢ ᏗᎦᏘᎸᏍᏗ Turner W9YZE (d. 1992) ᎦᎪ ᏭᎷᏨᎩ 35 WPM ᎭᏫᎾᏗᏢ ᎬᏂᎨᏒ ᎾᏅᏁᎲ ᎾᎾᎢ Ꭴ.. ᎠᏂᏯᏫᏍᎩ alenvdidsv.<ref>{{cite web| url=http://www.telegraph-office.com| title=The Telegraph Office| accessdate=2006-04-21}}</ref>
+
+ᏥᏄᏍᏗ 2006 ᎠᏓᎾᏅᏗ radiotelegraph ᎪᏪᎵ ᎠᎵᏍᎪᎸᏗᏍᎩ ᎠᎴ ᏙᎢ ᎠᎴᏂᏙᎲ ᎢᏳᏍᏗ ᎧᏃᎮiyusdi kanohehdv ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏫᏒᏗ ᎧᏃᎮᎭ ᎾᎥᎢ ᎯᎠ [[Federal Communications Commission|ᏂᎬᎾᏛ ᎠᏰᎵ tsunadatvgotanv ᎠᏂᎧᎻᏏᏂ]].  ᎠᏎᎸ ᎢᏗᎬᏁᏗ ᎾᏍᎩᎾᎢ shipboard ᎠᎴ ᎠᎹᏳᎸᏗ ᎤᎴᏫᏍᏗ ᎠᏅᏬᏗ, ᎤᏅᏌ ᎠᎴ awarded ᎠᏔᏲᎯᎯ ᎦᎪ ᎠᎦᏛᎴᎯᏍᏗ ᎪᏪᎳᏅᎯ ᎨᏥᎪᎵᏰᏍᎬ ᎾᎿ ᎠᏓᏌᎳᏙᏗ ᎦᏬᏂᏍᎩ ᎪᎷᏩᏛᏗ ᎠᎴ ᎤᎾᏛᏁᎸᏗ 20 WPM ᎠᏍᏓᏩᏛᏍᏙᏗ ᎥᎦᏔᎲᎢ [this requirement is waived for "old" (20 WPM) Extra Class licensees].  ᏱᏂᎬᏛᎾ, ᎣᏂ ᏧᏩᎫᏛ 1999 ᎯᎠ ᎬᏙᏗ ᎤᎾᏓᏡᎩ ᎠᎴ ᎤᏙᎯᏳ ᎦᎸᎳᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎺᏉᎯ tsunadatvgotanv iyahdvnelidasdi ([[GMDSS]]) ᎤᎭ ᎠᏏᏴᏫ ᎪᏢᏅᎯ ᎠᏂ ᎠᏗᏅᏓ.    
+
+ᎾᎿ [[May 24|ᎠᎾᏍᎬᏘ 24]] [[2004]], ᎯᎠ 160th ᎤᏕᏘᏱᏍᎬ ᎯᎠ ᎢᎬᏱ ᎦᏣᏄᎳ ᏫᏓᏲᎯᏍᏗ, ᎯᎠ [[International Telecommunication Union|ITU]] ᎦᏟᏌᏅᎯ ᎯᎠ "@" (ᎯᎠ "[[commercial at|ᎠᏓᎾᏅᏗ ᎾᎾᎢ]]" ᎠᎴ "commat") ᎠᎦᏓᏅᏖᏗ ᎯᎠ Morse ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎠᎴ ᎨᏒᎢ ᎯᎠ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "AC" (ᏄᏓᎷᎸᎾ ᎢᏯᏓᏛᏁᏗ "[T] C[OMMERCIAL]" ᎠᎴ ᎯᎠ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "" ᎭᏫᎾᏗᏢ ᎯᎠ swirl ᎦᎾᏄᎪᎬᎢ ᎾᏍᏋ "C").<ref>{{cite web | title=Please log in, or sign up for access | url=http://www.cjonline.com/stories/021704/pag_morsecode.shtml | accessdate=December 4 | accessyear=2005 }}</ref> ᎯᎠ ᎢᏤ ᎠᎦᏓᏅᏖᏗ ᎠᏛᏅᎢᏍᏔᏅ ᎠᏓᏅᏍᎬ [[electronic mail|electronic ᎪᏪᎵ ᏫᎦᏅᏅ]] ᏗᏓᏂᏴᏗ ᎾᎥᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎴ ᎨᏒᎢ ᎢᎦᏪᏛ ᎣᏂ ᏧᏩᎫᏛ ᎾᏍᎩ ᎨᏒᎢ ᎯᎠ ᎢᎬᏱ ᎠᏰᎵ ᎤᏒᎧᎵ ᎦᏟᏐᏗᎩ ᎯᎠ Morse ᎠᏫᏒᏗ ᎠᎦᏓᏅᏖᏗ ᎣᏂ ᏧᏩᎫᏛ [[World War I|ᎡᎶᎯ ᏓᏄᏩ ᎠᏯ]].
+
+== Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏥᏄᏍᏗ assistive ᎠᏏᎾᏒᎢ ==
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᎭ 21st sqohitsuqui tsudetiyvdi ᎠᏛᏁᎵᏍᎩ ᎤᏍᏆᎸᎡᎲ ᏥᏄᏍᏗ [[assistive technology|assistive ᎠᏏᎾᏒᎢ]], ᎠᎵᏍᏕᎵᎭ ᏴᏫ ᎬᏙᏗ ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ [[disability|disabilities]] ᏗᏓᏛᎪᏔᏅ. Morse ᏰᎵᏇ ᎾᏍᏋ ᎠᏓᏅᏒ ᎾᎥᎢ ᎩᎶ ᎠᏏᏴᏫ ᎬᏙᏗ ᎤᎶᏒᏍᏔᏅᎯ ᎠᏌᎳᏙᏗ ᏰᎵ ᏄᎵᏂᎬᎬᎾ, ᏥᏄᏍᏗ ᎦᏅᎯᏓ ᏥᏄᏍᏗ ᎤᏅᏌ ᎤᎭ ᎢᎦᏛ minimal ᎠᏂᎩᏍᏗᏍᎩ ᎠᎨᏔᏗᏍᏗ. ᎭᏫᎾᏗᏢ ᎢᎦᏛ ᏕᎦᎸᏛ ᎧᏁᏌᎢ ᎪᎯ ᎤᏅᏔᏂᏓᏍᏗ ᎠᏓᏠᎯᏍᏗ ᎠᏦᏔᏍᎬ ᎾᎾᎯ ᎠᎴ ᏛᏓᏓᏂᎸᎬ ᎾᎿ ᏒᏃᏱ ᎡᎯ ᏅᏙ ᎠᏍᏚᎢᏍᎬ ("ᎠᏦᏔᏍᏗ ᎠᎴ ᎠᏍᏓᏩᏛᏍᏗ" interface). ᏴᏫ ᎬᏙᏗ ᎤᎶᏒᏍᏔᏅᎯ ᎠᏌᎳᏙᏗ disabilities ᎭᏫᎾᏗᏢ ᎦᏟᏐᏗᎩ ᎣᏓᏅᏛ disabilities (e.g. ᏴᏫ ᎦᎪ ᎠᎴ ᏧᎵᎡᎾ ᎠᎴ/ᎠᎴ ᏗᎨᏫ, ᎠᎴ ᎤᎭ ᎤᎶᏒᏍᏔᏅᎯ ᎠᏌᎳᏙᏗ disabilities) ᏰᎵᏇ ᎠᎩᏍᏗ Morse ᏗᎬᏩᎶᏒ ᎦᏁᎦ buzzer. ᎤᎾᏛᎯᏍᏔᏅ ᎠᎴ ᏰᎵ ᎠᏩᏛᏗ Ꮎ ᎠᎵᏍᎪᎸᏙᏗ ᎡᎵᏍ [[operating system|ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi]] ᎾᏍᏋ controlled  ᎾᎥᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎠᎵᏍᎪᎸᏙᏗ ᎯᎠ ᏗᎦᎴᏴᏗᏍᎩ ᎦᎷᎯᏍᏗ ᎯᎠ [[Internet|ᎧᎾᏁᏍ]] ᎠᎴ electronic ᎪᏪᎵ ᏫᎦᏅᏅ.  ''ᎠᎪᏩᏛᏗ:''  Morse2000 assistive tsunadatvgotanv ᏄᏍᏗᏓᏅ<ref>{{cite web | title= Morse2000 assistive communications site | url=http://www.uwec.edu/ce/Morse2000.htm | accessdate=December 4 | accessyear=2005 }}</ref>  
+
+ᎭᏫᎾᏗᏢ ᏌᏊ ᎦᎸᏛ ᎧᏁᏌᎢ ᎬᏂᎨᏒ ᎢᎬᏁᎸ ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏬᏂᏍᎩ ᎠᎴᏂᏍᎩ ᎪᏪᎵ ᏗᎪᎵᏰᏗ ''QST'' ᎠᎦᏴᎵ shipboard ᎦᏬᏂᏍᎩ ᎠᏅᏬᏗ ᎦᎪ ᎠᏰᎲ [[stroke|ᎬᏂᎸᎯ]] ᎠᎴ ᎤᎴᎾᎯᏛ ᎯᎠ ᏅᏏᎾᏒ ᎧᏁᎬ ᎠᎴ ᎪᏪᎶᏗ ᏥᏄᏍᏛᎩ ᏰᎵᏆ ᎢᏯᏛᏁᏗ ᏗᏓᏛᎪᏔᏅ ᎬᏙᏗ ᎤᏤᎵ ᎦᎾᎦᏗ (ᎦᏬᏂᏍᎩ ᎠᎴᏂᏍᎩ) ᎾᎥᎢ ᎠᏓᎦᏔᏍᏓᏁᎲ ᎤᏤᎵ digatoli ᎭᏫᎾᏗᏢ Morse.  ᎤᏟ ᎢᏲᏍᏛ ᎦᎫᏍᏛᏅᎯ ᎦᎸᏛ ᎧᏁᏌᎢ ᏄᎵᏍᏔᏅᎩ ᎭᏫᎾᏗᏢ 1966 ᎯᎳᎪ ᎢᏳ [[prisoner of war|ᎠᎱᏥ  ᏓᏄᏩ]] [[Jeremiah Denton]], ᎠᏲᎸᎯ ᎾᎿ television ᎾᎥᎢ ᎤᏤᎵ ᎤᏴᏢ Vietnamese ᎠᎩᏍᎬᎢ, Morse-blinked ᎯᎠ ᎧᏁᏨ ᎠᏓᎩᎵᏲᏍᏙᏗ.
+
+== ᎢᏯᏓᏛᏁᎸ ᎠᎴ timing ==
+ᎾᎿᎢ ᎠᎴ ᏔᎵ "ᏗᎬᏟᎶᏍᏙᏗ" ᎬᏔᏅᎯ ᎢᏯᏓᏛᏁᏗ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ, ᎤᏯᏅᎲ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ dashes ᎠᎴ (ᎤᏟ ᎢᎦᎢ ᏱᏓᏟᎶᏍᏔᏅ ᏄᎾᏛᏅ CW ᏗᎦᎴᏴᏗᏍᎩ) dits ᎠᎴ dahs.  ᎯᎠ ᏂᎦᏅᎯᏒ ᎯᎠ dit ᏗᎫᎪᏙᏗ ᎯᎠ ᎦᏣᏄᎳ ᎾᎾᎢ ᎦᏙ ᎤᏍᏗ ᎯᎠ ᎥᏓᏘᏃᎯᏎᏗ ᎨᏒᎢ ᎠᏓᏅᏒ, ᎠᎴ ᎨᏒᎢ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᎯᎠ timing ᏩᏎᎸᎯ.  ᎠᎭᏂ ᎨᏒᎢ ᏗᏟᎶᏍᏙᏗ ᎯᎠ timing ᎤᏓᏂᏝᏅ.  Ꮝ ᎢᏰᎵᏍᏗ ᎨᏒᎢ ᎤᎾᏛᏁᎸᏗ ᏗᏙᎳᎩ timing — ᎾᏍᎩ ᏯᏓᎢᏗᏏ ᏄᎶᏒᏍᏛᎾ ᎾᏍᏋ ᎪᏪᎳᏅᎯ ᎪᎱᏍᏗ ᎾᏍᎩᏯᎢ ᎪᎯ:
+
+ -- --- ·-· ··· ·   /      -·-· --- -·· ·
+ M  O   R   S   E  (space) C    O   D   E
+
+ᎭᏢᏃ - ᎾᏓᏛᏁ dah ᎠᎴ · ᎾᏓᏛᏁ dit. ᎠᎭᏂ ᎤᏤᎵ ᎯᎠ ᏗᏙᎳᎩ ᏄᏍᏛ ᎢᏯᏛᏁᏗ timing ᎾᏍᎩᎾᎢ ᎯᎠ ᎤᏠᏱ ᎥᏓᏘᏃᎯᏎᏗ (= ᎾᏓᏛᏁ ᏂᎬᎢ ᎾᎿ, . ᎾᏓᏛᏁ ᏂᎬᎢ ᎤᏣᏘᎾ, ᎠᏂᏏᏴᏫᎭ ᎾᏍᎩᎾᎢ ᎯᎠ ᏂᎦᏅᎯᏒ dit):
+
+ ===.===...===.===.===...=.===.=...=.=.=...=.......===.=.===.=...===.===.===...===.=.=...=
+    ^              ^     ^     ^               ^               ^
+    |              dah   dit   dit             |               |
+    symbol space                               word space      letter space
+
+ᎭᏫᎾᏗᏢ ᏓᎵᏍᏛ-ᎪᏪᎵ, ᎧᎵ-ᎦᏣᏄᎳ Morse, dah ᎨᏒᎢ ᏄᏍᏛ ᎢᏯᏛᏁᏗ 3 itsuwakodi ᏥᏄᏍᏗ ᎦᏅᎯᏓ ᏥᏄᏍᏗ dit.  Spacing ᎠᏰᎵ dits ᎠᎴ dahs ᎭᏫᎾᏗᏢ ᎠᎦᏓᏅᏖᏗ ᎨᏒᎢ ᎯᎠ ᏂᎦᏅᎯᏒ ᏌᏊ dit.  Spacing ᎠᏰᎵ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎭᏫᎾᏗᏢ ᎧᏁᏨ ᎨᏒᎢ ᎯᎠ ᏂᎦᏅᎯᏒ dah (3 dits).  Spacing ᎠᏰᎵ ᎤᏂᏁᏨ ᎨᏒᎢ 7 dits.
+
+ᎾᏍᎩ ᎠᎾᏕᎶᏆᏍᎬ Morse ᎠᎴ ᎢᏳᏓᎵᎭ ᏚᏕᏲᏅᎩ ᎠᏓᏅᏍᏗ ᎠᎴ ᎪᎵᏍᏗ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎠᎴ ᏐᎢ ᏗᎬᏟᎶᏍᏙᏗ ᎾᎾᎢ ᎤᎾᏤᎵ ᎧᎵ ᏗᏲᏍᏗ ᎦᏣᏄᎳ, Ꮎ ᎨᏒᎢ ᎬᏙᏗ ᏄᎶᏒᏍᏛᎾ ᎦᏃᏢᏥᏙᎯ timing ᎯᎠ ᎠᏍᏓᏩᏛᏍᏗ, dashes ᎠᎴ ᎤᏜᏅᏛ ᎭᏫᏂᏗᏢ ᎠᏂᏏᏴᏫᎭ ᏗᎬᏟᎶᏍᏙᏗ ᎾᏍᎩᎾᎢ Ꮎ ᎦᏣᏄᎳ.  ᎤᏚᏃᎯᏍᏔᏍᎧ ᎤᏜᏅᏛ ᎠᏰᎵ ᏗᎬᏟᎶᏍᏙᏗ ᎠᎴ ᎤᏂᏁᏨ ᎠᎴ ᎬᏔᏅᎯ ᎠᏓᏁᏗ 'ᎠᎾᏓᏅᏖᏍᎬ iyuwakodi', ᎦᏙ ᎤᏍᏗ ᏰᎵᏇ ᎾᏍᏋ ᎠᎦᏲᎳᏛᎯ ᎬᏙᏗ ᎠᎵᏏᎾᎯᏍᏙᏗ ᎠᎴ ᎠᏍᏓᏩᏛᏍᏙᏗ. ᎪᎯ ᏗᎪᏢᏅ ᎯᎠ ᎤᏃᏴᎬ 'ᎤᏙᏢᏒᎢ' ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎠᎴ ᏗᎬᏟᎶᏍᏙᏗ ᎠᎯᏗᎨ ᎠᏕᎶᏆᏍᏗ.  ᎪᎯ ᏓᏕᏲᎲᏍᎬ ᎢᎬᎾᏗ ᎨᏒᎢ ᏩᏎᎸᎯ ᏥᏄᏍᏗ ᎯᎠ '''Farnsworth ᎢᎬᎾᏗ'''.  ᏄᏓᎴ ᎤᏂᎸᏉᏗ ᏓᏕᏲᎲᏍᎬ ᎢᎬᎾᏗ ᎨᏒᎢ ᎯᎠ '''Koch ᎢᎬᎾᏗ''', ᎦᏙ ᎤᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎯᎠ ᎧᎵ ᏗᏲᏍᏗ ᎦᏣᏄᎳ ᏂᏛᎴᏅᏓ ᎯᎠ ᎠᏓᎴᏂᏍᎬ, ᎠᎴ ᎠᎴᏂᏍᎬ ᎬᏙᏗ ᎣᏍᏛ ᏔᎵ ᎠᎦᏓᏅᏖᏗ.  ᏌᏊ ᎢᏳᏩᎫᏗ ᏗᎨᏥᎾᏝᎢ ᎢᎦᎢ ᏕᎨᏒᎢ ᎾᏍᎩ ᏔᎵ ᎠᎦᏓᏅᏖᏗ ᏰᎵᏇ ᎾᏍᏋ copied ᎬᏙᏗ 90% ᏚᏳᎪᏛ, ᏗᎦᏟᏌᏅᎯ ᎠᎦᏓᏅᏖᏗ ᎨᏒᎢ ᎦᏟᏌᏅᎯ, ᎠᎴ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎾᎿ iyuwakodi ᎯᎠ ᎧᎵ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎨᏒᎢ mastered.
+
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎢᏳᏓᎵᎭ ᎤᏁᏨᎩ ᎠᎴ ᎪᏪᎳᏅᎯ ᏥᏄᏍᏗ ᎠᏍᏓᏩᏕᎦ:  
+
+ -- --- ·-· ··· · / -·-· --- -·· ·
+
+''Dah-dah dah-dah-dah di-dah-dit di-di-dit dit, Dah-di-dah-dit dah-dah-dah dah-di-dit dit.''
+
+ᎠᏓᏚᎬ ᎪᏪᎵ Ꮎ ᎾᎿᎢ ᎨᏒᎢ ᎤᏍᏗ ᎪᏍᏓᏱ ᎭᏫᎾᏗᏢ ᎠᎾᏕᎶᏆᏍᎬ ᎥᎪᎵᏰᏍᎬ ''ᎪᏪᎳᏅᎯ'' Morse ᏥᏄᏍᏗ ᎦᎸᎳᏗᏢ, ᎤᏟ ᎬᏰᎸᏗ ᎯᎠ ''ᏚᏃᏴᎬ'' ᏂᎦᏛ ᎯᎠ ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ ᎠᎴ ᏗᎬᏟᎶᏍᏙᏗ ᎤᏚᎳᏗ ᎾᏍᏋ ᎤᏕᎶᏆᎥ, ᎢᏧᎳ ᎠᏓᏅᏍᏗ ᎠᎴ ᎠᎩᏍᏗ.
+
+ᎯᎠ ᎦᏣᏄᎳ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎨᏒᎢ ᎢᏯᏛᏁᎵᏓᏍᏗ ᏗᎪᎥᎯ ᎭᏫᎾᏗᏢ "ᎤᏂᏁᏨ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎢᏯᏔᏬᏍᏔᏅ" (WPM).  ᎯᎠ '''ᏨᏓᏓᏨᏍᏙᏗ ᏰᎵᏊ ᏗᏙᎳᎩ''' ᎧᏁᎢᏍᏔᏅᎯ ᎯᎠ ᎦᏣᏄᎳ Morse ᏫᏓᏲᎯᏍᏗ ᏥᏄᏍᏗ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ ᎠᏍᏓᏩᏛᏍᏗ timing ᎤᏚᎳᏗ ᏄᎵᏍᏔᏅ ᎠᏓᏅᏍᏗ ᎯᎠ ᎧᏁᏨ "ᏨᏓᏓᏨᏍᏙᏗ" ᎠᏓᏁᎸ ᏎᏍᏗ itsuwakodi ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎢᏯᏔᏬᏍᏔᏅ. ᎯᎠ ᎧᏁᏨ ᏨᏓᏓᏨᏍᏙᏗ ᎨᏒᎢ ᎠᏑᏰᏛ ᎢᎬᏂᏏᏍᎩ ᎾᏍᎩ ᎨᏒᎢ ᎧᎵᏬ ᏗᏙᎳᎩ 50 "dits" ᏚᎳᏏᏔᏅᎩ ᎾᎿ ᎯᎠ ᏓᎵᏍᏛ ᎪᏪᎵ timing.
+
+== ᎪᏪᎵ ᏂᏙᏓᎦᏅᏅᎯ, ᏗᏎᏍᏗ, ᎦᏬᏂᎯᏍᏗ ᎠᏕᎶᏆᏍᏗ, prosigns ==
+{{Inline audio}}
+{| class="wikitable"
+! Character || Code || Character || Code || Character || Code
+! Character || Code || Character || Code || Character || Code
+|-
+| {{Audio-nohelp|A morse code.ogg|A}} || <code>·-</code>
+| {{Audio-nohelp|J morse code.ogg|J}} || <code>·---</code>
+| {{Audio-nohelp|S morse code.ogg|S}} || <code>···</code>
+| {{Audio-nohelp|1 number morse code.ogg|1}} || <code>·----</code>
+| [[Period (punctuation)|ᎠᎴᏫᏍᏙᏗ]] [.] || <code>·-·-·-</code>
+| [[Colon (punctuation)|ᎠᎴᏫᏍᏙᏗ]] [:] || <code>---···</code>
+|-
+| {{Audio-nohelp|B morse code.ogg|B}} || <code>-···</code>
+| {{Audio-nohelp|K morse code.ogg|K}} || <code>-·-</code>
+| {{Audio-nohelp|T morse code.ogg|T}} || <code>-</code>
+| {{Audio-nohelp|2 number morse code.ogg|2}} || <code>··---</code>
+| [[Comma (punctuation)|ᎠᎴᏫᏍᏙᏗ]] [,] || <code>--··--</code>
+| [[Semicolon|ᎠᎴᏫᏍᏙᏗ]] [;] || <code>-·-·-·</code>
+|-
+| {{Audio-nohelp|C morse code.ogg|C}} || <code>-·-·</code>
+| {{Audio-nohelp|L morse code.ogg|L}} || <code>·-··</code>
+| {{Audio-nohelp|U morse code.ogg|U}} || <code>··-</code>
+| {{Audio-nohelp|3 number morse code.ogg|3}} || <code>···--</code>
+| [[Question mark|ᎠᏛᏛᎲᏍᎩ ᎤᏙᏪᎸ]] [?] || <code>··--··</code>
+| [[Equal sign|ᏔᎵ ᎢᏳᏩᎫᏘ ᎠᏍᏓᏩᏛᏍᏗ]] [=] || <code>-···-</code>
+|-
+| {{Audio-nohelp|D morse code.ogg|D}} || <code>-··</code>
+| {{Audio-nohelp|M morse code.ogg|M}} || <code>--</code>
+| {{Audio-nohelp|V morse code.ogg|V}} || <code>···-</code>
+| {{Audio-nohelp|4 number morse code.ogg|4}} || <code>····-</code>
+| [[Apostrophe (punctuation)|ᎾᎿ ᎨᏒ ᏩᏎᏍᏗ]] ['] || <code>·----·</code>
+| [[Fraction (mathematics)|ᎠᏍᏓᏩᏛᏍᏗ]] bar || <code>-··-·</code>
+|-
+| {{Audio-nohelp|E morse code.ogg|E}} || <code>·</code>
+| {{Audio-nohelp|N morse code.ogg|N}} || <code>-·</code>
+| {{Audio-nohelp|W morse code.ogg|W}} || <code>·--</code>
+| {{Audio-nohelp|5 number morse code.ogg|5}} || <code>·····</code>
+| [[Exclamation mark|ᎧᏁᎬ ᎤᏲᏴᎬ ᎤᏙᏪᎸ]] [!] || <code>-·-·--</code>
+| [[Hyphen|ᏕᎬᏔᏛ]] [-] || <code>-····-</code>
+|-
+| {{Audio-nohelp|F morse code.ogg|F}} || <code>··-·</code>
+| {{Audio-nohelp|O morse code.ogg|O}} || <code>---</code>
+| {{Audio-nohelp|X morse code.ogg|X}} || <code>-··-</code>
+| {{Audio-nohelp|6 number morse code.ogg|6}} || <code>-····</code>
+| [[Slash (punctuation)|ᎠᎽᏰᎵ]] [/] || <code>-··-·</code>
+| [[Underscore|ᏄᏍᏛ ᏗᎧᏃᏗ]] [_] || <code>··-- ·-</code>
+|-
+| {{Audio-nohelp|G morse code.ogg|G}} || <code>--·</code>
+| {{Audio-nohelp|P morse code.ogg|P}} || <code>·--·</code>
+| {{Audio-nohelp|Y morse code.ogg|Y}} || <code>-·--</code>
+| {{Audio-nohelp|7 number morse code.ogg|7}} || <code>--···</code>
+| [[Bracket#Parentheses ( )|Parentheses]] open [(] || <code>-·--·</code>
+| [[Quotation mark|ᎩᎶ ᏄᎢᏪᏒ ᎤᏙᏪᎸ]] ["] || <code>·-··-·</code>
+|-
+| {{Audio-nohelp|H morse code.ogg|H}} || <code>····</code>
+| {{Audio-nohelp|Q morse code.ogg|Q}} || <code>--·-</code>
+| {{Audio-nohelp|Z morse code.ogg|Z}} || <code>--··</code>
+| {{Audio-nohelp|8 number morse code.ogg|8}} || <code>---··</code>
+| Parentheses closed [)] || <code>-.--.-</code>
+| [[Dollar sign|ᎤᏃᏍᏓ ᎪᏪᎶᏗ]] [$] || <code>···-··-</code>
+|-
+| {{Audio-nohelp|I morse code.ogg|I}} || <code>··</code>
+| {{Audio-nohelp|R morse code.ogg|R}} || <code>·-·</code>
+| {{Audio-nohelp|0 number morse code.ogg|0}} || <code>-----</code>
+| {{Audio-nohelp|9 number morse code.ogg|9}} || <code>----·</code>
+| [[Ampersand]] [&] || <code>· ···</code>
+| [[Commercial at|ᎾᎾᎢ ᎪᏪᎶᏗ]] [@] || <code>·--·-·</code>
+|}
+
+ᎯᎠ "@" ᏗᎬᏟᎶᏍᏙᏗ ᏥᏄᏍᏛᎩ ᎦᏟᏌᏅᎯ ᎭᏫᎾᏗᏢ 2004, ᎠᎴ ᎦᏟᏌᏅ ᎠᎴ C ᎾᎾᎯ ᏌᏊ ᎠᎦᏓᏅᏖᏗ.
+
+ᎯᎠ "!" ᏗᎬᏟᎶᏍᏙᏗ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏰᎵ ᎤᏒᎧᎵ ᎤᏬᎳᏨ ᏂᎬᏉ. ᎯᎠ KW-ᏧᏠᎯᏍᏗ <code>-·-·--</code> ᏥᏄᏍᏛᎩ ᎧᏁᎢᏍᏔᏅ ᎭᏫᎾᏗᏢ ᎯᎠ 1980 ᎤᏤᎵ ᎾᎥᎢ ᎯᎠ [[Heathkit]] ᎤᎾᏓᏡᎩ (ᎦᎾᏗᏅᏗ ᏓᏂᎳᏫᎥ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᎾᏍᎩᎾᎢ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎬᏔᏂᏓᏍᏗ). ᎾᎯᏳᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏁᏢᏔᏅᎯ software ᎤᏟ ᎬᏰᎸᏗ ᎪᎯ ᏅᎬᎪᏔᏅᎯ, ᎾᎿ-ᎤᏃᎴ ᎬᏙᏗ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎩᎳ ᎢᎬᏩᎾᏓᎴᎩ ᏥᏄᏍᏗ ᎢᎦᏛ ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᎠᏅᏬᏗ ᎭᏫᎾᏗᏢ Canada ᎠᎴ ᎯᎠ USA ᎬᎵᏱᎵᏒ ᎤᏟ ᎬᏰᎸᏗ ᎯᎠ ᎠᎦᏴᎳᎯᎨᏍᏙᏗ MN-ᏧᏠᎯᏍᏗ <code>---·</code> ᎠᏫᏛᏓ ᎦᏬᎯᎸᏙᏗ ᏂᏛᎴᏅᏓ ᏴᏩᏁᎬ landline ᏕᎦᏃᏣᎸ ᎠᏍᏓᏩᏛᏍᏙᏗ.
+
+=== ᎬᏙᏗ-ᎩᎵᏏ ᎧᏁᏉᎥᎢ ᎯᎠ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ===
+{| class="wikitable"
+! Letter(s) || Code
+|-
+| ä      || '''<code>·-·-</code>'''  (also æ)
+|-
+| à      || '''<code>·--·-</code>''' (also å)
+|-
+| ç      || '''<code>-·-··</code>''' (also ĉ)
+|-
+| ch     || '''<code>----</code>'''
+|-
+| ð      || '''<code>··--·</code>'''
+|-
+| è      ||'''<code>·-··-</code>'''
+|-
+| é      ||'''<code>··-··</code>'''
+|-
+| ĝ || '''<code>--·-·</code>'''  
+|-
+| ĥ || '''<code>-·--·</code>'''
+|-
+| ĵ || '''<code>·---·</code>'''
+|-
+| ñ      || '''<code>--·--</code>'''
+|-
+| ö      || '''<code>---·</code>''' (also ø)
+|-
+| ŝ || '''<code>···-·</code>'''
+|-
+| þ      || '''<code>·--··</code>'''
+|-
+| ü      || '''<code>··--</code>''' (also ŭ)
+|}
+
+== ᎠᏓᏁᏟᏴᏍᏗᎭ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎤᏟ ᎢᎦᎢ ᏧᏣᏔᏊ ᎠᎦᏓᏅᏖᏗ ᎾᏍᎩᎾᎢ ᎯᎠ ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎠᏍᏓᏩᏛᏍᏙᏗ ==
+ᎢᎦᏛ ᎢᏗᎬᎾᏗ ᏓᏕᏲᎲᏍᎬ ᎠᎴ ᎠᎾᏕᎶᏆᏍᎬ morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎬᏙᏗ ᎯᎠ [[dichotomic search|dichotomic ᎠᏯᏍᏗ]] ᎦᏍᎩᎶ ᎡᎳᏗᏢ.
+
+ᎭᏫᎾᏗᏢ ᎠᏓᏅᏍᏗ ᎪᎵᏍᏗ ᎯᎠ ᎦᏍᎩᎶ, ᎠᎦᏎᏍᏙᏗ ᎯᎠ ᏔᎵᏁ ᎤᏓᏅᏅ: ·· ᎨᏒᎢ 'I'; ·- ᎨᏒᎢ 'A'; -· ᎨᏒᎢ 'N'; ᎠᎴ -- ᎨᏒᎢ 'M'. ᏂᎯ ᏰᎵᏇ ᎠᏍᏓᏩᏛᏍᏗ ᏗᏟᎶᏍᏙᏗ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ dashes ᏂᏛᎴᏅᏓ ᎯᎠ ᎦᏚᎢ ᎠᎴ ᎠᏓᏅᏍᏗ ᎠᎦᏍᎦᏂ ᎾᏍᎩᎾᎢ ᎠᏍᏓᏩᏛᏍᏗ ᎠᎴ ᏚᏳᎪᏛ ᎾᏍᎩᎾᎢ ᎠᏍᏓᏩᏛᏍᏗ iyuwakodi ᎯᎠ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᎨᏒᎢ ᎧᎵᏬᎯ.
+
+{| border="1px" cellspacing="0" cellpadding="0" align="center" style="font-size: smaller; line-height: 125%;"
+|- style="font-size: small;"
+! colspan="32" style="background:#efefef;" | dot
+! colspan="32" style="background:#efefef;" | dash
+|-
+! colspan="32" | E
+! colspan="32" | T  
+|-
+! colspan="16" | I
+! colspan="16" | A
+! colspan="16" | N
+! colspan="16" | M
+|-
+! colspan="8" | S
+! colspan="8" | U
+! colspan="8" | R
+! colspan="8" | W
+! colspan="8" | D
+! colspan="8" | K
+! colspan="8" | G
+! colspan="8" | O
+|-
+! colspan="4" | H
+! colspan="4" | V
+! colspan="4" | F
+! colspan="4" | Ü
+! colspan="4" | L
+! colspan="4" | Ä
+! colspan="4" | P
+! colspan="4" | J
+! colspan="4" | B
+! colspan="4" | X
+! colspan="4" | C
+! colspan="4" | Y
+! colspan="4" | Z
+! colspan="4" | Q
+! colspan="4" | Ö
+! colspan="4" | CH
+|-
+! colspan="2" | 5
+! colspan="2" | 4
+! colspan="2" | Ŝ
+! colspan="2" | 3
+! colspan="2" | É
+! colspan="2" |
+! colspan="2" | Ð
+! colspan="2" | 2
+! colspan="2" |
+! colspan="2" | È
+! colspan="2" | +
+! colspan="2" |
+! colspan="2" | Þ
+! colspan="2" | À
+! colspan="2" | Ĵ
+! colspan="2" | 1
+! colspan="2" | 6
+! colspan="2" | =
+! colspan="2" | /
+! colspan="2" |
+! colspan="2" | Ç
+! colspan="2" |
+! colspan="2" | Ĥ
+! colspan="2" |
+! colspan="2" | 7
+! colspan="2" |
+! colspan="2" | Ĝ
+! colspan="2" | Ñ
+! colspan="2" | 8
+! colspan="2" |
+! colspan="2" | 9
+! colspan="2" | 0
+|-
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | ?
+! style="width: 1em;" | _
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | "
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | .
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | @
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | '
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | -
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | ;
+! style="width: 1em;" | !
+! style="width: 1em;" |
+! style="width: 1em;" | ( )
+! style="width: 1em;"http://en.wikipedia.org/w/index.php?title=Morse_code&action=edit&section=7 |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | ,
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" | :
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+! style="width: 1em;" |
+|}
+
+
+[[Image:Morse_code_tree3.png|thumb|650px|center| graphical ᎢᏯᏓᏛᏁᎸ  ᎯᎠ dichotomic ᎠᏯᏍᏗ ᎦᏍᎩᎶ.]]
+
+== ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ ᏓᎾᎵᏃᎮᏍᎬ ᎭᏫᎾᏗᏢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ==
+ᎯᎠ ᎠᏏᎾᏒᎢ ᎤᎭ ᎤᏓᏅᏖᎯᏌᏛ ᏓᎾᎵᏃᎮᏍᎬ ᎬᏙᏗ Morse ᎨᏒᎢ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ ᎥᎦᏔᎲ ᎣᏍᏛ ᎯᎠ ᏗᎦᎶᏆᏍᏙ. ᎪᏢᏗ ᏗᏛᎪᏔᏅ ᎠᏏᎾᏍᏛ, ᎾᎿᎢ ᎠᎴ ᎤᎪᏗᏗ ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᏚᏓᏂᎸᏨ ᏧᎾᏟᎶᏍᏙᏗ ᏗᏛᎪᏔᏅ.
+
+ᏗᏟᎶᏍᏙᏗ CW ᏓᎾᎵᏃᎮᏍᎬ ᎠᏰᎵ ᎤᎴᏫᏍᏗ 1 (S1) ᎠᎴ ᎤᎴᏫᏍᏗ 2 (S2)
+
+S1:
+ CQ CQ CQ DE S1 K
+ Calling anyone (CQ), this is (DE) S1, listening (K)
+
+S2:
+ S1 DE S2 KN
+ Calling S1, this is S2, back-to-you (KN)
+ (Now we have a connection)
+
+S1:
+ S2 DE S1 = GA DR OM UR RST 599 HR = QTH TIMBUKTU = OP IS MIKE = HW? + S2 DE S1 KN
+ Good afternoon dear old man. You are [[RST code|RST]] 599 here.  
+ (Very readable (5), very strong signal (9), very good tone (9))
+ I'm located in Timbuktu. The operator ᎤᏤᎵ name is Mike.
+ How do you copy?
+
+S2:
+ S1 DE S2 = TNX FB RPRT DR OM MIKE UR 558 = QTH HIMALAYA = NAME IS YETI + S1 DE S2 KN
+ Thanks for the nice report dear old man Mike. I read you 558.
+ I am in the Himalayas. My name is Yeti.
+
+S1:
+ S2 DE S1 = OK TNX QSO DR YETI = 73 ES HPE CUAGN + S2 DE S1 KN
+ Okay, thanks for this conversation, dear Yeti.
+ Best regards and hope to see you again.
+
+S2:
+ S1 DE S2 = R TU CUAGN 73 + S1 DE S2 SK
+ Understood. Thank you. Best regards. (signing off)
+
+ᎬᏙᏗ ᎦᎨᏛ ᎬᏙᏗ ᎯᎠ [[Q code|Q ᎠᏍᏓᏩᏛᏍᏙᏗ]] ᎠᎴ [[Morse Code Abbreviations|Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ]], ᏂᎬᎢ meaningful ᏓᎾᎵᏃᎮᏍᎬ ᏰᎵᏇ ᎾᏍᏋ ᎠᏰᎲ. ᎠᏓᏚᎬ ᎪᏪᎵ Ꮎ ᎤᏙᎯᏳ ᎦᏲᎵ ᎩᎵᏏ ᎤᏂᏁᏨ ᎤᎭ ᏭᏪᏙᎢ ᎬᏔᏅᎯ ("ᎨᏒᎢ" ᎠᎴ "ᏚᏙᎥ"), ᎾᏍᎩ ᎤᏩᏒ ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ. S1 ᎠᎴ S2 ᏄᎵᏂᎬᎬ ᎾᏍᎩ ᏂᎨᏒᎾ ᎧᏁᎬ ᎯᎠ ᎤᏠᏱ ᎾᏰᎯᏯ ᎦᏬᏂᎯᏍᏗ.
+
+ᏫᏚᏳᎪᏛ, ᎤᏙᎯᏳ ᎾᏍᎩ ᎤᏲ ᎠᏅᏬ-ᎠᎵᏍᏓᏴᏗ (ᏂᎦᏅᎯᏒ ᏓᎾᎵᏃᎮᏍᎬ) ᏝᏰᎵ ᎾᏍᏋ ᎠᏍᏆᏛᎯ ᏄᏠᏯᏍᏛᎾ ᏧᏣᏔᏊ ᎦᏬᏂᎯᏍᏗ. ᎾᎿ ᎯᎠ ᏗᏍᏆᎸᏙᏗ ᎠᎴᏂᏍᎩ ᎦᏚ ᎠᏄᏬᏍᏗ ᎪᎯ ᎨᏒᎢ ᎢᏳᏓᎵᎭ ᎩᎵᏏ.
+
+[[Contesting|Contesters]] ᎢᏳᏓᎵᎭ ᎬᏙᏗ ᎤᏙᎯᏳ specialized ᎠᎴ ᎢᏧᎳᎭ ᏍᏆᎵᎯᎨᏍᏗ format ᎾᏍᎩᎾᎢ ᎤᎾᏤᎵ ᏚᏓᏂᏴᏒ. ᎤᎾᏤᎵ ᎤᏰᎸᏛᎢ ᎨᏒᎢ ᏧᎵᎬᏩᎳᏅᎯ ᏥᏄᏍᏗ ᎤᎪᏗᏗ ᏚᏓᏂᏴᏒ ᏥᏄᏍᏗ ᏰᎵᏊ ᎭᏫᎾᏗᏢ ᏩᏎᎸᎯ iyuwakodi (e.g. 100-150 ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᏑᏟᎶᏛ).
+
+==Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎭᏫᎾᏗᏢ ᏐᎢ Media==
+{{unsourced}}
+ᎾᏍᎩ ᎤᎭ ᏭᏪᏙᎢ ᎠᏆᏤᎵ ᎤᏛᏅᎩ Ꮎ [[musician|ᏗᎧᏃᎩᏛ]]ᎠᏕᎶᏆᏍᏗ ᎯᎠ ᏗᏍᏆᎸᏙᏗ ᎯᎠ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᎦᏓᏅᏖᏗ ᎦᏣᏄᎳᎯᎨ ᎬᎾᏬᏍᎬ ᎬᏙᏗ-ᏗᎧᏃᎩᏛ. ᏧᏓᎴᎾᎢ, Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᎭ ᏭᏪᏙᎢ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᏗᎧᏃᎩᏛ, ᎢᏧᎳ ᏥᏄᏍᏗ ᏗᏓᎴᎲᏍᎬ ᎾᏍᎩᎾᎢ [[rhythm|ᏗᏍᏆᎸᏙᏗ]]ic ᏧᎾᏟᎶᏍᏙᏗ ᎠᎴ ᏥᏄᏍᏗ ᎪᏪᎳᏅᎯ [[sampling (music)|ᎯᎸᏍᎩ ᏗᏟᎶᏍᏙᏗ]], ᏯᏛᎿ ᏥᏄᏍᏗ [[Vladimir Ussachevsky]] ᎤᏤᎵ ''Wireless ᎢᏰᎵᏍᏗᎢ'' ᎠᎴ ᎭᏫᎾᏗᏢ ᎯᎠ ᏅᏯ ᏗᏂᏤᎷᎯᏍᎩ [[Rush (band)|ᎬᏅᎢᏍᏗ]] ᎤᏤᎵ ᎧᏃᎩᏍᏗ YYZ, ᏚᎳᏏᏔᏅᎩ ᎾᎿ ᎯᎠ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏍᎩᎾᎢ Toronto ᎤᏤᎵ [[Toronto Pearson International Airport|Pearson ᎠᏰᎵ ᏚᎾᏙᏢᏒ Airport]] ᎤᏤᎵ [[IATA airport code|IATA airport ᎠᏍᏓᏩᏛᏍᏙᏗ]]. [[Kraftwerk]] ᎬᏔᏅᎯ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎤᏜᏅᏛ ᎭᏫᎾᏗᏢ ᎯᎠ ᎧᏃᎩᏍᏗ [[Radioactivity (song)|Radioactivity]]. ᎾᎯᏳᎨᏒ [[World War II|ᎡᎶᎯ ᏓᏄᏩ ᎧᏬᎳᏕᏍᎬ]], ᎦᏬᏂᏍᎩ ᏫᏓᏲᎯᏍᏗ ᎾᎥᎢ ᎯᎠ [[BBC]] ᎤᏂᎩᏍᏔᏅ ᎬᏙᏗ ᎯᎠ ᎢᎬᏱ ᏅᎩ ᎤᏃᏴᎬ [[Beethoven's Fifth Symphony|Beethoven ᎤᏤᎵ ᎯᏍᎩᏁ ᎾᏛᏁᎸ]], denoting "V" ᎾᏍᎩᎾᎢ "ᎠᏓᏎᎪᎩᏍᏗ". ᎯᎠ ᎢᏳᏍᏗ ᎧᏃᎮᏗ ᎤᏃᏴᎬ ᎯᎠ ITV television ᎧᏁᏉᎥᎢ ᎤᏠᏱᎭ [[Inspector Morse|ᎤᏂᎦᏛᎲᏍᎩ Morse]] ᎨᏒᎢ ᏄᏓᎴ ᏱᏓᏟᎶᏍᏔᏅ, ᏥᏄᏍᏗ ᎨᏒᎢ  "ᎪᏛᏙᏗ" ᎾᎥᎢ [[The Alan Parsons Project|ᎯᎠ Alan ᎠᎵᏣᏙᎲᏍᎩ ᎠᏎᎸᎯ]], ᎭᏢᏃ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᏍᏇᎸᏗ atsinuqowisgv ᎯᎠ ᏚᏙᎥ ᎯᎠ ᎪᏪᎵ ᎾᏍᎩ ᎤᏤᎵ ᎾᎿ ("ᏒᎯᏰ"). "(Oh ᎬᎸᏉᏗ) ᎦᏅᏗᏍᏗ Morse" ᎾᎥᎢ [[Pearls Before Swine (band)|ᏓᎬᎾ ᎤᏓᎷᎸ gantlai (ᏗᏂᏤᎷᎯᏍᎩ)]] ᎬᏔᏂᏓᏍᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᏍᏇᎸᏗ atsinuqowisgv ᎯᎠ ᎧᏁᏨ ''Fuck''. ᎾᏍᎩ ᎾᏍᏇ, ᎢᎦᏛ ᎦᏁᎸ ᏗᎵᏃᎮᏗ ᎾᏍᎩᏯᎢ [[Nokia]] ᎤᎭ ᎯᎠ ᎧᏁᏨ "SMS" ᏥᏄᏍᏗ ringtone ᎾᏍᎩᎾᎢ ᎠᏴᏍᏙᏗ [[short message service|ᏍᏆᎳᎢ ᎥᏓᏘᏃᎯᏎᏗ ᎾᏛᏁᎸ]] ᏓᎵᏍᏛ ᎨᏥᏃᎯᏎᏗ.
+
+== ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ ==
+*[[Amateur radio|ᎠᎴᏂᏍᎩ ᎦᏬᏂᏍᎩ]]
+*[[500 kHz]]
+*[[SOS]]
+*[[Wabun Code|Wabun ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+*[[Heliograph|ᏄᏍᏛ ᏗᎧᏃᏗ]]
+*[[Morse Code Mnemonics|Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏅᏓᏗᏍᏗ]]
+*[[Telegraph key|ᏗᎾᎪᎳᏛᏅ ᏍᏚᎢᏍᏗ]]
+*[[Q code|Q ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+*[[Prosigns for Morse Code|Prosigns ᎾᏍᎩᎾᎢ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+*[[Morse Code Abbreviations|Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ]]
+*[[Koch method|Koch ᎢᎬᎾᏗ]]
+
+== ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ ==
+*[http://www.morsetelegraphclub.org/ Morse Telegraph Club, Inc.] (ᎯᎠ Morse ᏗᎾᎪᎳᏛᏅ ᎤᎾᏙᏢᎯ ᎤᎾᏓᏡᎩ ᎨᏒᎢ ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎬᏙᏗ-ᎪᏢᏔᏅ ᎤᎾᏙᏢᎯ dedicated ᎯᎠ ᎢᎪᎯᏓ ᎯᎠ ᎥᎦᏔᎲᎢ ᎠᎴ ᎧᏃᎮᎸᎯ ᏕᎦᏃᏣᎸ.)
+*[http://www.fists.org/ FISTS - The International Morse Preservation Society]
+
+*[http://www.sci-toys.com/scitoys/scitoys/computers/radio/computer_controlled_transmitter.html Morse code computer transmitter]
+*[http://www.learnmorsecode.com Learn Morse code in one minute]
+*[http://www.dxzone.com/catalog/Operating_Modes/Morse_code/ Morse code resources]
+*[http://homepage.ntlworld.com/dmitrismirnov/MorseMusic.html Music and Morse code]
+*''[http://www.engadget.com/entry/1234000657035633/ Nokia files patent for Morse Code-generating cellphone]'', [[March 12|ᎠᎾᏱᎵᏒ 12]], [[2005]], [[Engadget]].
+* ''[http://www.timesonline.co.uk/printFriendly/0,,1-2-1571664,00.html A race to the wire as old hand at Morse code beats txt msgrs]'', [[April 16|ᎫᏬᏂ 16]], [[2005]], [[The Times|ᎯᎠ itsuwakodi Online]].
+*''[http://www.boingboing.net/2005/06/01/nokia_app_lets_you_k.html Nokia app lets you key SMSes in Morse Code]'', [[June 1|ᏕᎭᎷᏱ 1]], [[2005]] [[Boing Boing|ᎠᎵᎦᎵᏴᎯ ᎠᎵᎦᎵᏴᎯ]].
+*''[http://www.oreillynet.com/pub/wlg/7016 Back to the Future — Morse Code and Cellular Phones]'', [[June 28|ᏕᎭᎷᏱ 28]], [[2005]] [[O'Reilly|O'Reilly ᏓᎧᏁᎲ]].
+*''[http://www.planetofnoise.com Generate MIDI morse code ringtones for mobile phones and for Morse2Email messages]'', [[October 11|ᏚᏂᏃᏗ 11]], [[2005]] 
+*[http://www.vibroplex.com/ Oldest manufacturer of American keyers] 
+*[http://www.dimebank.com/cak/k6dbg/k6dbg_cw.html Operating CW]
+*[http://www.rogerwendell.com/morsecode.html Tribute to Morse Telegraphy]
+*[http://www.cinahazegh.com/2006/05/30/the-amazing-morse-code-keyboard/ USB Morse Code Keyboard]
+
+
+=== Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏁᏢᏙᏗᏍᎩ ᎠᎴ software ===
+===== ᎠᏕᎶᏆᏍᏗ Morse ᎠᏍᏓᏩᏛᏍᏙᏗ: =====
+*[http://www.nlcrew.de/waas/morsen Morse Code Trainer and Translator with Sound]
+*[http://justlearnmorsecode.com Just Learn Morse Code]
+*[http://www.factacular.com/subjects/Morse_Code Learn Morse Code with Factacular]
+*[http://www.g4fon.net/CW%20Trainer.htm Koch Method Morse Code Trainer]
+*[http://mobilemorse.sourceforge.net Morse Code Trainer for mobile phones]
+*[http://www.blackcatsystems.com/software/morsemania.html Morse Code Tutor for Mac OS X]
+*[http://www.n0hr.com/ PPCMorse Morse Code Tutor for PocketPC PDAs]
+*[http://www.nu-ware.com/NuCode/ncinfo.htm NuCode], ᏄᏦᏍᏛᎾ ᎢᏯᏛᏁᏗ ᎠᏎᎸ ᎢᏗᎬᏁᏗ ᎠᎵᏍᏕᎸᏗ ᏂᎯ ᎠᎦᏛᎴᎯᏍᏗ ᎯᎠ F.C.C. 5-WPM ᎠᎦᏛᏗ, ᎠᎴ [http://www.nu-ware.com/NuMorseP/nmpinfo.htm NuMorse Pro], ᎧᎵ-featured Morse ᎠᏍᏓᏩᏛᏍᏙᏗ ᏓᏕᏲᎲᏍᎬ/ᎠᎵᎢᎵᏒ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ.
+*[http://www.morseresource.com MorseResource - quotation podcasts every day in Morse Code]
+*[http://morsecode.scphillips.com/ Morse Code and Phonetic Alphabets]
+*[http://home.no.net/fenja256/superaldis Superaldis, an Aldis lamp simulator]
+*[http://home.no.net/fenja256/ultramorse UltraMorse, a free (gratis) Morse Code Trainer]
+*[http://www.arrl.org/w1aw/morse.html W1AW Code Practice Files]
+
+=====ᎠᏁᏢᏙᏗᏍᎩ=====
+ᎾᎿᎢ ᎠᎴ ᏎᏍᏗ ᎠᏁᏢᏙᏗᏍᎩ ᎾᎿ ᎯᎠ ᎤᏂᏏᎳᏛ Ꮎ ᏫᎵ ᎤᎧᏛ ᏓᎵᏍᏛ Morse  ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎠᎴ ᏗᏁᎶᏗ ᎾᏍᎩ ᎾᎿ ᎢᏗᏢ [[Personal Computer|PC]]:
+
+*[http://starling.ws/morse Entire books in English or Esperanto output as *.wav or *.ogg] multi-ᏗᎳᏏᏙ, [[open source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]] ᎠᏃᏪᎵᏍᎬ ᎪᏪᎳᏅᎯ ᎭᏫᎾᏗᏢ [[Perl]]
+
+*[http://c2.com/morse Ward Cunningham's Morse trainer] ᎾᏍᎩᎾᎢ [[Unix]], [[Personal Computer|PC]] ᎠᎴ [[Mac]] ([[Open source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]])
+*[http://morsecode.scphillips.com/jtranslator.html Stephen C Phillips' Java translator] ([[Open source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]])
+*[http://morsecode.scphillips.com/translator.html Stephen C Phillips' non-Java translator]
+*[http://www.omnicron.com/~ford/java/NMorse.html Enhanced variant of Phillips' Java translator] ([[Open source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]])
+*[http://morsemadness.sourceforge.net/ A Morse code trainer for Windows 32 bit machines] ([[Open source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]])
+*[http://lingvo.org/morso/ Morse code for Esperanto]
+*[http://homepages.cwi.nl/~dik/english/codes/morse.html Morse code characters of Russian/Greek/Hebrew/Arabic/Japanese/Korean/Esperanto]
+*[http://www.philtulga.com/morse.html Morse Code Music] [http://www.davidtulga.com/morse.htm (mirror)]
+*[http://world.std.com/~reinhold/morsechart.gif Morse code mnemonic chart]
+*[http://www.ae4rv.com/tn/education.htm Morse Quiz DOS software and Flash-based Vibroplex demo by AE4RV]
+*[http://www.qbit.it/lab/morse.php Morse code web translator]
+*[http://leetkey.mozdev.org This FireFox extension supports Morse code encoding/decoding/typing]
+
+ᎾᏍᎩᎾᎢ [[Palm OS|ᏂᎦᏅᎯᏒ ᏅᏙᎲᏅ]] ᏄᏍᏛ ᏗᎧᏃᏗ:
+* [http://abcMorse.com/ abcMorse is a mobile Morse code tutor as well as translator and reference tool for code tables, mnemonics, Q codes and ProSigns]
+* [http://www.palmgear.com/index.cfm?fuseaction=software.showsoftware&PartnerREF=&siteid=1&prodid=120336 SpellMe features text to Morse Code converter]
+
+ᎠᎴ ᎾᏍᎩᎾᎢ Symbian [[Series 60|ᎧᏁᏉᎥᎢ ᎤᏠᏱᎭ 60]] smartphones:
+*[http://laivakoira.typepad.com/blog/2005/05/morse_texter.html Tap in some Morse code and send it by SMS]
+
+Online ᎠᎵᏃᎮᏗ ᎭᏫᎾᏗᏢ morse ᎠᏍᏓᏩᏛᏍᏙᏗ [http://www.mrx.com.au] ᎠᎧᏁᏍᏗ ᎾᎿ ᏕᎬᏔᏛ ᎾᏍᎩᎾᎢ CW Communicator. Ꮭ ᎪᏪᎵ ᎠᎵᏍᎪᎸᏗᏍᎩ ᎤᏚᎳᏗ ᏄᎵᏍᏔᏅ, ᏰᎵᏇ ᎬᏙᏗ keyboard, ᎠᎴ ᏍᏚᎢᏍᏗ ᏗᎵᎪᏔᏅ ᎦᏯᎢᏒ ᏥᏳ ᏗᏔᎳᏗᏍᏗ ᎠᎴ joystick ᎠᏛᎯᏍᏙᏗ ᎤᏃᏴᎬ.
+
+== ᏓᏓᏚᎬ ᎪᏪᎵ ==
+
+<references />
+
+[[Category:History of radio]]
+[[Category:Amateur radio]]
+[[Category:Assistive technology]]
+[[Category:Encodings]]
+[[Category:Radio modulation modes]]
+[[Category:Survival skills]]
+[[Category:Telecommunications history]]
+[[Category:Character sets]]
+[[Category:Latin alphabet representations]]
+
+[[af:Morsekode]]
+[[bn:মোর্স কোড]]
+[[bs:Morzeov kod]]
+[[cs:Morseova abeceda]]
+[[da:Morsealfabet]]
+[[de:Morsecode]]
+[[el:Κώδικας Μορς]]
+[[en:Morse Code]]
+[[es:Código Morse]]
+[[eo:Morsa kodo]]
+[[eu:Morse kode]]
+[[fr:Alphabet morse]]
+[[fy:Morsekoade]]
+[[gl:Código Morse]]
+[[hr:Morseov kod]]
+[[it:Codice Morse]]
+[[he:קוד מורס]]
+[[lt:Morzės abėcėlė]]
+[[lv:Morzes kods]]
+[[hu:Morzekód]]
+[[nl:Morse]]
+[[ja:モールス符号]]
+[[no:Morsealfabetet]]
+[[pl:Alfabet Morse'a]]
+[[pt:Código Morse]]
+[[ro:Alfabetul Morse]]
+[[ru:Азбука Морзе]]
+[[sk:Medzinárodná Morsova abeceda]]
+[[sl:Morsejeva abeceda]]
+[[sr:Морзеова азбука]]
+[[fi:Sähkötys]]
+[[sv:Morsealfabetet]]
+[[tr:Mors alfabesi]]
+[[zh:摩尔斯电码]]
