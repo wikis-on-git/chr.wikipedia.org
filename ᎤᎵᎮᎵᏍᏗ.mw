@@ -2,135 +2,136 @@
 *<small>Note:  You must be using Cherokee Unicode Supported Fonts to view this site.  Information on obtaining and installing Cherokee Unicode Fonts for Windows 2000 and Windows XP is available on the Cherokee [[Unicode]] page.  Windows Vista and the Linux Operating System include default support for displaying the Cherokee Language in syllabary.</small>
 
 
-[[Image:PlaneIntersection.png|thumb|ᏔᎵ ᏗᎦᎾᏗᏫᏍᏗ ᎦᏃᎯᎵᏙ ᎭᏫᎾᏗᏢ ᏦᎢ-dimensional ᎤᏜᏅᏛ]]
-ᎭᏫᎾᏗᏢ [[mathematics|ᏗᏎᏍᏗ ᎤᎬᏩᎵ]], '''ᎦᏃᎯᎵᏙ''' ᎨᏒᎢ ᏄᎬᏫᏳᏒ ᏗᎳᏏᏙᏗ [[two-dimensional|ᏔᎵ-dimensional]] ᏗᎦᏘᎴᏍᏗ. ᎤᎾᎵᎪᏒ, ᎾᏍᎩ ᎠᎾᏍᎬᏘ ᎾᏍᏋ visualized ᏥᏄᏍᏗ ᎤᏩᎾᏕᏍᎩ ᎢᎪᎯᏓ ᎨᏒ ᏗᎬᎯᏓ Ꭺ. ᎾᎿᎢ ᎠᎴ ᎯᎸᏍᎩ ᏩᏎᏍᏗ ᎾᎿ ᎯᎠ ᎦᏃᎯᎵᏙ, ᎢᏗᎦᏘᎭ ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏓᏅᏖᏗ [[Euclidean geometry|Euclidean ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ]], ᎠᎴ ᎦᏙ ᎤᏍᏗ ᏰᎵᏇ ᎾᏍᏋ ᎧᏁᏉᏛ ᎭᏫᎾᏗᏢ ᏄᏓᎴᎿᎥ ᏫᎦᎶᎯᏍᏗ ᎧᏁᎢᏍᏔᏅᎯ ᏓᎦᏘᎴᎦ ᎭᏫᎾᏗᏢ ᏐᎢ ᎡᏍᎦᏂ [[mathematics|ᏗᏎᏍᏗ ᎤᎬᏩᎵ]].
+ᎭᏫᎾᏗᏢ [[trigonometry|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]], ᎯᎠ '''ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ''' (ᎠᎴ '''ᎠᎷᏚᎧᏘ ᏗᎧᎿᏩᏛᏍᏗ''') ᎨᏒᎢ ᎧᏃᎮᎸᎯ ᎬᏩᏚᏫᏛ ᎬᏙᏗ [[triangle|ᏦᎢ]]ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏃᎯᎵᏙ. ᎢᏳᏃ ᎯᎠ ᏗᏍᏆᎨᏂ ᎯᎠ ᏦᎢ ᎠᎴ ''a'', ''b'' ᎠᎴ ''c'' ᎠᎴ ᎯᎠ [[angle|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]]ᎠᎿᏗᏢ ᎾᏍᎩ ᏗᏍᏆᎨᏂ ᎠᎴ ''A'', ''B'' ᎠᎴ ''C'', ᎾᎯᏳᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ [[sine|ᎠᎷᏚᎧᏘ]]ᎧᏃᎮᎭ:
 
-ᎭᏫᎾᏗᏢ ᎢᎦᏛ ᎡᏍᎦᏂ ᏗᏎᏍᏗ ᎤᎬᏩᎵ, ᏯᏛᎿ ᏥᏄᏍᏗ [[plane geometry|ᎦᏃᎯᎵᏙ ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ]] ᎠᎴ 2D [[computer graphics|ᎡᎵᏍ ᎠᏨᏍᏛ]], ᎯᎠ ᏂᎦᏛ ᎤᏜᏅᏛ ᎭᏫᎾᏗᏢ ᎦᏙ ᎤᏍᏗ ᎯᎠ ᏗᎦᎸᏫᏍᏓᏁᏗ ᎨᏒᎢ ᎠᏫᏛᏓ atsinuqowisgv ᎨᏒᎢ ᏏᏴᏫ ᎦᏃᎯᎵᏙ. ᎭᏫᎾᏗᏢ ᏯᏛᎿ ᏄᏍᏗᏓᏅ ᎯᎠ ᎾᎿ ᎢᏴ ᎤᏓᏡᎬ ᎨᏒᎢ ᎬᏔᏅᎯ: '''ᎯᎠ ᎦᏃᎯᎵᏙ'''. ᎤᎪᏗᏗ ᏄᎬᏫᏳᏒ ᏗᎳᏏᏙᏗ ᎢᏯᏛᏁᏗ ᎠᎲ ᎭᏫᎾᏗᏢ [[geometry|ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ]], [[trigonometry|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]], ᎠᎴ graphing ᎠᎴ ᏄᏛᏁᎸ ᎭᏫᎾᏗᏢ ᎯᎠ ᏔᎵ dimensional ᎤᏜᏅᏛ, ᎠᎴ ᎭᏫᎾᏗᏢ ᏐᎢ ᎤᏂᏁᏨ, ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏃᎯᎵᏙ.
+:<math>{a \over \sin A}={b \over \sin B}={c \over \sin C}=2R\,</math>
 
-==Euclidean ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ==
+ᎭᏢᏃ ''R'' ᎨᏒᎢ ᎯᎠ gvwatuwidv ᎯᎠ ᏦᎢ ᎤᏤᎵ [[circumcircle]]. ᎪᎯ ᏎᏍᏗ ᎨᏒᎢ ᎤᎵᏍᎨᏓ ᎠᏓᏃᎮᏗ ᎯᎠ ᏩᎵᏃᎯᏯᏍᎬ ᏗᏍᏆᎨᏂ ᏦᎢ ᎢᏳᏃ ᏔᎵ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎠᎴ ᎠᏍᏆᎨᏂ ᎠᎴ ᎤᎾᏅᏛ, ᏧᏣᏔᏊ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎭᏫᎾᏗᏢ ᎯᎠ technique [[triangulation]]. ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎬᏔᏅᎯ ᎯᎳᎪ ᎢᏳ ᏔᎵ ᏗᏍᏆᎨᏂ ᎠᎴ ᏌᏊ ᎯᎠ ᎬᏙᏗ-ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎠᎴ ᎤᎾᏅᏛ; ᎭᏫᎾᏗᏢ ᎪᎯ ᎦᎸᏛ ᎧᏁᏌᎢ, ᎯᎠ ᏎᏍᏗ ᎠᎾᏍᎬᏘ ᎠᏓᏁᏗ ᏔᎵ ᏰᎵᏊ ᏧᎬᏩᎶᏗᎢ ᎾᏍᎩᎾᎢ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ. ᎯᎳᎪ ᎢᏳ ᎪᎯ ᏥᏄᎵᏍᏔᏅ, ᎢᏳᏓᎵᎭ ᎾᏍᎩ ᎤᏩᏒ ᏌᏊ ᏄᎵᏍᏔᏅ ᏫᎵ ᏂᎬᏂᏏᏍᎬ ᏂᎦᏛ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎾᏍᏋ ᎦᏲᎵᎨ ᎬᎾᏬᏍᎬ 180°; ᎭᏫᎾᏗᏢ ᏐᎢ ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᎾᎿᎢ ᎠᎴ ᏔᎵ ᎪᏢᏒᎢ ᎪᎷᏩᏛᏓ ᎯᎠ ᏦᎢ (ᎠᎪᏩᏛᏗ ''ᎯᎠ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ'' ᎾᎿ ᎨᏒ ᎪᎯ ᎤᏓᏡᎬ ᎾᏍᎩᎾᎢ ᎤᏗᏗᏢ ᎠᏓᏃᎯᏎᏗ).
 
-ᎦᏃᎯᎵᏙ ᎨᏒᎢ [[surface|ᎦᏚᎢ]] ᏯᏛᎿ Ꮎ, ᎠᏓᏁᎸ ᏂᎦᎵᏍᏗᏍᎬᎫ ᏔᎵ [[point (mathematics)|ᎪᏍᏓᏱ]]ᎾᎿ ᎯᎠ ᎦᏚᎢ, ᎯᎠ ᎦᏚᎢ ᎾᏍᎩ ᎾᏍᏇ ᎢᎦᎢ ᎨᏐ ᎯᎠ [[straight line|ᎦᏥᏃᏍᏛ ᎠᏍᏓᏅᏅ]] Ꮎ ᏓᏂᎶᏍᎬᎢ ᏗᎬᏩᎶᏒ ᎯᎠ ᏔᎵ ᎠᏂ.
-ᏌᏊ ᏰᎵᏇ ᎬᏂᎨᏒ ᎢᏯᏓᏛᏁᏗ [[Cartesian coordinate system|Cartesian ᎢᏗᎦᏘᎭ iyahdvnelidasdi]] ᎾᎿ ᎠᏓᏁᎸ ᎦᏃᎯᎵᏙ ᎭᏫᎾᏗᏢ ᎠᏓᏅᏍᏗ ᏚᏙᎥ ᎦᏯᎸ ᏂᎦᎥᎢ ᎪᏍᏓᏱ ᎾᎿ ᎾᏍᎩ ᏧᏓᎴᎿᎢ ᎬᏙᏗ ᏔᎵ ᏗᏎᏍᏗ, ᎯᎠ ᎪᏍᏓᏱ ᎤᏤᎵ ᎠᏟᎶᏍᏗ ᎦᏙᎯ.
+ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎤᎾᏓᏎᎮᎸᎩ Ꮎ:
+:<math>2R = \frac{abc} {2\sqrt{s(s-a)(s-b)(s-c)}} = \frac {2abc} {\sqrt{(a^2+b^2+c^2)^2-2(a^4+b^4+c^4) }}</math>
 
-ᎭᏫᏂᏗᏢ ᏂᎦᎵᏍᏗᏍᎬᎫ Euclidean ᎤᏜᏅᏛ, ᎦᏃᎯᎵᏙ ᎨᏒᎢ ᏧᏓᎴᎿᎢ ᏕᎫᎪᏔᏅ ᎾᎥᎢ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎯᎠ ᎠᏍᏓᏩᏗᏒ ᎤᎾᏓᏟᏌᏅ:
+ᎭᏢᏃ ''s'' ᎨᏒᎢ ᎯᎠ [[semi-perimeter|ᏴᎩ-ᎠᏍᏓᏅᏅ,]]
 
-* ᏦᎢ [[non-collinear points|ᎬᏙᏗ-collinear ᏗᎪᏍᏓᏱ]] (ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏝᎥ ᎾᎿ ᎯᎠ ᎤᏠᏱ [[line (mathematics)|ᎠᏍᏓᏅᏅ]])
-* ᎠᏍᏓᏅᏅ ᎠᎴ ᎪᏍᏓᏱ ᎾᏍᎩ ᏂᎨᏒᎾ ᎾᎿ ᎯᎠ ᎠᏍᏓᏅᏅ
-* ᏔᎵ ᏄᏓᎴᎿᎥ ᎤᎵᏍᏕᎸᏗ ᎦᏙ ᎤᏍᏗ ᏗᎦᎾᏗᏫᏍᏗ
-* ᏔᎵ ᏄᏓᎴᎿᎥ ᎤᎵᏍᏕᎸᏗ ᎦᏙ ᎤᏍᏗ ᎠᎴ ᏚᏦᏔᏩᏘ
+:<math>s = \frac{(a+b+c)} {2}.</math>
 
-==ᎦᏃᎯᎵᏙ embedded ᎭᏫᎾᏗᏢ '''R'''<sup>3</sup>==
+== ᎯᎠ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ ==
+ᎯᎳᎪ ᎢᏳ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ ᎤᎦᎾᏭ ᏦᎢ, ᎭᏫᎾᏗᏢ ᎤᏤᎵᏛ ᏄᏍᏗᏓᏅ ᎾᎿᎢ ᎬᏂᎨᏒ ᏂᏚᏍᏗ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ ᎭᏢᏃ ᏔᎵ ᏧᏓᎴᎿᎢ ᏦᎢ ᏰᎵᏇ ᎾᏍᏋ ᎠᏁᏍᎨᏓ (ᎠᏯ.e., ᎾᎿᎢ ᎠᎴ ᏔᎵ ᏄᏓᎴᎿᎥ ᏰᎵᏊ ᎪᎷᏩᏛᏓ ᎯᎠ ᏦᎢ).
 
-ᎪᎯ ᎾᎿ ᎨᏒ ᎨᏒᎢ ᎧᎵ ᏗᎪᎥᎯ ᎡᎯᏍᏛ ᎬᏙᏗ ᎦᏃᎯᎵᏙ embedded ᎭᏫᎾᏗᏢ ᏦᎢ ᎢᎦᎢ: ᎧᎵ ᏗᎪᎥᎯ, ᎭᏫᎾᏗᏢ '''R'''<sup>3</sup>.
+[[Image:Sine_Law_-_Ambiguous_Case.png]]
 
-ᎭᏫᎾᏗᏢ ᏦᎢ-dimensional ᎤᏜᏅᏛ, ᎢᏧᎳ ᎠᎾᏍᎬᏘ ᎠᎵᏖᎸᏗ ᎯᎠ ᎠᏍᏓᏩᏗᏒ ᏱᏓᏛᎾ ᎤᏙᎯᏳ Ꮎ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᏚᏂᏴ ᎭᏫᎾᏗᏢ ᎦᎸᎳᏗᎨᏍᏙᏗ ᎢᎦᎢ:
+ᎠᏓᏁᎸ ᏂᎦᎥ ᏦᎢ ''ᎠᏓᎴᏂᏍᎬ'', ᎯᎠ ᎠᏍᏓᏩᏗᏒ ᏄᏍᏗᏓᏅ ᏯᏓᎢᏗᏏ ᎤᏚᎳᏗ ᎾᏍᏋ ᎠᎧᎵᏐᏗ ᎾᏍᎩᎾᎢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ ᎾᏍᏋ ᎤᏝᏏᏛ:
 
-*ᏔᎵ ᎦᏃᎯᎵᏙ ᎠᎴ ᎢᏳᏍᏗᏊ ᏚᏦᏔᏩᏘ ᎠᎴ ᎤᏅᏌ ᏗᎦᎾᏗᏫᏍᏗ ᎭᏫᎾᏗᏢ ᎠᏍᏓᏅᏅ.
-*ᎠᏍᏓᏅᏅ ᎨᏒᎢ ᎢᏳᏍᏗᏊ ᏚᏦᏔᏩᏘ ᎦᏃᎯᎵᏙ ᎠᎴ ᎤᏅᏌ ᏗᎦᎾᏗᏫᏍᏗ ᎾᎾᎢ ᏏᏴᏫ ᎪᏍᏓᏱ.
-*ᏔᎵ ᎤᎵᏍᏕᎸᏗ [[perpendicular|ᏄᎶᏒᏍᏛᎾ]] ᎯᎠ ᎤᏠᏱ ᎦᏃᎯᎵᏙ ᎠᏎ ᎾᏍᏋ ᏚᏦᏔᏩᏘ ᎠᏂᏏᏴᏫᎭ ᏐᎢ.
-*ᏔᎵ ᎦᏃᎯᎵᏙ [[perpendicular|ᏄᎶᏒᏍᏛᎾ]] ᎯᎠ ᎤᏠᏱ ᎠᏍᏓᏅᏅ ᎠᏎ ᎾᏍᏋ ᏚᏦᏔᏩᏘ ᎠᏂᏏᏴᏫᎭ ᏐᎢ.
+* ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ ᎠᏓᏃᎯᏎᏗ ᎤᎾᏅᏛ ᎬᏩᏚᏫᏛ ᎯᎠ ᏦᎢ ᎨᏒᎢ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎠᎴ ᎯᎠ ᏗᏍᏆᎨᏂ ''a'' ᎠᎴ ''b'', ᎭᏢᏃ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎯᎠ ᏔᎵ ᏗᏍᏆᎨᏂ (ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᎳᏗᏢ ᎾᏍᎩᏯᎢ ᎾᏍᎩ isn't, ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' ᎨᏒᎢ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ).
+* ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᏄᎵᏂᎬᎬ (ᎠᏯ.e., < 90°).
+* The side ''a'' is shorter than the side ''b'' (i.e., ''a'' < ''b'').
+* The angle ''B'' is not a right angle (i.e., ''a'' > ''b'' sin ''A'').
 
-===ᎪᏍᏓᏱ ᎠᎴ ᏄᎶᏒᏍᏛᎾ ᎢᏚᏳᎪᏛ===
+Given all of the above premises are true, the angle ''B'' may be acute or obtuse; meaning, one of the following is true:
 
-ᎭᏫᎾᏗᏢ ᏦᎢ-dimensional ᎦᏃᎴᏍᎬ ᎤᏜᏅᏛ, ᎾᎿᎢ ᎨᏒᎢ ᏄᏓᎴ ᎤᎵᏍᎨᏛ ᎦᎶᎯᏍᏗ defining ᎦᏃᎯᎵᏙ:
-* ᎪᏍᏓᏱ ᎠᎴ ᎠᏍᏓᏅᏅ, ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ [[perpendicular|ᏄᎶᏒᏍᏛᎾ]] (ᏄᎶᏒᏍᏛᎾ) ᎯᎠ ᎦᏃᎯᎵᏙ
-ᎢᏧᎳ ᏰᎵᏇ ᎦᏛᎬᎢ ᏄᏍᏛ ᎧᏃᎮᏗ ᎯᎠ ᏄᎵᏍᏔᏅ ᎦᏃᎯᎵᏙ; ᎤᎵᏍᎪᎸᏔᏅ <math>\vec p</math> ᎾᏍᏋ ᎯᎠ ᎪᏍᏓᏱ ᎢᏧᎳ ᎠᏚᎳᏗ ᎦᎾᎬᎢ ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏃᎯᎵᏙ, ᎠᎴ ᎤᎵᏍᎪᎸᏔᏅ <math>\vec n</math> ᎾᏍᏋ nonzero ᎢᏚᏳᎪᏛ ᏚᏦᏔᏩᏘ ᎯᎠ ᎠᏍᏓᏅᏅ ᎢᏧᎳ ᎠᏚᎳᏗ ᎾᏍᏋ ᏄᎶᏒᏍᏛᎾ ᎯᎠ ᎦᏃᎯᎵᏙ. ᎯᎠ ᎠᏚᎸᏓ ᎦᏃᎯᎵᏙ ᎨᏒᎢ ᎯᎠ ᎠᏫᏒᏗ ᏂᎦᏛ ᏗᎪᏍᏓᏱ <math>\vec r</math> ᏯᏛᎿ Ꮎ
-:<math>\vec n\cdot(\vec r-\vec p)=0.</math>
+: <math>\sin B = {b \sin A \over a}</math>
 
-ᎢᏳᏃ ᎢᏧᎳ ᎪᏪᎶᏗ <math>\vec n = (a, b, c) </math>, <math>\vec r = (x, y, z) </math>, ᎠᎴ <math>\vec n\cdot\vec p=-d</math>, ᎾᎯᏳᎢ ᎯᎠ ᎦᏃᎯᎵᏙ ᎨᏒᎢ ᏕᎫᎪᏔᏅ ᎾᎥᎢ ᎯᎠ ᏄᏍᏗᏓᏅ
-:<math>ax + by + cz + d = 0</math>,
-ᎭᏢᏃ ''a'', ''b'', ''c'' ᎠᎴ ''d'' ᏰᎵᏇ ᎾᏍᏋ ᏂᎦᎵᏍᏗᏍᎬᎫ [[real number|ᎤᏙᎯᏳ ᎾᏍᎩ ᏎᏍᏗ]]ᏯᏛᎿ Ꮎ ᎾᏍᎩ ᏂᎨᏒᎾ ᏂᎦᏛ ''a'', ''b'', ''c'' ᎠᎴ ᏭᎶᏒᏍᏛ ᎤᏴᏜ. 
+OR
 
-ᏅᎪᏢᎯᏐᏗᏱ, ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᏄᏍᏛ ᎧᏃᎮᎸ parametrically ᏥᏄᏍᏗ ᎯᎠ ᎠᏫᏒᏗ ᏂᎦᏛ ᏗᎪᏍᏓᏱ ᎯᎠ ᎤᏙᏢᏒ 
-:<math>\vec{u} + s\vec{v} + t\vec{w},</math> 
-ᎭᏢᏃ ''s'' ᎠᎴ ''t'' ᎠᏍᏓᏅᏅ ᎦᏬᎯᎸᏙᏗ ᏂᎦᏛ ᎤᏙᎯᏳ ᎾᏍᎩ ᏗᏎᏍᏗ, ᎠᎴ <math>\vec{u}</math>, <math>\vec{v}</math> ᎠᎴ <math>\vec{w}</math> ᎠᎴ ᎠᏓᏁᎸ [[vector (spatial)|ᎢᏚᏳᎪᏛ]]defining ᎯᎠ ᎦᏃᎯᎵᏙ. <math>\vec{u}</math> ᏗᎪᏍᏓᏱ ᏂᏛᎴᏅᏓ ᎯᎠ ᎠᏓᎴᏂᏍᎬ ᎬᏙᏗ ᎪᏍᏓᏱ ᎾᎿ ᎯᎠ ᎦᏃᎯᎵᏙ, ᎠᎴ <math>\vec{v}</math> ᎠᎴ <math>\vec{w}</math> ᏰᎵᏇ ᎾᏍᏋ visualized ᏥᏄᏍᏗ ᎠᏂᎩᏍᏗᏍᎬ ᎾᎾᎢ <math>\vec{u}</math> ᎠᎴ ᎪᏍᏓᏱ ᎭᏫᎾᏗᏢ ᏄᏓᎴᎿᎥ ᏫᏂᏚᏳᎪᏛ ᎨᎳᏛᏍᏗ ᎯᎠ ᎦᏃᎯᎵᏙ. <math>\vec{v}</math> ᎠᎴ <math>\vec{w}</math> ᏰᎵᏇ, ᎠᎴ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᎤᎭ ᎾᏍᏋ ᏄᎶᏒᏍᏛᎾ.
+: <math>\sin (180^\circ - B) = {b \sin A \over a}</math>
 
-===ᎦᏃᎯᎵᏙ ᏗᎬᏩᎶᏒ ᏦᎢ ᏗᎪᏍᏓᏱ===
+== Derivation ==
 
-ᎯᎠ ᎦᏃᎯᎵᏙ ᎦᎶᏍᎬ ᏗᎬᏩᎶᏒ ᏦᎢ ᏗᎪᏍᏓᏱ <math> \vec p_1 = (x_1,y_1,z_1) </math>, <math> \vec p_2 = (x_2,y_2,z_2) </math> ᎠᎴ <math> \vec p_3 = (x_3,y_3,z_3) </math> ᏰᎵᏇ ᎾᏍᏋ ᏕᎫᎪᏔᏅ ᎾᎥᎢ ᎯᎠ ᎠᏍᏓᏩᏗᏒ [[determinant]] ᎠᏓᏃᎮᏗ:
+<div style="float:right;margin:0 0 1em 1em;">[[Image:Law of sines proof.png]]</div>
+Make a triangle with the sides ''a'', ''b'', and ''c'', and angles ''A'', ''B'', and ''C''. Draw a line from the angle ''C'' to the  side across ''c'' so that it divides the original triangle into two right angle triangles. Mark the length of this line ''h''.
 
-:<math>\begin{vmatrix} 
-x - x_1 & y - y_1 & z - z_1 \\
-x_2 - x_1 & y_2 - y_1& z_2 - z_1 \\
-x_3 - x_1 & y_3 - y_1 & z_3 - z_1 
-\end{vmatrix} =\begin{vmatrix} 
-x - x_1 & y - y_1 & z - z_1 \\
-x - x_2 & y - y_2 & z - z_2 \\
-x - x_3 & y - y_3 & z - z_3 
-\end{vmatrix} = 0. </math>
+It can be observed that:
+:<math>\sin A = \frac{h}{b}</math> and <math>\; \sin B = \frac{h}{a}.</math>
 
-ᎪᎯ ᎦᏃᎯᎵᏙ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᏄᏍᏛ ᎧᏃᎮᎸ ᎾᎥᎢ ᎯᎠ "ᎪᏍᏓᏱ ᎠᎴ ᏄᎶᏒᏍᏛᎾ ᎢᏚᏳᎪᏛ" lyudetiyvda ᎦᎸᎳᏗᏢ. ᏗᎾᏙᎳᎩ ᏄᎶᏒᏍᏛᎾ ᎢᏚᏳᎪᏛ ᎨᏒᎢ ᎠᏓᏁᎸ ᎾᎥᎢ ᎯᎠ [[cross product|ᏓᏓᎿᏩᏍᏛ ᎤᏛᏒᎯ]]
-<math>\vec n = ( \vec p_2 - \vec p_1 ) \times ( \vec p_3 - \vec p_1 ), </math>
-ᎠᎴ ᎯᎠ ᎪᏍᏓᏱ <math>\vec p</math> ᏰᎵᏇ ᎾᏍᏋ ᎠᎩᏒᎯ ᎾᏍᏋ <math>\vec p_1</math>.
+Therefore:
+:<math>h = b\,(\sin A) = a\,(\sin B)</math>
 
-===ᎯᎠ ᎾᎿ ᎢᏴᎢ ᏂᏛᎴᏅᏓ ᎪᏍᏓᏱ ᎦᏃᎯᎵᏙ===
+and
+:<math>\frac{a}{\sin A} = \frac{b}{\sin B}.</math>
 
-ᎾᏍᎩᎾᎢ ᎦᏃᎯᎵᏙ <math>ax + by + cz + d = 0</math> ᎠᎴ ᎪᏍᏓᏱ <math>\vec p_1 = (x_1,y_1,z_1) </math> ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏎᎾᏍᎩ ᎢᏳᎵᏍᏙᏗ ᎠᏝᎥ ᎾᎿ ᎯᎠ ᎦᏃᎯᎵᏙ, ᎯᎠ ᎾᎿ ᎢᏴᎢ ᏂᏛᎴᏅᏓ <math>\vec p_1</math> ᎯᎠ ᎦᏃᎯᎵᏙ ᎨᏒᎢ
+Doing the same thing with the line drawn between angle ''A'' and side ''a'' will yield:
+:<math>\frac{b}{\sin B} = \frac{c}{\sin C}.</math>
 
-:<math> D = \frac{\left | a x_1 + b y_1 + c z_1+d \right |}{\sqrt{a^2+b^2+c^2}}. </math>
+'''Full proof:'''
 
-===ᎯᎠ ᎠᏍᏓᏅᏅ ᏗᎦᎾᏗᏫᏍᏗ ᎠᏰᎵ ᏔᎵ ᎦᏃᎯᎵᏙ ===
+Make a triangle ''ABC'' with sides ''a'', ''b'', ''c'' and the ''γ'' angle at ''C''. 
+Make an axis through the center of ''b'' and another through the ''c'' side. Mark the point of intersection of the axis ''S''.
+Draw a circle ''k'' with its center in ''S'' with the radius ''r = |SA| = |SB| = |SC|'' (the [[Circumcircle]]).
+Through the medial angle law, the angle at S is 2*''γ''.
 
-ᎠᏓᏁᎸ ᏗᎦᎾᏗᏫᏍᏗ ᎦᏃᎯᎵᏙ ᏄᏍᏛ ᎧᏃᎮᎸ ᎾᎥᎢ <math>\vec n_1\cdot \vec r = h_1</math> ᎠᎴ <math>\vec n_2\cdot \vec r = h_2</math>, ᎯᎠ ᎠᏍᏓᏅᏅ ᏗᎦᎾᏗᏫᏍᏗ ᎨᏒᎢ ᏄᎶᏒᏍᏛᎾ ᎢᏧᎳ <math>\vec n_1</math> ᎠᎴ <math>\vec n_2</math> ᎠᎴ ᎯᎠ ᎢᏴ ᏚᏦᏔᏩᏘ <math>\vec n_1 \times \vec n_2</math> .
+Thus, it can be observed that:
+:<math>\sin \gamma = \frac{\frac{c}{2}}{r}</math>
 
-ᎢᏳᏃ ᎢᏧᎳ ᎤᏗᏗᏢ ᎢᏰᎵᏍᏗ Ꮎ <math>\vec n_1</math> ᎠᎴ <math>\vec n_2</math> ᎠᎴ [[orthonormal]] ᎾᎯᏳᎢ ᎯᎠ closest ᎪᏍᏓᏱ ᎾᎿ ᎯᎠ ᎠᏍᏓᏅᏅ ᏗᎦᎾᏗᏫᏍᏗ ᎯᎠ ᎠᏓᎴᏂᏍᎬ ᎨᏒᎢ
-<math>\vec r_0 = h_1\vec n_1 + h_2\vec n_2</math> .
+or:
+:<math>\sin \gamma = \frac{c}{2r}</math> 
 
-=== ᎯᎠ dihedral ᏓᏍᏓᏅᏅ ᏚᎷᏨ ===
+and then
+:<math>\frac{c}{\sin \gamma} = {2r}</math> 
 
-ᎠᏓᏁᎸ ᏔᎵ ᏗᎦᎾᏗᏫᏍᏗ ᎦᏃᎯᎵᏙ ᏄᏍᏛ ᎧᏃᎮᎸ ᎾᎥᎢ <math>a_1 x + b_1 y + c_1 z + d_1 = 0</math> ᎠᎴ <math>a_2 x + b_2 y + c_2 z + d_2 = 0</math>, ᎯᎠ [[dihedral angle|dihedral ᏓᏍᏓᏅᏅ ᏚᎷᏨ]] ᎠᏰᎵ ᎠᏂ ᎨᏒᎢ ᎧᏁᎢᏍᏔᏅᎯ ᎾᏍᏋ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ <math>\alpha</math> ᎠᏰᎵ ᎤᎾᏤᎵ ᏄᎶᏒᏍᏛᎾ ᏫᏂᏚᏳᎪᏛ:
-:<math>\cos\alpha = \hat n_1\cdot \hat n_2 = \frac{a_1 a_2 + b_1 b_2 + c_1 c_2}{\sqrt{a_1^2+b_1^2+c_1^2}\sqrt{a_2^2+b_2^2+c_2^2}}. </math>
+Applying cyclic permutation:
 
-==ᎯᎠ ᎦᏃᎯᎵᏙ ᎭᏫᎾᏗᏢ ᏐᎢ ᎡᏍᎦᏂ ᏗᏎᏍᏗ ᎤᎬᏩᎵ==
-ᎭᏫᎾᏗᏢ ᎦᏟᏐᏗᎩ Ꮝ ᎠᏓᏙᎳᎩ [[geometric]] ᎠᏛᎯᏍᏙᏗ, ᎬᏙᏗ [[isomorphism|ᎤᏙᏢᏒ]]Ꮎ ᎠᎴ [[isometries]] ᎬᏙᏗ ᎪᎯᏳᎯ ᎯᎠ ᎤᏠᏱ ᎭᏫᎾᏗᏢ ᎤᏛᏒᎯ, ᎯᎠ ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎾᏍᏋ viewed ᎾᎾᎢ ᏧᏓᎴᏅᏓ ᏐᎢ ᎤᏩᎾᏕᏍᎩ [[Abstraction (mathematics)|ᎪᏣᎴᏛ]]. ᎠᏂᏏᏴᏫᎭ ᎤᏩᎾᏕᏍᎩ ᎪᏣᎴᏛ ᏗᏓᏛᎪᏗ ᏗᎪᏍᎩ [[category (mathematics)|ᎤᎾᏓᏟᏌᎲ]].
+:<math>{\frac{a}{\sin \alpha}}={\frac{b}{\sin \beta}}={\frac{c}{\sin \gamma}}={2r}</math><span style='color: silver; font-size: 8px;'>(č.b.t.d)</span>
 
-ᎾᎾᎢ ᏌᏊ ᎦᎶᏒᏍᏔᏅ, ᏂᎦᏛ geometrical ᎠᎴ [[metric (mathematics)|ᎠᏟᎶᏍᏗ ᎦᏙᎯ]] ᎠᏓᏅᏖᏗ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎤᏬᎭᏒᎩ ᎠᏓᏅᏍᏗ ᎯᎠ [[topological]] ᎦᏃᎯᎵᏙ, ᎦᏙ ᎤᏍᏗ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᏁᎵᏒ ᏥᏄᏍᏗ idealised  [[homotopy|homotopically]] ᏱᏓᏟᎶᏍᏔᏅ ᎢᎪᎯᏓ ᎨᏒ ᎠᎹ ᎦᏄᎪᎬ ᏗᎬᎯᏓ, ᎦᏙ ᎤᏍᏗ ᏗᎦᏂᏴᎯ ᎢᎬᏁᎸ ᎢᏰᎵᏍᏗ ᎾᎥᏂᎨᏍᏙᏗ, ᎠᎴ ᎤᎭ Ꮭ ᎾᎿ ᎢᏴᎢ. ᎯᎠ topological ᎦᏃᎯᎵᏙ ᎤᎭ ᎠᏓᏅᏖᏗ ᎦᏌᏆᎸ ᎤᏍᏗ ᎦᏅᏅ, ᎠᎴ Ꮭ ᎠᏓᏅᏖᏗ ᎦᏥᏃᏍᏛ ᎠᏍᏓᏅᏅ. ᎯᎠ topological ᎦᏃᎯᎵᏙ, ᎠᎴ Ꮝ ᎢᏗᎦᏘᎭ ᎯᎠ ᎠᏍᏚᎢᏛ ᏙᏯᏗᏢ, ᎨᏒᎢ ᎯᎠ ᏄᏦᏍᏛᎾ topological neighbourhood ᎬᏔᏅᎯ ᎠᏛᎯᏍᏙᏗ [[surface|ᎦᏚᎢ]](ᎠᎴ 2-ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ) classified ᎭᏫᎾᏗᏢ [[low-dimensional topology|ᎡᎳᏗ-dimensional topology]]. ᎤᏙᏢᏒ ᎯᎠ topological ᎦᏃᎯᎵᏙ ᎠᎴ ᏂᎦᏛ [[continuity (mathematics)|ᏫᎬᎵᏱᎵᏒ]] [[bijection]]. ᎯᎠ topological ᎦᏃᎯᎵᏙ ᎨᏒᎢ ᎯᎠ ᏂᎬᏩᏍᏛ ᏄᏍᏗᏓᏅ ᎾᏍᎩᎾᎢ ᎯᎠ ᎤᏩᏂᎦᎸ [[graph theory|graph ᎪᎷᏩᏛᏗ]] Ꮎ ᏗᏓᏅᏓᏁᏗᏱ ᎬᏙᏗ [[planar graphs]], ᎠᎴ ᏂᏚᎵᏍᏔᏅ ᏯᏛᎿ ᏥᏄᏍᏗ ᎯᎠ [[four color theorem|ᏅᎩ ᏗᎧᏃᏗ ᎢᏳᏍᏗ ᎧᏃᎮᏗ]].
+== ᏱᏓᏟᎶᏍᏔᏅ ==
 
-ᎯᎠ ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ viewed ᏥᏄᏍᏗ [[affine space|affine ᎤᏜᏅᏛ]], ᎾᏍᎩ ᎤᏤᎵ ᎤᏙᏢᏒ ᎠᎴ ᎤᎾᏓᏟᏌᏅ ᎠᏁᏢᏔᏅᎯ ᎠᎴ ᎬᏙᏗ-ᏫᏚᏳᎪᏛ ᎦᏌᏆᎸ ᎡᎶᎯ ᏗᏟᎶᏍᏔᏅ. ᏂᏛᎴᏅᏓ ᎪᎯ viewpoint ᎾᎿᎢ ᎠᎴ Ꮭ ᎾᎿ ᎢᏴᎢ, ᎠᎴ [[colinear]]ity ᎠᎴ ᎠᎾᎵᏐᏈᎸᏍᎬ ᎾᎿ ᎢᏴᎢ ᎾᎿ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᏍᏓᏅᏅ ᎠᎴ ᏄᎾᏰᎯᏍᏛᎾ.
+ᎠᎭᏂ ᎨᏒᎢ ᏱᏓᏟᎶᏍᏔᏅ ᎯᎳᎪ ᎤᎦᎾᏭ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ:
 
-[[Differential geometry|ᏎᏍᏗ ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ]] ᏫᏓᎧᏃᏗᏱ ᎦᏃᎯᎵᏙ ᏥᏄᏍᏗ 2-dimensional ᎤᏙᎯᏳ ᎾᏍᎩ [[manifold|ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ]], topological ᎦᏃᎯᎵᏙ ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎠᏓᏁᎳᏅ ᎬᏙᏗ [[differential structure|ᏎᏍᏗ ᎠᏛᎯᏍᏙᏗ]]. ᎠᏏᏇ ᎭᏫᎾᏗᏢ ᎪᎯ ᎦᎸᏛ ᎧᏁᏌᎢ, ᎾᎿᎢ ᎨᏒᎢ Ꮭ ᎢᏰᎵᏍᏗ ᎾᎿ ᎢᏴᎢ, ᎠᎴ ᎾᎿᎢ ᎨᏒᎢ ᎾᏊ ᎠᏓᏅᏖᏗ ᎦᏃᎯᎵᏙ ᎡᎶᎯ ᏗᏟᎶᏍᏔᏅ, ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ [[differentiable]] ᎠᎴ [[smooth function|ᎤᏩᎾᏕᏍᎩ]] ᎤᏍᏗ ᎦᏅᏅ (ᎥᎵᏍᎦᏍᏙᏗᏍᎬ ᎾᎿ ᎯᎠ ᏗᎦᎪᏗ ᏎᏍᏗ ᎠᏛᎯᏍᏙᏗ ᎢᎬᎾᏔᏅᎯ). ᎯᎠ ᎤᏙᏢᏒ ᎭᏫᎾᏗᏢ ᎪᎯ ᎦᎸᏛ ᎧᏁᏌᎢ ᎠᎴ bijections ᎬᏙᏗ ᎯᎠ ᎠᏑᏰᏛ ᎢᎦᎢ ᎢᎦᏘ differentiability.
+ᎠᏓᏁᎸ: ᎠᏍᏆᎨᏂ ''a'' = 10, ᎠᏍᏆᎨᏂ ''c'' = 7, ᎠᎴ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' = 30 ᎢᎦᎢ ᎢᏗᎦᏘ
 
-ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᎿᏗᏢ ᎢᏚᏳᎪᏛ ᎪᏣᎴᏛ, ᎢᏧᎳ ᎠᎾᏍᎬᏘ ᎢᎬᎾᏙᏗ ᏓᏓᏁᏤᎸ ᏠᎨᏏ ᎠᏛᎯᏍᏙᏗ ᎯᎠ geometric ᎦᏃᎯᎵᏙ, ᎠᎾᏓᏁᎲ ᎤᎵᏌᎳᏙᏗ ᎯᎠ [[complex plane|ᏂᎦᏛ ᎦᏃᎯᎵᏙ]] ᎠᎴ ᎯᎠ ᎠᏂᏯᏩᏍᎩ ᏄᎬᏫᏳᏒ ᎡᏍᎦᏂ [[complex analysis|ᏂᎦᏛ ᏗᎫᎪᏙᏗ ᎢᎬᏁᏗ]]. ᎯᎠ ᏂᎦᏛ ᏠᎨᏏ ᎤᎭ ᎾᏍᎩ ᎤᏩᏒ ᏔᎵ ᎤᏙᏢᏒ, ᎯᎠ ᎢᏗᎦᏘᎭ ᎠᎴ [[complex conjugation|ᏔᎵ]]. 
+ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ, ᎢᏧᎳ ᎣᎾᏛ Ꮎ :<math>\frac{a}{\sin A} = \frac{c}{\sin C}.</math>
 
-ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏠᏱ ᎦᎶᎯᏍᏗ ᏥᏄᏍᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏙᎯᏳ ᎾᏍᎩ ᎦᎸᏛ ᎧᏁᏌᎢ, ᎯᎠ ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ viewed ᏥᏄᏍᏗ ᎯᎠ simplest, ᏌᏊ-dimensional (ᎦᏬᎯᎸᏙᏗ ᎯᎠ ᏂᎦᏛ ᏗᏎᏍᏗ) [[complex manifold|ᏂᎦᏛ ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ]], ᏱᏓᏟᎶᏍᏔᏅ ᎤᏯᏅᎲ ᎯᎠ ᏂᎦᏛ ᎠᏍᏓᏅᏅ. ᏱᏂᎬᏛᎾ, ᎪᎯ viewpoint ᏧᏓᎴᎾᎢ ᎪᏍᏓᏯ ᎬᏙᏗ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ ᎯᎠ ᎦᏃᎯᎵᏙ ᏥᏄᏍᏗ 2-dimensional ᎤᏙᎯᏳ ᎾᏍᎩ ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ. ᎯᎠ ᎤᏙᏢᏒ ᎠᎴ ᏂᎦᏛ [[conformal]] bijections ᎯᎠ ᏂᎦᏛ ᎦᏃᎯᎵᏙ, ᎠᎴ ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ possibilities ᎠᎴ ᎡᎶᎯ ᏗᏟᎶᏍᏔᏅ Ꮎ ᏗᏓᏛᎪᏗ ᎯᎠ ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ ᎠᏓᏃᎮᏗ ᎾᎥᎢ ᏂᎦᏛ ᏎᏍᏗ ᎠᎴ ᎠᏁᏢᏔᏅᎯ.
+Plugging ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏓᏁᎸ ᏧᎬᏩᎶᏗᎢ, ᎢᏧᎳ ᎠᏩᏛᏗ Ꮎ :<math>\frac{10}{\sin A} = \frac{7}{\sin 30}.</math>
 
-ᎭᏫᎾᏗᏢ ᎦᏟᏐᏗᎩ, ᎯᎠ Euclidean ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ (ᎦᏙ ᎤᏍᏗ ᎤᎭ ᏭᎶᏒᏍᏛ ᎤᏴᏜ [[curvature|ᎠᏗᏌᏓᏗᏍᏗ]] ᏂᎬᎾᏓ) ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ Ꮎ ᎯᎠ ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎤᎭ. ᎯᎠ ᎦᏃᎯᎵᏙ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎠᏓᏁᎸ [[spherical geometry|ᎦᏐᏆᎸ ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ]] ᎾᎥᎢ ᎬᏗᏍᎬᎢ ᎯᎠ [[stereographic projection|stereographic ᏂᎯ]]. ᎪᎯ ᏰᎵᏇ ᎾᏍᏋ ᏁᎵᏒ ᏥᏄᏍᏗ ᏩᎲᏍᎬ ᎢᎦᎢ ᎢᎦᏘ ᎾᎿ ᎯᎠ ᎦᏃᎯᎵᏙ (ᎣᏍᏛ ᎾᏍᎩᏯᎢ ᎠᎳᏍᎦᎶᏗ ᎾᎿ ᎯᎠ ᎠᏯᏖᏃᎯ), ᎠᏂᎲᏍᎬ ᎯᎠ ᎦᏚᎢ ᎪᏍᏓᏱ, ᎠᎴ ᎦᏛᎢ ᎯᎠ ᎢᎦᎢ ᎢᎦᏘ onto ᎯᎠ ᎦᏃᎯᎵᏙ ᏂᏛᎴᏅᏓ ᎪᎯ ᎪᏍᏓᏱ). ᎪᎯ ᎨᏒᎢ ᏌᏊ ᎯᎠ ᏂᎯ Ꮎ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎠᏃᏢᏍᎬ ᎤᏩᎾᏕᏍᎩ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ ᎢᎦᏛ ᎯᎠ ᎡᎶᎯ ᎤᏤᎵ ᎦᏚᎢ. ᎯᎠ ᏄᎵᏍᏔᏅ ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ ᎤᎭ ᏂᎪᎯᎸ ᎤᏙᎯᏳ ᎠᏗᏌᏓᏗᏍᏗ. 
+ᎬᏫᏍᏓᏗ, ᎯᎠ ᎠᎷᏚᎧᏘ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎢᏗᎦᏗ 5/7, ᎠᎴ ᎾᎥᏂᎨᏍᏙᏗᏇ 0.714. ᎯᎠ ᎢᏴ, ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎢᏗᎦᏗ 45.58 ᎢᎦᎢ ᎢᏗᎦᏘ.
 
-ᏅᎪᏢᎯᏐᏗᏱ, ᎯᎠ ᎦᏃᎯᎵᏙ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎠᏓᏁᎸ ᎠᏟᎶᏍᏗ ᎦᏙᎯ ᎦᏙ ᎤᏍᏗ ᎠᏓᏁᏗ ᎾᏍᎩ ᏂᎪᎯᎸ ᏗᎦᏘᎴᎩ ᏄᏍᏛ ᎧᏃᎮᏗ ᎠᏗᏌᏓᏗᏍᏗ ᎠᎾᏓᏁᎲ ᎯᎠ [[Hyperbolic geometry|hyperbolic ᎦᏃᎯᎵᏙ]]. ᎯᎠ ᎣᏂᏯᎨ ᎤᏝᏅᏓᏕᎲ ᎠᏩᏛᏓ ᎠᏔᏲᏍᏙᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᎪᎷᏩᏛᏗ [[special relativity|ᎤᏤᎵᏛ relativity]] ᎭᏫᎾᏗᏢ ᎯᎠ simplified ᎦᎸᏛ ᎧᏁᏌᎢ ᎭᏢᏃ ᎾᎿᎢ ᎨᏒᎢ ᏌᏊ ᏂᎦᏅᎯᏒ ᎤᏜᏅᏛ ᎠᎴ ᏌᏊ iyuwakodi.
+ᎠᎴ ᏄᏓᎴ ᏱᏓᏟᎶᏍᏔᏅ ᎯᎳᎪ ᎤᎦᎾᏭ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ: 
 
-==ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ==
+ᎢᏳᏃ ᏔᎵ ᏗᏍᏆᎨᏂ ᎯᎠ ᏦᎢ ᎠᎴ ᎢᏗᎦᏗ ''R'' ᎠᎴ ᎯᎠ ᏂᎦᏅᎯᏒ ᎯᎠ ᏦᎢᏁ ᎠᏍᏆᎨᏂ, ᎯᎠ [[chord]], ᎨᏒᎢ ᎠᏓᏁᎸ ᏥᏄᏍᏗ 100' (30.48 m) ᎠᎴ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' '''''ᎠᎿᏗᏢ''''' ᎯᎠ chord ᎨᏒᎢ ᎠᏓᏁᎸ ᎭᏫᎾᏗᏢ '''''ᎢᎦᎢ ᎢᏗᎦᏘ''''', ᎾᎯᏳᎢ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' = ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''B'' = :<math>{(180-C) \over 2}</math> ᎠᎴ
 
-*[[Half-plane|ᎠᏰᎵ ᎢᏴ-ᎦᏃᎯᎵᏙ]]
-*[[Hyperplane]]
-*[[Line-plane intersection|ᎠᏍᏓᏅᏅ-ᎦᏃᎯᎵᏙ ᏗᎦᎾᏗᏫᏍᏗ]]
+:<math>{R \over \sin A}={\mbox{chord} \over \sin C}\,</math> '''''ᎠᎴ'''''  <math>{R \over \sin B}={\mbox{chord} \over \sin C}\,</math>
 
-==ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ==
-* [http://mathworld.wolfram.com/Plane.html Mathworld: Plane]
+<!-- extra blank line for legibility -->
 
-[[Category:Euclidean geometry|*]]
-[[Category:Surfaces]]
+:<math>{\mbox{chord} \,\sin A \over \sin C} = R</math> '''''ᎠᎴ'''''  <math>{\mbox{chord} \,\sin B \over \sin C} = R</math>
 
-[[af:Vlak]]
-[[bg:Равнина (математика)]]
-[[ca:Pla]]
-[[cs:Rovina]]
-[[da:Plan (matematik)]]
-[[de:Ebene (Mathematik)]]
-[[en:Plane Mathmetics]]
-[[et:Tasand]]
-[[es:Plano (geometría)]]
-[[fr:Plan (mathématiques)]]
-[[io:Plano]]
-[[it:Piano (geometria)]]
-[[he:מישור (גאומטריה)]]
-[[nl:Vlak]]
-[[ja:平面]]
-[[nds:Flach (Mathematik)]]
-[[pl:Płaszczyzna]]
-[[pt:Plano (geometria)]]
-[[ru:Плоскость (в математике)]]
-[[sl:Ravnina]]
-[[sr:Раван]]
-[[fi:Taso]]
-[[sv:Plan]]
-[[zh:平面]]
+ᎪᎯ ᎨᏒᎢ ᎤᏴᏢ ᏴᏩᏁᎬ [[railroad|ᏔᎷᎩᏍᎩ ᏅᏃᎯ]] [[surveying|ᎠᏟᎶᏍᏗ ᎦᏙᎯ]] ᎠᎵᏏᎾᎯᏍᏙᏗ.
+
+== ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ ==
+
+* [[Triangulation]]
+* [[Law of cosines|ᏗᎧᎿᏩᏛᏍᏗ  ᎠᎷᏚᎧᏘ]]
+* [[Law of tangents|ᏗᎧᎿᏩᏛᏍᏗ  ᏚᏓᏂᏴᏒ]]
+* [[Surveying|ᎠᏟᎶᏍᏗ ᎦᏙᎯ]]
+
+== ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ ==
+
+* [http://home.alltel.net/okrebs/page93.html Excellent tutorial on the law of sines]
+* [http://www.cut-the-knot.org/proofs/sine_cosine.shtml#law The Law of Sines] ᎾᎾᎢ [[cut-the-knot|ᎠᏰᎳᏍᏗ-ᎯᎠ-ᏓᎧᏁᎲ]]
+* [http://www.du.edu/~jcalvert/railway/degcurv.htm Degree of Curvature]
+
+[[Category:Trigonometry]]
+[[Category:Angle]]
+
+[[bg:Синусова теорема]]
+[[cs:Sinová věta]]
+[[da:Sinusrelation]]
+[[de:Sinussatz]]
+[[en:Law of sines]]
+[[es:Teorema del seno]]
+[[fr:Loi des sinus]]
+[[ko:사인 법칙]]
+[[id:Hukum sinus]]
+[[it:Teorema dei seni]]
+[[he:משפט הסינוסים]]
+[[nl:Sinusregel]]
+[[ja:正弦定理]]
+[[pl:Twierdzenie sinusów]]
+[[pt:Lei dos senos]]
+[[ru:Теорема синусов]]
+[[sl:Sinusni izrek]]
+[[sr:Синусна теорема]]
+[[fi:Sinilause]]
+[[sv:Sinussatsen]]
+[[tr:Sinüs teoremi]]
+[[uk:Теорема синусів]]
+[[zh:正弦定理]]
