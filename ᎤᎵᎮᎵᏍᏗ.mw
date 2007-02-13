@@ -37,38 +37,19 @@ OR
 
 == Derivation ==
 
-<div style="float:right;margin:0 0 1em 1em;">[[Image:Law of sines proof.png]]</div>
-Make a triangle with the sides ''a'', ''b'', and ''c'', and angles ''A'', ''B'', and ''C''. Draw a line from the angle ''C'' to the  side across ''c'' so that it divides the original triangle into two right angle triangles. Mark the length of this line ''h''.
-
-It can be observed that:
 :<math>\sin A = \frac{h}{b}</math> and <math>\; \sin B = \frac{h}{a}.</math>
 
-Therefore:
 :<math>h = b\,(\sin A) = a\,(\sin B)</math>
 
-and
 :<math>\frac{a}{\sin A} = \frac{b}{\sin B}.</math>
 
-Doing the same thing with the line drawn between angle ''A'' and side ''a'' will yield:
 :<math>\frac{b}{\sin B} = \frac{c}{\sin C}.</math>
 
-'''Full proof:'''
-
-Make a triangle ''ABC'' with sides ''a'', ''b'', ''c'' and the ''γ'' angle at ''C''. 
-Make an axis through the center of ''b'' and another through the ''c'' side. Mark the point of intersection of the axis ''S''.
-Draw a circle ''k'' with its center in ''S'' with the radius ''r = |SA| = |SB| = |SC|'' (the [[Circumcircle]]).
-Through the medial angle law, the angle at S is 2*''γ''.
-
-Thus, it can be observed that:
 :<math>\sin \gamma = \frac{\frac{c}{2}}{r}</math>
 
-or:
 :<math>\sin \gamma = \frac{c}{2r}</math> 
 
-and then
 :<math>\frac{c}{\sin \gamma} = {2r}</math> 
-
-Applying cyclic permutation:
 
 :<math>{\frac{a}{\sin \alpha}}={\frac{b}{\sin \beta}}={\frac{c}{\sin \gamma}}={2r}</math><span style='color: silver; font-size: 8px;'>(č.b.t.d)</span>
 
