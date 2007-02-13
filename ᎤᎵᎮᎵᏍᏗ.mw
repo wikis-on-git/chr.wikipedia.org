@@ -24,10 +24,6 @@
 
 * ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ ᎠᏓᏃᎯᏎᏗ ᎤᎾᏅᏛ ᎬᏩᏚᏫᏛ ᎯᎠ ᏦᎢ ᎨᏒᎢ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎠᎴ ᎯᎠ ᏗᏍᏆᎨᏂ ''a'' ᎠᎴ ''b'', ᎭᏢᏃ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎯᎠ ᏔᎵ ᏗᏍᏆᎨᏂ (ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᎳᏗᏢ ᎾᏍᎩᏯᎢ ᎾᏍᎩ isn't, ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' ᎨᏒᎢ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ).
 * ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᏄᎵᏂᎬᎬ (ᎠᏯ.e., < 90°).
-* The side ''a'' is shorter than the side ''b'' (i.e., ''a'' < ''b'').
-* The angle ''B'' is not a right angle (i.e., ''a'' > ''b'' sin ''A'').
-
-Given all of the above premises are true, the angle ''B'' may be acute or obtuse; meaning, one of the following is true:
 
 : <math>\sin B = {b \sin A \over a}</math>
 
