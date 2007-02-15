@@ -1,0 +1,496 @@
+{{Table Unicode}}
+{{SpecialChars}}
+
+'''Unicode''' ᎨᏒᎢ [[industry standard|ᏗᎦᎸᏫᏍᏓᏁᏗ ᏰᎵᏊ ᏗᏙᎳᎩ]] ᎠᏎᎸ ᎢᏗᎬᏁᏗ ᎠᎵᏍᎪᎸᏙᏗ [[text|ᏓᎵᏍᏛ]] ᎠᎴ ᏗᎬᏟᎶᏍᏙᏗ ᏂᏛᎴᏅᏓ ᏂᎦᏛ ᎯᎠ [[writing systems|ᎠᏃᏪᎵᏍᎬ iyahdvnelidasdi]] ᎯᎠ ᎡᎶᎯ ᎾᏍᏋ ᎤᏠᏱᎭ ᏄᏓᏛᏁᎸᎩ ᎠᎴ manipulated ᎾᎥᎢ [[computer|ᎡᎵᏍ]]. ᎤᏙᎷᏩᏛᏓ ᎭᏫᎾᏗᏢ ᏂᎦᏅᎯᏒ ᎬᏙᏗ ᎯᎠ [[Universal Character Set|ᎢᎬᏩᎾᏓᎴᎩ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ]] ᏰᎵᏊ ᏗᏙᎳᎩ ᎠᎴ ᎦᎴᏴᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎪᏪᎵ ᎤᏙᏢᏒ ᏥᏄᏍᏗ ''ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ'', Unicode ᎤᎾᏠᏯᏍᏗ [[character (computing)|ᎠᎦᏓᏅᏖᏗ]] ᏓᎾᏛᏁᎵᏍᎬ, [[encode|encoding]] methodology ᎠᎴ ᎠᏫᏒᏗ ᏰᎵᏊ ᏗᏙᎳᎩ [[character encoding|ᎠᎦᏓᏅᏖᏗ encoding]], ᎠᏫᏒᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏓᏃᎯᏎᏗ ᎾᏍᎩᎾᎢ ᎠᎪᏩᏛᏗ ᏩᏎᎸᎯ, ᎠᏓᏃᎮᏗ ᎠᎦᏓᏅᏖᏗ properties ᏯᏛᎿ ᏥᏄᏍᏗ ᎦᎸᎳᏗᏢ ᎠᎴ ᎡᎳᏗᎨ [[letter case|ᎦᎸᏛ ᎧᏁᏌᎢ]], ᎠᏫᏒᏗ ᏩᏎᎸᎯ ᎾᎯᏳ ᎢᎪᎯ [[computer file|ᎡᎵᏍ ᎠᏝᎥᎢ]], ᎠᎴ ᏗᎫᎪᏔᏅ ᎾᏍᎩᎾᎢ normalization, ᎠᎽᏰᎵ, [[collation|ᎠᎵᏍᏓᏴᏗ]] ᎠᎴ ᏩᏎᏍᏗ ᎾᎿ.
+
+ᎯᎠ [[Unicode Consortium]], ᎯᎠ ᎬᏙᏗ-ᎪᏢᏔᏅ ᎤᎾᏙᏢᎯ Ꮎ ᎠᏟᎶᏍᏗ ᎦᏙᎯ Unicode ᎤᏤᎵ ᏚᏙᎳᏩᏛᎲ, ᎤᎭ ᎯᎠ ᎠᏂᎦᎵᏴᎢ ᎤᎵᏍᏛ ᏭᎵᏱᎶᎸ replacing ᎬᏂᎨᏒ ᏄᏍᏛ ᎠᎦᏓᏅᏖᏗ encoding ᎠᏓᏅᏖᏗ ᎬᏙᏗ Unicode ᎠᎴ Ꮝ ᏰᎵᏊ ᏗᏙᎳᎩ Unicode ᏧᎾᏍᏗ Format (UTF) ᎠᏓᏅᏖᏗ, ᏥᏄᏍᏗ ᎤᎪᏗᏗ ᎯᎠ ᎬᏂᎨᏒ ᏄᏍᏛ ᎠᏓᏅᏖᏗ ᎠᎴ ᏩᏎᎸᎯ ᎭᏫᎾᏗᏢ ᏂᎬᎢ ᎠᎴ ᎢᎦᎢ ᎢᎦᏘ, ᎠᎴ ᎠᎴ ᏂᏓᏙᎳᎬᎾ ᎬᏙᏗ [[multilingualism|multilingual]] ᏄᏍᏗᏓᏅ. Unicode ᎤᏤᎵ ᎦᏣᏄᎳ ᎾᎾᎢ unifying ᎠᎦᏓᏅᏖᏗ ᏗᏫᏒᏗ ᎤᎭ ᎤᏗᏅᏒᎩ Ꮝ ᏂᎬᎢ ᎠᎴ ᎾᏓᏛᏂᏌᏁᎲ ᎬᏙᏗ ᎭᏫᎾᏗᏢ ᎯᎠ [[internationalization]] ᎠᎴ [[localization|ᎦᎷᎯᏍᏗ]] [[computer software|ᎡᎵᏍ software]]. ᎯᎠ ᏰᎵᏊ ᏗᏙᎳᎩ ᎤᎭ ᏭᏪᏙᎢ implemented ᎭᏫᎾᏗᏢ ᎤᎪᏗᏗ ᎾᏞᎬ technologies, ᎠᏠᏯᏍᏗᏍᎩ [[XML]], ᎯᎠ [[Java programming language|Java programming ᎦᏬᏂᎯᏍᏗ]], ᎠᎴ ᎪᎯᏊ ᎢᏴ ᏥᎩ [[operating system|ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi]].
+
+== ᎠᏓᎴᏂᏍᎬ ᎠᎴ ᏚᏙᎳᏩᏛᎲ ==
+
+Unicode ᎤᎭ ᎯᎠ ᎦᏛᎬᎢ ᎠᎵᏐᏍᏛ ᏂᎬᎢ ᎯᎠ ᎪᏪᎵ ᎠᏍᏚᏗ ᎧᏃᎮᎸᎯ [[character encoding|ᎠᎦᏓᏅᏖᏗ encoding]], ᏯᏛᎿ ᏥᏄᏍᏗ ᎾᏍᎩ ᎧᏁᎢᏍᏔᏅᎯ ᎾᎥᎢ ᎯᎠ [[ISO 8859]] ᏰᎵᏊ ᏗᏙᎳᎩ ᎦᏙ ᎤᏍᏗ ᎠᏩᏛᏗ ᎠᏯᏖᎾ ᏓᎦᏘᎴᎬ ᎭᏫᎾᏗᏢ ᏧᏓᎴᏅᏓ ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ ᎯᎠ ᎡᎶᎯ, ᎠᎴ ᏂᎦᏰᏙᎲ ᎡᏆᏯ ᏂᏓᏙᎳᎬᎾ ᎬᏙᏗ ᎠᏂᏏᏴᏫᎭ ᏐᎢ. ᎤᎪᏗᏗ ᎧᏃᎮᎸᎯ ᎠᎦᏓᏅᏖᏗ encodings ᎠᏓᏲᏔᎡᏗ ᏧᏣᏔᏊ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎭᏫᎾᏗᏢ Ꮎ ᎤᏅᏌ ᎠᎵᏍᎪᎸᏙᏗ ᎦᏬᏂᎯᏍᏗ ᎡᎵᏍ ᏧᎵᎬᏩᎳᏅᎯ (ᎤᏠᏱᎭ ᎬᏗᏍᎬᎢ [[Roman character|ᎶᎻ ᎠᎦᏓᏅᏖᏗ]]ᎠᎴ ᎯᎠ ᎾᎥᎢ ᎦᏬᏂᎯᏍᏗ), ᎠᎴ ᎾᏍᎩ ᏂᎨᏒᎾ multilingual ᎡᎵᏍ ᏧᎵᎬᏩᎳᏅᎯ (ᎡᎵᏍ ᏧᎵᎬᏩᎳᏅᎯ ᎬᏙᏗ ᏗᎦᏬᏂᎯᏍᏗ ᎦᏟᏌᏅ ᎬᏙᏗ ᎠᏂᏏᏴᏫᎭ ᏐᎢ).
+
+Unicode, ᎭᏫᎾᏗᏢ ᎢᏰᎵᏍᏗ, encodes ᎯᎠ underlying [[character (computing)|ᎠᎦᏓᏅᏖᏗ]]— [[grapheme]]ᎠᎴ grapheme-ᎾᏍᎩᏯᎢ ᏌᏊᎭ — ᎤᏟ ᎬᏰᎸᏗ ᎬᎾᏬᏍᎬ ᎯᎠ variant [[glyph]](ᏩᏎᏍᏗ ᎾᎿ) ᎾᏍᎩᎾᎢ ᏯᏛᎿ ᎠᎦᏓᏅᏖᏗ. ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ [[Chinese character|Chinese ᎠᎦᏓᏅᏖᏗ]], ᎪᎯ ᏱᏓᏟᎶᏍᏔᏅ ᏫᏚᏳᎪᏛ controversies ᎦᏬᎯᎸᏙᏗ ᏧᏓᎴᎿᎢ ᎯᎠ underlying ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ Ꮝ variant glyphs (ᎠᎪᏩᏛᏗ [[Han unification|Han ᎤᎾᏓᏟᏌᏅ]]).
+
+ᎭᏫᎾᏗᏢ ᏓᎵᏍᏛ ᏧᎵᎬᏩᎳᏅᎯ, Unicode ᎠᎩᏍᎪᎢ ᎯᎠ ᎠᏛᏁᎵᏍᎩ ᎤᏍᏆᎸᎡᎲ ᎠᎾᏓᏁᎳᏍᎬ ᏧᏓᎴᎿᎢ ''ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ'' — ᏎᏍᏗ, ᎾᏍᎩ ᏂᎨᏒᎾ glyph — ᎾᏍᎩᎾᎢ ᎠᏂᏏᏴᏫᎭ ᎠᎦᏓᏅᏖᏗ. ᎭᏫᎾᏗᏢ ᏐᎢ ᎤᏂᏁᏨ, Unicode ᎾᏓᏛᏁ ᎠᎦᏓᏅᏖᏗ ᎭᏫᎾᏗᏢ ᎠᏓᏓᎶᏙᏗ ᎦᎶᎯᏍᏗ, ᎠᎴ ᏧᎦᎶᎦ ᎯᎠ ᎠᎪᏩᏛᏗ ᏩᏎᏍᏗ ᎾᎿ (ᏂᎬᎢ, ᎤᏙᏢᏒᎢ, [[font|ᏂᎬᏂᏏᏍᎬ]] ᎠᎴ ᎠᏣᏅᏗ) ᏐᎢ software, ᏯᏛᎿ ᏥᏄᏍᏗ [[web browser|ᎤᏂᏏᎳᏛ browser]] ᎠᎴ [[word processor|ᎧᏁᏨ processor]]. ᎪᎯ ᏄᏦᏍᏛᎾ ᎠᎵᏐᏍᏛ ᏗᏙᎳᎩ ᏓᎧᏁᎲ, ᏱᏂᎬᏛᎾ, ᎾᎥᎢ ᎤᏁᎳᎩ ᎡᎵᏒᎢ ᎪᏢᏅᎯ ᎾᎥᎢ Unicode ᎤᏤᎵ ᏗᏟᎶᏍᏔᏅᏍᎩ, ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏚᎩ ᎬᏗ ᎠᏓᎦᎳᏍᏓᏗᏍᏛ ᎤᏟ ᎢᎦᎢ ᎦᏣᏄᎳ ᎠᏑᏰᏛ Unicode. 
+
+ᎯᎠ ᎢᎬᏱ 256 ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᎨᏒᎩ ᎪᏢᏅᎯ ᎤᏠᏱ ᎯᎠ ᎣᏍᏛ ᎤᏓᏅᏘ [[ISO 8859-1]], ᎪᏢᏗ ᎾᏍᎩ ᏱᏓᏟᎶᏍᏔᏅ ᎤᎧᏛ ᎬᏂᎨᏒ ᏄᏍᏛ ᏭᏕᎵᎬᏗᏢ ᏓᎵᏍᏛ. ᎠᏟᎶᎥ ᎦᏙᎯ ᎠᏏᏴᏫ ᎤᏠᏱ ᎠᎦᏓᏅᏖᏗ ᎨᏒᎩ encoded ᏎᏍᏗ itsuwakodi ᎾᎾᎢ ᏄᏓᎴᎿᎥ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᎠᏍᏆᏂᎪᏙᏗ ᎤᎾᏤᎵᏛ ᎬᏔᏅᎯ ᎾᎥᎢ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ encodings ᎠᎴ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎠᎵᏍᎪᎸᏙᏗ ᏧᎾᏍᏗ ᏂᏛᎴᏅᏓ ᎾᏍᎩ encodings Unicode (ᎠᎴ ᎦᏐᎯ) ᏄᏠᏯᏍᏛᎾ ᎠᏓᏲᎱᏎᎲ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᏓᏃᎯᏎᏗ. ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, ᎯᎠ "[[fullwidth form|fullwidth ᎤᏙᏢᏒ]]" ᎾᎿ ᎨᏒ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ encompasses ᎧᎵ Latin ᏗᎦᎶᏆᏍᏙ Ꮎ ᎨᏒᎢ ᏧᏓᎴᎿᎢ ᏂᏛᎴᏅᏓ ᎯᎠ ᏄᎬᏫᏳᏒ Latin ᏗᎦᎶᏆᏍᏙ ᎾᎿ ᎨᏒ. ᎭᏫᎾᏗᏢ Chinese, Japanese, ᎠᎴ Korean (CJK) ᏂᎬᏂᏏᏍᎬ, ᎾᏍᎩ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᏄᎾᏓᏛᏁᎸ ᎾᎾᎢ ᎯᎠ ᎤᏠᏱ ᎾᏯᏛᎲᎢ ᏥᏄᏍᏗ [[CJK]] [[ideograph|ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ]]ᎤᏟ ᎬᏰᎸᏗ ᎬᎾᏬᏍᎬ ᎾᎾᎢ ᎠᏰᎵ ᎢᏴ ᎯᎠ ᎾᏯᏛᎲᎢ. ᎾᏍᎩᎾᎢ ᏐᎢ ᏱᏓᏟᎶᏍᏔᏅ, ᎠᎪᏩᏛᏗ [[Duplicate characters in Unicode|ᏗᏟᎶᏍᏔᏅ ᎠᎦᏓᏅᏖᏗ ᎭᏫᎾᏗᏢ Unicode]].
+
+ᎾᏍᎩ ᎾᏍᏇ, ᎾᎯᏳᎢ Unicode ᎠᎵᏍᎪᎸᏙᏗ ᎾᏍᎩᎾᎢ [[combining character|combining ᎠᎦᏓᏅᏖᏗ]], ᎾᏍᎩ ᎾᏍᎩ ᎾᏍᏇ ᎢᎦᎢ ᎨᏐ [[precomposed character|precomposed]] ᏅᎬᎪᏔᏅᎯ ᎤᎪᏗᏗ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ/diacritic ᎤᎾᏓᏟᏌᏅ ᎭᏫᎾᏗᏢ ᏄᎶᏒᏍᏛᎾ ᎬᏙᏗ. ᎾᏍᎩ ᎯᎠ ᎪᏢᏗ ᏧᎾᏍᏗ ᎠᎴ ᏂᏛᎴᏅᏓ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ encodings simpler ᎠᎴ ᎠᎵᏍᎪᎸᏙᏗ ᏗᏔᏲᏍᏙᏗ ᎬᏙᏗ Unicode ᏥᏄᏍᏗ ᎭᏫᏂ ᏓᎵᏍᏛ format ᏄᏠᏯᏍᏛᎾ ᎤᎲᎢ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ combining ᎠᎦᏓᏅᏖᏗ. ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ ''é'' ᏰᎵᏇ ᎾᏍᏋ ᏄᏓᏛᏁᎸᎩ ᎭᏫᎾᏗᏢ Unicode ᏥᏄᏍᏗ {{U|0065}} (Latin ᎤᏍᏗ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ e) ᎠᏍᏓᏩᏛᏓ ᎾᎥᎢ Ꭴ+0301 (combining ᏄᎵᏂᎬᎬ) ᎠᎴ ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᏄᏓᏛᏁᎸᎩ ᏥᏄᏍᏗ ᎯᎠ precomposed ᎠᎦᏓᏅᏖᏗ Ꭴ+00E9 (Latin ᎤᏍᏗ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ e ᎬᏙᏗ ᏄᎵᏂᎬᎬ).
+
+ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ ᎾᏍᎩ ᎾᏍᏇ ᎠᏠᏯᏍᏗ ᏎᏍᏗ ᎪᎱᏍᏗ ᎠᎾᏓᏛᏂ ᏫᏚᏳᎪᏛ, ᏯᏛᎿ ᏥᏄᏍᏗ ᎠᎦᏓᏅᏖᏗ properties, ᏓᎵᏍᏛ normalisation ᏚᏙᏢᏒ, ᎠᎴ bidirectional ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎠᏓᏅᏍᏗ (ᎾᏍᎩᎾᎢ ᎯᎠ ᎪᏢᎯᏐᏗ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᏓᎵᏍᏛ ᎢᎦᎢ ᏕᎨᏒᎢ ᎢᏧᎳ ᏚᏳᎪᏛ--ᎠᎦᏍᎦᏂ ᎠᏃᏪᎵᏍᎬ, ᏯᏛᎿ ᏥᏄᏍᏗ [[Arabic language|Arabic]] ᎠᎴ [[Hebrew language|ᎤᏦᎠᏎᏗ]], ᎠᎴ ᎠᎦᏍᎦᏂ--ᏚᏳᎪᏛ ᎠᏃᏪᎵᏍᎬ).
+
+== ᎠᏃᏪᎵᏍᎬ ᎫᏝᎢ ==
+
+Unicode ᏗᎫᏝᎢ ᎾᎥᏂᎨᏍᏗ ᏂᎦᏛ ᎠᏃᏪᎵᏍᎬ ([[writing system|ᎠᏃᏪᎵᏍᎬ iyahdvnelidasdi]]) ᎭᏫᎾᏗᏢ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ ᎬᏙᏗ ᎪᎯ ᎢᎦ, ᎠᏠᏯᏍᏗᏍᎩ:
+
+{{Col-begin}}
+{{Col-3}}
+* [[Arabic alphabet|Arabic]]
+* [[Armenian alphabet|Armenian]]
+* [[Bengali script|Bengali]] 
+* [[Braille|ᏗᎦᎪᏗ]] ᏂᎯ ᏧᎾᏟᎶᏍᏙᏗ
+* [[Canadian Aboriginal Syllabics|ᎦᏁᎳ ᏅᏁᎯᏯ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ]]
+* [[Cherokee language#Cherokee Syllabary|ᏣᎳᎩ]]
+* [[Coptic Alphabet|Coptic]]
+* [[Cyrillic alphabet|Cyrillic]]
+* [[Devanāgarī]]
+* [[Ge'ez language#Writing system|ᎤᎳᏏᎬᎢ]]
+* [[Georgian alphabet|Georgian]]
+{{Col-break}}
+* [[Greek alphabet|ᎠᎪᎢ]]
+* [[Gujarati script|Gujarati]] 
+* [[Gurmukhi script|Gurmukhi]] ([[Punjabi language|Punjabi]])
+* [[Chinese character|Han]] ([[Kanji]], [[Hanja]], [[Chinese character|Hanzi]])
+* [[Hangul]] ([[Korean language|Korean]])
+* [[Hebrew alphabet|ᎤᏦᎠᏎᏗ]]
+* [[Hiragana]] ᎠᎴ [[Katakana]] ([[Japanese language|Japanese]])
+* [[International Phonetic Alphabet|ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎤᏃᏴᎬ ᏗᎦᎶᏆᏍᏙ]] (IPA)
+* [[Khmer script|Khmer]] (Cambodian)
+* [[Kannada script|Kannada]] 
+* [[Lao alphabet|Lao]]
+* [[Latin alphabet|Latin]]
+{{Col-break}}
+* [[Malayalam script|Malayalam]] 
+* [[Mongolian alphabet|Mongolian]]
+* [[Burmese alphabet|Myanmar]] (Burmese)
+* [[Oriya alphabet|Oriya]]
+* [[Syriac alphabet|Syriac]]
+* [[Tamil script|Tamil]]
+* [[Telugu script|Telugu]]
+* [[Thai alphabet|Thai]]
+* [[Tibetan script|Tibetan]]
+* [[Tifinagh]]
+* [[Yi script|Ᏹ]]
+* [[Zhuyin]] (Bopomofo)
+{{Col-end}}
+
+Unicode ᎤᎭ ᎦᏟᏌᏅᎯ ᎤᏗᏗᏢ ᎠᏃᏪᎵᏍᎬ ᎠᎴ ᏫᎵ ᎫᏢᏗ ᎢᏧᎳᎭ ᎤᏟ ᎢᎦᎢ, ᎠᏠᏯᏍᏗᏍᎩ ᏄᏍᏛ ᏗᎧᏃᏗ ᎠᏃᏪᎵᏍᎬ ᎦᏲᎵᎨ ᏱᏓᏟᎶᏍᏔᏅ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᎠᏔᎴᏒ ᎠᎹᏱ ᏥᏄᏍᏗ ᎠᎧᎵᏏᏐᏗ ᎠᏂᏏᏴᏫᎭ ᎾᏍᎩᎾᎢ ᏄᏍᏗᏓᏅ ᏂᏚᏰᎸᏛᎢ:
+
+* [[Cuneiform script|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]]
+* [[Deseret alphabet|Deseret]]
+* [[Linear B|ᎦᏌᏆᎸ B]]
+* [[Ogham|ᎠᏃᏪᎵᏍᎬ]]
+* [[Old Italic alphabet|ᎠᎦᏴᎵ Italic]] (Etruscan)
+* [[Phoenician alphabet|Phoenician]]
+* [[Runic alphabet|ᎠᏃᏪᎵᏍᎬ]]
+* [[Shavian alphabet|Shavian]]
+* [[Ugaritic alphabet|Ugaritic]]
+
+ᎤᏗᏗᏢ ᎦᏟᏐᏗᎩ ᎠᎦᏓᏅᏖᏗ ᎯᎠ ᎦᏳᎳ-encoded ᎠᏃᏪᎵᏍᎬ, ᏥᏄᏍᏗ ᎠᏔᎴᏒ ᎠᎹᏱ ᏥᏄᏍᏗ ᏗᎬᏟᎶᏍᏙᏗ, ᎭᏫᎾᏗᏢ ᎾᏍᎩᎾ ᎾᏍᎩᎾᎢ [[mathematics|ᏗᏎᏍᏗ ᎤᎬᏩᎵ]] ᎠᎴ [[music|ᏗᎧᏃᎩᏛ]] (ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏙᏢᏒ ᏓᏓᏚᎬ ᎪᏪᎵ ᎠᎴ rhythmic ᏗᎬᏟᎶᏍᏙᏗ), ᎾᏍᎩ ᎾᏍᏇ ᏄᎵᏍᏔᏅ. ᎯᎠ [http://www.unicode.org/roadmaps/ Unicode Roadmap] ᏠᎨᏏ ᎠᏃᏪᎵᏍᎬ ᎾᏍᎩ ᏂᎨᏒᎾ ᎩᎳ ᎭᏫᎾᏗᏢ Unicode ᎬᏙᏗ ᎠᎦᏛᏗ ᏄᏍᏛ ᏗᏓᏲᎯᏎᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏍᏆᎳ ᏗᏍᏆᎵᏛ. ᎦᎾᎬᎢ ᎠᏃᏪᎵᏍᎬ, ᎤᎪᏗᏗ ᎦᏙ ᎤᏍᏗ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᏣᎦᏓᏂᎸᏨ ᎾᏍᎩᎾᎢ ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ ᎭᏫᎾᏗᏢ Unicode ᎤᏍᏆᎸᎲ ᎦᎷᎶᎩ ᎤᏙᎯᏳ ᎾᏍᎩ-ᎡᎶᎯ ᏓᎦᏘᎴᎬ, ᎠᎴ ᏧᏓᎴᏅᏓ ᏗᎧᏃᏗ ᎭᏫᎾᏗᏢ ᎯᎠ [[ConScript Unicode Registry|ᎠᎾᏗᏒᎯᎯ Unicode ᎢᏳ ᎢᎪᎯ]], ᎨᎳᏛᏍᏗ ᎬᏙᏗ ᎠᎾᎵᏖᎸᎲᏍᎬ ᎦᏁᏰᎩ ᎠᎴ ᏂᎬᎢ-ᎬᏔᏅᎯ [[Private Use Area|ᎤᏤᎵᏓ ᎬᏙᏗ ᎡᏍᎦᏂ]] ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᏓᏲᎯᏎᏗ. ᎤᏠᏱ, ᎤᎪᏗᏗ lyudetiyvda ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ variants ᎠᎴ ᏕᎬᏔᏛ ᎾᏍᎩ ᏂᎨᏒᎾ ᎭᏫᎾᏗᏢ Unicode ᎠᎴ encoded ᎭᏫᎾᏗᏢ ᎯᎠ [[Medieval Unicode Font Initiative|lyudetiyvda Unicode ᏂᎬᏂᏏᏍᎬ ᎠᏓᎴᏂᏍᎬ]].
+
+== Mapping ᎠᎴ encodings ==
+
+{{see also|Mapping of Unicode characters}}
+
+=== ᏰᎵᏊ ᏗᏙᎳᎩ ===
+
+ᎯᎠ [[Unicode Consortium]], ᏚᎳᏏᏔᏅᎩ ᎭᏫᎾᏗᏢ [[California]], ᎤᏙᎷᏬᏗ ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ. ᏂᎦᎵᏍᏗᏍᎬᎫ ᎤᎾᏓᏡᎩ ᎠᎴ ᎠᏂᏏᏴᏫᎭ ᎤᏛᏅᎢᏍᏗ ᎠᎫᏴᏗ ᎯᎠ ᎠᏁᎳ ᎤᎾᏓᏡᎬ ᏚᏍᏆᎸᎲ ᎠᎾᏍᎬᏘ ᎠᏕᎳᏗᏍᏗ ᎪᎯ ᎤᎾᏙᏢᎯ. ᎠᏁᎳ ᎠᏠᏯᏍᏛ ᎠᎧᎵᏏᏐᏗ ᏂᎦᏛ ᎯᎠ ᏄᎬᏫᏳᏒ ᎡᎵᏍ software ᎠᎴ ᏔᎷᎩᏍᎩ ᏚᎾᏓᏡᎬᎢ ᎬᏙᏗ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎤᏁᏉᏨ ᎭᏫᎾᏗᏢ ᏓᎵᏍᏛ-ᏧᎵᎬᏩᎳᏅᎯ ᏰᎵᏊ ᏗᏙᎳᎩ, ᏯᏛᎿ ᏥᏄᏍᏗ [[Apple Computer|ᏒᎦᏔ ᎡᎵᏍ]], [[Microsoft]], [[International Business Machines|IBM]], [[Xerox|ᏗᏟᎶᏍᏔᏅ]], [[Hewlett-Packard|HP]], [[Adobe Systems|ᏭᏚᎸᏛ ᏗᎬᏙᏗ iyahdvnelidasdi]] ᎠᎴ ᎤᎪᏗᏗ ᎠᏂᏐᎢ.
+
+ᎯᎠ Consortium ᎢᎬᏱ ᎦᎴᏴᏔᏅᎯ ''ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ'' (ISBN 0-321-18578-1) ᎭᏫᎾᏗᏢ [[1991]], ᎠᎴ ᏫᎬᎵᏱᎴᎩ ᎤᏙᎷᏬᏗ ᏰᎵᏊ ᏗᏙᎳᎩ ᏚᎳᏏᏔᏅᎩ ᎾᎿ Ꮎ ᎠᎴᏅᏗᏍᎬ ᏗᎦᎸᏫᏍᏓᏁᏗ. Unicode ᎤᏙᎷᏩᏛᏓ ᎭᏫᎾᏗᏢ ᏧᏠᎯᏍᏗ ᎬᏙᏗ ᎯᎠ [[International Organization for Standardization|ᎠᏰᎵ ᏚᎾᏙᏢᏒ ᎤᎾᏙᏢᎯ ᎾᏍᎩᎾᎢ Standardization]], ᎠᎴ ᎾᏍᎩ ᎤᎾᎵᎪᏒ Ꮝ ᎠᎦᏓᏅᏖᏗ ᏓᎾᏛᏁᎵᏍᎬ ᎬᏙᏗ [[ISO/IEC 10646]]: ᎯᎠ ᎢᎬᏩᎾᏓᎴᎩ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ. Unicode ᎠᎴ ISO/IEC 10646 ᎤᏯᎾᏛᏁᏗ ᎢᏗᎦᏘᎭ ᏥᏄᏍᏗ ᎠᎦᏓᏅᏖᏗ encodings, ᎠᎴ ''ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ'' ᎢᎦᎢ ᎨᏐ ᎤᏣᏘ ᎤᏟ ᎢᎦᎢ ᎠᏓᏃᎯᏎᏗ ᎾᏍᎩᎾᎢ implementers, ᎫᏢᎥᏍᎬ — ᎭᏫᎾᏗᏢ ᎤᏒᏙᏂ — ᎢᏳᏍᏗ ᎧᏃᎮᏗ ᏯᏛᎿ ᏥᏄᏍᏗ bitwise encoding, [[Unicode collation algorithm|ᎠᎵᏍᏓᏴᏗ]], ᎠᎴ ᏩᏎᏍᏗ ᎾᎿ. ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ ᎢᎦᎢ ᏂᎬᎢ ᎠᎦᏓᏅᏖᏗ properties, ᎠᏠᏯᏍᏗᏍᎩ ᎾᏍᎩ ᎤᏚᎳᏗ ᏄᎵᏍᏔᏅ ᎾᏍᎩᎾᎢ ᎠᎵᏍᏕᎸᏗ [[Bi-directional text|bidirectional ᏓᎵᏍᏛ]]. ᎯᎠ ᏔᎵ ᏰᎵᏊ ᏗᏙᎳᎩ ᎿᏛᎦ ᎬᏙᏗ ᎠᏍᏓᏩᏛᏍᏗ ᏄᏓᎴᎿᎥ terminology.
+
+<!-- Template:U links to this paragraph --><p id="Upluslink">ᎯᎳᎪ ᎢᏳ ᎠᏃᏪᎵᏍᎬ ᎬᏩᏚᏫᏛ Unicode ᎠᎦᏓᏅᏖᏗ, ᎾᏍᎩ ᎨᏒᎢ ᏄᎶᏒᏍᏛᎾ ᎪᏪᎶᏗ "Ꭴ+" ᎠᏍᏓᏩᏛᏓ ᎾᎥᎢ [[hexadecimal]] ᏎᏍᏗ ᎠᎾᏓᏎᎮᎲᎢ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎤᏤᎵ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ. ᎾᏍᎩᎾᎢ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᎭᏫᎾᏗᏢ ᎯᎠ [[Basic Multilingual Plane|BMP]], ᏅᎩ ᏎᏍᏗ ᎠᎴ ᎬᏔᏅᎯ; ᎾᏍᎩᎾᎢ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᏙᏯᏗᏢ ᎯᎠ BMP, ᎯᏍᎩ ᎠᎴ ᏑᏓᎵ ᏎᏍᏗ ᎠᎴ ᎬᏔᏅᎯ, ᏥᏄᏍᏗ ᎧᏁᏨ ᎢᏯᏛᏁᏗ. ᎠᎦᏴᎳᎯᎨᏍᏙᏗ ᏅᎬᎪᏔᏅᎯ ᎯᎠ ᏰᎵᏊ ᏗᏙᎳᎩ ᎬᏔᏅᎯ ᎤᏠᏱ ᎠᏅᏓᏗᏍᏙᏗ ᎪᏪᎶᏗ, ᎠᎴ ᎬᏙᏗ ᎠᏍᏓᏩᏛᏍᏗ ᏄᏓᎴᎿᎥ ᏗᎫᎪᏔᏅ. ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, Unicode 3.0 ᎬᏔᏅᎯ "Ꭴ-" ᎠᏍᏓᏩᏛᏓ ᎾᎥᎢ ᏧᏁᎳ ᏎᏍᏗ, ᎠᎴ ᎠᎾᏓᏁᎲ "Ꭴ+" ᎾᏍᏋ ᎬᏔᏅᎯ ᎾᏍᎩ ᎤᏩᏒ ᎬᏙᏗ ᎧᎵ ᏗᏙᎳᎩ ᏅᎩ ᏎᏍᏗ ᎭᏫᎾᏗᏢ ᎠᏓᏅᏍᏗ ᎠᏓᏎᎮᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏌᏊᎭ, ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ.</p>
+
+==== Unicode ᏅᎬᎪᏔᏅᎯ ᎧᏃᎮᏍᎩ ====
+
+{| style="vertical-align: top;" 
+| {{CT-16}} width="0*" | [[1991#October|ᏚᏂᏃᏗ,&nbsp;1991]] || {{CT-15}} width="0*" | Unicode&nbsp;1.0 || width="80%" | ISBN 0-201-56788-1.
+|-
+| {{CT-16}} | [[1992#June|ᏕᎭᎷᏱ,&nbsp;1992]] || {{CT-15}} | Unicode&nbsp;1.0.1 || ISBN 0-201-60845-6.
+|-
+| {{CT-16}} | [[1993#June|ᏕᎭᎷᏱ,&nbsp;1993]] || {{CT-15}} | Unicode&nbsp;1.1 || Previous 2 Publications, and, Unicode Technical Report #4:The Unicode Standard, Version 1.1 by Mark Davis.
+|-
+| {{CT-16}} | [[1996#July|ᎫᏰᏉᏂ,&nbsp;1996]] || {{CT-15}} | Unicode&nbsp;2.0 || ISBN 0-201-48345-9.
+|-
+| {{CT-16}} | [[1998#May|ᎠᎾᏍᎬᏘ,&nbsp;1998]] || {{CT-15}} | Unicode&nbsp;2.1 || &nbsp;
+|-
+| {{CT-16}} | [[1998#May|ᎠᎾᏍᎬᏘ,&nbsp;1998]] || {{CT-15}} | Unicode&nbsp;2.1.2 || Previous 3 Publications, and, Unicode Technical Report #8, The Unicode Standard, Version 2.1 by Lisa Moore.
+|-
+| {{CT-16}} | [[1999#September|ᏚᎵᏍᏗ,&nbsp;1999]] || {{CT-15}} | Unicode&nbsp;3.0 || Covered 16-bit [[Universal character set|UCS]] Basic Multilingual Plane ([[Basic Multilingual Plane|BMP]]) from ISO 10646-1:2000. ISBN 0-201-61633-5. 
+|-
+| {{CT-16}} | [[2001#March|ᎠᎾᏱᎵᏒ,&nbsp;2001]] || {{CT-15}} | Unicode&nbsp;3.1 || Introduced Supplemental Planes from ISO 10646-2, providing supplementary characters
+|-
+| {{CT-16}} | [[2002#March|ᎠᎾᏱᎵᏒ,&nbsp;2002]] || {{CT-15}} | Unicode&nbsp;3.2 || &nbsp;
+|-
+| {{CT-16}} | [[2003#April|ᎫᏬᏂ,&nbsp;2003]] || {{CT-15}} | Unicode&nbsp;4.0 || ISBN 0-321-18578-1.
+|-
+| {{CT-16}} | [[2004#March|ᎠᎾᏱᎵᏒ,&nbsp;2004]] || {{CT-15}} | Unicode&nbsp;4.0.1 || &nbsp;
+|-
+| {{CT-16}} | [[2005#March|ᎠᎾᏱᎵᏒ,&nbsp;2005]] || {{CT-15}} | Unicode&nbsp;4.1 || &nbsp;
+|-
+| {{CT-16}} | [[2006#July|ᎫᏰᏉᏂ,&nbsp;2006]] || {{CT-15}} | Unicode&nbsp;5.0 || {{CT-12}} | (The character database, aka. ''UCD'', published on [[July 18|ᎫᏰᏉᏂ 18]], but the book, ''The Unicode Standard, Version 5.0'', expected to be released in fourth quarter of 2006. ISBN 0-321-48091-0.)
+|}
+
+=== ᎠᏍᏆᏂᎪᏙᏗ, ᏫᏓᏲᎯᏍᏗ, ᎠᎴ ᏧᎵᎬᏩᎳᏅᎯ ===
+
+ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎢᏅ, Unicode ᎤᎭ ᎤᎾᏄᎪᏨ ᏄᏦᏍᏛᎾᏊ ᏥᏄᏍᏗ ᎤᏅᏔᏂᏓᏍᏗ ᎠᏂᎧᎻᏏᏂ ᏧᏓᎴᎿᎢ ᏎᏍᏗ ᎠᏂᏏᏴᏫᎭ ᎠᎦᏓᏅᏖᏗ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎯᎠ ᎪᏪᎳᏅᎯ ᏗᎦᏬᏂᎯᏍᏗ ᎯᎠ ᎡᎶᎯ. ᎯᎠ ᎠᏍᏆᏂᎪᏙᏗ ᎾᏍᎩ ᎯᎠ ᏗᏎᏍᏗ ᎭᏫᎾᏗᏢ ᏓᎵᏍᏛ ᏧᎵᎬᏩᎳᏅᎯ ᎪᎯᏳᏙᏗ ᏄᏓᎴ ᎢᏳᏍᏗ ᎧᏃᎮᏗ; ᏗᎦᏎᏍᏙᏗ ᏄᎵᏍᏔᏅ ᏂᏛᎴᏅᏓ ᎯᎠ ᏯᏛᎾ ᎤᏙᎯᏳ Ꮎ ᎤᏣᏘ [[software]] ᎪᏪᎳᏅᎯ ᎭᏫᎾᏗᏢ ᎯᎠ [[Western world|ᏭᏕᎵᎬᏗᏢ ᎡᎶᎯ]] ᏗᏓᏅᏓᏁᏗᏱ ᎬᏙᏗ 8-ᎤᏍᎦᎶᏨ ᎠᎴ ᎡᎳᏗᎨ ᎠᎦᏓᏅᏖᏗ encodings ᎾᏍᎩ ᎤᏩᏒ, ᎬᏙᏗ Unicode ᎠᎵᏍᏕᎸᏗ ᎦᏟᏌᏅᎯ ᎾᏍᎩ ᎤᏩᏒ ᎷᏍᎦᏃᎵ ᎭᏫᎾᏗᏢ ᎾᏞᎬ ᏧᏕᏘᏴᏓ. ᎤᏠᏱ, ᎭᏫᎾᏗᏢ ᎾᏓᏛᏁᎲ ᎯᎠ ᎠᏃᏪᎵᏍᎬ [[Asia]], ᎯᎠ [[ASCII]] ᏚᎳᏏᏔᏅᎩ ᏔᎵ ᎢᏳᏩᎫᏘ-byte ᎠᎦᏓᏅᏖᏗ encodings ᏝᏰᎵ ᎢᏧᎳᎭ ᎭᏫᎾᏗᏢ ᎤᎵᏍᎪᎵᏴ encode ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 32,768 ᎠᎦᏓᏅᏖᏗ, ᎠᎴ ᎭᏫᎾᏗᏢ ᎠᎵᏏᎾᎯᏍᏙᏗ ᎯᎠ ᎠᏓᏁᎳᏅᎯ ᎠᏑᏰᏛ ᎠᏓᏁᏤᏗ ᎡᎳᏗᎨ ᎠᏎᎸᎯ. ᏯᏛᎿ ᎠᏎᎸᎯ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᏰᎵᏊ ᎾᏍᎩᎾᎢ ᎯᎠ ᎤᏚᎸᏗ ᏄᎾᏛᏅ ᏗᏕᎶᏆᏍᎩ ᎯᎠ [[Chinese language|Chinese ᎦᏬᏂᎯᏍᏗ]] ᎤᏩᏒ.
+
+ᎯᎠ ᎭᏫᏂ ᎧᏃᎮᎸᏗ ᎤᏣᏘ 8-ᎤᏍᎦᎶᏨ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ software ᎢᏯᏛᏁᎵᏓᏍᏗ ᎤᏁᎳᎩ ᏤᎵᏒ ᎾᏍᎩ ᎤᏩᏒ 8 ᎤᏍᎦᎶᏨ ᎾᏍᎩᎾᎢ ᎠᏂᏏᏴᏫᎭ ᎠᎦᏓᏅᏖᏗ, ᎠᏃᏢᏍᎬ ᎾᏍᎩ ᏰᎵ ᏂᎨᏒᎾ ᎬᏙᏗ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 256 ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᏄᏠᏯᏍᏛᎾ ᎤᏤᎵᏛ ᏧᎵᎬᏩᎳᏅᎯ. ᏓᎳᏚ-ᎤᏍᎦᎶᏨ software ᏰᎵᏇ ᎠᎵᏍᏕᎸᏗ ᎾᏍᎩ ᎤᏩᏒ ᎢᎦᏛ ᏍᎪᎯ ᎯᎸᏍᎩ ᎢᏯᎦᏴᎵ ᎠᎦᏓᏅᏖᏗ. Unicode, ᎾᎿ ᎯᎠ ᏐᎢ ᎤᏬᏰᏂ, ᎤᎭ ᎦᏳᎳ ᎧᏁᎢᏍᏔᏅᎯ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 100,000 encoded ᎠᎦᏓᏅᏖᏗ. iyahdvnelidasdi ᏗᏟᎶᏍᏔᏅᏍᎩ ᎤᎭ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎧᏁᎢᏍᏔᏅ ᎯᎸᏍᎩ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎾᏍᎩᎾᎢ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ Unicode; ᎦᏙ ᎤᏍᏗ ᏌᏊ implementers ᎠᏑᏰᏍᏗ ᎠᎵᏍᎦᏍᏙᏗ ᎾᎿ ᏰᎵ ᎠᏩᏛᏗ ᎠᏍᏆᏂᎪᏙᏗ ᎤᏜᏅᏛ, [[source code|ᏗᏓᎴᎲᏍᎬ ᎠᏍᏓᏩᏛᏍᏙᏗ]] ᏓᏓᏁᏤᎸ, ᎠᎴ interoperability ᎬᏙᏗ ᏐᎢ iyahdvnelidasdi.
+
+Unicode ᎧᏁᎢᏍᏔᏅᎯ ᏔᎵ mapping ᎢᏗᎬᎾᏗ:
+
+* ᎯᎠ '''UTF''' ('''[[UTF-8|Unicode ᏧᎾᏍᏗ Format]]''') encodings 
+* ᎯᎠ '''UCS''' ('''[[Universal Character Set|ᎢᎬᏩᎾᏓᎴᎩ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ]]''') encodings
+
+ᎯᎠ encodings ᎠᏠᏯᏍᏛ:
+
+* [[UTF-7]] — ᏗᎦᏃᏢᎩ ᎤᏦᎠᏎᏗ 7-ᎤᏍᎦᎶᏨ encoding, ᏧᎾᏙᎳᏨ ᎾᏍᎩᎾᎢ ᏫᏓᏲᎯᏍᏗ ᎠᎴ ᎠᏍᏆᏂᎪᏙᏗ ᎾᏍᎩ ᎤᏩᏒ; ᎾᏍᎩ ᎨᏒᎢ ᎢᏳᏓᎵᎭ ᎠᎦᏎᏍᏔᏅ ᎠᏗᏅᏓ
+* [[UTF-8]] — 8-ᎤᏍᎦᎶᏨ, ᏂᏙᏓᎳᎬᎾ-ᎾᏯᏛᎲᎢ encoding, ᏓᏓᏁᏤᎸ ᎬᏙᏗ [[ASCII]].
+* [[UCS-2]] — 16-ᎤᏍᎦᎶᏨ, ᎣᏍᏛ ᏄᏩᏁᎸ-ᎾᏯᏛᎲᎢ encoding Ꮎ ᎾᏍᎩ ᎤᏩᏒ ᎠᎵᏍᏕᎸᏗ ᎯᎠ [[Mapping of Unicode characters#Basic Multilingual Plane|BMP]]
+* [[UTF-16]] — 16-ᎤᏍᎦᎶᏨ, ᏂᏙᏓᎳᎬᎾ-ᎾᏯᏛᎲᎢ encoding
+* [[UCS-4]] ᎠᎴ [[UTF-32]] — ᏗᎦᎸᏫᏍᏓᏁᏗ ᎤᏠᏱ 32-ᎤᏍᎦᎶᏨ ᎣᏍᏛ ᏄᏩᏁᎸ-ᎾᏯᏛᎲᎢ encodings
+* [[UTF-EBCDIC]] — encoding ᏄᏪᎵᏒ ᎾᏍᎩᎾᎢ [[EBCDIC]] ᏚᎳᏏᏔᏅᎩ mainframe iyahdvnelidasdi
+
+ᎯᎠ ᏗᏎᏍᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᏚᎾᏙᎥ ᎯᎠ encodings ᎠᏓᏎᎮᏗ ᎯᎠ ᏎᏍᏗ ᎤᏍᎦᎶᏨ ᎭᏫᎾᏗᏢ ᏌᏊ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏧᎬᏩᎶᏗ (ᎾᏍᎩᎾᎢ UTF encodings) ᎠᎴ ᎯᎠ ᏎᏍᏗ bytes ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏧᎬᏩᎶᏗ (ᎾᏍᎩᎾᎢ UCS) encodings.
+
+UTF-8 ᎬᏔᏂᏓᏍᏗ ᏌᏊ ᏅᎩ bytes ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎠᎴ, ᎠᎴᏂᏙᎲ ᏗᎦᏃᏢᎩ ᏧᏠᎯᏍᏗ (ᎾᏍᎩᎾᎢ Latin ᎠᏃᏪᎵᏍᎬ) ᎠᎴ ASCII-ᏓᏓᏁᏤᎸ, ᏓᏓᏁᎳᏁ ᎯᎠ ''ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ facto'' ᏰᎵᏊ ᏗᏙᎳᎩ encoding ᎾᏍᎩᎾᎢ ᏗᎵᎪᏔᏅᎯ Unicode ᏓᎵᏍᏛ. ᎾᏍᎩ ᎨᏒᎢ ᎾᏍᎩ ᎾᏍᏇ ᎬᏔᏅᎯ ᎾᎥᎢ ᎤᎪᏗᏗ ᎾᏞᎬ Linux ᏗᏗᎦᎴᏴ ᏥᏄᏍᏗ ᎠᏓᏎᎮᏗ ᏅᎪᏢᎯᏐᏗᏱ ᎾᏍᎩᎾᎢ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ encodings ᎭᏫᎾᏗᏢ ᏂᎦᎥ ᏓᎵᏍᏛ ᎠᏱᏙᎲ.
+
+UTF-16, ᎾᎯᏳ ᏯᏛᎿ, ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎤᏠᏱᎭ 16 ᎤᏍᎦᎶᏨ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ — ᎯᎠ ᎤᏠᏱ ᏥᏄᏍᏗ UCS-2 — ᎠᎴ ᏱᏓᏟᎶᏍᏔᏅ 32, ᎨᏒᎢ ᎬᏔᏅᎯ ᎾᎥᎢ ᎤᎪᏗᏗ APIs. ᎤᎪᏗᏗ ᎪᎯ ᎨᏒᎢ ᎾᏍᎩᎾᎢ ᎧᏃᎮᏍᎩ ᏄᎵᏍᏔᏅ ᎠᎾᏓᏅᏖᏍᎬ (ᎤᏅᏌ ᎢᏳ ᎢᎪᎯ ᏂᏛᎴᏅᏓ ᎯᎠ ᎯᎸᏍᎩ ᎢᎦ ᎯᎳᎪ ᎢᏳ Unicode ᏥᏄᏍᏛᎩ UCS-2 ᏚᎳᏏᏔᏅᎩ ᎠᎴ interface ᎬᏙᏗ ᏐᎢ APIs Ꮎ ᎬᏙᏗ UTF-16). UTF-16 ᎨᏒᎢ ᎯᎠ ᏰᎵᏊ ᏗᏙᎳᎩ format ᎾᏍᎩᎾᎢ ᎯᎠ ᏗᏦᎳᏅ API (ᎤᏁᎳᎩ ᎾᏍᎩ ᎾᏍᏊ ᏔᎵᏁ ᎠᏓᎴᏁ ᎠᎵᏍᏕᎸᏗ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ yli iyulistanv ᎾᎥᎢ ᎤᏄᎸᎲᏍᎩ) ᎠᎴ ᎾᏍᎩᎾᎢ ᎯᎠ Java ᎠᎴ .ᎦᎸᎳᏗᏢ ᏚᎵᎬᏩᎳᏅ bytecode ᏄᏍᏗᏓᏅ.
+
+UCS-2 ᎨᏒᎢ ᎠᏗᏅᏓ, 16-ᎤᏍᎦᎶᏨ ᎣᏍᏛ ᏄᏩᏁᎸ-ᎾᏯᏛᎲᎢ encoding ᎫᏢᎥᏍᎬ ᎯᎠ [[Basic Multilingual Plane|ᏄᏦᏍᏛᎾ Multilingual ᎦᏃᎯᎵᏙ]] ᎾᏍᎩ ᎤᏩᏒ. ᎾᏍᎩᎾᎢ ᎠᎦᏓᏅᏖᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᏄᏦᏍᏛᎾ Multilingual ᎦᏃᎯᎵᏙ UCS-2 ᎠᎴ UTF-16 ᎠᎴ ᎤᏠᏱ. ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎤᏅᏌ ᏰᎵᏇ ᎾᏍᏋ ᎠᎦᏎᏍᏔᏅ ᏥᏄᏍᏗ ᏄᏓᎴᎿᎥ implementation ᎤᏩᎾᏕᏍᎩ ᎯᎠ ᎤᏠᏱ encoding. ᎯᎠ UCS-2 ᎠᎴ UTF-16 encodings ᏗᎪᏍᏗᏱ ᎯᎠ Unicode [[Byte Order Mark|Byte ᎠᏓᏅᏍᏗ ᎤᏙᏪᎸ]] (BOM) ᎾᏍᎩᎾᎢ ᎬᏙᏗ ᎾᎾᎢ ᎯᎠ ᎠᏓᎴᏂᏍᎬ ᏓᎵᏍᏛ ᏓᏝᎥᎢ. ᎢᎦᏛ software developers ᎤᎭ ᎠᏠᏯᏍᏔᏅᎯ ᎾᏍᎩ ᎾᏍᎩᎾᎢ ᏐᎢ encodings, ᎠᏠᏯᏍᏗᏍᎩ UTF-8, ᎦᏙ ᎤᏍᏗ ᎾᏛᏁ ᎾᏍᎩ ᏂᎨᏒᎾ ᎤᏚᎳᏗ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ byte ᎠᏓᏅᏍᏗ. ᎭᏫᎾᏗᏢ ᎪᎯ ᎦᎸᏛ ᎧᏁᏌᎢ ᎾᏍᎩ ᎠᏁᎸᏙᏗ ᎤᏙᏪᎸ ᎯᎠ ᎠᏝᎥᎢ ᏥᏄᏍᏗ ᎢᎦᎢ ᏕᎨᏒᎢ Unicode ᏓᎵᏍᏛ. ᎯᎠ BOM, ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ Ꭴ+FEFF ᎤᎭ ᎯᎠ ᎤᎵᏍᎨᏛ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ unambiguity, ᎾᎪᎲᎾ ᎯᎠ Unicode encoding ᎬᏔᏅᎯ. ᎯᎠ ᏌᏊᎭ <code>ᎣᏍᏛᏗᏍᏗ</code> ᎠᎴ <code>FF</code> ᎥᏝ ᎦᎾᏄᎪᎢᏍᏗ ᎭᏫᎾᏗᏢ [[UTF-8]]; Ꭴ+FFFE (ᎯᎠ ᏄᎵᏍᏔᏅ byte-swapping Ꭴ+FEFF) ᎾᏛᏁ ᎾᏍᎩ ᏂᎨᏒᎾ ᎢᏗᎦᏘᎭ ᎧᎵᏗᎳᏏᏗ ᎠᎦᏓᏅᏖᏗ, ᎠᎴ Ꭴ+FEFF ᏩᏓᏁᏗᏱ ᎯᎠ ᏭᎶᏒᏍᏛ ᎤᏴᏜ-ᎾᏯᏛᎲᎢ Ꮭ-ᎠᏍᏆᎵᏍᏗ ᎤᏜᏅᏛ (ᎠᎦᏓᏅᏖᏗ ᎬᏙᏗ Ꮭ ᎦᎾᏄᎪᏨᎢ ᎠᎴ Ꮭ ᎢᏳᎵᏍᏙᏗ ᏐᎢ ᎬᎾᏬᏍᎬ ᎠᎴᏫᏍᏔᏅ ᎯᎠ ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ [[ligature (typography)|ᏕᎬᏔᏛ]]). ᎯᎠ ᎤᏠᏱ ᎠᎦᏓᏅᏖᏗ ᏚᏳᎩᏛ ᎠᏍᏓᏩᏕᎩ UTF-8 ᏗᏙᎳᎩ ᎯᎠ byte ᎠᏍᏓᏩᏗᏒ <code>EF BB BF</code>.
+
+ᎭᏫᎾᏗᏢ UTF-32 ᎠᎴ UCS-4, ᏌᏊ 32-ᎤᏍᎦᎶᏨ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏧᎬᏩᎶᏗ ᏧᏂᎸᏫᏍᏓᏁᏗ ᏥᏄᏍᏗ ᏰᎵ ᎣᏏ ᎠᏓᏎᎮᏗ ᎢᏯᏓᏛᏁᎸ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᎦᏓᏅᏖᏗ ᎤᏤᎵ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ (ᎾᏍᎩ ᎤᏁᎳᎩ ᎯᎠ [[endianness]], ᎦᏙ ᎤᏍᏗ varies ᏗᎦᎾᏗᎯᏍᏗ ᏄᏓᎴᎿᎥ ᏗᎳᏏᏙ, ᎦᎸᏉᏙᏗ ᎯᎳᎪ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏧᎬᏩᎶᏗ ᎤᏙᎯᏳᎯᏯ ᎦᎾᏄᎪᏨᎢ ᏥᏄᏍᏗ octet (byte) ᎠᏍᏓᏩᏗᏒ). ᎭᏫᎾᏗᏢ ᎯᎠ ᏐᎢ ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᎠᏂᏏᏴᏫᎭ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᏄᏓᏛᏁᎸᎩ ᎾᎥᎢ ᏂᏙᏓᎳᎬᎾ ᏎᏍᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏧᎬᏩᎶᏗᎢ. UCS-4 ᎠᎴ UTF-32 ᎠᎴ ᎾᏍᎩ ᏂᎨᏒᎾ ᏱᏓᏟᎶᏍᏔᏅ ᎬᏔᏅᎯ, ᎣᏂ ᏧᏩᎫᏛ Ꮭ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 21 ᎯᎠ 32 ᎤᏍᎦᎶᏨ allocated ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᏯᏓᎢᏗᏏ ᎢᏳᏊ ᎾᏍᏋ ᎬᏔᏅᎯ, ᎠᎴ ᎾᏍᎩ ᎨᏒᎢ ᏗᎾᏙᎳᎩ kanquotsegi ᏧᏣᏔᏊ ᎾᏍᎩᎾᎢ programming ᎦᏬᏂᎯᏍᏗ implementations ᎬᏙᏗ UCS-4 ᎾᏍᎩᎾᎢ ᎤᎾᏤᎵ ᎭᏫᏂ ᎠᏍᏆᏂᎪᏙᏗ encoded ᏓᎵᏍᏛ<!--- which ones? -->.
+
+[[Punycode]], ᏄᏓᎴ encoding ᎤᏙᏢᏒ, ᏰᎵ ᎢᏳᎵᏍᏙᏗ ᎯᎠ encoding Unicode ᏗᎨᏥᎾᏝᎢ ᎾᎾᎯ ᎯᎠ ᏩᏎᎸᎯ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎤᎵᏍᏕᎸᎲ ᎾᎥᎢ ᎯᎠ [[ASCII]]-ᏚᎳᏏᏔᏅᎩ [[Domain Name System|ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᏚᏙᎥ iyahdvnelidasdi]]. ᎯᎠ encoding ᎨᏒᎢ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᎢᎦᏛ [[IDNA]], ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ iyahdvnelidasdi enabling ᎯᎠ ᎬᏙᏗ [[Internationalized Domain Names|Internationalized ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᏚᎾᏙᎥ]] ᎭᏫᎾᏗᏢ ᏂᎦᏛ ᏗᎦᏬᏂᎯᏍᏗ Ꮎ ᎠᎴ ᎤᎵᏍᏕᎸᎲ ᎾᎥᎢ Unicode.
+
+[[GB18030]] ᎨᏒᎢ ᏄᏓᎴ encoding ᎤᏙᏢᏒ ᎾᏍᎩᎾᎢ Unicode, ᏂᏛᎴᏅᏓ ᎯᎠ [[Standardization Administration of China|Standardization ᏄᏂᎬᏫᏳᏌᏕᎩ  ᎠᎦᎾᏫᏗᏍᎩ]]. ᎾᏍᎩ ᎨᏒᎢ ᎯᎠ ᎠᏰᎵ ᎤᏒᎧᎵ [[character set|ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ]] ᎯᎠ [[People's Republic of China|ᏴᏫ ᎤᏤᎵ ᎠᏰᎵ ᎤᏙᏢ  ᎠᎦᎾᏫᏗᏍᎩ]] (PRC).
+
+=== ᎠᏛᏅᎢᏍᏔᏃᏅ-ᎪᏢᏅᎯ ᎢᏚᏳᎪᏛ ᏧᏠᎯᏍᏗ ᎠᎦᏓᏅᏖᏗ ===
+
+Unicode ᎠᏠᏯᏍᏗ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎾᏍᎩᎾᎢ ᏍᏆᎳ ᎢᎬᏁᏗ ᎠᎦᏓᏅᏖᏗ ᎤᏙᏢᏒᎢ ᎠᎴ ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᏰᎵ ᎡᏆᏯ ᏫᎧᏁᏉᎬ ᎯᎠ ᎤᎵᏍᏕᎸᎲ glyph ᏓᎾᏛᏁᎵᏍᎬ. ᎪᎯ ᏗᎫᏝᎢ ᎯᎠ ᎬᏙᏗ [[combining diacritical mark|combining ᏄᏍᏛ ᏗᎧᏃᏗ ᎤᏙᏪᎸ]]. ᎤᏅᏌ ᎠᎩᏍᏗᏱ ᎠᏂᎧᏅᏍᎬ ᎤᎶᏐᏅ ᎯᎠ ᏄᎬᏫᏳᏒ ᎠᎦᏓᏅᏖᏗ (ᏌᏊ ᏰᎵᏇ ᏕᎦᏒᏛ ᎯᎸᏍᎩ combining diacritics ᎦᏬᎯᎸᏙᏗ ᎯᎠ ᎤᏠᏱ ᎠᎦᏓᏅᏖᏗ). ᏱᏂᎬᏛᎾ, ᎾᏍᎩᎾᎢ ᎠᎾᏓᏅᏖᏍᎬ ᏓᏓᏁᏤᎸ, Unicode ᎾᏍᎩ ᎾᏍᏇ ᎠᏠᏯᏍᏗ ᎡᏆ ᎢᎦᎢ [[precomposed character|ᎬᏂᎨᏒ ᏄᏍᏛᎢ-ᎠᏒᎾᏍᏗᏱ ᎠᎦᏓᏅᏖᏗ]]. ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎭᏫᎾᏗᏢ ᎤᎪᏗᏗ ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᏗᎦᎴᏴᏗᏍᎩ ᎤᎭ ᎤᎪᏗᏗ ᏫᎦᎶᎯᏍᏗ encoding ᎯᎠ ᎤᏠᏱ ᎠᎦᏓᏅᏖᏗ. ᏗᏓᏅᏓᏁᏗᏱ ᎬᏙᏗ ᎪᎯ, Unicode ᏓᏓᏁᎳᏁ ᎯᎠ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ [[canonical equivalence|ᏄᏍᏛ ᎢᏯᏛᏁᏗ ᎢᏗᎦᏘᎭ]].
+
+ᏱᏓᏟᎶᏍᏔᏅ ᎪᎯ ᏗᎶᏗ ᎬᏙᏗ [[Hangul]], ᎯᎠ Korean ᏗᎦᎶᏆᏍᏙ. Unicode ᏓᏓᏁᎳᏁ ᎯᎠ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎾᏍᎩᎾᎢ ᎦᎴᏴᏗᏍᎬᎢ Hangul ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᎬᏙᏗ ᎤᎾᏤᎵ ᎠᏂᏏᏴᏫᎭ subcomponents, ᎤᎾᏅᏛ ᏥᏄᏍᏗ [[Hangul Jamo]]. ᏱᏂᎬᏛᎾ, ᎾᏍᎩ ᎾᏍᎩ ᎾᏍᏇ ᏓᏓᏁᎳᏁ ᏂᎦᏛ 11,172 ᎤᎾᏓᏟᏌᏅ precomposed Hangul ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ.
+
+ᎯᎠ [[CJK]] ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᎾᏊ ᎤᎭ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏍᎩ ᎤᏩᏒ ᎾᏍᎩᎾᎢ ᎤᎾᏤᎵ precomposed ᎤᏙᏢᏒ. ᏙᎢ, ᎤᎪᏗᏗ ᎾᏍᎩ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ  ᏄᏓᎷᎸᎾ ᎪᎯᏳᏙᏗ simpler ᎢᏧᏓᎴᎩ (ᎤᏓᏣᏙᏗ), ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ ᎭᏫᎾᏗᏢ ᎤᎵᏍᎪᎵᏴ Unicode ᏰᎵᏇ ᏗᎫᎪᏙᏗ ᎢᎬᏁᏗ ᎠᏂ ᎣᏍᏛ ᏥᏄᏍᏗ ᏥᏄᎵᏍᏔᏅ ᎬᏙᏗ [[Hangul]]. ᎪᎯ ᏯᏓᎢᏗᏏ ᏰᎵ ᎡᏆᏯ ᎠᎦᏲᎳᏅ ᎯᎠ ᏎᏍᏗ ᎧᏁᏨ ᎢᏯᏛᏁᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ, ᎾᎯᏳᎢ ᎠᎵᏍᎪᎸᏙᏗ ᎯᎠ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎠᎧᎵᏏᏐᏗ ᏂᎦᎥᎢ ᏓᏓᏁᏤᎸ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ (ᎦᏙ ᎤᏍᏗ ᏄᎵᏂᎬᎬ ᎿᏛᎦ ᎤᏣᏘᎾ ᎬᏙᏗ ᎢᎦᏛ ᎯᎠ ᏗᎦᏎᏍᏙᏗ ᎢᎬᏂᏌᏅᎯ ᎾᎥᎢ ᎯᎠ [[Han unification|Han ᎤᎾᏓᏟᏌᏅ]]). ᎤᏠᏱ ᎠᏓᏅᏖᏗ ᏗᎫᏝᎢ ᎢᎦᏛ [[input method|input ᎢᎬᎾᏗ]], ᏯᏛᎿ ᏥᏄᏍᏗ [[Cangjie method|Cangjie]] ᎠᎴ [[Wubi method|Wubi]]. ᏱᏂᎬᏛᎾ, ᎠᏁᎸᏙᏗ ᎿᏛᎦ ᎪᎯ ᎾᏍᎩᎾᎢ ᎠᎦᏓᏅᏖᏗ encoding ᎤᎭ stumbled ᎦᏬᎯᎸᏙᏗ ᎯᎠ ᏯᏛᎾ ᎤᏙᎯᏳ Ꮎ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᎤᏙᎯᏳᎯᏯ ᏗᎫᎪᏙᏗ ᎢᎬᏁᏗ ᏥᏄᏍᏗ ᏄᏦᏍᏛᎾᏊ ᎠᎴ ᏥᏄᏍᏗ ᏂᎦᏛ ᎤᏠᏱᎭ ᏥᏄᏍᏗ ᎾᏍᎩ ᎤᏁᎵᏒᎯ ᎤᏅᏌ ᎢᏳᏗᎾ.
+
+ᎠᏫᏒᏗ [[Radical (Chinese character)|ᎤᏓᏣᏙᏗ]] ᏥᏄᏍᏛᎩ ᎠᏓᏁᎳᏅ ᎭᏫᎾᏗᏢ Unicode 3.0 (CJK ᎤᏓᏣᏙᏗ ᎠᏰᎵ Ꭴ+2E80 ᎠᎴ Ꭴ+2EFF, KangXi ᎤᏓᏣᏙᏗ ᎭᏫᎾᏗᏢ Ꭴ+2F00 Ꭴ+2FDF, ᎠᎴ ideographic ᏄᏍᏛ ᏗᎧᏃᏗ ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ Ꭴ+2FF0 Ꭴ+2FFB), ᎠᎴ ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ (ch. 11.1 Unicode 4.1) ᎠᏕᎸ ᏗᏎᎯᏍᏗ ᏗᎦᏘᎴᎩ ᎬᏗᏍᎬᎢ ideographic ᏄᏍᏛ ᏗᎧᏃᏗ ᎠᏍᏓᏩᏗᏒ ᏥᏄᏍᏗ ᎠᏓᏁᏟᏴᏍᏗᎭ ᎢᏯᏓᏛᏁᎸ ᎾᏍᎩᎾᎢ ᏧᏩᎫᏔᏅᏒ encoded ᎠᎦᏓᏅᏖᏗ:
+
+:ᎪᎯ ᏧᎵᎬᏩᎳᏅᎯ ᎨᏒᎢ ᏄᏓᎴᎿᎥ ᏂᏛᎴᏅᏓ ᎢᎬᏱ ᎦᏰᎯ encoding ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ. ᎾᎿᎢ ᎨᏒᎢ Ꮭ ᏄᏍᏛ ᎢᏯᏛᏁᏗ ᏄᏍᏛ ᏗᎧᏃᏗ unencoded ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ; ᎾᎿᎢ ᎨᏒᎢ Ꮭ semantic ᏓᏥᏲᎯᏎᎸ ᏄᏍᏛ ᎧᏃᎮᎸ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ; ᎾᎿᎢ ᎨᏒᎢ Ꮭ ᎢᏗᎦᏘᎭ ᎧᏁᎢᏍᏔᏅᎯ ᎾᏍᎩᎾᎢ ᏄᏍᏛ ᎧᏃᎮᎸ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ. Conceptually, ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᏄᏍᏛ ᏗᎧᏃᏗ ᎠᎴ ᎤᏟ ᎢᎦᎢ ᏚᎾᏓᏚᏓᎸ ᎯᎠ ᎩᎵᏏ ᎯᎸᏍᎩ ᎢᎧᏁᏣ, “an ‘e’ ᎬᏙᏗ ᏄᎵᏂᎬᎬ ᎬᏁᏗ ᎧᏁᎢᏍᏗ ᎾᎿ ᎾᏍᎩ,” ᎬᎾᏬᏍᎬ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎠᏍᏓᏩᏗᏒ &lt;Ꭴ+006E, Ꭴ+0301&gt;.
+
+==== ᏕᎬᏔᏛ ====
+
+ᎤᎪᏗᏗ ᏗᎦᏬᏂᎯᏍᏗ, ᎠᏠᏯᏍᏗᏍᎩ [[Arabic language|Arabic]] ᎠᎴ [[Devanāgarī|Hindi]], ᎤᎭ ᎤᏤᎵᏛ orthographic ᏗᎫᎪᏔᏅ ᎦᏙ ᎤᏍᏗ ᎧᏁᏍᏗ ᎢᏯᏛᏁᏗ Ꮎ ᎤᏙᎯᏳ ᎤᎾᏓᏟᏌᏅ letterforms ᎾᏍᏋ ᎦᏟᏌᏅ ᎾᎾᎯ ᎤᏤᎵᏛ [[ligature (typography)|ᏕᎬᏔᏛ ᏚᏙᏢᏒ]]. ᎯᎠ ᏗᎫᎪᏔᏅ ᎢᏚᏳᎪᏛ ᏕᎬᏔᏛ ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ ᏰᎵᏇ ᎾᏍᏋ ᎾᎥᏂᎨᏍᏙᏗ ᏂᎦᏛ, ᎠᏂᏁᎬ ᎢᏯᏛᏁᏗ ᎤᏤᎵᏛ ᎠᏃᏪᎵᏍᎬ-shaping technologies ᏯᏛᎿ ᏥᏄᏍᏗ [[OpenType]] (ᎾᎥᎢ ᏭᏚᎸᏛ ᏗᎬᏙᏗ ᎠᎴ Microsoft), [[Graphite (SIL)|Graphite]] (ᎾᎥᎢ [[SIL International|SIL ᎠᏰᎵ ᏚᎾᏙᏢᏒ]]), ᎠᎴ [[Apple Advanced Typography|AAT]] (ᎾᎥᎢ ᏒᎦᏔ). [[Font language|ᏗᎾᏓᏕᏲᎲᏍᎦ]] ᎠᎴ ᎾᏍᎩ ᎾᏍᏇ embedded ᎭᏫᎾᏗᏢ ᏂᎬᏂᏏᏍᎬ ᏚᎵᏃᎮᎸ ᎯᎠ [[operating system|ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi]] ᎯᎳᎪ ᏗᏙᎳᏤᎩ ᎢᏳᏍᏗ ᎧᏃᎮᏗ ᏄᏓᎴᎿᎥ ᎠᎦᏓᏅᏖᏗ ᎠᏍᏓᏩᏗᏒ. ᎭᏫᎾᏗᏢ simpler ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᏯᏛᎿ ᏥᏄᏍᏗ ᎯᎠ placement combining ᏚᏙᏪᎸᎢ ᎠᎴ diacritics, ᎣᏍᏛ ᏄᏩᏁᎸ-ᎾᏯᏛᎲᎢ ᏂᎬᏂᏏᏍᎬ ᏱᏓᏟᎶᏍᏔᏅ ᎠᏓᎾᏢᏗ ᎢᎬᎾᏗ ᎤᎾᏅᏛ ᏥᏄᏍᏗ "[[sidebearing]]" ᎭᏫᎾᏗᏢ ᎦᏙ ᎤᏍᏗ ᎯᎠ ᎤᏤᎵᏛ ᏚᏙᏪᎸᎢ preceed ᎯᎠ ᏄᎬᏫᏳᏒ letterform ᎭᏫᎾᏗᏢ ᎯᎠ datastream ᎠᎴ ᎯᎠ ᏂᎬᏂᏏᏍᎬ ᏩᏎᏍᏗ ᎾᎿ software ᎠᎦᏔᎭ ᎦᏟᏌᏅ ᎯᎠ ᏚᏙᏪᎸᎢ ᎾᎾᎯ ᏭᎵᏍᏆᏙᏅ ᎤᏙᏢᏒ.{{citationneeded}} ᎪᎯ ᎢᎬᎾᏗ ᏧᏂᎸᏫᏍᏓᏁᏗ ᎾᏍᎩ ᎤᏩᏒ ᎾᏍᎩᎾᎢ ᎢᎦᏛ diacritics, ᎠᎴ ᎠᎾᏍᎬᏘ ᎤᏄᎸᏅ ᏗᏙᎳᏤᎩ ᎫᎭᎸ stacked ᏚᏙᏪᎸᎢ.
+
+[[As of 2004|ᏥᏄᏍᏗ  2004]], ᎤᎪᏗᏗ software ᏙᎢ ᏝᏰᎵ reliably ᎫᎭᎸ ᎤᎪᏗᏗ ᏄᏍᏛ ᏗᎨᎦᏃᏗ ᎾᏍᎩ ᏂᎨᏒᎾ ᎤᎵᏍᏕᎸᎲ ᎾᎥᎢ ᎠᎦᏴᎳᎯᎨᏍᏙᏗ ᏂᎬᏂᏏᏍᎬ formats, ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ combining ᎠᎦᏓᏅᏖᏗ ᏂᎦᎥᏊ ᏫᎵ ᎾᏍᎩ ᏂᎨᏒᎾ ᏗᎦᎸᏫᏍᏓᏁᏗ ᎪᏢᎯᏌᏅᎯ. ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, {{unicode|ḗ}} (precomposed e ᎬᏙᏗ macron ᎠᎴ ᏄᎵᏂᎬᎬ ᎦᎸᎳᏗᏢ) ᎠᎴ {{unicode|ḗ}} (e ᎠᏍᏓᏩᏛᏓ ᎾᎥᎢ ᎯᎠ combining macron ᎦᎸᎳᏗᏢ ᎠᎴ combining ᏄᎵᏂᎬᎬ ᎦᎸᎳᏗᏢ) ᎢᏳᏗᎾ ᎾᏍᏋ ᏄᎾᏓᏛᏁᎸ ᎢᏗᎦᏘᎭ, ᎢᏧᎳ ᎦᎾᏄᎪᎬᎢ ᏥᏄᏍᏗ [[e]] ᎬᏙᏗ [[macron]] ᎠᎴ [[acute accent|ᏄᎵᏂᎬᎬ ᎬᏁᏗ ᎧᏁᎢᏍᏗ]], ᎠᎴ ᎭᏫᎾᏗᏢ ᎠᎵᏏᎾᎯᏍᏙᏗ, ᎤᎾᏤᎵ ᎦᎾᏄᎪᏨᎢ ᏰᎵᏇ ᏧᏓᎴᎾᎯ ᏰᎵ ᎡᏆᏯ ᏗᎦᎾᏗᎯᏍᏗ software ᏗᏔᏲᏍᏙᏗ. ᎤᏠᏱ, [[dot (diacritic)|underdot]], ᏥᏄᏍᏗ ᎤᏚᎳᏗ ᏄᎵᏍᏔᏅ ᎭᏫᎾᏗᏢ ᎯᎠ [[romanization]] [[Indo-Aryan languages|Indic]], ᏫᎵ ᎢᏳᏓᎵᎭ ᎾᏍᏋ nanahwunvgi ᎾᏍᎩ ᏂᎨᏒᎾ. ᏥᏄᏍᏗ workaround, Unicode ᎠᎦᏓᏅᏖᏗ Ꮎ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ precomposed glyphs ᏰᎵᏇ ᎾᏍᏋ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎤᎪᏗᏗ ᏯᏛᎿ ᎠᎦᏓᏅᏖᏗ. ᎯᎠ ᎤᏚᎳᏗ ᎾᏍᎩᎾᎢ ᏯᏛᎿ ᏅᎪᏢᎯᏐᏗᏱ ᎤᏓᏘᏰᏗ ᏂᏛᎴᏅᏓ ᎯᎠ ᎪᏪᎵ ᎠᏍᏚᏗ ᏂᎬᏂᏏᏍᎬ ᎠᎴ ᏩᏎᏍᏗ ᎾᎿ ᎠᏏᎾᏒᎢ, ᎾᏍᎩ ᏂᎨᏒᎾ weaknesses Unicode ᎤᏩᏌᏊ.
+
+== Unicode ᎭᏫᎾᏗᏢ ᎬᏙᏗ ==
+=== ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi ===
+
+Unicode ᎤᎭ ᏗᏙᎳᎩ ᎯᎠ ᎾᏓᏛᏂᏌᏁᎲ ᎠᏓᏅᏖᏗ ᎾᏍᎩᎾᎢ ᎭᏫᏂ ᏧᎵᎬᏩᎳᏅᎯ ᎠᎴ ᏱᏓᏟᎶᏍᏔᏅ ᎠᏍᏆᏂᎪᏙᏗ (ᎤᏁᎳᎩ ᎾᏍᎩ ᎾᏍᏊ ᎠᏟᎶᎥ ᎦᏙᎯ ᏓᎵᏍᏛ ᎨᏒᎢ ᏙᎢ ᎠᏓᎾᏅ ᎭᏫᎾᏗᏢ ᏧᎬᏩᎶᏗ ᏂᎬᎿᏅ encodings) ᏓᎵᏍᏛ. ᎢᎬᏱ adopters tended ᎬᏙᏗ UCS-2 ᎠᎴ ᎣᏂᏯᎨᏍᏙᏗ ᎤᏓᏅᏒ UTF-16 (ᏥᏄᏍᏗ ᎪᎯ ᏥᏄᏍᏛᎩ ᎯᎠ ᎠᏂᎦᏲᎵ disruptive ᎦᎶᎯᏍᏗ ᎦᏟᏐᏗ ᎠᎵᏍᏕᎸᏗ ᎾᏍᎩᎾᎢ ᎬᏙᏗ-bmp ᎠᎦᏓᏅᏖᏗ). ᎯᎠ ᎣᎯᏍᏗ ᎤᎾᏅᏛ ᏯᏛᎿ iyahdvnelidasdi ᎨᏒᎢ [[Windows NT|ᏗᏦᎳᏅ NT]] (ᎠᎴ Ꮝ ᎠᏂᏁᏉᎬ, [[Windows 2000|ᏗᏦᎳᏅ 2000]] ᎠᎴ [[Windows XP|ᏗᏦᎳᏅ XP]]). ᎯᎠ [[Java virtual machine|Java]] ᎠᎴ [[.NET Framework|.ᎦᎸᎳᏗᏢ ᏚᎵᎬᏩᎳᏅ]] bytecode ᏄᏍᏗᏓᏅ ᎾᏍᎩ ᎾᏍᏇ ᎬᏙᏗ ᎾᏍᎩ.
+
+[[UTF-8]] (ᎠᎴᏅᏔᏅ ᎤᏙᎷᏩᏛᏓ ᎾᏍᎩᎾᎢ [[Plan 9 from Bell Labs|ᎠᏟᎶᏍᏙᏗ 9]]) ᎤᎭ ᏗᏙᎳᎩ ᎯᎠ ᏄᎬᏫᏳᏒ encoding ᎾᎿ ᎤᎪᏗᏗ [[Unix-like|Unix-ᎾᏍᎩᏯᎢ]] ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi (ᎤᏁᎳᎩ ᎾᏍᎩ ᎾᏍᏊ ᎠᏂᏐᎢ ᎠᎴ ᎾᏍᎩ ᎾᏍᏇ ᎬᏔᏅᎯ ᎾᎥᎢ ᎢᎦᏛ libraries) ᎢᎬᏂᏏᏍᎩ ᎾᏍᎩ ᎨᏒᎢ ᏗᎦᏃᏢᎩ ᏩᎾᎯᎨᏍᏙᏗ ᏅᎪᏢᎯᏐᏗᏱ ᎾᏍᎩᎾᎢ ᎧᏃᎮᎸᎯ [[extended ASCII|ᎧᏁᏉᏛ ASCII]] ᎠᎦᏓᏅᏖᏗ ᏗᏫᏒᏗ.
+
+=== E-ᎪᏪᎵ ᏫᎦᏅᏅ ===
+
+{{main|Unicode and e-mail}}
+
+[[MIME|ᏗᏟᎶᏍᏔᏅ]] ᎧᏁᎢᏍᏔᏅᎯ ᏔᎵ ᏄᏓᎴᎿᎥ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎾᏍᎩᎾᎢ encoding ᎬᏙᏗ-ASCII ᎠᎦᏓᏅᏖᏗ ᎭᏫᎾᏗᏢ [[e-mail|e-ᎪᏪᎵ ᏫᎦᏅᏅ]], ᎥᎵᏍᎦᏍᏙᏗᏍᎬ ᎾᎿ ᎢᏳᏃ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᎭᏫᎾᏗᏢ e-ᎪᏪᎵ ᏫᎦᏅᏅ ᎬᏂᎨᏒ ᎢᎬᏁ ᏯᏛᎿ ᏥᏄᏍᏗ ᎯᎠ "ᎢᏳᏍᏗ ᎧᏃᎮᏗ:" ᎠᎴ ᎭᏫᎾᏗᏢ ᎯᎠ ᏓᎵᏍᏛ ᎠᏰᎸ ᎯᎠ ᎥᏓᏘᏃᎯᏎᏗ. ᎭᏫᎾᏗᏢ ᎢᏧᎳ ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᎯᎠ ᎠᎴᏅᏗᏍᎬ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎨᏒᎢ identified ᏥᏄᏍᏗ ᎠᏔᎴᏒ ᎠᎹᏱ ᏥᏄᏍᏗ ᏫᏓᏲᎯᏍᏗ encoding. ᎾᏍᎩᎾᎢ e-ᎪᏪᎵ ᏫᎦᏅᏅ ᏫᏓᏲᎯᏍᏗ Unicode ᎯᎠ UTF-8 ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎠᎴ ᎯᎠ [[Base64]] ᏫᏓᏲᎯᏍᏗ encoding ᎠᎴ ᎦᎸᏉᏔᏅ. ᎯᎠ ᏂᏕᎬᎿᏅᎢ ᎯᎠ ᏔᎵ ᏄᏓᎴᎿᎥ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎠᎴ ᏗᎪᎥᎯ ᎭᏫᎾᏗᏢ ᎯᎠ ᏗᏟᎶᏍᏔᏅ ᏰᎵᏊ ᏗᏙᎳᎩ ᎠᎴ ᎠᎴ ᏂᎦᎥᏊ ᎬᏍᎦᎸ ᏂᏛᎴᏅᏓ ᏗᎦᎴᏴᏗᏍᎩ e-ᎪᏪᎵ ᏫᎦᏅᏅ software.
+
+ᎯᎠ ᎠᏑᏰᏛ Unicode ᎭᏫᎾᏗᏢ [[e-mail|e-ᎪᏪᎵ ᏫᎦᏅᏅ]] ᎤᎭ ᏭᏪᏙᎢ ᎤᏙᎯᏳ ᎤᏍᎦᏃᎳ. ᎤᎪᏗᏗ ᎧᎸᎬ-Asian ᏓᎵᏍᏛ ᎨᏒᎢ ᏙᎢ encoded ᎭᏫᎾᏗᏢ ᎾᎥᎢ encoding ᏯᏛᎿ ᏥᏄᏍᏗ [[Shift-JIS|ᏗᏓᏁᏟᏴᏍᏗ-JIS]], ᎠᎴ ᎤᎪᏗᏗ ᏱᏓᏟᎶᏍᏔᏅ ᎬᏔᏅᎯ e-ᎪᏪᎵ ᏫᎦᏅᏅ ᎢᏗᏛᏁᏗ ᏙᎢ ᏝᏰᎵ ᎫᎭᎸ Unicode ᎾᎯᏳ ᎢᎪᎯ ᎪᏢᎯᏌᏅᎯ, ᎢᏳᏃ ᎤᏅᏌ ᎤᎭ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᎵᏍᏕᎸᏗ ᎾᎾᎢ ᏂᎦᏛ. ᎪᎯ ᏄᏍᏗᏓᏅ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ utugi uwasv ᏧᎾᏍᏗ ᎭᏫᎾᏗᏢ ᎯᎠ foreseeable ᎤᏩᎫᏗᏗᏒ.
+
+=== ᎤᏂᏏᎳᏛ ===
+
+{{main|Unicode and HTML}}
+ᎤᏂᏏᎳᏛ browsers ᎤᎭ ᏭᏪᏙᎢ ᎠᎵᏍᏕᎸᏗ ᎯᎸᏍᎩ UTFs, ᎾᏍᎩ ᎨᏒᎢ UTF-8, ᎾᏍᎩᎾᎢ ᎤᎪᏗᏗ ᏧᏕᏘᏴᏓ ᎾᏊ. ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᏗᎦᏎᏍᏙᏗ ᏄᎵᏍᏔᏅ ᎢᎬᏱᏗᏢ ᏂᏛᎴᏅᏓ [[typeface|ᏂᎬᏂᏏᏍᎬ]] ᎪᎱᏍᏗ ᎠᎾᏓᏛᏂ ᎠᏯᏙᎯᎲ. ᎭᏫᎾᏗᏢ ᎾᏍᎩᎾ [[Internet Explorer|ᎧᎾᏁᏍ ᏗᎦᏣᏄᎶ ᎤᎾᏣ]] ᎾᏛᏁ ᎾᏍᎩ ᏂᎨᏒᎾ ᎢᏯᏓᏛᏁᏗ ᎤᎪᏗᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᏄᏍᏗᏓᏅ ᎾᏍᎩ ᎨᏒᎢ ᎦᏛᎬᎢ ᎤᏃᎮᎴᎢ ᎬᏙᏗ ᏂᎬᏂᏏᏍᎬ Ꮎ ᎢᎦᎢ ᎨᏐ ᎠᏂ. 
+
+ᏂᎦᏛ [[W3C]] ᏗᎦᎸᏉᏔᏅᎯ ᎠᎴ ᎬᏗᏍᎬᎢ Unicode ᏥᏄᏍᏗ ᎤᎾᏤᎵ ''ᎪᏪᎵᎬᏂᎨᏒ ᎢᎬᏁᎯ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ'', ᎯᎠ encoding ᎠᎴᏂᏙᎲ ᏂᏙᏓᎳᎬᎾ, ᎢᏳᏊ ᎣᏂ ᏧᏩᎫᏛ HTML 4.0. ᎾᏍᎩ ᏅᎪᏢᎯᏐᏗ ᎯᎠ 8-ᎤᏍᎦᎶᏨ ASCII superset [[ISO-8859-1]], ᎦᏙ ᎤᏍᏗ ᎠᏰᎲ ᏭᏪᏙᎢ ᎯᎠ ᏰᎵᏊ ᏗᏙᎳᎩ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ ᎠᎴ encoding ᎤᏓᎷᎸ.
+
+ᎾᏍᎩ ᎤᏁᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎠᏕᎶᏆᏍᏗ ᏗᎫᎪᏔᏅ ᎠᎾᏍᎬᏘ ᎦᎸᏉᏙᏗ ᎯᎠ ᎠᏓᏅᏍᏗ ᎭᏫᎾᏗᏢ ᎦᏙ ᎤᏍᏗ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᎠᎾᏓᏁᎲ ᎦᎾᏄᎪᎢᏍᏗ, ᎢᏧᎳ [[HTML|HTML 4]] ᎠᎴ [[XML]] (ᎠᏠᏯᏍᏗᏍᎩ [[XHTML]]) ᎪᏪᎵᎬᏂᎨᏒ ᎢᏗᎬᏁᎯ, ᎾᎥᎢ ᏩᏎᏍᏗ ᎾᎿ, ᎪᎯᏳᏙᏗ ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ ᎤᎪᏗᏗ ᎯᎠ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ, ᎬᏙᏗ ᎯᎠ ᏓᎦᏘᎴᎬ :
+* ᎤᎪᏗᏗ ᎯᎠ [[C0 and C1 control codes|C0 ᎠᎴ C1 ᎠᎨᏔᏗᏍᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+* ᎯᎠ ᏂᎪᎯᎸᎢ-unassigned ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ D800–DFFF
+* ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎠᎵᏍᏆᏗᏍᎬ ᎭᏫᎾᏗᏢ FFFE ᎠᎴ FFFF 
+* ᏂᎦᎵᏍᏗᏍᎬᎫ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎦᎸᎳᏗᏢ 10FFFF. 
+ᎾᏍᎩ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎦᎾᏄᎪᏨᎢ ᎢᏳᏍᏗᏊ ᎾᎿ ᎢᏴ ᏥᏄᏍᏗ [[byte]]ᎧᎵ ᏗᏙᎳᎩ ᎪᏪᎵᎬᏂᎨᏒ ᎢᎬᏁᎯ ᎤᏤᎵ encoding, ᎢᏳᏃ ᎯᎠ encoding ᎠᎵᏍᏕᎸᏗ ᎠᏂ, ᎠᎴ ᏗᎦᎴᏴᏗᏍᎩ ᎠᎾᏍᎬᏘ ᎪᏪᎶᏗ ᎠᏂ ᏥᏄᏍᏗ numeric ᎠᎦᏓᏅᏖᏗ ᏫᏓᏎᎸᎢ ᏚᎳᏏᏔᏅᎩ ᎾᎿ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎤᏤᎵ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ.
+
+ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, ᎯᎠ ᏫᏓᏎᎸᎢ <code>&amp;#916;</code>, <code>&amp;#1049;</code>, <code>&amp;#1511;</code>, <code>&amp;#1605;</code>, <code>&amp;#3671;</code>, <code>&amp;#12354;</code>, <code>&amp;#21494;</code>, <code>&amp;#33865;</code>, ᎠᎴ <code>&amp;#45307;</code> (ᎠᎴ ᎯᎠ ᎤᏠᏱ numeric ᏧᎬᏩᎶᏗᎢ ᎢᏳᏂᏪᏛ ᎭᏫᎾᏗᏢ hexadecimal, ᎬᏙᏗ <code>&amp;#x</code> ᏥᏄᏍᏗ ᎯᎠ ᏭᎵᏍᎨᏗᏴ) ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎾᎿ browsers ᏥᏄᏍᏗ Δ, Й, ק,‎ م, ๗, あ, 叶, 葉 ᎠᎴ 냻. ᎢᏳᏃ ᎯᎠ ᏗᏙᎳᎩ ᏂᎬᏂᏏᏍᎬ ᎬᏂᎨᏒ ᏄᏍᏗ, ᎾᏍᎩ ᎯᎠ ᏗᎬᏟᎶᏍᏙᏗ ᎭᎦᏔ ᎾᏍᎩᏯᎢ ᎯᎠ [[Greek alphabet|ᎠᎪᎢ]] ᎠᏰᎵ ᏗᎦᎳᏫᎢᏍᏗ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "[[Delta (letter)|ᎦᏙᎯ]]", [[Cyrillic alphabet|Cyrillic]] ᎠᏰᎵ ᏗᎦᎳᏫᎢᏍᏗ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "[[Short I|ᏍᏆᎳᎢ ᎠᏯ]]", [[Hebrew alphabet|ᎤᏦᎠᏎᏗ]] ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "Qof", [[Arabic alphabet|Arabic]] ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "Meem", [[Thai language|Thai]] [[numeral|ᏎᏍᏗ]] [[7 (number)|7]], [[Japanese language|Japanese]] [[Hiragana]] "", [[simplified Chinese]] "[[Leaf|ᎤᎦᎶᎬ]]", [[traditional Chinese|ᎧᏃᎮᎸᎯ Chinese]] "ᎤᎦᎶᎬ", ᎠᎴ [[Korean language|Korean]] [[Hangul]] ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ "Nyaelh", ᎨᏥᎸᏉᏗᏳ.
+
+ᎭᏫᎾᏗᏢ [[HTTP]] ᎾᏓᏪᏎᎲ, [[Uniform Resource Locator|URLs]] ᎠᏎ ᎾᏍᏋ [[percent-encoding|ᏌᏊ ᎢᎦᏛ ᎤᏃᏍᏛ-encoded]], ᎤᏠᏱᎭ ᎬᏗᏍᎬᎢ ᎯᎠ [[UTF-8]] encoding ᎢᏯᏓᏛᏁᏗ Unicode.
+
+=== ᏂᎬᏂᏏᏍᎬ ===
+
+ᎠᏎᏊᎢ ᎠᎴ ᎤᏍᏗ ᎠᏓᎾᏅ [[Unicode fonts|ᏂᎬᏂᏏᏍᎬ]] ᏚᎳᏏᏔᏅᎩ ᎾᎿ Unicode ᏄᎵᏍᏔᏅ ᏱᏓᏟᎶᏍᏔᏅ, ᎣᏂ ᏧᏩᎫᏛ ᎢᎬᏱ [[TrueType]] ᎠᎴ ᎾᏊ [[OpenType]] ᎠᎵᏍᏕᎸᏗ Unicode. ᎾᏍᎩ ᎯᎠ ᏂᎬᏂᏏᏍᎬ formats ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ glyphs.
+
+ᎯᎸᏍᎩ ᎢᏯᎦᏴᎵ [[List of typefaces|ᏂᎬᏂᏏᏍᎬ]] ᎬᏂᎨᏒ ᏄᏍᏗ ᎾᎿ ᎯᎠ ᎤᏂᎾᏗᏅᏗ, ᎠᎴ ᎦᏲᎳᎨᎢᏍᏗ ᎬᎾᏬᏍᎬ ᏔᎳᏚ ᏂᎬᏂᏏᏍᎬ — ᏱᏓᏟᎶᏍᏔᏅ ᏄᏍᏛ ᎧᏃᎮᎸ ᏥᏄᏍᏗ "ᏗᏍᏆᎸᏙᏗ-Unicode" ᏂᎬᏂᏏᏍᎬ — ᎠᏁᎸᏙᏗ ᎠᎵᏍᏕᎸᏗ ᎯᎠ ᎤᏂᎪᏗᏗ Unicode ᎤᏤᎵ ᎠᎦᏓᏅᏖᏗ ᏓᎾᏛᏁᎵᏍᎬ. ᎾᏍᎩᏍᎩᏂ ᏂᎨᏒᎾ, Unicode-ᏚᎳᏏᏔᏅᎩ [[List of typefaces#Unicode fonts|ᏂᎬᏂᏏᏍᎬ]] ᎢᏯᏛᏁᎵᏓᏍᏗ ᎠᏰᎵ ᎾᎿ ᎠᎵᏍᏕᎸᏗ ᎾᏍᎩ ᎤᏩᏒ ᏄᏦᏍᏛᎾ ASCII ᎠᎴ ᎾᏍᎩᎾ ᎠᏃᏪᎵᏍᎬ ᎠᎴ ᏗᏫᏒᏗ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᏗᎬᏟᎶᏍᏙᏗ. ᎯᎸᏍᎩ ᎠᎾᏓᏅᏖᏍᎬ ᎧᎵᏬ ᏗᎳᏏᏗ ᎪᎯ ᎤᎾᏄᎪᎢᏍᏗ: ᏗᏔᏲᏍᏙᏗ ᎠᎴ ᎪᏪᎵᎬᏂᎨᏒ ᎢᏗᎬᏁᎯ ᎢᏅᎯ ᎢᏳᏓᎵ ᎤᏚᎳᏗ ᎢᏯᏓᏛᏁᏗ ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ ᏌᏊ ᎠᎴ ᏔᎵ ᎠᏃᏪᎵᏍᎬ iyahdvnelidasdi; ᏂᎬᏂᏏᏍᎬ ᏫᏚᏳᎪᏛ ᎠᏔᏲᏍᏗ ᏧᎬᏩᎶᏗ ᎦᎷᎩ ᎭᏫᎾᏗᏢ computing ᏄᏍᏗᏓᏅ; ᎠᎴ ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi ᎠᎴ ᏗᏔᏲᏍᏙᏗ ᎤᎾᏛᏁᎸᏗ kanquotsegi ᎪᎱᏍᏗ ᎨᏒ ᎭᏫᎾᏗᏢ ᎾᏍᎩ ᎣᏏ ᎠᏰᎸᏗ ᎣᏤᎵ ᎾᎬᏁᎲ glyph ᎠᏓᏃᎯᏎᏗ ᏂᏛᎴᏅᏓ ᏧᏓᎴᎿᎢ ᏂᎬᏂᏏᏍᎬ ᏓᏝᎥᎢ ᏥᏄᏍᏗ ᎤᏚᎳᏗ ᏄᎵᏍᏔᏅ. ᎤᏗᏗᏢᎢᎨᏍᏙᏗ, ᎢᏯᏓᏛᏁᎸ ᎤᏠᏱᎭ ᎠᏫᏒᏗ ᏩᏎᏍᏗ ᎾᎿ ᏗᎾᏓᏕᏲᎲᏍᎦ ᎾᏍᎩᎾᎢ ᏍᎪᎯ ᎯᎸᏍᎩ ᎢᏯᎦᏴᎵ glyphs ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ monumental ᎢᏯᏛᏁᏗ ᎠᎲ; ᏯᏛᎿ ᎠᏁᎸᏙᏗ ᏓᏂᎶᏍᎬᎢ ᎯᎠ ᎪᏍᏓᏱ [[diminishing returns|ᎠᏍᏓᏩᏛᏍᏗ ᎢᎦᎷᎦ]] ᎾᏍᎩᎾᎢ ᎤᎪᏗᏗ typefaces.
+
+ᎯᎸᏍᎩ ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ Unicode ᎠᎴ standardized: Microsoft ᏗᏦᎳᏅ ᎣᏂ ᏧᏩᎫᏛ ᏗᏦᎳᏅ NT 4.0 ᎠᎵᏍᏕᎸᏗ [[WGL-4]] ᎬᏙᏗ 652 ᎠᎦᏓᏅᏖᏗ, ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎠᎦᏎᏍᏔᏅ ᎠᎵᏍᏕᎸᏗ ᏂᎦᏛ ᎠᎵᎪᏁᏗ European ᏗᎦᏬᏂᎯᏍᏗ ᎬᏗᏍᎬᎢ ᎯᎠ Latin, ᎠᎪᎢ ᎠᎴ Cyrillic ᎠᏃᏪᎵᏍᎬ. ᏐᎢ standardized ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ Unicode ᎠᏠᏯᏍᏛ MES-1 (335 ᎠᎦᏓᏅᏖᏗ) ᎠᎴ MES-2 (1062 ᎠᎦᏓᏅᏖᏗ) (CWA 13873:2000, Multilingual European ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᎭᏫᎾᏗᏢ ISO/IEC 10646-1).
+{| class="wikitable" style="font-family: monospace;"
+|+style="font-family:sans-serif; font-style: normal;"| '''WGL-4''', ''MES-1''<ref>[http://www.kostis.net/charsets/iso10646.mes-1.htm MES-1]</ref> and MES-2<ref>[http://www.cl.cam.ac.uk/~mgk25/ucs/mes-2-rationale.html MES-2]</ref>
+|-style="font-family:serif;"|
+! Row !! Cells !! Range(s)
+|-
+!rowspan="2"| 00
+| '''''20–7E'''''
+| Basic Latin (00–7F)
+|-
+| '''''A0–FF'''''
+| Latin-1 Supplement (80–FF)
+|-
+!rowspan="2"| 01
+| '''''00–13,'' 14–15, ''16–2B,'' 2C–2D, ''2E–4D,'' 4E–4F, ''50–7E,'' 7F'''
+| Latin Extended-A (00–7F)
+|-
+| 8F, '''92,''' B7, DE-EF, '''FA–FF'''
+| Latin Extended-B (80–FF <span title="U+024F">…</span>)
+|- 
+!rowspan="3"| 02
+| 18–1B, 1E–1F
+| Latin Extended-B (<span title="U+00180">…</span> 00–4F)
+|-
+| 59, 7C, 92
+| IPA Extensions (50–AF)
+|-
+| BB–BD, '''C6, ''C7,'' C9,''' D6, '''''D8–DB,'' DC, ''DD,''''' DF, EE
+| Spacing Modifier Letters (B0–FF)
+|-
+! 03
+| 74–75,  7A,  7E, '''84–8A, 8C, 8E–A1, A3–CE,''' D7, DA–E1
+| Greek (70–FF)
+|-
+! 04
+| 00, '''01–0C,''' 0D, '''0E–4F,''' 50, '''51–5C,''' 5D, '''5E–5F, 90–91,''' 92–C4, C7–C8, CB–CC, D0–EB, EE–F5, F8–F9
+| Cyrillic (00–FF)
+|-
+! 1E
+| 02–03, 0A–0B, 1E–1F, 40–41, 56–57, 60–61, 6A–6B, '''80–85,''' 9B, '''F2–F3'''
+| Latin Extended Additional (00–FF)
+|-
+! 1F
+| 00–15, 18–1D, 20–45, 48–4D, 50–57, 59, 5B, 5D, 5F–7D, 80–B4, B6–C4, C6–D3, D6–DB, DD–EF, F2–F4, F6–FE
+| Greek Extended (00–FF)
+|-
+!rowspan="3"| 20
+| '''13–14, ''15,'' 17, ''18–19,'' 1A–1B, ''1C–1D,'' 1E, 20–22, 26, 30, 32–33, 39–3A, 3C, 3E'''
+| General Punctuation (00–6F)
+|-
+| '''44,''' 4A, '''7F''', 82
+| Superscripts and Subscripts (70–9F)
+|-
+| '''A3–A4, A7, ''AC,''''' AF
+| Currency Symbols (A0–CF)
+|-
+!rowspan="3"| 21
+| '''05, 13, 16, ''22, 26,'' 2E'''
+| Letterlike Symbols (00–4F)
+|-
+| '''''5B–5E'''''
+| Number Forms (50–8F)
+|-
+| '''''90–93,'' 94–95, A8'''
+| Arrows (90–FF)
+|-
+! 22
+| 00, '''02,''' 03, '''06,''' 08-09, '''0F, 11–12, 15, 19–1A, 1E–1F,''' 27-28, '''29,''' 2A, '''2B, 48,''' 59, '''60–61, 64–65,''' 82–83, 95, 97
+| Mathematical Operators (00–FF)
+|-
+! 23
+| '''02, 0A, 20–21,''' 29–2A
+| Miscellaneous Technical (00–FF)
+|-
+!rowspan="3"| 25
+| '''00, 02, 0C, 10, 14, 18, 1C, 24, 2C, 34, 3C, 50–6C'''
+| Box Drawing (00–7F)
+|-
+| '''80, 84, 88, 8C, 90–93'''
+| Block Elements (80–9F)
+|-
+| '''A0–A1, AA–AC, B2, BA, BC, C4, CA–CB, CF, D8–D9, E6'''
+| Geometric Shapes (A0–FF)
+|-
+! 26
+| '''3A–3C, 40, 42, 60, 63, 65–66, ''6A,'' 6B'''
+| Miscellaneous Symbols (00–FF)
+|-
+! F0
+| (01–02)<!--in WGL-4, but not in MES-2-->
+| Private Use Area (00–FF …)
+|-
+! FB
+| '''01–02'''
+| Alphabetic Presentation Forms (00–4F)
+|-
+! FF
+| FD
+| Specials
+|}
+
+ᏩᏎᏍᏗ ᎾᎿ software ᎦᏙ ᎤᏍᏗ ᏝᏰᎵ ᏧᎵᎬᏩᎳᏅᎯ Unicode ᎠᎦᏓᏅᏖᏗ ᏗᏙᎳᎩ ᎤᎪᏗᏗ ᎢᏳᏓᎵᎭ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎾᏍᎩ ᏥᏄᏍᏗ ᎾᏍᎩ ᎤᏩᏒ ᎠᏍᏚᎢᏛ ᏓᏍᏓᏅᏅ ᏚᎷᏨ, ᎠᎴ ᎯᎠ Unicode "ᏅᎪᏢᎯᏐᏗᏱ ᎠᎦᏓᏅᏖᏗ" (Ꭴ+FFFD, �), ᎠᏓᏎᎮᏗ ᎯᎠ ᎾᎿ ᎦᏙᎬ ᎯᎠ unrecognized ᎠᎦᏓᏅᏖᏗ. ᎢᎦᏛ iyahdvnelidasdi ᎤᎭ ᎪᏢᏅᎯ ᎠᏁᎸᏙᏗ ᎠᏓᏁᎳᏁᏗ ᎤᏟ ᎢᎦᎢ ᎠᏓᏃᎯᏎᏗ ᎬᏩᏚᏫᏛ ᏯᏛᎿ ᎠᎦᏓᏅᏖᏗ. ᎯᎠ ᏒᎦᏔ ''[[LastResort]]'' ᏂᎬᏂᏏᏍᎬ ᏫᎵ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᏅᎪᏢᎯᏐᏗᏱ glyph ᎠᎾᏓᏎᎮᎲᎢ ᎯᎠ Unicode ᎠᏍᏓᏅᏅ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᎯᎠ [[SIL International|SIL]] [[Unicode fallback font|Unicode fallback ᏂᎬᏂᏏᏍᎬ]] ᏫᎵ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎧᏁᏌᎢ ᎠᎾᏓᏎᎮᎲᎢ ᎯᎠ hexadecimal scalar ᏧᎬᏩᎶᏗ ᎯᎠ ᎠᎦᏓᏅᏖᏗ.
+
+=== Multilingual ᏓᎵᏍᏛ-ᏩᏎᏍᏗ ᎾᎿ ᎠᏥᎸ ᎠᏂᎩᏍᎩ ===
+*[[Uniscribe]] — [[Microsoft Windows|ᏗᏦᎳᏅ]]
+*[[Apple Type Services for Unicode Imaging|ᏒᎦᏔ ᏗᎦᎪᏗ ᎾᎾᏛᏁᎲ ᎾᏍᎩᎾᎢ Unicode Imaging]] — ᎢᏤ ᎠᏥᎸ ᎠᏂᎩᏍᎩ ᎾᏍᎩᎾᎢ [[Apple Macintosh|Macintosh]]
+*[[WorldScript]] — ᎠᎦᏴᎵ ᎠᏥᎸ ᎠᏂᎩᏍᎩ ᎾᏍᎩᎾᎢ [[Apple Macintosh|Macintosh]]
+*[[Pango]] — [[Open Source|ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ]], ᎬᏔᏅᎯ ᎾᎥᎢ [[GTK+]] (ᎠᎴ ᏯᏛᎾ [[GNOME|ᎤᏁᎫᏥᏛ]])
+*[[International Components for Unicode|ICU Layout ᎠᏥᎸ ᎠᏂᎩᏍᎩ]] — ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ
+*[[Graphite (SIL)|Graphite]]  — (ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ renderer ᏂᏛᎴᏅᏓ [[SIL International|SIL]])
+*[[Qt (toolkit)|ᏗᏃᏪᎵᏍᎩ]] — ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ renderer ᏂᏛᎴᏅᏓ [[Trolltech]]
+
+=== Input ᎢᏗᎬᎾᏗ ===
+
+ᎢᎬᏂᏏᏍᎩ keyboard layouts ᏝᏰᎵ ᎤᎭ ᏄᏦᏍᏛᎾ ᏍᏚᎢᏍᏗ ᎤᎾᏓᏟᏌᏅ ᎾᏍᎩᎾᎢ ᏂᎦᏛ ᎠᎦᏓᏅᏖᏗ, ᎯᎸᏍᎩ ᎠᏂᎩᏍᏗᏍᎬ iyahdvnelidasdi ᎠᏓᏁᎳᏁᏗ ᏅᎪᏢᎯᏐᏗᏱ input ᎢᏗᎬᎾᏗ Ꮎ ᎠᎵᏍᎪᎸᏙᏗ ᎦᎷᎯᏍᏗ ᎯᎠ ᏂᎦᏛ ᏓᎾᏛᏁᎵᏍᎬ.
+
+ᎭᏫᎾᏗᏢ [[Microsoft Windows|Microsoft ᏗᏦᎳᏅ]] (ᎣᏂ ᏧᏩᎫᏛ ᏗᏦᎳᏅ 2000), ᎯᎠ "ᎠᎦᏓᏅᏖᏗ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ" ᎢᏯᏛᏁᏗ (ᎠᏂᎩᏍᏗ/ᎢᏗᏛᏁᏗ/Accessories/iyahdvnelidasdi ᎪᎱᏍᏗ ᏗᎬᏔᏂᏓᏍᏗ/ᎠᎦᏓᏅᏖᏗ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ) ᏓᏓᏁᎳᏁ ᎤᏪᎾᎢ-ᏓᎵᏍᏛ ᏗᎦᎴᏴᏍᎬ ᎠᎨᏔᏗᏍᏗ ᎾᏍᎩᎾᎢ ᏂᎦᏛ ᎦᏍᎩᎶ ᎠᏯ ᎠᎦᏓᏅᏖᏗ ᎦᎸᎳᏗᏢ Ꭴ+FFFF, ᎾᎥᎢ ᎠᏑᏰᏍᏗ ᏂᏛᎴᏅᏓ ᎪᎭᏍᎬ-ᎡᎳᏗ ᎦᏍᎩᎶ, ᏃᎵᏍᎬᎢ Ꮎ Unicode [[font|ᏂᎬᏂᏏᏍᎬ]] ᎨᏒᎢ ᎠᏑᏰᏛ. ᎢᏗᏛᏁᏗ ᏯᏛᎿ ᏥᏄᏍᏗ [[Microsoft Office Word|Microsoft ᎧᏁᏨ]] ᎤᎭ ᎤᏠᏱ ᎠᎨᏔᏗᏍᏗ embedded (ᎪᏣᎵᏗᏱ/ᏗᎬᏟᎶᏍᏙᏗ). ᎤᏟ ᎬᏰᎸᏗ ᎤᏟ ᎢᎦᎢ ᏂᎬᎢ ᎠᎴ ᎭᏢᏃ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎯᎠ ᎠᏚᎸᏓ ᎠᎦᏓᏅᏖᏗ ᎨᏒᎢ ᎤᎾᏅᏛ, ᎾᏍᎩ ᎨᏒᎢ ᏰᎵᏊ ᎪᏢᏗ Unicode ᎠᎦᏓᏅᏖᏗ ᎾᎥᎢ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ <code>Alt + #</code>, ᎭᏢᏃ # ᎾᏓᏛᏁ 0 ᎠᏍᏓᏩᏛᏓ ᎾᎥᎢ ᎯᎠ ᏎᏍᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ; ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, <code>Alt + 0241</code> ᏫᎵ ᎠᏛᎯᏍᏙᏗ ᎯᎠ Unicode ᎠᎦᏓᏅᏖᏗ ''ñ''. (ᎯᎠ # ᎠᏎ ᎠᏂᎩᏍᏗ ᎬᏙᏗ 0 ᎾᏍᏋ ᎠᎦᏎᏍᏔᏅ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎠᎴ ᎯᎠ ᏗᏍᏚᎢᏍᏗ ᎾᎿ ᎯᎠ numeric ᎤᏚᏃᎯᏍᏔᏍᎧ ᎯᎠ keyboard ᎠᏎ ᎾᏍᏋ ᎬᏔᏅᎯ.) ᎪᎯ ᎾᏍᎩ ᎾᏍᏇ ᏧᏂᎸᏫᏍᏓᏁᏗ ᎭᏫᎾᏗᏢ ᎤᎪᏗᏗ ᏐᎢ ᏗᏦᎳᏅ ᏗᏔᏲᏍᏙᏗ, ᎠᎴ ᎾᏍᎩ ᏂᎨᏒᎾ ᎭᏫᎾᏗᏢ ᏗᏔᏲᏍᏙᏗ Ꮎ ᎬᏙᏗ ᎯᎠ ᏰᎵᏊ ᏗᏙᎳᎩ ᏗᏦᎳᏅ ᏗᎦᎴᏴᏍᏗ ᎠᎨᏔᏗᏍᏗ, ᎠᎴ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᎪᏢᏗ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎤᏤᎵᏛ ᎤᎾᎵᏍᏕᎸᏙᏗ ᎠᎵᏍᎪᎸᏙᏗ ᎪᎯ ᏗᎦᎪᏗ input. ᎠᎪᏩᏛᏗ [[Alt codes|Alt ᎠᏍᏓᏩᏛᏍᏙᏗ]]. ᎦᏟᏐᏗ Unicode ᎠᎦᏓᏅᏖᏗ ᎠᏓᏃᎯᏎᏗ ᎦᏓ ᎦᏂᏴᏙ ᎭᏫᎾᏗᏢ [[Microsoft Excel|Microsoft ᎤᏂᎪᏗᏗ]] ᎢᎬᏱ ᏗᎦᎪᏗ ᎯᎠ ᎦᏓ ᎦᏂᏴᏙ ᏓᎵᏍᏛ ᎾᎾᎯ worksheet ᎦᏁᎸ, ᎭᏢᏃ ᎯᎠ (ᎪᏣᎵᏗᏱ/ᏗᎬᏟᎶᏍᏙᏗ) ᎠᎨᏔᏗᏍᏗ ᏰᎵᏇ ᎾᏍᏋ ᎬᏔᏅᎯ. ᎯᎠ ᏄᎵᏍᏔᏅ ᏓᎵᏍᏛ ᏰᎵᏇ ᎾᏍᏋ ᎠᏰᎳᏍᏗ ᎠᎴ pasted ᎾᎾᎯ ᎠᏓᏃᎯᏎᏗ ᎦᏓ ᎦᏂᏴᏙ.  
+
+[[Apple Macintosh|ᏒᎦᏔ Macintosh]] ᏗᎦᎴᏴᏗᏍᎩ ᎤᎭ ᎤᏠᏱ ᏄᏍᏛ ᏗᎧᏃᏗ ᎬᏙᏗ input ᎢᎬᎾᏗ ᎤᏯᏅᎲ 'Unicode Hex Input', ᎭᏫᎾᏗᏢ [[Mac OS X|Mac ᏅᏙᎲᏅ X]] ᎠᎴ ᎭᏫᎾᏗᏢ [[Mac OS|Mac ᏅᏙᎲᏅ]] 8.5 ᎠᎴ ᎣᏂᏯᎨᏍᏙᏗ: ᏚᏂᏴ ᎡᎳᏗ ᎯᎠ ᏗᏓᏁᏤᏗ ᏍᏚᎢᏍᏗ, ᎠᎴ ᏗᎦᎪᏗ ᎯᎠ ᏅᎩ-hex-ᏎᏍᏗ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ. Inputting ᎠᏍᏓᏩᏛᏍᏙᏗ ᏗᎪᏍᏓᏱ ᎦᎸᎳᏗᏢ Ꭴ+FFFF ᎨᏒᎢ ᎠᏍᏆᏛᎯ ᎾᎥᎢ ᎠᏂᏴᎯᎲ [[UTF-16|ᏔᎵᏁ ᎠᏓᎴᏁ ᎠᏍᏆᏂᎪᏒᏗ]]; ᎯᎠ software ᏫᎵ ᎤᎧᏛ ᎠᏂᏏᏴᏫᎭ ᎾᎥᏂᎨ ᎡᎵᏍᏗ ᎾᎾᎯ ᏏᏴᏫ ᎠᎦᏓᏅᏖᏗ automatically. Mac ᏅᏙᎲᏅ X (ᏅᎬᎪᏔᏅᎯ 10.2 ᎠᎴ newer) ᎾᏍᎩ ᎾᏍᏇ ᎤᎭ 'ᎠᎦᏓᏅᏖᏗ ᎠᏂᎶᏁᏍᎬ', ᎦᏙ ᎤᏍᏗ ᎠᎵᏍᎪᎸᏙᏗ ᏗᎦᎴᏴᏗᏍᎩ ᎠᎪᏩᏛᏗ ᎠᏑᏰᏍᏗ ᏂᎦᎵᏍᏗᏍᎬᎫ Unicode ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ ᎦᏍᎩᎶ ᎤᎾᏙᏢᏅᎯ ᎠᏓᏃᎮᏗ, ᎾᎥᎢ Unicode ᏍᏆᎳ ᎠᏍᏆᎵᏛ, ᎠᎴ ᎾᎥᎢ ᎠᏑᏰᏛ ᏂᎬᏂᏏᏍᎬ ᎤᏤᎵ ᏰᎵ ᎠᏩᏛᏗ ᎠᎦᏓᏅᏖᏗ. ᎯᎠ 'Unicode Hex Input' ᎢᎬᎾᏗ ᎠᏎ ᎾᏍᏋ activated ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏰᎵ ᏚᎾᏙᏢᏒ iyahdvnelidasdi ᎤᏟ ᏗᏰᎸᎯ ᎭᏫᎾᏗᏢ [[Mac OS X|Mac ᏅᏙᎲᏅ X]] ᎠᎴ ᎯᎠ 'Keyboard' ᎠᎨᏔᏗᏍᏗ ᏙᎪᏩᎸ ᎭᏫᎾᏗᏢ [[Mac OS|Mac ᏅᏙᎲᏅ]] 8.5 ᎠᎴ ᎣᏂᏯᎨᏍᏙᏗ. ᏌᏊ ᎢᏳᏩᎫᏗ activated, 'Unicode Hex Input' ᎠᏎ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎠᏑᏰᏛ ᎭᏫᎾᏗᏢ ᎯᎠ Keyboard ᎠᏎᎯᎯ ᎠᎩᏍᏗ (designated ᎾᎥᎢ ᎯᎠ ᎦᏓᏘ ᎢᏯᏓᏛᏁᎸ) ᎤᏓᎷᎸ Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᏰᎵᏇ ᎾᏍᏋ ᎤᏴᎸᎩ.
+
+[[GNOME|ᎤᏁᎫᏥᏛ]] ᏓᏓᏁᎳᏁ 'ᎠᎦᏓᏅᏖᏗ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ' ᏫᏚᏳᎪᏛ (ᏗᏔᏲᏍᏙᏗ/Accessories/ᎠᎦᏓᏅᏖᏗ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ) ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎠᎦᏓᏅᏖᏗ ᎠᏓᏅᏒᎯ ᎾᎥᎢ Unicode ᏍᏆᎳ ᎠᏍᏆᎵᏛ ᎠᎴ ᎾᎥᎢ ᎠᏃᏪᎵᏍᎬ iyahdvnelidasdi, ᎠᎴ ᎠᎵᏍᎪᎸᏙᏗ ᎦᏅᎾᏩ ᎾᎥᎢ ᎠᎦᏓᏅᏖᏗ ᏚᏙᎥ ᎠᎴ ᎧᏁᏉᏛ ᏄᏍᏛ ᏗᎧᏃᏗ. ᎭᏢᏃ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎤᏤᎵ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ ᎨᏒᎢ ᎤᎾᏅᏛ, ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎤᏴᎸᎩ ᎭᏫᎾᏗᏢ ᏗᏙᎳᎩ ᎬᏙᏗ [[ISO 14755]]: ᏚᏂᏴ ᎡᎳᏗ Ctrl ᎠᎴ ᏗᏓᏁᏟᏴᏍᏗ ᎠᎴ ᎠᏴᏍᏗ ᎯᎠ hexadecimal Unicode ᏧᎬᏩᎶᏗ, preceded ᎾᎥᎢ ᎯᎠ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ Ꭴ ᎢᏳᏃ ᎬᏗᏍᎬᎢ ᎤᏁᎫᏥᏛ 2.15 ᎠᎴ ᎣᏂᏯᎨᏍᏙᏗ.
+
+ᎾᎾᎢ ᎯᎠ [[X11|X Input ᎢᎬᎾᏗ]] ᎠᎴ GTK+ Input ᎠᎴᏅᏗᏍᎬ ᎤᏩᎾᏕᏍᎩ, ᎯᎠ input ᎢᎬᎾᏗ ᏗᎦᎴᏴᏗᏍᎩ [[SCIM]] ᏓᏓᏁᎳᏁ “raw code” input ᎢᎬᎾᏗ ᎠᎵᏍᎪᎸᏙᏗ ᎯᎠ ᏗᎦᎴᏴᏗᏍᎩ ᎠᏴᏍᏗ ᎯᎠ 4-ᏎᏍᏗ hexadecimal Unicode ᏧᎬᏩᎶᏗ.
+
+ᏂᎦᏛ [[X11|X ᏦᎳᏅ]] ᏗᏔᏲᏍᏙᏗ (ᎠᏠᏯᏍᏗᏍᎩ [[GNOME|ᎤᏁᎫᏥᏛ]] ᎠᎴ [[KDE]], ᎠᎴ ᎾᏍᎩ ᏂᎨᏒᎾ ᎾᏍᎩ ᎤᏩᏒ ᎠᏂ) ᎠᎵᏍᏕᎸᏗ ᎬᏗᏍᎬᎢ ᎯᎠ [[Compose Key|ᎪᏪᎶᏗ ᏍᏚᎢᏍᏗ]]. ᎾᏍᎩᎾᎢ keyboards ᎦᏙ ᎤᏍᏗ ᎿᏛᎦ ᎾᏍᎩ ᏂᎨᏒᎾ ᎤᎭ designated ᎪᏪᎶᏗ ᏍᏚᎢᏍᏗ, ᏄᏓᎴ ᏍᏚᎢᏍᏗ (e.g., CapsLock) ᏰᎵᏇ ᎾᏍᏋ redefined ᏥᏄᏍᏗ ᎪᏪᎶᏗ ᏍᏚᎢᏍᏗ.
+
+ᎯᎠ [[Linux]] [[console|ᎠᎵᏍᏕᎸᏗ]] ᎠᎵᏍᎪᎸᏙᏗ Unicode ᎠᎦᏓᏅᏖᏗ ᎾᏍᏋ ᎤᏴᎸᎩ ᎾᎥᎢ ᏚᏂᏴᏒ ᎡᎳᏗ Alt ᎠᎴ typing ᎯᎠ ᏎᏍᏗ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᎿ ᎯᎠ [[numeric keypad]]. (ᎭᏫᎾᏗᏢ ᎠᏓᏅᏍᏗ ᎾᏍᎩᎾᎢ ᎪᎯ ᏗᎦᎸᏫᏍᏓᏁᏗ, ᎯᎠ ᎠᎵᏍᏕᎸᏗ ᎢᏳᏗᎾ ᎾᏍᏋ nanahwunvgi ᎭᏫᎾᏗᏢ Unicode ᎤᏔᏂᏗ ᎦᏙᎯ ᎬᏙᏗ <code>unicode_ᎠᏂᎩᏍᏗ(1)</code> ᎠᎴ ᏗᎾᏙᎳᎩ ᏂᎬᏂᏏᏍᎬ ᎠᏑᏰᏛ ᎬᏙᏗ <code>setfont(8)</code>.) ᎯᎠ AltGr ᏍᏚᎢᏍᏗ ᎠᎵᏍᎪᎸᏙᏗ ᎯᎠ hexadecimal ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏍᏋ ᎤᏴᎸᎩ ᎾᏍᎩᏍᎩᏂ ᏂᎨᏒᎾ, ᎬᏗᏍᎬᎢ NumLock-ᎠᏴᏍᏗ ᏥᏄᏍᏗ -F (clockwise). ISO 14755 ᎪᎯᏳᎯ input (Ctrl+ᏗᏓᏁᏟᏴᏍᏗ+hexadecimal ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᎿ ᏄᎶᏒᏍᏛᎾ ᏗᏍᏚᎢᏍᏗ) ᎨᏒᎢ ᎾᏍᎩ ᎾᏍᏇ ᏰᎵ ᎠᏩᏛᏗ ᎭᏫᎾᏗᏢ ᎯᎠ <code>unicode</code> keymap.
+
+ᎯᎠ [[Opera (web browser)|ᎤᎾᏛᏁᎳᏗ ᎤᏂᏏᎳᏛ browser]] ᎭᏫᎾᏗᏢ ᏅᎬᎪᏔᏅᎯ 7.5 ᎠᎴ ᎦᏬᎯᎸᏙᏗ ᎠᎵᏍᎪᎸᏙᏗ ᏗᎦᎴᏴᏗᏍᎩ ᎠᏴᏍᏗ ᏂᎦᎵᏍᏗᏍᎬᎫ Unicode ᎠᎦᏓᏅᏖᏗ ᎾᎿ ᎢᏴ ᎾᎾᎯ ᏓᎵᏍᏛ ᏠᎨᏏ ᎾᎥᎢ typing Ꮝ hexadecimal ᎠᏍᏓᏩᏛᏍᏙᏗ, ᎠᏑᏰᏍᎬ ᎾᏍᎩ, ᎠᎴ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ <code>Alt + x</code>.
+
+ᎭᏫᎾᏗᏢ ᎯᎠ [[Vim (text editor)|ᎠᎵᏂᎬᏁᏗᎢ]] ᏓᎵᏍᏛ ᏗᎦᎴᏴᏗᏍᎩ, Unicode ᎠᎦᏓᏅᏖᏗ ᏰᎵᏇ ᎾᏍᏋ ᎤᏴᎸᎩ ᎾᎥᎢ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ CTRL-V ᎠᎴ ᎾᎯᏳᎢ ᎠᏂᏴᎯᎲ ᏍᏚᎢᏍᏗ ᎤᎾᏓᏟᏌᏅ. ᎾᏍᎩᎾᎢ ᎤᏟ ᎢᎦᎢ ᎠᏓᏃᎯᏎᏗ, ᏗᎦᎪᏗ "<code>:ᎠᎵᏍᏕᎸᏗ ᎠᏯ_CTRL-V_ᏎᏍᏗ</code>" ᎭᏫᎾᏗᏢ ᎠᎵᏂᎬᏁᏗᎢ. (ᎠᏓᏚᎬ ᎪᏪᎵ Ꮎ ᎯᎠ ᎤᏴᎸᎩ ᏓᎵᏍᏛ ᏫᎵ ᎾᏍᏋ Unicode ᎾᏍᎩ ᎤᏩᏒ ᎢᏳᏃ ᎯᎠ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ encoding ᎨᏒᎢ ᎠᏫᏒᏗ UTF-8 ᎠᎴ ᏄᏓᎴ Unicode encoding; ᏗᎦᎪᏗ "<code>:ᎠᎵᏍᏕᎸᏗ encoding</code>" ᎭᏫᎾᏗᏢ ᎠᎵᏂᎬᏁᏗᎢ ᎾᏍᎩᎾᎢ ᏂᏕᎬᎿᏅᎢ.) ᎤᎪᏗᏗ Unicode ᎠᎦᏓᏅᏖᏗ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎤᏴᎸᎩ ᎬᏗᏍᎬᎢ [[Digraph (computing)|ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ]]; ᎦᏍᎩᎶ ᏯᏛᎿ ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᎤᎾᏤᎵ ᏓᎾᏓᏛᎩᏍᎬ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ ᏰᎵᏇ ᎾᏍᏋ otsel igvnelv ᎬᏗᏍᎬᎢ ᎯᎠ "<code>:ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ</code>" ᎠᏓᏁᏤᏗ (ᎠᏏᏇ ᎠᏓᏁᎳᏅ ᎯᎠ ᎠᎵᏱᎵᏒ ᎧᏃᎮᏗ encoding ᎨᏒᎢ ᎠᏫᏒᏗ Unicode).
+
+WordPad ᎠᎴ ᎧᏁᏨ 2002/2003 ᎾᏍᎩᎾᎢ ᏗᏦᎳᏅ ᏗᎦᏟᏌᏅᎯ ᎠᎵᏍᎪᎸᏙᏗ ᎾᏍᎩᎾᎢ ᎠᏂᏴᎯᎲ Unicode ᎠᎦᏓᏅᏖᏗ ᎾᎥᎢ typing ᎯᎠ hexadecimal ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ, ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ 014B ᎾᏍᎩᎾᎢ ''ŋ'', ᎠᎴ ᎾᎯᏳᎢ ᎤᎵᏁᏨ ᎢᏯᏛᏁᏗ <code>Alt + x</code> ᏅᎪᏢᎯᏐᏗᏱ ᎯᎠ ᏧᏠᎯᏍᏗ ᎯᎠ ᎠᎦᏍᎦᏂ ᎾᎥᎢ Ꮝ Unicode ᎠᎦᏓᏅᏖᏗ. ᎠᏏᎾᏌᏂ, ᎯᎠ ᎠᏨᏍᏙᏗ ᎾᏍᎩ ᎾᏍᏇ ᏂᎬᎾᏗᏍᎪ: ᎢᏳᏃ ᏗᎦᎴᏴᏗᏍᎩ ᎾᎿ ᎠᏂᏙᎬ cursor ᎯᎠ ᏚᏳᎪᏛ ᎬᏙᏗ-ASCII ᎠᎦᏓᏅᏖᏗ ᎠᎴ presses <code>Alt + x</code>, ᎾᎯᏳᎢ ᎯᎠ Microsoft software ᏫᎵ ᏅᎪᏢᎯᏐᏗᏱ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎬᏙᏗ ᎯᎠ hexadecimal Unicode ᎠᏍᏓᏩᏛᏍᏙᏗ ᎪᏍᏓᏱ.
+
+ᎯᎸᏍᎩ ᎠᎪᏩᏛᏗ keyboards ᎠᎴ ᏰᎵ ᎠᏩᏛᏗ Ꮎ ᎪᏢᏗ ᎠᏂᏴᎯᎲ Unicode ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᏗᎬᏟᎶᏍᏙᏗ ᎤᏙᎯᏳ ᏩᎾᎯᎨᏍᏙᏗ.
+*[http://quickkeydotnet.sourceforge.net/ Quick Key] (ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ)
+*[http://cjb.ie/u.php Lightweight Unicode Map/Picker] (ᎭᏫᎾᏗᏢ-browser ᎠᎦᏓᏅᏖᏗ ᎡᎶᎯ ᏓᏟᎶᏍᏔᏅ; ᎠᏂᎩᏍᏗᏍᎬ-iyahdvnelidasdi ᎤᎾᏤᎵᏛ ᎤᎾᏙᏢᎯ. ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ)
+*[http://www.ergonis.com/products/popchar/ PopChar Demo Version]
+
+== ᎠᏯᏙᎯᎲ ==
+
+ᎢᎦᏛ ᏴᏫ, ᎾᏍᎩ ᎤᎪᏗᏗ ᎭᏫᎾᏗᏢ [[Japan|ᎠᏰᎵ]], ᏗᎦᏘᎸᏍᏗ Unicode ᎭᏫᎾᏗᏢ ᏂᎦᎥ, ᎤᏍᏆᎸᎲ ᎤᏦᏍᏗ ᏂᎬᎿᏅ ᎪᏪᎵ ᎠᏍᏚᏗ ᎠᎴ ᎠᏙᏱᏯᏛ ᎠᎬᏩᎵ ᏗᎦᏎᏍᏙᏗ ᎭᏫᎾᏗᏢ Ꮝ ᎠᏥᏰᎶᎲ. ᏴᏫ ᏚᏂᎸᏫᏍᏓᏁᎲ ᎾᎿ ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ ᎾᏍᎩ ᎣᏏ ᎠᏰᎸᏗ ᏯᏛᎿ ᎠᏆᏤᎵ ᎠᎾᏗᏍᎩ ᏄᏦᏍᏛᎾᏊ ᏥᏄᏍᏗ ᏗᏓᎧᏁᎶᎰᎮᏎᏗ ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ ᎠᎴ ᎯᎠ ᏧᎵᎬᏩᎳᏅᎯ ᎾᎥᎢ ᎦᏙ ᎤᏍᏗ ᎾᏍᎩ ᎤᎭ ᏚᏙᎳᏩᏛᎲ. ᎯᎠ ᎤᎪᏗᏗ ᏧᏣᏔᏊ ᎦᎵᏓᏍᏔᏅ, ᎧᎵ ᏗᏙᎳᎩ ᎪᎯ ᏗᎧᏃᏗᎢ, ᎠᏓᏠᏯᏍᏙᏗ ᎤᏦᎠᏎᏗ ᎠᏰᎵ ᎠᏓᏓᎶᏙᏗ [[character (computing)|ᎠᎦᏓᏅᏖᏗ]] ᎠᎴ ᎤᎾᏤᎵ ᎦᎸᎳᏗᎨᏍᏗ-ᏂᏙᏓᎳᎬᎾ ᎠᎪᏩᏛᏗ ᏚᏙᏢᏒ ([[glyphs]]). ᎾᎿ ᎯᎠ ᏐᎢ ᎤᏬᏰᏂ, ᎠᎦᏎᏍᏙᏗ [[Chinese language|Chinese]] ᏰᎵᏇ ᎢᏳᏊ ᏱᏂᎦᎳᏍᏗ ᎥᎪᎵᏰᏍᎬ ᎤᎪᏗᏗ ᎢᏗᎦᎪᏘ glyphs ᎬᏔᏅᎯ ᎾᎥᎢ Japanese ᎠᎴ [[Korea]]ns, Japanese ᎢᏳᏓᎵᎭ ᏰᎵᏇ ᎠᏓᏙᎵᏍᏗ ᎾᏍᎩ ᎤᏩᏒ ᎾᏍᎩᎾ variant. 
+
+ᎢᎦᏛ ᎤᎭ decried Unicode ᏥᏄᏍᏗ ᎤᏔᏂᏗ ᎦᏙᎯ ᏗᎦᏘᎴᎩ Asian ᎥᎦᏔᎲᎢ perpetrated ᎾᎥᎢ Westerners ᎬᏙᏗ Ꮭ ᎪᎵᏍᏗᏱ ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᏥᏄᏍᏗ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ Chinese, Korean, ᎠᎴ Japanese, ᎦᎾᏆᏘᏍᏗ ᎯᎠ ᎡᏙᎲᎩ ᎤᏂᎪᏗᏗ ᎠᏏᎾᏍᏛ ᏂᏛᎴᏅᏓ ᏂᎦᏛ ᏦᎢ ᎤᏔᏂᏗ ᎦᏙᎯ ᎭᏫᎾᏗᏢ ᎯᎠ [[Ideographic Rapporteur Group|Ideographic Rapporteur ᎤᎾᏓᏟᏌᎲ]] (IRG). ᎯᎠ IRG ᎠᏓᏕᏲᏗ ᎯᎠ consortium ᎠᎴ ISO ᎾᎿ ᎦᏟᏐᏗᎩ ᎯᎠ ᏓᎾᏛᏁᎵᏍᎬ ᎠᎴ ᎾᎿ [[Han unification|Han ᎤᎾᏓᏟᏌᏅ]], ᎯᎠ ᎢᏗᎦᏘᎭ ᏚᏙᏢᏒ ᎭᏫᎾᏗᏢ ᎯᎠ ᏦᎢ ᏗᎦᏬᏂᎯᏍᏗ ᎦᏙ ᎤᏍᏗ ᏌᏊ ᏰᎵᏇ ᎠᏓᏁᏗ ᏥᏄᏍᏗ stylistic ᏗᎧᏃᎩᏛ ᎯᎠ ᎤᏠᏱ ᎧᏃᎮᏍᎩ ᏄᎵᏍᏔᏅ ᎠᎦᏓᏅᏖᏗ. Han ᎤᎾᏓᏟᏌᏅ ᎤᎭ ᏗᏙᎳᎩ ᏌᏊ ᎯᎠ ᎤᎪᏗᏗ ᎧᏃᎮᎸᏗ ᎢᎦᏛ Unicode.
+
+Unicode ᎨᏒᎢ criticized ᎾᏍᎩᎾᎢ ᎤᏄᎸᎲᏍᎬ ᎠᎵᏍᎪᎸᏙᏗ ᎾᏍᎩᎾᎢ ᎠᎦᏴᎳᎯᎨᏍᏙᏗ ᎠᎴ ᎠᏓᏁᏟᏴᏍᏗᎭ ᏚᏙᏢᏒ [[kanji]] ᎦᏙ ᎤᏍᏗ, ᏗᎫᎪᏔᏅ ᎠᏘᏲᎯᎭ, ᎦᏇᏅᏗ ᎯᎠ ᏧᎵᎬᏩᎳᏅᎯ ᎯᎸᎯᏳᎢ Japanese ᎠᎴ ᏓᎦᏘᎴᎬ Japanese ᏚᎾᏙᎥ, ᎾᏍᎩ ᎤᏁᎳᎩ ᎾᏍᎩ ᎠᏍᏓᏩᏕᎦ ᎯᎠ ᏗᎦᎸᏉᏔᏅᎯ Japanese ᎦᏬᏂᎯᏍᏗ ᏗᏕᎶᏆᏍᎩ ᎠᎴ ᎯᎠ Japanese ᎠᏰᎵ ᎤᏙᏢᏒ. ᎾᎿᎢ ᎤᎭ ᏭᏪᏙᎢ ᎯᎸᏍᎩ ᎠᏁᎸᏙᏗ ᎪᏢᏗ ᏅᎪᏢᎯᏐᏗᏱ Unicode. [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html] ᏄᎾᏛᏅ ᎠᏂ ᎠᎴ [[TRON (encoding)|TRON]] (ᎾᏍᎩ ᎤᏁᎳᎩ ᎾᏍᎩ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᏂᎬᎢ ᎠᏠᏯᏍᏔᏅᎯ ᎭᏫᎾᏗᏢ ᎠᏰᎵ, ᎢᎦᏛ, ᎾᏍᎩᎾ ᎨᏒ ᎾᏍᎩ ᎦᎪ ᎤᏚᎳᏗ ᎫᎭᎸ ᎧᏃᎮᏍᎩ ᏄᎵᏍᏔᏅ Japanese ᏓᎵᏍᏛ, ᎠᏑᏰᏍᏗ ᎪᎯ), ᎠᎴ [[UTF-2000]]. 
+
+ᎾᏍᎩ ᎨᏒᎢ ᎤᏙᎯᏳ Ꮎ ᎤᎪᏗᏗ ᎠᎦᏴᎳᎯᎨᏍᏙᏗ ᏚᏙᏢᏒ ᎨᏒᎩ ᎾᏍᎩ ᏂᎨᏒᎾ ᎠᏠᏯᏍᏔᏅ ᎭᏫᎾᏗᏢ ᎢᎬᏱ ᏅᎬᎪᏔᏅᎯ ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ, ᎠᎴ Unicode 4.0 ᎢᎦᎢ ᎨᏐ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 90,000 Han ᎠᎦᏓᏅᏖᏗ, ᎢᏅ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ ᏂᎦᎵᏍᏗᏍᎬᎫ ᏗᏕᏠᏆᏍᏙᏗ ᎠᎴ ᏂᎦᎵᏍᏗᏍᎬᎫ ᏐᎢ ᏰᎵᏊ ᏗᏙᎳᎩ, ᎠᎴ ᏗᎦᎸᏫᏍᏓᏁᏗ ᏫᎬᎵᏱᎴᎩ ᎾᎿ ᎦᏟᏐᏗ ᎠᎦᏓᏅᏖᏗ ᏂᏛᎴᏅᏓ ᎯᎠ ᎢᎬᏱ ᎪᏪᎸ ᏄᏍᏗᏓᏅ ᎠᎦᎾᏫᏗᏍᎩ, Korea, ᎠᎴ ᎠᏰᎵ. ᎢᎦᏛ ᎠᏘᏲᎯᎭ, ᏱᏂᎬᏛᎾ, Ꮎ ᎪᎯ ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎧᎵ ᏗᏙᎳᏍᏔᏅ, ᎪᏍᏓᏱ atsinuqowisgv ᏥᏄᏍᏗ ᏱᏓᏟᎶᏍᏔᏅ ᎯᎠ ᎤᏚᎳᏗ ᎪᏢᏗ ᎢᏤ ᎠᎦᏓᏅᏖᏗ, ᎾᏓᏛᏁᎲ ᎤᏂᏁᏨ ᎭᏫᎾᏗᏢ ᏧᏓᎴᏅᏓ [[Chinese dialects|Chinese ᎦᏬᏂᎯᏍᏗ]], ᎤᏟ ᎢᎦᎢ ᎦᏙ ᎤᏍᏗ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎦᎾᎬᎢ ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏩᎫᏗᏗᏒ. 
+
+ᏅᎪᏢᎯᏐᏗᏱ ᎦᎶᎯᏍᏗ, pursued ᎾᎥᎢ ᏴᏫ ᎾᏍᎩᏯᎢ [[Chu Bong-Foo]], ᎬᏔᏂᏓᏍᏗ encoding ᎦᏙ ᎤᏍᏗ ᏓᏓᏁᎳᏁ ᎠᏓᏃᎯᏎᏗ ᎾᎿ ᎯᎠ ᎤᏓᏣᏙᏗ ᎠᏃᏢᏍᎬ ᎦᎸᎳᏗᏢ Han ᎠᎦᏓᏅᏖᏗ. ᎾᏍᎩᎾᎢ ᏱᏓᏟᎶᏍᏔᏅ, 1991 Chinese computing iyahdvnelidasdi ᎾᎥᎢ Chu ᎦᏳᎳ ᏓᏓᏁᎳᏁ 60,000 Han ᎠᎦᏓᏅᏖᏗ ᎠᎵᏍᏕᎸᏗ, ᎠᎴ ᎠᎩᏍᎪᎢ ᎦᎸᎳᏗᏢ ᎾᏍᎩ ᎤᏩᏒ 80KB ᎠᏅᏓᏗᏍᏗ ᎤᏜᏅᏛ ᎾᏍᎩᎾᎢ ᎯᎠ ᎤᎾᏁᎶᏔᏅ glyphs ᏂᏛᎴᏅᏓ ᏄᏩᎾᏒᎾ [[Cangjie method|Cangjie]] ᎠᏍᏓᏩᏛᏍᏙᏗ.
+
+ᎤᎾᏤᎵ ᏗᎪᏏᏐᏗ ᏗᎦᏘᎴᎩ Unicode ᎨᏒᎢ Ꮎ ᎯᎠ Unicode ᎤᎾᏄᎪᎢᏍᏗ Han ᎠᎦᏓᏅᏖᏗ ᎨᏒᎢ ᎯᎠ ᎤᏠᏱ ᏥᏄᏍᏗ ᎠᏂᎧᎻᏏᏂ ᏂᎦᎥᎢ ᎩᎵᏏ ᎧᏁᏨ ᎬᏙᏗ ᏧᏓᎴᎿᎢ ᎠᏍᏓᏩᏛᏍᏙᏗ.
+
+[[Thai language|Thai ᎦᏬᏂᎯᏍᏗ]] ᎠᎵᏍᏕᎸᏗ ᎤᎭ ᏭᏪᏙᎢ criticized ᎾᏍᎩᎾᎢ Ꮝ ᎤᎾᎵᎪᏒ ᎠᏓᏅᏍᎬᎢ Thai ᎠᎦᏓᏅᏖᏗ. ᎪᎯ ᏓᎧᏁᎲ ᎨᏒᎢ ᎤᏍᏆᎸᎲ Unicode ᎤᏓᏘᏰᏗ ᎯᎠ [[TIS-620|Thai ᏧᏂᎸᏫᏍᏓᏁᏗ ᏰᎵᏊ ᏗᏙᎳᎩ 620]], ᎦᏙ ᎤᏍᏗ ᏚᎸᏫᏍᏓᏁᎸᎩ ᎭᏫᎾᏗᏢ ᎯᎠ ᎤᏠᏱ ᎦᎶᎯᏍᏗ. ᎪᎯ ᎠᏓᏅᏍᎬᎢ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎦᏇᏅᏗ ᎯᎠ Unicode ᎠᎵᏍᏓᏴᏗ ᏧᎵᎬᏩᎳᏅᎯ. [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html]
+
+[[Indic script|Indic ᎠᏃᏪᎵᏍᎬ]] ᏯᏛᎿ ᏥᏄᏍᏗ [[Tamil script|Tamil]] ᎠᎴ ᎠᏂᏏᏴᏫᎭ allocated ᎾᏍᎩ ᎤᏩᏒ 128 ᎠᏍᏚᎢᏍᎬ ᎯᎠ Unicode ᎤᏜᏅᏛ, ᎠᏥᎸ ᎪᏢᏗ ᎯᎠ [[ISCII]] ᏰᎵᏊ ᏗᏙᎳᎩ. ᎯᎠ ᎪᏢᎯᏐᏗ ᏩᏎᏍᏗ ᎾᎿ Unicode Indic ᏓᎵᏍᏛ ᎧᏁᎦ ᎢᏯᏛᏁᏗ ᏧᎾᏍᏗ ᎯᎠ ᎠᏓᎾᏅ ᎧᏃᎮᎸᏗ ᎠᏓᏅᏍᏗ ᎠᎦᏓᏅᏖᏗ ᎾᎾᎯ ᎠᎪᏩᏛᏗ ᎠᏓᏅᏍᏗ ᎠᎴ ᎯᎠ ᏑᏓᎴᎩ ᎠᏑᏰᎲᎯ ᎠᎦᏓᏅᏖᏗ atsinuqowisgv ᏑᏓᎴᎩ. ᎾᏍᎩ ᎨᏒᎢ ᎾᏍᎩᎾᎢ Tamil, ᎾᎥᎢ ᏗᏕᎶᏆᏍᎩ ᎠᎴ arguing ᎭᏫᎾᏗᏢ ᎠᏑᏰᏍᏗ ᏗᏓᏲᎯᏎᏗ Unicode codepoint ᎠᏑᏰᎲᎯ ᎠᎦᏓᏅᏖᏗ. ᎪᎯ ᏫᎵ ᎤᎪᏗᏗ ᏄᏓᎷᎸᎾ ᎾᏍᎩ ᏂᎨᏒᎾ ᏄᎵᏍᏔᏅ, ᏥᏄᏍᏗ ᏰᎵᏇ ᎾᏍᏋ ᎠᎪᎲᎢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ Tibetan ᎠᏃᏪᎵᏍᎬ ᎭᏢᏃ ᎢᏧᎳᎭ ᎯᎠ Chinese ᎬᎾᏕᎾ ᏰᎵᏊ ᏗᏙᎳᎩ ᎤᎾᏙᏢᎯ unulvngi ᎠᎵᏂᎬᏁᏗ similiar ᏧᎾᏍᏗ.
+
+ᏗᏓᎦᏘᎴᎩ Unicode ᏱᏓᏟᎶᏍᏔᏅ ᎬᎨᏫᏍᏗ ᎠᏆᏤᎵ ᎠᏛᏗ ᎢᏧᎳᎭ ᎾᏊ Ꮎ ᎾᏍᎩ ᏝᏰᎵ ᎫᎭᎸ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 65,535 ᎠᎦᏓᏅᏖᏗ, ᎢᏧᎳᎭ ᎤᏁᎳᎩ ᎾᏍᎩ ᎾᏍᏊ ᎪᎯ ᎪᏪᎵ ᎠᏍᏚᏗ ᏥᏄᏍᏛᎩ ᎠᎲᏓ ᎭᏫᎾᏗᏢ Unicode 2.0.
+
+== Trivia ==
+
+ᎭᏫᎾᏗᏢ [[1997]] [[Michael Everson]] ᎪᏢᏅᎯ ᎠᏍᎪᎸᏙᏗ encode ᎯᎠ ᎠᎦᏓᏅᏖᏗ ᎯᎠ fictional [[Klingon language|Klingon ᎦᏬᏂᎯᏍᏗ]] ᎭᏫᎾᏗᏢ ᎦᏃᎯᎵᏙ 1 [[ISO 10646|ISO/IEC 10646-2]].[http://std.dkuug.dk/JTC1/SC2/WG2/docs/n1643/n1643.htm] ᎯᎠ [[Unicode Consortium]] ᎠᏓᏯᏍᏗ ᎪᎯ ᎠᏍᎪᎸᏙᏗ ᎭᏫᎾᏗᏢ [[2001]] ᏥᏄᏍᏗ "ᏂᏓᏙᎳᎬᎾ ᎾᏍᎩᎾᎢ encoding" — ᎾᏍᎩ ᏂᎨᏒᎾ ᎢᎬᏂᏏᏍᎩ ᏂᎦᎵᏍᏗᏍᎬᎫ ᎤᏦᏍᏗ ᏂᎬᎿᏅ ᎠᏚᎳᏗ, ᎠᎴ ᎢᎬᏂᏏᏍᎩ ᏗᎦᎴᏴᏗᏍᎩ Klingon ᏄᎶᏒᏍᏛᎾ ᎥᎪᎵᏰᏍᎬ, ᎪᏪᎶᏗ ᎠᎴ ᎦᏁᏟᏴᏍᏗ ᎾᎯᏳ ᎢᎪᎯ ᎭᏫᎾᏗᏢ [[Latin]] transliteration. ᎾᏊ Ꮎ ᎢᎦᏛ ᎤᎿᎸ ᎠᏍᎦᏯ ᎠᎴ blogging ᎭᏫᎾᏗᏢ [[Klingon language#Writing systems|tlhIngan pIqaD]] (Klingon ᏗᎦᎶᏆᏍᏙ) ᎬᏗᏍᎬᎢ tsuqagutanvsv ᏰᎵ ᎠᏩᏛᏗ ᏂᎬᏂᏏᏍᎬ ᎠᎴ keyboard layouts, ᎯᎠ ᎤᏝᏅᏓᏕᎲ reapplying ISO ᎤᎭ ᏭᏪᏙᎢ ᎤᏛᎯᏍᏔᏅᎩ.
+
+ᎠᏍᎪᎸᏙᏗ ᎧᏁᎢᏍᏔᏅ ᎯᎠ ᎪᏪᎳᏅ ᎠᎪᎵᏰᏗ ᎯᎠ [[Elf (Middle-earth)|elvish]] ᎠᏃᏪᎵᏍᎬ [[Tengwar]] ᎠᎴ [[Cirth]] ᏂᏛᎴᏅᏓ [[J. R. R. Tolkien]] ᎤᏤᎵ fictional [[Middle-earth|ᎠᏰᎵ-ᎡᎶᎯ]] ᏗᏫᏍᏗ ᎭᏫᎾᏗᏢ ᎦᏃᎯᎵᏙ 1 ᎭᏫᎾᏗᏢ [[1993]].[http://std.dkuug.dk/JTC1/SC2/WG2/docs/n1641/n1641.htm][http://std.dkuug.dk/JTC1/SC2/WG2/docs/n1642/n1642.htm] ᎯᎠ Consortium ᎤᏎᏒᎲᎩ ᎯᎠ ᎤᏜᏅᏛ ᏗᎦᏃᎸᏗᏍᎬ ᎠᏙᏢᏗ ᏗᎦᏁᏟᏴᏍᏗ ᎧᏁᎢᏍᏔᏅ ᎾᎥᎢ [[Tolkien fandom|Tolkienists]], ᎠᎴ ᏥᏄᏍᏗ [[2005]] ᎾᏍᎩ ᎤᎾᎵᏃᎯᏴᎯ ᎭᏫᎾᏗᏢ ᏗᏓᏁᏤᏗ. 
+
+ᎢᏧᎳ Klingon ᎠᎴ ᎯᎠ Tolkien ᎠᏃᏪᎵᏍᎬ ᎤᎭ ᏗᏓᏲᎯᏎᏗ ᎭᏫᎾᏗᏢ ᎯᎠ [[ConScript Unicode Registry|ᎠᎾᏗᏒᎯᎯ Unicode ᎢᏳ ᎢᎪᎯ]].
+
+ᎭᏫᎾᏗᏢ 2005, ᎯᎠ 100,000th ᎠᎦᏓᏅᏖᏗ ᎾᏍᏋ ᎤᏴᎸᎩ ᎾᎾᎯ ᎯᎠ pipeline ᎾᏍᎩᎾᎢ standardisation ᏥᏄᏍᏛᎩ ᎯᎠ MALAYALAM PRASLESHAM. ᎾᏍᎩ ᏥᏄᏍᏛᎩ encoded ᏚᎳᏏᏔᏅᎩ ᎾᎿ ᎯᎠ ᎠᎾᏓᏁᎲ ᎾᎥᎢ [[Rachana Akshara Vedi]].
+
+ᎯᎠ [[April Fool's Day RFC|ᎫᏬᏂ ᏄᏓᏅᏛᎾ ᎤᏤᎵ ᎢᎦ RFC]] 2005 ᏗᎪᎥᎯ ᏔᎵ "ᏗᏟᎶᏍᏔᏅ" UTF encodings, [[UTF-9 and UTF-18|UTF-9 ᎠᎴ UTF-18]].
+
+== ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ ==
+
+* [[Comparison of Unicode encodings|ᎤᏠᏱ ᎾᎬᏁᎲ  Unicode encodings]]
+* [[Free software Unicode fonts|ᎠᏎᏊᎢ software Unicode ᏂᎬᏂᏏᏍᎬ]]
+* [[Mapping of Unicode characters|Mapping  Unicode ᎠᎦᏓᏅᏖᏗ]]
+* [[Universal Character Set|ᎢᎬᏩᎾᏓᎴᎩ ᎠᎦᏓᏅᏖᏗ ᎠᏫᏒᏗ]]
+* [[List of HTML decimal character references|ᏙᎪᏩᎸ  HTML ᏎᏍᏗ ᎠᎦᏓᏅᏖᏗ ᏫᏓᏎᎸᎢ]]
+* [[Alt codes|Alt ᎠᏍᏓᏩᏛᏍᏙᏗ]]
+
+== ᏫᏓᏎᎸᎢ ==
+
+* ''ᎯᎠ ᎧᎵᏬᎯ ᏦᏬᏰᏂ ᎬᏗ ᏗᎦᎸᏫᏍᏓᏁᏗ ᎦᎴᏴᏗᏍᎬᎢ'', James Felici, ᏭᏚᎸᏛ ᏗᎬᏙᏗ ᏗᏂᎴᏱᏗᏍᎩ; 1st ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ, 2002
+* ''Unicode Demystified: ᏗᏙᎳᎩ ᎠᏓᏃᎮᏗ ᎤᏤᎵ ᎠᏓᏎᎮᏗ ᎯᎠ Encoding ᏰᎵᏊ ᏗᏙᎳᎩ'', Richard Gillam, Addison-Wesley ᎢᏳᏍᏗ ᎢᏯᏛᏁᎯ; 1st ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ, 2002
+* ''Unicode ᏗᎪᏏᏌᏅᎯ'', Jukka K. Korpela, O'Reilly; 1st ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ, 2006
+
+== ᏗᎪᏪᎵ ᎬᏩᏚᏫᏛ Unicode ==
+* ''ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ, ᏅᎬᎪᏔᏅᎯ 5.0, ᎯᏍᎩᏁ ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ'', ᎯᎠ [[Unicode Consortium]], Addison-Wesley ᎢᏳᏍᏗ ᎢᏯᏛᏁᎯ, Oct. 27, 2006.  ISBN 0-321-48091-0
+* ''ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ, ᏅᎬᎪᏔᏅᎯ 4.0'', ᎯᎠ Unicode Consortium, Addison-Wesley ᎢᏳᏍᏗ ᎢᏯᏛᏁᎯ, Aug. 27, 2003.  ISBN 0-321-18578-1
+[[Image:Unicodeconsortium_book4.jpg|thumb|right|ᎯᎠ Unicode ᏰᎵᏊ ᏗᏙᎳᎩ, ᏅᎬᎪᏔᏅᎯ 4.0]]
+
+== ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ ==
+
+* [http://www.unicode.org The Unicode Consortium]
+** Unicode ᏅᎬᎪᏔᏅᎯ: [http://www.unicode.org/unicode/reports/tr27/ 3.1], [http://www.unicode.org/unicode/reports/tr28/ 3.2], [http://www.unicode.org/versions/Unicode4.0.0 4.0], [http://www.unicode.org/versions/Unicode4.0.1/ 4.0.1], [http://www.unicode.org/versions/Unicode4.1.0/ 4.1] [http://www.unicode.org/versions/Unicode5.0.0/ 5.0.0]
+* [http://www.decodeunicode.org/ decodeunicode] Unicode-Wiki ᎬᏙᏗ 50.000 gifs ᎭᏫᎾᏗᏢ ᏦᎢ ᏂᏕᎬᎢ. ᎩᎵᏏ/ᎠᏓᏥ.
+* [http://www.fileformat.info/info/unicode/char/search.htm Unicode Character Search]
+** [http://www.unicode.org/alloc/Pipeline.html new characters], [http://www.unicode.org/pending/pending.html scripts] ᎠᎴ [http://www.unicode.org/alloc/investigation.html characters and scripts under investigation]
+** [http://www.unicode.org/charts/ Code Charts] ([[Portable Document Format|PDF]] ᏓᏝᎥᎢ)
+* [http://www.nafeesonline.com/usoft Urdu Unicode Chart]
+* [http://people.w3.org/rishida/scripts/uniview/conversion Unicode Code Converter v3]
+* [http://unicode.coeurlumiere.com/ Table of Unicode characters from 1 to 65535]
+* [http://www.macchiato.com/unicode/charts.html UTF-8, UTF-16, UTF-32 Code Charts] ᎠᎴ [http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html character map] (ᎧᏁᎦ ᎢᏯᏛᏁᏗ [[JavaScript]])
+* [http://www.eki.ee/letter/ The Letter Database] ᎬᏔᏂᏓᏍᏗ ᏚᏙᏢᏒ ᎡᏙᎠ ᏚᎾᏓᏟᏌᎲ ᎭᏫᎾᏗᏢ ᏙᎪᏩᎸ ᎠᎴ grid format ᎾᎥᎢ [[hexadecimal]].
+* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/ Example text files using Unicode]
+* [http://www.lazytools.com/unicode-ascii/  Unicode special character map] ᎾᎥᏂᎨ ᎡᎵᏍᏗ ᎯᎠ ᏗᏦᎳᏅ ᏅᎬᎪᏔᏅᎯ. ᎠᎧᏁᏍᏗ ᏗᎬᏟᎶᏍᏙᏗ ᎣᏤᎵ ᎢᎬᏁᎯ ᎢᏳᏍᏗᏊ ᎯᎠ ᏓᎪᎥᎩ ᎠᎴ numeric ᎠᏍᏓᏩᏛᏍᏙᏗ ᎾᏍᎩᎾᎢ HTML.
+* [http://www.evertype.com/standards/csur/ ConScript Unicode Registry] ᎠᏎᎸᎯ ᎠᏍᏓᏩᏛᏍᏙᏗ ᎢᎦᏛ ᎯᎠ ᎤᏤᎵᏓ ᎬᏙᏗ ᎡᏍᎦᏂ ᎾᏍᎩᎾᎢ ᎬᏙᏗ ᎬᏙᏗ [[artificial script|ᏗᏟᎶᏍᏔᏅ ᎠᏃᏪᎵᏍᎬ]]ᎠᎴ ᏗᏟᎶᏍᏔᏅ ᏗᎦᏬᏂᎯᏍᏗ.  ᏗᎪᏏᏌᏅ ᎯᎳᎪ ᎠᎵᏔᏲᏍᏗ ᎠᎦᏓᏅᏖᏗ ᏚᎾᏙᎥ ᎭᏫᎾᏗᏢ Unicode ᎨᏒᎢ ᏰᎵ ᎠᏩᏛᏗ ᎠᎭᏂ.
+* [http://www-128.ibm.com/developerworks/library/u-secret.html The secret life of Unicode] "peek ᎾᎾᎢ Unicode ᎤᏤᎵ ᏩᏂᎨᎢ underbelly" ᏄᏍᏛ ᎧᏃᎮᏗ ᏗᎦᏎᏍᏙᏗ ᎠᏂᏁᎬ ᎢᏯᏛᏁᏗ ᎠᎵᏁᎩ ᎪᏪᎵ.  ᎠᏠᏯᏍᏗ ᏗᏕᎬᏔᏛ Unicode ᏧᎬᏩᎶᏗ ᎦᎷᎩ.
+* [http://www.viduranet.com/nuke/modules.php?name=News&file=article&sid=115 What is Unicode?]
+* Tim ᎦᏂᏍᏆᏫᏍᏗ ᎤᏤᎵ [http://www.tbray.org/ongoing/When/200x/2003/04/26/UTF Characters vs Bytes] ᏕᎪᏏᏏ ᎯᎳᎪ ᎯᎠ ᏄᏓᎴᎿᎥ encodings ᏗᎦᎸᏫᏍᏓᏁᏗ.
+* [http://www.alanwood.net/unicode/ Alan Wood's Unicode Resources] ᎢᎦᎢ ᎨᏐ ᏠᎨᏏ ᎧᏁᏨ processors ᎬᏙᏗ Unicode ᎢᎦᏛ; ᏂᎬᏂᏏᏍᎬ ᎠᎴ ᎠᎦᏓᏅᏖᏗ ᎠᎴ grouped ᎾᎥᎢ ᏗᎦᎪᏗ; ᎠᎦᏓᏅᏖᏗ ᎠᎴ ᎤᏓᏁᎸᎩ ᎭᏫᎾᏗᏢ ᏠᎨᏏ, ᎾᏍᎩ ᏂᎨᏒᎾ grids.
+* [http://www.hastingsresearch.com/net/04-unicode-limitations.shtml A harshly critical article about Unicode], ᎠᎴ [http://slashdot.org/features/01/06/06/0132203.shtml response to it] (''n.b.'': ᎪᎯ ᎤᏓᏡᎬ ᎨᏒᎢ ᎪᏪᎸ ᎢᏳ ᎢᎪᎯ 2001, ᎠᎴ ᎤᏣᏘ ᎤᎭ ᎦᏁᏟᏴᏓ ᎾᏍᎩ ᎠᏂᏰᎸᏍᎬ Unicode ᎣᏂ ᏧᏩᎫᏛ Ꮎ iyuwakodi)
+* [[Software engineering|Software ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ]]:
+** [http://icu.sourceforge.net/ International Components for Unicode (ICU)] ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ ᎠᏫᏒᏗ libraries Ꮎ ᎠᏓᏁᎳᏁᏗ ᎤᏓᎵᏂᎩᏛ ᎠᎴ ᎧᎵ-featured Unicode ᎾᎾᏛᏁᎲ ᎾᏍᎩᎾᎢ ᏂᎯ ᏗᏔᏲᏍᏙᏗ ᎾᎿ ᎠᏯᏖᎾ ᏧᏓᎴᏅᏓ ᎦᏟᏌᏅ ᏗᎳᏏᏙ.
+** [http://www.joelonsoftware.com/articles/Unicode.html The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)] ᎾᎥᎢ [[Joel Spolsky]] JoelonSoftware.com (ᎪᎯ ᎨᏒᎢ ᎾᏊ outdated, ᎠᎴ ᏙᎢ ᏄᎶᏒᏍᏛᎾ ᎠᏂᎩᏍᏗᏍᎬ ᎪᏍᏓᏱ).
+** [http://freedesktop.org/wiki/Software_2futf_2d8 Freedesktop.Org's Project UTF-8] ᎤᏤᎵ ᎤᏰᎸᏛᎢ ᎨᏒᎢ ᎪᏪᎵᎬᏂᎨᏒ ᎢᎬᏁᎯ ᎠᎴ ᎧᏁᏉᏍᏗ ᏗᏙᎳᎩ Unicode ᎠᎵᏍᏕᎸᏗ ᎭᏫᎾᏗᏢ ᎠᏎᏊᎢ ᎠᎴ ᎠᏍᏚᎢᏛ ᏗᏓᎴᎲᏍᎬ software.
+** [http://java.sun.com/developer/technicalArticles/Intl/Supplementary/ Supplementary Characters in the Java Platform] ᏂᏛᎴᏅᏓ [[Sun Microsystems|ᏅᏙ ᎢᎦ ᎡᎯ Microsystems]]
+** [http://www.jcp.org/en/jsr/detail?id=204 JSR 204] Unicode 3.1 ᎦᏟᏐᏗᎩ ᎠᎦᏓᏅᏖᏗ ᎠᎵᏍᏕᎸᏗ [[Java Specification Request|Java ᎢᏧᎳᎭ ᏗᏂᏱᎴᎩ ᎢᏯᏓᏪᏎᏗ]]
+* ᎥᎪᏩᏘᏍᎬ [http://www.ianalbert.com/misc/unichart.php the entirety of Unicode printed out] ᏥᏄᏍᏗ ᏏᏴᏫ ᎡᏆ ᏕᎦᏃᏣᎸ ᎠᏓᏁᏗ ᎣᏍᏛ ᎠᏒᎾᏍᏗ ᎾᏍᎩᎾᎢ ᎯᎠ ᏂᎬᎢ ᎯᎠ ᎠᏍᏓᏩᏛᏍᏙᏗ.
+* [http://www.viduranet.com/nuke/modules.php?name=News&file=article&sid=116 What is UTF-8?]
+*ᎪᏣᎵᏗᏱ ᎠᎦᏓᏅᏖᏗ ᏄᎵᏍᏛ ᎬᏙᏗ [http://quickkeydotnet.sourceforge.net/ Quick Key Character Grid].
+* [http://billposer.org/Software/unidesc.html A suite of programs for finding out what is in a Unicode file]
+* [http://billposer.org/Software/uni2ascii.html Programs for converting between Unicode and various ASCII representations]
+
+[[Category:Character encoding]]
+[[Category:Unicode| ]]
+
+{{link FA|ru}}
+
+[[als:Unicode]]
+[[bn:ইউনিকোড]]
+[[zh-min-nan:Thong-iōng-bé]]
+[[bs:Unikod]]
+[[br:Unicode]]
+[[bg:Уникод]]
+[[ca:Unicode]]
+[[cs:Unicode]]
+[[da:Unicode]]
+[[de:Unicode]]
+[[et:Unicode]]
+[[el:Unicode]]
+[[es:Unicode]]
+[[eo:Unikodo]]
+[[fa:یونی‌کد]]
+[[fr:Unicode]]
+[[gl:Unicode]]
+[[ko:유니코드]]
+[[hi:यूनिकोड]]
+[[hr:Unicode]]
+[[ia:Unicode]]
+[[it:Unicode]]
+[[he:יוניקוד]]
+[[kn:ಯುನಿಕೋಡ್]]
+[[ka:უნიკოდი]]
+[[ks:यूनिकोड]]
+[[ku:Unicode]]
+[[lv:Unikods]]
+[[lt:Unicode]]
+[[hu:Unicode]]
+[[nl:Unicode]]
+[[ne:युनिकोड]]
+[[ja:Unicode]]
+[[no:Unicode]]
+[[nn:Unicode]]
+[[pl:Unicode]]
+[[pt:Unicode]]
+[[ro:Unicode]]
+[[ru:Юникод]]
+[[sq:Unicode]]
+[[sk:Unicode]]
+[[sl:Unicode]]
+[[sr:Уникод]]
+[[sh:Unikod]]
+[[fi:Unicode]]
+[[sv:Unicode]]
+[[ta:ஒருங்குறி]]
+[[th:ยูนิโคด]]
+[[vi:Unicode]]
+[[chr:Unicode]]
+[[tr:Unicode]]
+[[uk:Юнікод]]
+[[wa:Unicôde]]
+[[zh:Unicode]]
