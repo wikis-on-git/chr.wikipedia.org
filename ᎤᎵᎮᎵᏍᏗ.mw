@@ -2,111 +2,96 @@
 *<small>Note:  You must be using Cherokee Unicode Supported Fonts to view this site.  Information on obtaining and installing Cherokee Unicode Fonts for Windows 2000 and Windows XP is available on the Cherokee [[Unicode]] page.  Windows Vista and the Linux Operating System include default support for displaying the Cherokee Language in syllabary.</small>
 
 
-ᎭᏫᎾᏗᏢ [[trigonometry|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]], ᎯᎠ '''ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ''' (ᎠᎴ '''ᎠᎷᏚᎧᏘ ᏗᎧᎿᏩᏛᏍᏗ''') ᎨᏒᎢ ᎧᏃᎮᎸᎯ ᎬᏩᏚᏫᏛ ᎬᏙᏗ [[triangle|ᏦᎢ]]ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏃᎯᎵᏙ. ᎢᏳᏃ ᎯᎠ ᏗᏍᏆᎨᏂ ᎯᎠ ᏦᎢ ᎠᎴ ''a'', ''b'' ᎠᎴ ''c'' ᎠᎴ ᎯᎠ [[angle|ᏓᏍᏓᏅᏅ ᏚᎷᏨ]]ᎠᎿᏗᏢ ᎾᏍᎩ ᏗᏍᏆᎨᏂ ᎠᎴ ''A'', ''B'' ᎠᎴ ''C'', ᎾᎯᏳᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ [[sine|ᎠᎷᏚᎧᏘ]]ᎧᏃᎮᎭ:
 
-:<math>{a \over \sin A}={b \over \sin B}={c \over \sin C}=2R\,</math>
 
-ᎭᏢᏃ ''R'' ᎨᏒᎢ ᎯᎠ gvwatuwidv ᎯᎠ ᏦᎢ ᎤᏤᎵ [[circumcircle]]. ᎪᎯ ᏎᏍᏗ ᎨᏒᎢ ᎤᎵᏍᎨᏓ ᎠᏓᏃᎮᏗ ᎯᎠ ᏩᎵᏃᎯᏯᏍᎬ ᏗᏍᏆᎨᏂ ᏦᎢ ᎢᏳᏃ ᏔᎵ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎠᎴ ᎠᏍᏆᎨᏂ ᎠᎴ ᎤᎾᏅᏛ, ᏧᏣᏔᏊ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎭᏫᎾᏗᏢ [[triangulation]]. ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎬᏔᏅᎯ ᎯᎳᎪ ᎢᏳ ᏔᎵ ᏗᏍᏆᎨᏂ ᎠᎴ ᏌᏊ ᎯᎠ ᎬᏙᏗ-ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎠᎴ ᎤᎾᏅᏛ; ᎭᏫᎾᏗᏢ ᎪᎯ ᎦᎸᏛ ᎧᏁᏌᎢ, ᎯᎠ ᏎᏍᏗ ᎠᎾᏍᎬᏘ ᎠᏓᏁᏗ ᏔᎵ ᏰᎵᏊ ᏧᎬᏩᎶᏗᎢ ᎾᏍᎩᎾᎢ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ. ᎯᎳᎪ ᎢᏳ ᎪᎯ ᏥᏄᎵᏍᏔᏅ, ᎢᏳᏓᎵᎭ ᎾᏍᎩ ᎤᏩᏒ ᏌᏊ ᏄᎵᏍᏔᏅ ᏫᎵ ᏂᎬᏂᏏᏍᎬ ᏂᎦᏛ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎾᏍᏋ ᎦᏲᎵᎨ ᎬᎾᏬᏍᎬ 180°; ᎭᏫᎾᏗᏢ ᏐᎢ ᏕᎦᎸᏛ ᎧᏁᏌᎢ, ᎾᎿᎢ ᎠᎴ ᏔᎵ ᎪᏢᏒᎢ ᎪᎷᏩᏛᏓ ᎯᎠ ᏦᎢ (ᎠᎪᏩᏛᏗ ''ᎯᎠ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ'' ᎾᎿ ᎨᏒ ᎪᎯ ᎤᏓᏡᎬ ᎾᏍᎩᎾᎢ ᎤᏗᏗᏢ ᎠᏓᏃᎯᏎᏗ).
+'''ᎤᎭᎸᏂ''' ᎨᏒᎢ ᏄᏦᏍᏛᎾ [[sound|ᎤᏃᏴᎬ]]-ᎠᏃᏢᏍᎬ ᏄᏍᏛ ᏗᎧᏃᏗ. ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎢ [[percussion instrument|ᎤᎵᏍᏓ ᏗᎫᎪᏙᏗ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ]] ᎠᎴ [[idiophone]]. Ꮝ ᎤᏙᏢᏒ ᎨᏒᎢ ᎤᏠᏱᎭ ᎠᏍᏚᎢᏛ-ᎤᎵᏍᏗᏅ ᎤᏒᏙᏂ ᎠᎱᎵ ᎦᏙ ᎤᏍᏗ ᎾᏍᎩ ᎠᎴᏂᏙᎲ ᎤᏪᏘᎸᎩ. ᎯᎠ ᎬᏂᎲᎢ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᏰᎵᏇ ᎾᏍᏋ ᎦᏅᎪ ᎦᏛᎢ ᎭᏫᏂᏗᏢ ᎯᎠ ᎤᎭᎸᏂ, ᎤᎾᏅᏛ ᏥᏄᏍᏗ ''clapper'', ᎤᏍᏗ, ᎠᏎᏊᎢ ᎢᎦᎢ ᎢᎦᏘ ᎠᏠᏯᏍᏔᏅ ᎭᏫᏂᏗᏢ ᎯᎠ ᎠᏰᎸ ᎯᎠ ᎤᎭᎸᏂ, ᎠᎴ ᏧᏓᎴᎿᎢ ᎦᏅᏆᎶᏍᏗ. 
 
-ᎾᏍᎩ ᏰᎵᏇ ᎾᏍᏋ ᎤᎾᏓᏎᎮᎸᎩ Ꮎ:
-:<math>2R = \frac{abc} {2\sqrt{s(s-a)(s-b)(s-c)}} = \frac {2abc} {\sqrt{(a^2+b^2+c^2)^2-2(a^4+b^4+c^4) }}</math>
+ᎤᎭᎸᏂ ᎠᎴ ᎤᏠᏱᎭ ᎪᏢᏅᎯ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ, ᎠᎴ ᎤᏍᏗ ᎤᎭᎸᏂ ᏰᎵᏇ ᎾᏍᎩ ᎾᏍᏇ ᎾᏍᏋ ᎪᏢᏅᎯ ᏂᏛᎴᏅᏓ [[ceramic|ᎠᏓᏍᏕᎸᏗ]] ᎠᎴ [[glass|ᎠᏓᎨᏗ]]. ᎤᎭᎸᏂ ᏰᎵᏇ ᎾᏍᏋ ᏂᎦᏛ ᏂᏕᎬᎢ: ᏂᏛᎴᏅᏓ ᎤᏍᏗ ᎠᏌᏃ ᏗᎦᎳᏫᏍᏗ ᎤᎭᎸᏂ ᎾᏍᎩᏯ ᎪᏪᎸ ᎦᏛᏍᎬᎢ ᎯᎸᏍᎩ ᎢᏯhilvsgi iyatvni.
 
-ᎭᏢᏃ ''s'' ᎨᏒᎢ ᎯᎠ [[semi-perimeter|ᏴᎩ-ᎠᏍᏓᏅᏅ,]]
+[[Image:Temple of Saint Sava's bells.jpg|right|thumb|300px|ᎯᎠ ᎤᎭᎸᏂ  [[Temple of Saint Sava|ᏒᎯᏰᏱ Sava']].]]
 
-:<math>s = \frac{(a+b+c)} {2}.</math>
+==ᏗᎦᎳᏫᏍᏗ ᎠᎴ ᏧᏂᎳᏫᎢᏍᏗ ᎤᎭᎸᏂ==
+[[Image:050113 02 Stalbridge church.jpg|right|thumb|ᏗᎦᎳᏫᏍᏗ ᎬᏙᏗ Belltower]]
+ᎭᏫᎾᏗᏢ ᎯᎠ [[Western world|ᏭᏕᎵᎬᏗᏢ ᎡᎶᎯ]], Ꮝ ᎤᎪᏗᏗ ᎠᏓᏙᎵᏍᏗ ᎤᏙᏢᏒ ᎨᏒᎢ [[church bell|ᏗᎦᎳᏫᏍᏗ ᎤᎭᎸᏂ]] ᎠᎴ ᎦᏚᎲ ᎤᎭᎸᏂ, ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎠᎦᏛᏅ ᎭᏫᏂᏗᏢ ᏂᎬᎢ ᎠᎴ ᎤᏃᏴᎵᏒᎩ ᎾᎥᎢ ᎤᎲᎢ ᎯᎠ ᏂᎦᏛ ᎤᎭᎸᏂ ᎾᎥᎢ ᏍᏕᏱᏛ, iyuwakodi ᎭᏫᏂ ᎦᏅᎪ ᏗᎬᎾᏍᏗ ᎯᎠ ᎠᏰᎸ ᎯᎠ ᎤᎭᎸᏂ (ᎤᏯᏅᎲ ᎠᏎᏊᎢ-ᏂᎬᎢ ᎤᎭᎸᏂ).  ᎠᏫᏒᏗ ᎤᎭᎸᏂ, ᎠᎦᏛᏅ ᎭᏫᎾᏗᏢ ᎦᏐᏆᎸ ᎾᏍᎩᎾᎢ [[change ringing|ᏧᎾᏍᏗ ᎠᎵᏰᏑᏍᏔᏬ]], ᎨᏒᎢ ᎤᎾᏅᏛ ᏥᏄᏍᏗ [[ring of bells|ᎠᎵᏰᏑᏍᏔᏬ  ᎤᎭᎸᏂ]].
 
-== ᎯᎠ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ ==
-ᎯᎳᎪ ᎢᏳ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ ᎤᎦᎾᏭ ᏦᎢ, ᎭᏫᎾᏗᏢ ᎤᏤᎵᏛ ᏄᏍᏗᏓᏅ ᎾᎿᎢ ᎬᏂᎨᏒ ᏂᏚᏍᏗ ᎤᏝᏏᏛ ᎦᎸᏛ ᎧᏁᏌᎢ ᎭᏢᏃ ᏔᎵ ᏧᏓᎴᎿᎢ ᏦᎢ ᏰᎵᏇ ᎾᏍᏋ ᎠᏁᏍᎨᏓ (ᎠᏯ.e., ᎾᎿᎢ ᎠᎴ ᏔᎵ ᏄᏓᎴᎿᎥ ᏰᎵᏊ ᎪᎷᏩᏛᏓ ᎯᎠ ᏦᎢ).
+ᎭᏫᎾᏗᏢ ᎯᎠ [[Eastern world|ᎧᎸᎬᎢᏗᏢ ᎡᎶᎯ]], ᎯᎠ ᎧᏃᎮᎸᎯ ᏚᏙᏢᏒ ᎤᎭᎸᏂ ᎠᎴ ᏧᏂᎳᏫᎢᏍᏗ ᎠᎴ ᎦᏁᎸ ᎤᎭᎸᏂ, ᎤᏍᏗ ᎠᏂᏏᏴᏫᎭ ᎠᎴᏂᏙᎲ ᎤᏃᏴᎵᏍᏔᏅ ᎾᎥᎢ ᎪᏍᏓᏯ ᎬᎾᏍᏗ ᎬᏙᏗ ᎦᎾᏍᏓ, ᎠᎴ ᎤᏙᎯᏳ ᎡᏆ ᎠᏂᏏᏴᏫᎭ ᎤᏃᏴᎵᏍᏔᏅ ᎾᎥᎢ ᎠᏓᏛᎾᏍᏗ ᏂᏛᎴᏅᏓ ᎯᎠ ᏙᏯᏗᏢ ᎾᎥᎢ ᎡᏆ ᏂᎬᎢ ᎦᏅᎯᏓ ᎦᎾᎳᏗᏍᏗ. ᎪᎯ ᎣᏂ ᎨᏒᎢ ᎠᏥᎾᏝᎢ ᎡᎶᎯ-ᎠᏯᏖᎾ ᎾᏍᎩᎾᎢ ᎢᎦᏛ ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᏂᎬᎢ-ᏄᎵᎶᎲᏍᎬᎾ ᎤᎭᎸᏂ, ᎢᎬᏂᏏᏍᎩ ᏂᎬᎢ ᎯᎠ ᎤᎭᎸᏂ ᎤᏩᏌᏊ ᏰᎵᏇ ᎤᏲᏨᎯ ᎯᎠ ᏂᎬᎢ.
 
-ᎠᏓᏁᎸ ᏂᎦᎥ ᏦᎢ ''ᎠᏓᎴᏂᏍᎬ'', ᎯᎠ ᎠᏍᏓᏩᏗᏒ ᏄᏍᏗᏓᏅ ᏯᏓᎢᏗᏏ ᎤᏚᎳᏗ ᎾᏍᏋ ᎠᎧᎵᏐᏗ ᎾᏍᎩᎾᎢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ ᎾᏍᏋ ᎤᏝᏏᏛ:
+ᎭᏫᎾᏗᏢ ᎯᎠ [[Roman Catholic Church|ᎶᎻ ᎠᏥᎸ ᎠᏁᎶᎯ ᏗᎦᎳᏫᏍᏗ]] ᎠᎴ ᏄᎾᏛᏅ ᎢᎦᏛ ᎦᎸᎳᏗ [[Anglican|ᏗᏍᏆᎸᏙᏗ]], ᎤᏍᏗ ᎤᏬᏰᏂ-ᎠᏰᎲᎩ ᎤᎭᎸᏂ, ᎤᏯᏅᎲ [[Sanctus|ᎠᏓᏙᎵᏍᏙᏗ]] ᎠᎴ [[sacring]] ᎤᎭᎸᏂ, ᎠᎴ ᎢᏳᏓᎵᎭ ᎤᏃᏴᎵᏍᏔᏅ ᎾᎥᎢ ᎣᏩᏒ ᎾᎾᎢ ᎦᏟᏌᏅ ᎤᎪᏗᏗ ᎯᎳᎪ ᎢᏳ ᎯᎠ ᎠᎵᏣᏙᎲᏍᎩ ᏗᏂᏂᏴ ᎦᎸᎳᏗ ᎦᎸᎳᏗᏢ ᎢᎬᏱ ᎯᎠ ᎠᏓᏩᏛᎯᏙᎯ, ᎠᎴ ᎾᎯᏳᎢ ᎯᎠ ᏧᎬᏩᎶᏗ ᎠᎦᏘᏯ ᎾᏞᎬᏊ ᎤᎶᏐᏅ ᎾᏍᎩ ᎠᏍᎦᏯ ᎤᎭ ᏄᏪᏒᎩ ᎯᎠ ᎤᏂᏁᏨ ᎤᎾᏤᎵᏛ ᎦᏬᎯᎸᏙᏗ ᎠᏂ (ᎯᎠ ᎢᏳᏊ ᎤᎾᏅᏛ ᏥᏄᏍᏗ ᎯᎠ [[Elevation|ᏂᎦᏛᎢ]]). ᎪᎯ ᏧᏂᎸᏫᏍᏓᏁᏗ ᎠᏓᏎᎮᏗ ᎯᎠ ᎤᏓᏂᏝᏅ Ꮎ ᎯᎠ ᎦᏚ ᎠᎴ ᎩᎦᎨ ᎠᏘᏣᏍᏗ ᎤᎭ ᎣᏍᏛ ᏭᏪᏙᎢ transformed ᎾᎾᎯ ᎯᎠ ᎠᏰᎸ ᎠᎴ ᎩᎬ ᎦᎶᏁᏛ (ᎠᎪᏩᏛᏗ [[transubstantiation|ᏧᎾᏍᏗ]]), ᎠᎴ, ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᏲᎵᎨ ᏚᏳᎪᏛ ᏗᏍᏆᎸᏙᏗ ᏓᏕᏲᎲᏍᎬ, Ꮎ ᎦᎶᏁᏛ ᎨᏒᎢ ᎾᏊ ᎤᏙᎯᏳᎯ ᎡᏙᎠ ᎭᏫᎾᏗᏢ ᎯᎠ ᎢᏧᏓᎴᎩ, ᎠᎴ Ꮎ ᎦᏙ ᎤᏍᏗ ᎯᎠ ᎠᎵᏣᏙᎲᏍᎩ ᎨᏒᎢ ᏚᏂᏴᏒ ᎦᎸᎳᏗᏢ ᎾᏍᎩᎾᎢ ᎠᏂ ᎭᎦᏔ ᎾᎾᎢ ᎨᏒᎢ ᎦᎶᏁᏛ ᎤᏩᏒᎠᏍᎦᏯ. 
 
-* ᎯᎠ ᎾᏍᎩ ᎤᏩᏒ ᎠᏓᏃᎯᏎᏗ ᎤᎾᏅᏛ ᎬᏩᏚᏫᏛ ᎯᎠ ᏦᎢ ᎨᏒᎢ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎠᎴ ᎯᎠ ᏗᏍᏆᎨᏂ ''a'' ᎠᎴ ''b'', ᎭᏢᏃ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎾᏍᎩ ᏂᎨᏒᎾ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ᎯᎠ ᏔᎵ ᏗᏍᏆᎨᏂ (ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᎳᏗᏢ ᎾᏍᎩᏯᎢ ᎾᏍᎩ isn't, ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' ᎨᏒᎢ ᎯᎠ ᎠᏠᏯᏍᏔᏅ ᏓᏍᏓᏅᏅ ᏚᎷᏨ).
-* ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᏄᎵᏂᎬᎬ (ᎠᏯ.e., < 90°).
+=== ᎦᎸᎳᏗ ᏦᏒ ᎤᎭᎸᏂ ===
 
-: <math>\sin B = {b \sin A \over a}</math>
+[[Japan|Japanese]] [[Buddhist|ᎦᎸᎳᏗ ᏦᏒ]] ᎤᎭᎸᏂ ᎠᎴ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ ᏧᏁᎸᏗᏯ. ''Suzu ᎤᎭᎸᏂ'', ᎦᏛᎬᎢ "ᎤᏁᏌᏴᏟ ᎠᎴ ᎪᎱᏍᏗ ᎠᎩᏍᏗ," ᎠᎴ ᎯᎠ ᎠᏂᎦᏲᎵ ᎤᎭᎸᏂ ᎠᎴ ᎢᎦᎢ ᎨᏒ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ ᏒᏙᏂ. ᎯᎠ ᏐᎢ ᎤᏔᏂᎢᏍᏗ ᎤᎭᎸᏂ ᎨᏒᎢ ᎯᎠ ''[[Kane bell|ᎧᏁ ᎤᎭᎸᏂ]]''. ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᎤᎭᎸᏂ ᎨᏒᎢ ᎯᎠ ''furin'', ᎠᎴ ᎦᏃᎸᎥᏍᎬ ᎤᎭᎸᏂ, ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎤᏙᏢᏒ [[wind chime|ᎦᏃᎸᎥᏍᎬ ᎠᏲᏛᎯ]]. ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ [[Tibetan tingsha bells|Tibetan tingsha ᎤᎭᎸᏂ]].
 
-OR
+==ᎤᎭᎸᏂ ᏥᏄᏍᏗ ᏗᎧᏃᎩᏛ ᎦᏃᏢᎩ ᎪᎱᏍᏗ ᏗᎬᏔᏂᏓᏍᏗ==
+ᎢᎦᏛ ᎤᎭᎸᏂ ᎠᎴ ᎬᏔᏅᎯ ᏥᏄᏍᏗ [[musical instrument|ᏗᎧᏃᎩᏛ ᎦᏃᏢᎩ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ]], ᏯᏛᎿ ᏥᏄᏍᏗ [[carillon]], (ᏩᏥ) [[chime (bell instrument)|ᎠᏲᏛᎯ]], ᎠᎴ ᏂᎦᏛ ᎤᎭᎸᏂ-ᏗᎾᏁᎶᎲᏍᎩ, ᎤᏯᏅᎲ [[bell choir|ᎤᎭᎸᏂ ᏗᏂᏃᎩᏍᎩ]], ᎬᏗᏍᎬᎢ ᎤᏬᏰᏂ-ᎠᏰᎲᎩ ᎤᎭᎸᏂ ᏧᏓᎴᎾᎯ ᎤᏃᏴᎬ. "ᎠᎵᏰᏑᏍᏔᏬ ᎤᎭᎸᏂ" ᎨᏒᎢ ᎠᏫᏒᏗ 4 ᏔᎵᏚ ᎤᎭᎸᏂ ᎠᎴ ᎤᏟ ᎢᎦᎢ ᎬᏔᏅᎯ ᎭᏫᎾᏗᏢ [[change ringing|ᏧᎾᏍᏗ ᎠᎵᏰᏑᏍᏔᏬ]], ᎾᏍᎩᎾ ᎢᎬᎾᏗ ᎠᎵᏰᏑᏍᏔᏬ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ ᏧᎾᏟᎶᏍᏙᏗ. "ᎤᎳᏂᎬᎬ" ᎭᏫᎾᏗᏢ ᎦᏁᏟᏴᏍᎬ ᎠᎵᏰᏑᏍᏔᏬ ᎠᎾᏍᎬᏘ ᎤᎭ ᎤᎭᎸᏂ ᏓᎾᏁᎶᎲᏍᎬ ᎾᏍᎩᎾᎢ ᎯᎸᏍᎩ ᎢᏧᏟᎶᏛ, ᏓᎾᏁᎶᎲᏍᎬ 5,000 ᎠᎴ ᎤᏟ ᎢᎦᎢ ᏧᎾᏟᎶᏍᏙᏗ ᏄᏠᏯᏍᏛᎾ ᎠᏍᏆᎵᏍᏗ ᎠᎴ ᎢᏗᎦᏘᎭ. 
 
-: <math>\sin (180^\circ - B) = {b \sin A \over a}</math>
+===ᎯᎸᎯᏳᎢ Chinese ᎤᎭᎸᏂ===
+ᎯᎠ ᎯᎸᎯᏳᎢ Chinese ᎠᏰᎲ ᏬᏗᎨ ᎤᎭᎸᏂ ᎤᏯᏅᎲ [http://www.uh.edu/engines/epi1676.htm zhong] (鐘) ᎦᏙ ᎤᏍᏗ ᎨᏒᎩ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᏗᎧᏃᎩᏛ ᎦᏃᏢᎩ ᎪᎱᏍᏗ ᏗᎬᏔᏂᏓᏍᏗ.  ᎢᎦᏛ ᎾᏍᎩ ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎩ ᎪᏪᎸ ᎢᏳ ᎢᎪᎯ ᏂᏛᎴᏅᏓ 2000 3600 ᏧᏕᏘᏴᏓ ᎠᎦᏴᎵ.  ᎾᏍᎩ ᎯᎠ ᎤᎭᎸᏂ ᏰᎵᏇ ᎠᏂᏏᏴᏫᎭ ᎠᏛᎯᏍᏙᏗ [http://w1.570.telia.com/~u57011259/Zengbells.htm two tones]. ᎾᏍᎩ ᎯᎠ ᎤᎭᎸᏂ ᎤᏠᏱᎭ ᎤᎭ ᎪᏪᎸ ᎾᎿ ᎠᏂ ᏂᏛᎴᏅᏓ ᎦᏙ ᎤᏍᏗ ᏗᏕᎶᏆᏍᎩ ᎬᏔᏅᎯ ᏥᏄᏍᏗ ᏫᏓᏎᎸᎢ ᎾᏍᎩᎾᎢ ᏚᎾᎦᏎᏍᏛ ᎯᎸᎯᏳᎢ Chinese ᎠᏃᏪᎵᏍᎬ (ᎾᏍᎩ ᎾᏍᏇ ᎤᎾᏅᏛ ᏥᏄᏍᏗ [[Bronzeware script|Bronzeware ᎠᏃᏪᎵᏍᎬ]]). ᏄᏓᎴ ᎪᎱᏍᏗ ᎠᎾᏓᏛᏂ ᎯᎸᎯᏳᎢ Chinese ᏗᎧᏃᎩᏛ ᎦᏃᏢᎩ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᎨᏒᎢ ᎤᏯᏅᎲ qing ([http://www.china.org.cn/chinese/ch-tw/pic1/e-3.htm 磬] [[pinyin]] qing4) ᎠᎴ ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎪᏢᏅᎯ ᏅᏯ ᎾᏍᎩᏍᎩᏂ ᏂᎨᏒᎾ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ.
 
-== Derivation ==
+==Bellmaking==
+ᎯᎠ ᏓᎾᏁᎶᎲᏍᎬ ᎤᎭᎸᏂ ᎨᏒᎢ ᎤᎾᏅᏛ ᏥᏄᏍᏗ [[bellringing]], ᎠᎴ ᏯᏛᎿ ᎤᎭᎸᏂ ᎠᏛᎯᏍᏗ ᎤᏙᎯᏳ ᎠᏍᏓᏯ, ᏧᎸᏌᏓ ᎤᏃᏴᎬ. ᎢᏳᏃ ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎢ ᏥᏄᏍᏗ ᏩᏗᏅᏗ, ᎾᏍᎩ ᎨᏒᎢ ᎤᏯᏅᎲ "ᏗᏤᎯ ᏂᎨᏒᎾ ᎤᎭᎸᏂ" ᎾᎯᏳᎢ "tuned ᎤᎭᎸᏂ" ᎠᎴ ᏚᎸᏫᏍᏓᏁᎸᎩ ᎤᎶᏐᏅ ᎥᏓᏓᎫᏴᎡᏗᏱ ᎠᏛᎯᏍᏙᏗ ᏚᏳᎪᏛ ᎠᏓᏚᎬ ᎪᏪᎵ. ᎯᎠ ᎧᏃᎮᎸᎯ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ ᎾᏍᎩᎾᎢ ᎾᏍᎩ ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎢ [[bronze|ᏬᏗᎨ]] ᎬᏩᏚᏫᏛ 20% [[tin|ᏍᎫᎣ]]. ᎤᎾᏅᏛ ᏥᏄᏍᏗ ''[[bell metal|ᎤᎭᎸᏂ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ]]'', ᎪᎯ ᏧᏠᎯᏍᏗ ᎨᏒᎢ ᎾᏍᎩ ᎾᏍᏇ ᎯᎠ [[cymbal alloys|ᎧᏃᎮᎸᎯ ᏧᏠᎯᏍᏗ]] ᎾᏍᎩᎾᎢ ᎯᎠ ᏬᏌᏂᏴ Turkish ᎠᎴ Chinese [[cymbal|ᏗᏂᏤᎷᎯᏍᎩ]]. ᏐᎢ ᏭᏚᎸᏛ ᏗᎬᏙᏗ ᏱᏓᏟᎶᏍᏔᏅ ᎬᏔᏅᎯ ᎾᏍᎩᎾᎢ ᎡᏆ ᎤᎭᎸᏂ ᎠᏠᏯᏍᏛ [[brass|ᏣᏱ]] ᎠᎴ [[iron|ᏔᎷᎩᏍᎩ]]. ᎯᎠ ᏧᎵᎬᏩᎳᏅᎯ ᎥᏓᏓᎫᏴᎡᏗᏱ ᎤᎭᎸᏂ ᎨᏒᎢ ᎤᏯᏅᎲ [[bellmaking]].
 
-:<math>\sin A = \frac{h}{b}</math> and <math>\; \sin B = \frac{h}{a}.</math>
+==Belltowers==
+ᎤᎭᎸᏂ ᎠᎴ ᎾᏍᎩ ᎾᏍᏇ ᎤᎾᎵᎪᏅᎯ ᎬᏙᏗ [[clock|ᏩᏥ]], ᎠᎾᏓᏎᎮᎲᎢ ᎯᎠ ᏑᏟᎶᏛ ᎾᎥᎢ ᎠᎵᏰᏑᏍᏔᏬ. ᎤᏙᎯᏳᎢ, ᎯᎠ ᎧᏁᏨ ''ᏩᏥ'' ᎦᎷᎦ ᏂᏛᎴᏅᏓ ᎯᎠ [[Latin]] ᎧᏁᏨ ''cloca'', ᎦᏛᎬᎢ ᎤᎭᎸᏂ. ᏩᏥ ᏂᎬᎢ ᎠᎴ ᎤᎭᎸᏂ ᏂᎬᎢ ᏰᎵᏇ ᎾᏍᏋ ᎤᎾᏛᎦᏅ ᎦᏬᎯᎸᏙᏗ ᎦᏅᎯᏓ ᎾᎿ ᎢᏴᎢ ᎦᏙ ᎤᏍᏗ ᏥᏄᏍᏛᎩ ᎾᏍᎩ ᎨᏒᎢ ᎤᎵᏍᎨᏛ ᎭᏫᎾᏗᏢ ᎯᎠ iyuwakodi ᎯᎳᎪ ᎢᏳ ᏩᏥ ᎨᏒᎩ ᎦᏟᏐᏗᎩ ᎤᎪᏗ ᏗᎵᎬᏩᎸᏍᎩ ᎾᏍᎩᎾᎢ ᏂᎬᎢ ᎬᏙᏗ.
 
-:<math>h = b\,(\sin A) = a\,(\sin B)</math>
+ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ ᏩᏥ ᏂᎬᎢ ᎠᎴ ᎤᏚᏚ ᏩᏥ, ᎾᏍᎩᎾ ᎠᏍᏓᏩᏗᏒ ᎤᏃᏴᎬ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᏚᎾᏁᎶᏅ ᎢᏯᏓᏛᏁᏗ ᎯᎠ ᏑᏟᎶᏛ. ᏌᏊ ᏧᏣᏔᏊ ᏗᏟᎶᏍᏙᏗ ᎨᏒᎢ ᎤᏯᏅᎲ ᎯᎠ "[[Westminster Quarters|ᏧᎾᏓᏱᎵᏓᏍᏗ ᎠᏂᎩᏄᏙᏗ]]," ᏓᎳᏚ-ᎠᏓᏚᎬ ᎪᏪᎵ ᏗᏟᎶᏍᏙᏗ ᏓᎪᎥᎩ ᎤᎶᏐᏅ ᎯᎠ [[Palace of Westminster|ᎦᏁᎸ  ᏧᎾᏓᏱᎵᏓᏍᏗ]] ᎦᏙ ᎤᏍᏗ ᎦᏬᏂᏍᎬ ᎾᏍᎩ ᏥᏄᏍᏗ ᎯᎠ ᎠᏟᎶᏍᏗ ᎬᏔᏅᎯ ᎾᎥᎢ ''[[Big Ben|ᎡᏆ Ben]]''. 
 
-:<math>\frac{a}{\sin A} = \frac{b}{\sin B}.</math>
+==ᏗᎦᏃᏣᎵ ᎤᎭᎸᏂ==
+[[Image:Mingunbellmingun.jpg|thumb|left|Mingun ᎤᎭᎸᏂ ᎦᏙᏗ 55,555 ᎢᎬᏱᏗᏢ, ᎠᎴ 90 tonnes.]]
+[[Image:Libertybell alone small.jpg|right|thumb|[[Philadelphia, Pennsylvania|Philadelphia]] ᎤᏤᎵ [[Liberty Bell|nvwatohiyadv ᎤᎭᎸᏂ]]]]
+[[Image:Moscow98kremlin8.jpg|right|thumb|[[Tsar Bell|ᏄᎬᏫᏳᏌᏕᎩ ᎤᎭᎸᏂ]], ᎾᎥᎢ ᎯᎠ [[Motorins]].]]
+[[Image:ZygmuntDzwon.JPG|right|thumb|ᎯᎠ Zygmunt (Sigismund) ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ [[Kraków]], [[Poland]].]]
+[[image:wpb.jpg|thumb|right|[[World Peace Bell|ᎡᎶᎯ nvwato hiyadv ᎤᎭᎸᏂ]] ᎭᏫᎾᏗᏢ Newport, Ky]]
 
-:<math>\frac{b}{\sin B} = \frac{c}{\sin C}.</math>
+*[[Big Ben|ᎡᏆ Ben]] ᎨᏒᎢ ᎯᎠ ᏑᏟᎶᏛ ᎤᎭᎸᏂ ᎯᎠ ᎡᏆ ᏩᏥ ᎭᏫᎾᏗᏢ ᏒᎯᏰᏱ. Stephen ᎤᏤᎵ ᏂᎬᎢ ᎾᎾᎢ ᎯᎠ [[Palace of Westminster|ᎦᏁᎸ  ᏧᎾᏓᏱᎵᏓᏍᏗ]], ᎯᎠ ᎣᏪᏅᏒ ᎯᎠ ᏗᎦᎵᏦᏗ [[Parliament of the United Kingdom|ᏗᏂᎳᏫᎩ]] ᎭᏫᎾᏗᏢ ᎯᎠ [[United Kingdom|ᎠᏫᏒᏗ ᎠᏰᎵ ᎤᎾᏙᏢᏒ]].
+*ᎯᎠ ᎡᏆ ᎤᎭᎸᏂ Dhammazedi ᎠᎾᏍᎬᏘ ᎤᎭ ᏭᏪᏙᎢ ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᎤᎭᎸᏂ ᎢᏳᏊ ᎪᏢᏅᎯ. ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎤᎴᎾᎯᏛ ᎭᏫᎾᏗᏢ ᎤᏪᏴ ᎭᏫᎾᏗᏢ [[Myanmar]] ᎤᎶᏐᏅ ᎠᎴᏂᏙᎲ ᎠᎲᏓ ᏂᏛᎴᏅᏓ ᏧᏂᎳᏫᎢᏍᏗ ᎾᎥᎢ ᎯᎠ Portuguese ᎭᏫᎾᏗᏢ [[1608]]. ᎾᏍᎩ ᎨᏒᎢ ᎬᏂᎨᏒ ᎢᎬᏁᎸ ᎤᎭ ᏭᏪᏙᎢ ᎬᏩᏚᏫᏛ 300 tonnes ᎭᏫᎾᏗᏢ ᏄᏓᎨᏒ. 
+*ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᎤᎭᎸᏂ ᏙᎢ ᎭᏫᎾᏗᏢ ᎬᏂᎨᏒ ᏄᏍᏛᎢ ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎯᎠ [[Great Mingun Bell|ᎡᏆ Mingun ᎤᎭᎸᏂ]], ᎤᏂᎷᏨ ᎭᏫᎾᏗᏢ [[Mingun]], [[Myanmar]]. ᎾᏍᎩ ᎦᏙᏗ 90 tonnes (200,000 ᏄᏓᎨᏒ). 
+*[[Great Tom (bell)|ᎡᏆ ᏗᏂᏤᎷᎯᏍᎩ]] ᎨᏒᎢ ᎯᎠ ᎤᎭᎸᏂ Ꮎ ᎦᏛᏗ ᎭᏫᎾᏗᏢ "ᏗᏂᏤᎷᎯᏍᎩ ᏂᎬᎢ" (ᎠᏎᎸ ᎢᏗᎬᏁᏗ ᎾᎥᎢ [[Christopher Wren|Christopher ᏔᎵᏔᎹ]]) [[Christ Church|ᎦᎶᏁᏛ ᏗᎦᎳᏫᏍᏗ]], [[Oxford]].  ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᏩᏗᏅᏗ ᎭᏫᎾᏗᏢ [[1680]], ᎠᎴ ᎦᏙᏗ ᎦᏬᎯᎸᏙᏗ ᏑᏓᎵ ᎯᎸᏍᎩ ᎢᏯhilvsgi iyatvni.  ᎡᏆ ᏗᏂᏤᎷᎯᏍᎩ ᎨᏒᎢ ᏙᎢ ᎤᏃᏴᎵᏍᏔᏅ 101 itsuwakodi ᎾᎾᎢ 21:05 ᏂᎦᎥᎢ ᏒᏃᏱ ᎦᎾᏄᎪᏫᏍᏗ ᎯᎠ 101 ᎠᎴᏅᏗᏍᎬ ᏗᏕᎶᏆᏍᎩ ᎯᎠ ᎦᎸᎳᏗᏴ ᏧᎾᏕᎶᏆᏍᏗ.
+*ᎯᎠ [[Liberty Bell|nvwatohiyadv ᎤᎭᎸᏂ]] ᎨᏒᎢ [[United States|ᏴᏩᏁᎬ]] ᎤᎭᎸᏂ ᎡᏆ ᏄᏍᏛ ᏗᎧᏃᏗ ᎦᏛᎬᎢ, ᎤᏂᎷᏨ ᎭᏫᎾᏗᏢ [[Philadelphia, Pennsylvania|Philadelphia]], [[Pennsylvania]].  ᎾᏍᎩ ᏧᏩᎫᏔᏅᏒ ᎠᎦᏛᏅ ᎭᏫᎾᏗᏢ [[Independence Hall|ᎬᏙᏗ ᎦᎳᏅᏛ]] ᎠᎴ ᏥᏄᏍᏛᎩ ᎤᏃᏴᎵᏍᏔᏅ ᎾᎿ [[July 4|ᎫᏰᏉᏂ 4]], [[1776]] ᎤᏙᏪᎸ ᏴᏩᏁᎬ ᎬᏙᏗ.
+*[[Sigismund (bell)|Sigismund]] ᎨᏒᎢ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ ᎯᎠ [[Wawel Cathedral]] ᎭᏫᎾᏗᏢ [[Kraków]], [[Poland]], ᏩᏗᏅᏗ ᎭᏫᎾᏗᏢ [[1520]]. ᎾᏍᎩ ᎨᏒᎢ ᎤᏃᏴᎵᏍᏔᏅ ᎾᏍᎩ ᎤᏩᏒ ᎾᎿ ᎤᏙᎯᏳ ᎦᏛᎬᎢ ᎬᎾᏕᎾ ᎢᏳᏓᎵᎭ, ᎯᎠ ᎤᎪᏗᏗ ᎾᏞᎬ ᎦᏙ ᎤᏍᏗ ᏥᏄᏍᏛᎩ ᎯᎠ ᎠᏲᎱᎯᏍᏗ [[Pope John Paul II|ᎤᏚᎳᏗ ᎦᎳᏅᎯ Paul ᎧᏬᎳᏕᏍᎬ]].
+*ᎯᎠ [[Tsar Kolokol|ᏄᎬᏫᏳᏌᏕᎩ-Kolokol ᎪᎷᏩᏛᏗ]] ᎤᎭᎸᏂ ᎾᎥᎢ ᎯᎠ [[Motorins|Motorin Bellfounders]] ᏯᏓᎢᏗᏏ ᎤᎭ ᏭᏪᏙᎢ ᎡᏆᎯᎨᏍᏙᏗ ᎬᎾᏬᏍᎬ ᎢᏧᎳᎭ ᎯᎠ ᎡᏆ Mingun ᎤᎭᎸᏂ ᎾᎾᎢ ᎤᏟ ᎢᎦᎢ ᎬᎾᏬᏍᎬ 200 ᎯᎸᏍᎩ ᎢᏯhilvsgi iyatvni, ᎠᎴ ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎥᏝ ᎤᏃᏴᎵᏍᏔᏅ ᎠᎴ ᏧᎵᏍᏆᎵᏛ ᎭᏫᎾᏗᏢ [[1737]].  ᎾᏍᎩ ᎨᏒᎢ ᎾᎿ ᎬᏂᎨᏒ ᎢᎬᏁᏗ ᎭᏫᎾᏗᏢ [[Moscow]], Russia ᎭᏫᎾᏗᏢ ᎯᎠ [[Moscow Kremlin|Kremlin]].
+*ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᏂᎬᎢ ᎤᎭᎸᏂ ᎨᏒᎢ ᎯᎠ [[World Peace Bell|ᎡᎶᎯ nvwato hiyadv ᎤᎭᎸᏂ]] ᎭᏫᎾᏗᏢ [[Newport, Kentucky|Newport, ᎪᎾᏓ ᎩᎦᎭᎢ]], [[United States|ᎠᏫᏒᏗ ᎧᏃᎮᎭ]], ᏩᏗᏅᏗ ᎾᎥᎢ [[Paccard]] [[France]]. ᎯᎠ ᎤᎭᎸᏂ ᎤᏩᏌᏊ ᎦᏙᏗ 66,000 ᏄᏓᎨᏒ ᎾᎯᏳᎢ ᎬᏙᏗ clapper ᎠᎴ ᎠᎵᏍᏕᎸᏗ ᎯᎠ ᏂᎦᏛ ᎦᏟᏌᏅ ᏄᏓᎨᏒ ᎦᏙ ᎤᏍᏗ ᎠᏓᏁᏐᎳᏕᏗ ᎯᎳᎪ ᎢᏳ ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎢ tolled ᎨᏒᎢ 89,390 ᏄᏓᎨᏒ.
+*[[Pummerin]] ᎭᏫᎾᏗᏢ [[Vienna]] ᎤᏤᎵ [[Stephansdom]] ᎨᏒᎢ ᎯᎠ ᎤᎪᏗᏗ ᏗᎦᏃᏣᎵ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ [[Austria]] ᎠᎴ ᎯᎠ ᎯᏍᎩᏁ ᎤᏔᏂᎢᏍᏗ ᎭᏫᎾᏗᏢ ᎯᎠ ᎡᎶᎯ.
+*ᎯᎠ ᏒᎯᏰᏱ. Petersglocke, ᎭᏫᎾᏗᏢ ᎯᎠ [[Kölsch language|ᎾᎥᎢ ᎦᏬᏂᎯᏍᏗ]] [[Cologne|ᎠᎵᏍᏚᏟᏍᏗ]] ᎾᏍᎩ ᎾᏍᏇ ᎤᏯᏅᎲ "Decke Pitter" (ᎦᎵᏦᎯᏓ Peter), ᎨᏒᎢ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ [[Germany]] ᎤᏤᎵ [[Cologne Cathedral|ᎠᎵᏍᏚᏟᏍᏗ Cathedral]]. ᎾᏍᎩ ᎦᏙᏗ 24 ᎯᎸᏍᎩ ᎢᏯhilvsgi iyatvni ᎠᎴ ᏥᏄᏍᏛᎩ ᏩᏗᏅᏗ ᎭᏫᎾᏗᏢ 1922. ᎾᎾᎢ ᎪᎯ iyuwakodi, ᎾᏍᎩ ᏥᏄᏍᏛᎩ ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᎠᏎᏊᎢ-ᏂᎬᎢ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ ᎯᎠ ᎡᎶᎯ. ᎾᏍᎩ ᎠᏓᏁᏐᎳᏕᏗ yvwatuwidv ᎯᎠ ᎦᏚᎢ, ᎾᎯᏳᎢ ᎯᎠ [[World Peace Bell|ᎡᎶᎯ nvwato hiyadv ᎤᎭᎸᏂ]] ᎠᏓᏁᏐᎳᏕᏗ yvwatuwidv ᎯᎠ [[Center of Gravity|ᎠᏰᎵ  ᎤᎳᏂᎬᎬ]], ᎦᏙ ᎤᏍᏗ ᎨᏒᎢ ᎤᏟ ᎢᎦᎢ ᎾᏍᎩᏯᎢ ᎠᎦᏔᎲᏒ ᎬᎾᏬᏍᎬ ᎾᏍᎩᏯᎢ ᏂᎬᎢ. ᎾᏍᎩ ᎢᎬᏂᏏᏍᎩ, ᎥᎵᏍᎦᏍᏙᏗᏍᎬ ᎾᎿ ᎯᎠ ᎪᏍᏓᏱ ᏗᎧᏃᏗᎢ, ᎯᎠ ᏒᎯᏰᏱ. Petersglocke ᎠᎾᏍᎬᏘ ᎾᏍᏋ ᎦᎸᎳᏗᏢ ᎾᏊ ᎯᎠ ᎤᏔᏂᎢᏍᏗ ᎠᏎᏊᎢ-ᏂᎬᎢ ᎤᎭᎸᏂ ᎭᏫᎾᏗᏢ ᎯᎠ ᎡᎶᎯ. ᎠᎴ, ᎢᎬᏂᏏᏍᎩ ᎯᎠ [[Doppler Effect|Doppler ᎢᏳᎵᏍᏙᏗ]], ᎤᎭᎸᏂ ᎦᏙ ᎤᏍᏗ ᎠᏓᏁᏐᎳᏕᏗ yvwatuwidv ᎯᎠ ᎦᏚᎢ ᎤᎭ ᎤᏟ ᎢᏲᏍᏛ ᎤᏃᏴᎬ ᎬᎾᏬᏍᎬ ᎤᎭᎸᏂ ᎦᏙ ᎤᏍᏗ ᎠᏓᏁᏐᎳᏕᏗ yvwatuwidv ᎯᎠ ᎤᎳᏂᎬᎬ ᎪᏍᏓᏱ.
 
-:<math>\sin \gamma = \frac{\frac{c}{2}}{r}</math>
+==ᏗᏍᏆᎸᏙᏗ==
+variant ᎾᎿ ᎯᎠ ᎤᎭᎸᏂ ᎨᏒᎢ ᎯᎠ [[tubular bell|ᎠᏍᏚᎢᏍᎬ ᎤᎭᎸᏂ]], ᎯᎸᏍᎩ ᎾᏍᎩ ᎯᎠ ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ ᏧᏒᏙᏂ ᎦᏙ ᎤᏍᏗ ᎠᎴ ᎤᏪᏘᎸᎩ ᏦᏬᏰᏂ ᎬᏗ ᏗᎦᎸᏫᏍᏓᏁᏗ ᎬᏙᏗ ᎦᏅᏆᎶᏍᏗ, ᎤᏙᏢᏒ ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ ᏓᎪᎥᎩ ''ᎠᏍᏚᎢᏍᎬ ᎤᎭᎸᏂ'' ᎠᎴ ''ᏗᏍᏆᎸᏙᏗ''. ᎭᏫᎾᏗᏢ ᎯᎠ ᎦᎸᏛ ᎧᏁᏌᎢ ᎦᏃᎸᎥᏍᎬ ᎠᎴ aeolian ᏗᏍᏆᎸᏙᏗ, ᎯᎠ ᏧᏒᏙᏂ ᎠᎴ ᎤᏃᎸᏔᏅ ᏗᎦᏘᎴᎩ ᏌᏊ ᏄᏓᎴ ᎾᎥᎢ ᎯᎠ ᎦᏃᎸᎥᏍᎬ.
 
-:<math>\sin \gamma = \frac{c}{2r}</math> 
-
-:<math>\frac{c}{\sin \gamma} = {2r}</math> 
-
-:<math>{\frac{a}{\sin \alpha}}={\frac{b}{\sin \beta}}={\frac{c}{\sin \gamma}}={2r}</math><span style='color: silver; font-size: 8px;'>(č.b.t.d)</span>
-
-== ᏱᏓᏟᎶᏍᏔᏅ ==
-
-ᎠᎭᏂ ᎨᏒᎢ ᏱᏓᏟᎶᏍᏔᏅ ᎯᎳᎪ ᎤᎦᎾᏭ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ:
-
-ᎠᏓᏁᎸ: ᎠᏍᏆᎨᏂ ''a'' = 10, ᎠᏍᏆᎨᏂ ''c'' = 7, ᎠᎴ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' = 30 ᎢᎦᎢ ᎢᏗᎦᏘ
-
-ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ, ᎢᏧᎳ ᎣᎾᏛ Ꮎ :<math>\frac{a}{\sin A} = \frac{c}{\sin C}.</math>
-
-Plugging ᎭᏫᎾᏗᏢ ᎯᎠ ᎠᏓᏁᎸ ᏧᎬᏩᎶᏗᎢ, ᎢᏧᎳ ᎠᏩᏛᏗ Ꮎ :<math>\frac{10}{\sin A} = \frac{7}{\sin 30}.</math>
-
-ᎬᏫᏍᏓᏗ, ᎯᎠ ᎠᎷᏚᎧᏘ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎢᏗᎦᏗ 5/7, ᎠᎴ ᎾᎥᏂᎨᏍᏙᏗᏇ 0.714. ᎯᎠ ᎢᏴ, ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' ᎨᏒᎢ ᎢᏗᎦᏗ 45.58 ᎢᎦᎢ ᎢᏗᎦᏘ.
-
-ᎠᎴ ᏄᏓᎴ ᏱᏓᏟᎶᏍᏔᏅ ᎯᎳᎪ ᎤᎦᎾᏭ ᎠᎦᏎᏍᏙᏗ ᎢᎬᏁᏗ ᎬᏗᏍᎬᎢ ᎯᎠ ᏗᎧᎿᏩᏛᏍᏗ ᎠᎷᏚᎧᏘ: 
-
-ᎢᏳᏃ ᏔᎵ ᏗᏍᏆᎨᏂ ᎯᎠ ᏦᎢ ᎠᎴ ᎢᏗᎦᏗ ''R'' ᎠᎴ ᎯᎠ ᏂᎦᏅᎯᏒ ᎯᎠ ᏦᎢᏁ ᎠᏍᏆᎨᏂ, ᎯᎠ [[chord]], ᎨᏒᎢ ᎠᏓᏁᎸ ᏥᏄᏍᏗ 100' (30.48 m) ᎠᎴ ᎯᎠ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''C'' '''''ᎠᎿᏗᏢ''''' ᎯᎠ chord ᎨᏒᎢ ᎠᏓᏁᎸ ᎭᏫᎾᏗᏢ '''''ᎢᎦᎢ ᎢᏗᎦᏘ''''', ᎾᎯᏳᎢ ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''A'' = ᏓᏍᏓᏅᏅ ᏚᎷᏨ ''B'' = :<math>{(180-C) \over 2}</math> ᎠᎴ
-
-:<math>{R \over \sin A}={\mbox{chord} \over \sin C}\,</math> '''''ᎠᎴ'''''  <math>{R \over \sin B}={\mbox{chord} \over \sin C}\,</math>
-
-<!-- extra blank line for legibility -->
-
-:<math>{\mbox{chord} \,\sin A \over \sin C} = R</math> '''''ᎠᎴ'''''  <math>{\mbox{chord} \,\sin B \over \sin C} = R</math>
-
-ᎪᎯ ᎨᏒᎢ ᎤᏴᏢ ᏴᏩᏁᎬ [[railroad|ᏔᎷᎩᏍᎩ ᏅᏃᎯ]] [[surveying|ᎠᏟᎶᏍᏗ ᎦᏙᎯ]] ᎠᎵᏏᎾᎯᏍᏙᏗ.
-
-== ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ ==
-
-* [[Triangulation]]
-* [[Law of cosines|ᏗᎧᎿᏩᏛᏍᏗ  ᎠᎷᏚᎧᏘ]]
-* [[Law of tangents|ᏗᎧᎿᏩᏛᏍᏗ  ᏚᏓᏂᏴᏒ]]
-* [[Surveying|ᎠᏟᎶᏍᏗ ᎦᏙᎯ]]
+==ᎠᎪᏩᏛᏗ ᎾᏍᎩ ᎾᏍᏇ==
+*[[Campanology]]
+*[[Cowbell]]
+*[[Ship's bells|ᏥᏳ ᎤᏤᎵ ᎤᎭᎸᏂ]]
+*[[John Taylor Bellfounders|ᎦᎳᏅᎯ Taylor Bellfounders]]
+*[[Whitechapel Bell Foundry|ᎤᏍᏗ ᏓᏆᎴᎷ ᎤᎭᎸᏂ Foundry]]
+*[[Franciscus Illenfeld]]
+*[[Bellhop]]
 
 == ᎤᏓᏎᎦᏤᏗ ᏗᏕᎬᏔᏛ ==
+* [http://www.msu.edu/~carillon/batmbook/ Bells and their Music] (online ᎪᏪᎵ)
+* [http://home.schule.at/teacher/website/vbs_myEurope_spring_bells.htm Bells symbolizing Peace and Freedom]
+* [http://www.probell.net  European research project: Maintenance and protection of bells]
+* [http://www.advea.com/news_99_12.htm Computer-designed harmonic bells]
+* [http://www.russianbells.com/acoustics/lehr.htm Contemporary Dutch Bell-Founding Art]  ᎧᏃᎮᏍᎩ, ᎠᏍᏓᏩᏛᏍᏙᏗ ᎠᏓᏃᎮᏗ, ᎠᏛᏅᎢᏍᏔᏅ,...
 
-* [http://home.alltel.net/okrebs/page93.html Excellent tutorial on the law of sines]
-* [http://www.cut-the-knot.org/proofs/sine_cosine.shtml#law The Law of Sines] ᎾᎾᎢ [[cut-the-knot|ᎠᏰᎳᏍᏗ-ᎯᎠ-ᏓᎧᏁᎲ]]
-* [http://www.du.edu/~jcalvert/railway/degcurv.htm Degree of Curvature]
+* http://www.glocke.com, ᎠᏓᏃᎯᏎᏗ ᎬᏩᏚᏫᏛ ᎯᎠ Perner bellfoundry ᎭᏫᎾᏗᏢ Passau, ᎥᏓᏓᎫᏴᎡᏗᏱ broncebells, ᎠᎴ ᎠᎵᏰᏑᏍᏔᏬ ᎬᏔᏂᏓᏍᏗ, ᎾᏞᎬ ᎠᏎᎸᎯ, ᏚᏃᏴᎬ ᎯᎠ cathedral ᎭᏫᎾᏗᏢ Passau
+* [http://www.bell-foundry.kruszewscy.pl/ Kruszewski Brothers Bell Foundry, Wegrow, Poland] ᎧᎾᏁᏍᎦ ᎤᏏᎵᏕᏫᏒ ᏄᏍᏓ
+* [http://w1.570.telia.com/~u57011259/Zengbells.htm Ancient Chinese bells] ᏗᏓᏟᎶᏍᏔᏅ, ᎤᏃᏴᎬ ᎯᎸᏍᎩ ᏗᏟᎶᏍᏙᏗ, ᎤᏃᏴᎬ, ᎠᎴ ᏗᎧᏃᎩᏛ ᎦᏃᏢᎩ ᎠᏛᏅᎢᏍᏔᏅ ᎯᎠ ᏗᎦᏃᏣᎵ ᎤᎭᎸᏂ ᏂᎦᏛ Zeng ᏂᏛᎴᏅᏓ 433 B.C.
+* [http://mtcn.free.fr/mtcn-traditional-music-midi-chime.php  Chimes & knells ringed in traditional music from county of Nice, France]
 
-[[Category:Trigonometry]]
-[[Category:Angle]]
+[[Category:Bells| ]]
 
-[[bg:Синусова теорема]]
-[[cs:Sinová věta]]
-[[da:Sinusrelation]]
-[[de:Sinussatz]]
-[[en:Law of sines]]
-[[es:Teorema del seno]]
-[[fr:Loi des sinus]]
-[[ko:사인 법칙]]
-[[id:Hukum sinus]]
-[[it:Teorema dei seni]]
-[[he:משפט הסינוסים]]
-[[nl:Sinusregel]]
-[[ja:正弦定理]]
-[[pl:Twierdzenie sinusów]]
-[[pt:Lei dos senos]]
-[[ru:Теорема синусов]]
-[[sl:Sinusni izrek]]
-[[sr:Синусна теорема]]
-[[fi:Sinilause]]
-[[sv:Sinussatsen]]
-[[tr:Sinüs teoremi]]
-[[uk:Теорема синусів]]
-[[zh:正弦定理]]
+[[ca:Campana]]
+[[de:Glocke]]
+[[en:Bell (Instrument)]]
+[[eo:Sonorilo]]
+[[fr:Cloche]]
+[[it:Campana (strumento musicale)]]
+[[he:פעמון]]
+[[id:Lonceng]]
+[[nl:Klok (bel)]]
+[[ja:鐘]]
+[[pt:Sino]]
+[[ru:Колокола]]
+[[sq:Zilja]]
+[[sl:Zvon]]
+[[uk:Дзвін]]
