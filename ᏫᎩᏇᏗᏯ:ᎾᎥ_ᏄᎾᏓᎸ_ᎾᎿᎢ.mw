@@ -88,6 +88,70 @@ It appears to be all question marks to me. [[User:204.52.215.107|204.52.215.107]
 Install this (linked on the main page): http://www.languagegeek.com/font/abserif.zip --[[User:87.123.226.242|87.123.226.242]] 13:09, 13 April 2007 (UTC)
 
 
+== Wikimedia Election Notice ==
+
+If you are able, please translate this notice to as many possible languages and post it anywhere applicable.
+
+The Wikimedia Election Committee is accepting candidates for the 2007 Wikimedia Foundation Board of Trustees election.  Please see [http://meta.wikimedia.org/wiki/Board_elections/2007] for more information.
+
+There is still time for a new candidate to be considered for election, and you may now endorse the candidate of your choice (up to 3 candidates) on the endorsements page, [http://meta.wikimedia.org/wiki/Board_elections/2007/Endorsements/en].  Please read the instructions carefully prior to endorsing.  If you can translate the instructions, please do.
+
+If you have any questions, please contact any member of the election committee, who are listed here [http://meta.wikimedia.org/wiki/Board_elections/2007/Committee/en].
+
+Posted on behalf of the Election Committee, <br>
+[[m:User:Philippe|Philippe]]
+
+== Bot status for [[User:PipepBot|PipepBot]] ==
+Hello! I ask for permission to run my interwiki bot [[User:PipepBot|PipepBot]] here, and to get a bot flag for it.
+* Operator: [[:it:User:Pipep]]
+* Purpose: Interwiki
+* Software: Pywikipedia
+* Have bot flag at: als, am, an, ar, az, bat-smg, be-x-old, bn, bs, ca, ceb, cs, cv, da, en, eo, et, fo, fur, fy, ga, hr, id, is, ka, ksh, la, lb, li, lv, mk, ml, nap, nds, nds-nl, nn, no, pms, roa-tara, ru-sib, scn, simple, sl, sr, sv, th, tl, uk, vec, zea
+* Details: Interwiki using Pywikipediabot. It mostly runs manually assisted. May run automatically in some cases.
+Thank you!
+--[[:it:User:Pipep]] 06:02, 12 August 2007 (UTC)
+
+: '''Done.''' —[[m:user talk:Pathoschild/s|Pathoschild]] 01:14, 2 September 2007 (UTC)
+:: Thank you! [[:it:User:Pipep]] 05:46, 2 September 2007 (UTC)
+
+== Bot bit request [[User:SieBot|SieBot]] ==
+Please give a bot bit to [[User:SieBot|SieBot]], so it will not flood your RC as it adds interwiki links using pywikipedia's interwiki.py. [[User:SieBot|SieBot]] is active on 180 Wikipedias. See the [[User:SieBot|user page]] of the bot for more details, or check a complete overview of its activities [[:nl:Gebruiker:SieBot/Overview|here]]. Cheers! [[User:Siebrand|Siebrand]] ([[:nl:User talk:Siebrand|talk]]) 23:18, 17 August 2007 (UTC)
+
+: '''Done.''' —[[m:user talk:Pathoschild/s|Pathoschild]] 01:20, 2 September 2007 (UTC)
+
+
+==Preparation of Fundraiser 2007==
+
+Hi, this is just a first introduction message to tell you: there is more to come. I am dealing with the Project Management of the Fundraiser 2007 and therefore will search for contacts of wikimedians who can help us to do our tasks on all projects. I am actually also building the structure for the fundraiser on [[meta:Fundraising 2007|Meta]]. We will need people who help to design buttons, translate texts of buttons, documents, sitenotices etc. Should you feel you want to co-operate please let me know. You can reach me on [[meta:User:SabineCretella|my meta user page]] or by e-mail at scretella (at) wikimedia (dot) org. If you wish to notify us that you would like to co-operate on translations, it would be nice if you used e-mail and copied the e-mail to me and Aphaia (aphaia (at) gmail (dot) com). Thank you for your attention and I hope to meet you soon! Cheers :-) -- 4 September 2007 [[meta:User:SabineCretella|Sabine]]
+
+== [[User:BotMultichill|BotMultichill]] ==
+Hi, i request a bot bit for [[User:BotMultichill|BotMultichill]].
+* Botmaster : [[User:Multichill|Multichill]]
+* Bot's name : [[User:BotMultichill|BotMultichill]]
+* List of botflags on others wikipedias: about 100+ atm (see [[meta:User:Multichill]] for the current list)
+* Purpose: Interwiki (pywikipedia)
+* Technical details : [[User:BotMultichill|BotMultichill]] is an interwiki bot starting at the [[:nl:Gebruiker:BotMultichill|Dutch wikipedia]]. The bot uses the pywikipedia framework and runs day and night in autonomous mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts. [[User:Multichill|Multichill]] 08:27, 5 September 2007 (UTC)
+
+==Fundraiser 2007 – Buttons and Banners==
+We are searching for people who can help to design buttons and banners for the Fundraiser 2007 and of course they will be used also after that period. Also the translation of the texts and people who then work on the graphics to add these texts are needed.
+
+You can find examples for buttons that are ready right now [[:meta:Fundraising 2007/web buttons|on this page on meta]] and some more info about the initiative [[:meta:Fundraising 2007/Buttons and banners to be translated|here]].
+
+Of course, should you have further questions, please contact us. Thank you!!! – 12 september 2007 [[:meta:User:SabineCretella|Sabine]]
+
+<small>''This is a message posted according to the Village Pump list on [[:meta:Fundraising 2007/Village Pumps|meta]]. Should it go in the wrong place on your wiki, please help by correcting the link on the page on [[:meta:Fundraising 2007/Village Pumps|meta]].''</small>
+
+==Betawiki: better support for your language in MediaWiki ==
+Dear community. I am writing to you to promote a special wiki called [http://nike.users.idler.fi/betawiki Betawiki]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here on this wiki to use your language, but if you would log in to for example the English language Wiktionary, you would not be able to use the interface as well translated as here. Infact, of the 1793 messages in the core of MediaWiki, 0 messages have been translated. Betawiki also supports the translation of messages of almost 80 extensions, with 984 messages.
+
+If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [http://nike.users.idler.fi/betawiki/Translating:Intro Betawiki], [http://nike.users.idler.fi/dev/?title=Special:Userlogin&type=signup&uselang=en create an account] and [http://nike.users.idler.fi/betawiki/Betawiki:Rights request translator priviledges]. You can see the current status of localisation of your language on [[meta:Localization_statistics|meta]] and do not forget to get in touch with others that may already be [http://nike.users.idler.fi/betawiki/Translating:Languages working on your language on Betawiki].
+
+If you have any further questions, [http://nike.users.idler.fi/betawiki/User_talk:Siebrand please let me know on my talk page on Betawiki]. We will try and assist you as much as possible, for example by importing all messages from a local wiki for you to start with, if you so desire.
+
+You can also find us on the Freenode [[w:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we would be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on [http://nike.users.idler.fi/betawiki/Etusivu Betawiki] soon! Cheers! [http://nike.users.idler.fi/betawiki/User:Siebrand Siebrand@Betawiki] 08:51, 24 September 2007 (UTC)
+
 [[af:Wikipedia:Geselshoekie]]
 [[als:Wikipedia:Ich brauche Hilfe]]
 [[an:Wikipedia:Tabierna]]
@@ -122,7 +186,7 @@ Install this (linked on the main page): http://www.languagegeek.com/font/abserif
 [[fi:Wikipedia:Kahvihuone]]
 [[fo:Wikipedia:Undirhúsið]]
 [[fr:Wikipédia:Le Bistro]]
-[[frp:Wikipedia:La Tavèrna]]
+[[frp:Vouiquipèdia:La Tavèrna]]
 [[fur:Vichipedie:Ostarie]]
 [[fy:Wikipedy:Oerlisside]]
 [[ga:Vicipéid:Halla baile]]
@@ -143,6 +207,7 @@ Install this (linked on the main page): http://www.languagegeek.com/font/abserif
 [[ja:Wikipedia:井戸端]]
 [[jv:Wikipedia:Warung Kopi]]
 [[ka:ვიკიპედია:ყავახანა]]
+[[km:វិគីភីឌា:កន្លែងប្រជុំ]]
 [[kn:ವಿಕಿಪೀಡಿಯ:ಅರಳಿ ಕಟ್ಟೆ]]
 [[ko:위키백과:사랑방]]
 [[ku:Wîkîpediya:Portala komê]]
@@ -214,67 +279,3 @@ Install this (linked on the main page): http://www.languagegeek.com/font/abserif
 [[zh-classical:Wikipedia:會館]]
 [[zh-min-nan:Wikipedia:Chhiū-á-kha]]
 [[zh-yue:Wikipedia:城市論壇]]
-
-== Wikimedia Election Notice ==
-
-If you are able, please translate this notice to as many possible languages and post it anywhere applicable.
-
-The Wikimedia Election Committee is accepting candidates for the 2007 Wikimedia Foundation Board of Trustees election.  Please see [http://meta.wikimedia.org/wiki/Board_elections/2007] for more information.
-
-There is still time for a new candidate to be considered for election, and you may now endorse the candidate of your choice (up to 3 candidates) on the endorsements page, [http://meta.wikimedia.org/wiki/Board_elections/2007/Endorsements/en].  Please read the instructions carefully prior to endorsing.  If you can translate the instructions, please do.
-
-If you have any questions, please contact any member of the election committee, who are listed here [http://meta.wikimedia.org/wiki/Board_elections/2007/Committee/en].
-
-Posted on behalf of the Election Committee, <br>
-[[m:User:Philippe|Philippe]]
-
-== Bot status for [[User:PipepBot|PipepBot]] ==
-Hello! I ask for permission to run my interwiki bot [[User:PipepBot|PipepBot]] here, and to get a bot flag for it.
-* Operator: [[:it:User:Pipep]]
-* Purpose: Interwiki
-* Software: Pywikipedia
-* Have bot flag at: als, am, an, ar, az, bat-smg, be-x-old, bn, bs, ca, ceb, cs, cv, da, en, eo, et, fo, fur, fy, ga, hr, id, is, ka, ksh, la, lb, li, lv, mk, ml, nap, nds, nds-nl, nn, no, pms, roa-tara, ru-sib, scn, simple, sl, sr, sv, th, tl, uk, vec, zea
-* Details: Interwiki using Pywikipediabot. It mostly runs manually assisted. May run automatically in some cases.
-Thank you!
---[[:it:User:Pipep]] 06:02, 12 August 2007 (UTC)
-
-: '''Done.''' —[[m:user talk:Pathoschild/s|Pathoschild]] 01:14, 2 September 2007 (UTC)
-:: Thank you! [[:it:User:Pipep]] 05:46, 2 September 2007 (UTC)
-
-== Bot bit request [[User:SieBot|SieBot]] ==
-Please give a bot bit to [[User:SieBot|SieBot]], so it will not flood your RC as it adds interwiki links using pywikipedia's interwiki.py. [[User:SieBot|SieBot]] is active on 180 Wikipedias. See the [[User:SieBot|user page]] of the bot for more details, or check a complete overview of its activities [[:nl:Gebruiker:SieBot/Overview|here]]. Cheers! [[User:Siebrand|Siebrand]] ([[:nl:User talk:Siebrand|talk]]) 23:18, 17 August 2007 (UTC)
-
-: '''Done.''' —[[m:user talk:Pathoschild/s|Pathoschild]] 01:20, 2 September 2007 (UTC)
-
-
-==Preparation of Fundraiser 2007==
-
-Hi, this is just a first introduction message to tell you: there is more to come. I am dealing with the Project Management of the Fundraiser 2007 and therefore will search for contacts of wikimedians who can help us to do our tasks on all projects. I am actually also building the structure for the fundraiser on [[meta:Fundraising 2007|Meta]]. We will need people who help to design buttons, translate texts of buttons, documents, sitenotices etc. Should you feel you want to co-operate please let me know. You can reach me on [[meta:User:SabineCretella|my meta user page]] or by e-mail at scretella (at) wikimedia (dot) org. If you wish to notify us that you would like to co-operate on translations, it would be nice if you used e-mail and copied the e-mail to me and Aphaia (aphaia (at) gmail (dot) com). Thank you for your attention and I hope to meet you soon! Cheers :-) -- 4 September 2007 [[meta:User:SabineCretella|Sabine]]
-
-== [[User:BotMultichill|BotMultichill]] ==
-Hi, i request a bot bit for [[User:BotMultichill|BotMultichill]].
-* Botmaster : [[User:Multichill|Multichill]]
-* Bot's name : [[User:BotMultichill|BotMultichill]]
-* List of botflags on others wikipedias: about 100+ atm (see [[meta:User:Multichill]] for the current list)
-* Purpose: Interwiki (pywikipedia)
-* Technical details : [[User:BotMultichill|BotMultichill]] is an interwiki bot starting at the [[:nl:Gebruiker:BotMultichill|Dutch wikipedia]]. The bot uses the pywikipedia framework and runs day and night in autonomous mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts. [[User:Multichill|Multichill]] 08:27, 5 September 2007 (UTC)
-
-==Fundraiser 2007 – Buttons and Banners==
-We are searching for people who can help to design buttons and banners for the Fundraiser 2007 and of course they will be used also after that period. Also the translation of the texts and people who then work on the graphics to add these texts are needed.
-
-You can find examples for buttons that are ready right now [[:meta:Fundraising 2007/web buttons|on this page on meta]] and some more info about the initiative [[:meta:Fundraising 2007/Buttons and banners to be translated|here]].
-
-Of course, should you have further questions, please contact us. Thank you!!! – 12 september 2007 [[:meta:User:SabineCretella|Sabine]]
-
-<small>''This is a message posted according to the Village Pump list on [[:meta:Fundraising 2007/Village Pumps|meta]]. Should it go in the wrong place on your wiki, please help by correcting the link on the page on [[:meta:Fundraising 2007/Village Pumps|meta]].''</small>
-
-==Betawiki: better support for your language in MediaWiki ==
-Dear community. I am writing to you to promote a special wiki called [http://nike.users.idler.fi/betawiki Betawiki]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here on this wiki to use your language, but if you would log in to for example the English language Wiktionary, you would not be able to use the interface as well translated as here. Infact, of the 1793 messages in the core of MediaWiki, 0 messages have been translated. Betawiki also supports the translation of messages of almost 80 extensions, with 984 messages.
-
-If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [http://nike.users.idler.fi/betawiki/Translating:Intro Betawiki], [http://nike.users.idler.fi/dev/?title=Special:Userlogin&type=signup&uselang=en create an account] and [http://nike.users.idler.fi/betawiki/Betawiki:Rights request translator priviledges]. You can see the current status of localisation of your language on [[meta:Localization_statistics|meta]] and do not forget to get in touch with others that may already be [http://nike.users.idler.fi/betawiki/Translating:Languages working on your language on Betawiki].
-
-If you have any further questions, [http://nike.users.idler.fi/betawiki/User_talk:Siebrand please let me know on my talk page on Betawiki]. We will try and assist you as much as possible, for example by importing all messages from a local wiki for you to start with, if you so desire.
-
-You can also find us on the Freenode [[w:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we would be happy to help you get started.
-
-Thank you very much for your attention and I do hope to see some of you on [http://nike.users.idler.fi/betawiki/Etusivu Betawiki] soon! Cheers! [http://nike.users.idler.fi/betawiki/User:Siebrand Siebrand@Betawiki] 08:51, 24 September 2007 (UTC)
