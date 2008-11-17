@@ -385,3 +385,6 @@ Thanks! --<small> [[User:White Cat|Cat]]</small> <sup>[[User talk:White Cat|chi?
 '''{{#language:en}}''': Hello! This is a message to inform all the Wikipedias that there is an ongoing project to fix the errors in the Wikipedia logo. There's also a plan to add more characters in the blank spaces and find characters for the other sides of the globe. Feel to visit the page on [[m:Wikipedia/Logo|Meta-Wiki]] and discuss it on the [[m:Talk:Wikipedia/Logo|talk page]]. If this message has arrived in the wrong place, please update the [[m:Communications subcommittees/Internal/Distribution list|distribution list]]. Thank you, and see you on Meta! [[User:Bastique|Bastique]] 21:33, 15 October 2008 (UTC)
 
 '''{{#language:code}}''': Please translate this message!
+
+== The most often used MediaWiki messages ==
+Hoi, the most often used MediaWiki messages (less than 25% of all MediaWiki messages) are the most visible messages. They help our readers and editors the most. We are aiming to get these messages localised for as many languages as possible by the end of the year. Please help us and yourself and localise [http://translatewiki.net/w/i.php?title=Special:Translate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 these messages]. Thanks, [[User:GerardM|GerardM]] 10:44, 17 November 2008 (UTC)
