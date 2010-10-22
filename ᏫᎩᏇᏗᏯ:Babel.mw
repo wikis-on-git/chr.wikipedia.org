@@ -1,0 +1,184 @@
+On Wikimedia projects, the noun '''Babel''' (an [[allusion]] to the [[Tower of Babel]]) refers to the '''user language templates''' aiding multilingual communication by making it easier to contact someone who speaks a certain language. The idea originated on the [[commons:Commons:Babel|Wikimedia Commons]] and has also been implemented on [[meta:Meta:Babel templates|Meta-Wiki]] and some of the other Wikipedias, to varying extents. To participate, you can add the Babel template to your user page by following these instructions:
+
+*Start off with '''<nowiki>{{Babel|</nowiki>'''
+*Next add one of the following codes for each language you speak or understand, separated by '''|''', where '''xx''' should be replaced by the Wikipedia code for that language. The general usage of each code level is as follows (note that not all languages have all levels, but you may create the template you are missing); the numbering is approximately analogous to the [[ILR scale]], though this is coincidental:
+**'''xx-0''' if you cannot understand the language at all. Do not use it for every language that you don't know, but only when there is some reason why you might be expected to know it. For example, one may be of Italian descent, but does not speak the Italian language, or if one is Canadian but does not speak French. Similarly, one may usefully edit a project without speaking the language, such as adding links or images to Japanese Wikipedia without speaking Japanese.
+***'''Note:''' Consensus has been determined at [[Wikipedia:User categories for discussion]] that 0-level user categories should not exist.
+**'''xx-1''' for basic ability - enough to understand written material or simple questions in this language.
+**'''xx-2''' for intermediate ability - enough for editing or discussions.
+**'''xx-3''' for advanced level - though you can write in this language with no problem, some small errors might occur.
+**'''xx-4''' for 'near-native' level - although it's not your first language from birth, your ability is something like that of a native speaker.
+**'''xx-5''' for professional proficiency. Note that this template is currently only available for a few languages.
+**'''xx''' (no hyphen or number) for native speakers who use a language every day and have a thorough grasp of it, including colloquialisms and idioms.
+*[[Wikipedia:Babel/Levels|Expanded definitions of these levels]] are also available.
+*Then finish by adding closing braces: '''<nowiki>}}</nowiki>'''
+
+{| class="userboxes" style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 248px; border: #99B3FF solid 1px; clear: right; color: #000000; "
+|-
+! style="background-color: inherit; text-align: center" colspan="10" | [[Wikipedia:Babel]]
+|-
+|
+{{User chr-4}}
+{{User chr-3}}
+{{User chr-2}}
+{{User chr-1}}
+{{User chr-0}}
+|-
+| style="background-color: inherit; text-align: center;" colspan="10" | 
+|}
+{| class="userboxes" style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 248px; border: #99B3FF solid 1px; clear: right; color: #000000; "
+|-
+! style="background-color: inherit; text-align: center" colspan="10" | [[Wikipedia:Babel]]
+|-
+|
+{{User fr-1}}
+{{User en-1}}
+{{User sv}}
+{{User ja-1}}
+|-
+| style="background-color: inherit; text-align: center;" colspan="10" | 
+|}
+
+<!-- DISCLAIMERS: (1) The languages in the sample Babelbox were chosen arbitrarily. They illustrate ONLY the rules of Babelbox coding, NOT typical skills in the Wikimedia community or the outside world. (2) The ranking scale used in Babelboxes describes ONLY fluency in those languages, not the relative value of those languages to Wikimedia or the outside world. Like any real user's Babelbox, the sample lists some languages higher than others...not because those languages are inherently better, but because the sample speaker knows them better. The absence of any specific language, similarly, does not imply that it is inherently worse than the ones listed. -->
+
+So, for example, '''<nowiki>{{Babel|en|de-1}}</nowiki>''' would indicate a native speaker of English with basic knowledge of German.
+'''<nowiki>{{Babel|en-5|sv|no-4|he-3|lt-2|es-1|an-0}}</nowiki>''' would indicate a professional proficiency of the English language, a native speaker of Swedish with an almost-native knowledge of Norwegian, advanced knowledge of Hebrew, an intermediate knowledge of Lithuanian, a basic knowledge of Spanish and no knowledge of Aragonese.
+
+These templates add you to the category associated with your level of understanding, and to the overall category for that language.
+
+To find someone who speaks a particular language, see '''[[:Category:Wikipedians by language|Wikipedians by languages]]''', and follow the links. For the most part, the two and three letter codes are taken from [[ISO 639]], but see [[meta:Complete list of language wikis available|this list]] for a comprehensive guide.
+
+You can help expand this system by creating templates for your language. Categories have already been created for most languages which have editions of Wikipedia containing over a hundred articles; they just need labelling up! It's recommended to copy the English or French versions when expanding the scheme, as most of the languages listed here are incomplete.
+
+Note that many [[list of sign languages|sign languages]] currently use the same template with language code "sgn", with the exception of [[Category:User ase|American Sign Language]] users who should use the [[Wikipedia:Babel/List#ase|American Sign Language template]]. Other sign languages can be specified within the <nowiki>{{User sgn}}</nowiki> template itself. The use of this parameter requires the user to perform an extra step when using the <nowiki>{{Babel-#}}</nowiki> templates, described [[Category:User sgn|here]].
+
+==Alternatives==
+''See also [[WP:UBX|Templates for making babel style templates]].''
+There are other options for achieving results the same as or similar to the standard Babel-X template above.
+
+#You can add stand-alone language templates. Format: '''<nowiki>{{User xx-1}}{{User yy-1}}{{User zz-1}}</nowiki>'''.
+#You can use the Babel-N template. Format: '''<nowiki>{{Babel-N|1={{User xx-1}}{{User yy-1}}{{User zz-1}}}}</nowiki>'''.
+#You can use top and bottom templates to make the box. Format: '''<nowiki>{{Userboxtop}}{{User xx-1}}{{User yy-1}}{{User zz-1}}{{Userboxbottom}}</nowiki>'''.
+
+[[Category:ᏫᎩᏇᏗᏯ]]
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:Wikipedia:ልሳናት]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[an:Wikipedia:Babel]]
+[[ast:Uiquipedia:Babel]]
+[[ay:Wikipedia:Wawil]]
+[[az:Vikipediya:Babil]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[map-bms:Wikipedia:Babel]]
+[[be:Вікіпедыя:Babel]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bar:Wikipedia:Babel]]
+[[bs:Wikipedia:Babel]]
+[[br:Wikipedia:Babel]]
+[[bg:Уикипедия:Вавилон]]
+[[ca:Viquipèdia:Babel]]
+[[cv:Википеди:Вавилон]]
+[[cs:Wikipedie:Babylón]]
+[[cy:Wicipedia:Babel]]
+[[da:Hjælp:Babel]]
+[[pdc:Wikipedia:Babel]]
+[[de:Wikipedia:Babel]]
+[[dsb:Wikipedija:Babel]]
+[[et:Vikipeedia:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[en:Wikipedia:Babel]]
+[[es:Wikipedia:Babel]]
+[[eo:Vikipedio:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fo:Wikipedia:Málkassi]]
+[[fr:Wikipédia:Babel]]
+[[fy:Wikipedy:Babel]]
+[[fur:Vichipedie:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[ko:위키백과:바벨]]
+[[hsb:Wikipedija:Babel]]
+[[hr:Wikipedija:Babilon]]
+[[io:Wikipedio:Babel]]
+[[id:Wikipedia:Babel]]
+[[os:Википеди:Вавилон]]
+[[zu:Wikipedia:Babel]]
+[[is:Wikipedia:Málkassi]]
+[[it:Wikipedia:Babel]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[jv:Wikipedia:Babel]]
+[[krc:Википедия:Вавилон]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[ky:Wikipedia:Babel]]
+[[sw:Wikipedia:Babel]]
+[[ku:Wîkîpediya:Babel]]
+[[lbe:Википедия:Вавилон]]
+[[la:Vicipaedia:Babel formulae]]
+[[lv:Vikipēdija:Babel]]
+[[lb:Wikipedia:Babel]]
+[[lt:Vikipedija:Babelis]]
+[[li:Wikipedia:Babel]]
+[[ln:Wikipedia:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[mk:Википедија:Вавилон]]
+[[mg:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[mi:Wikipedia:Babel]]
+[[arz:ويكيبيديا:بابل]]
+[[ms:Wikipedia:Babel]]
+[[nah:Huiquipedia:Babel]]
+[[na:Wikipedia:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[cr:Wikipedia:Babel]]
+[[ja:Wikipedia:バベル]]
+[[no:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[uz:Vikipediya:Bobil]]
+[[km:វិគីភីឌា:បាបេល]]
+[[tpi:Wikipedia:Babel]]
+[[nds:Wikipedia:Babel]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipedia:Babel]]
+[[ksh:Wikipedia:Babel]]
+[[ro:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[qu:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[sco:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[scn:Wikipedia:Babeli]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[cu:Википє́дїꙗ:Вавѷлѡнъ]]
+[[sl:Wikipedija:Babilon]]
+[[szl:Wikipedyjo:Babel]]
+[[so:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[sh:Wikipedia:Babel]]
+[[su:Wikipedia:Babel]]
+[[fi:Wikipedia:Babylon]]
+[[sv:Wikipedia:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[tr:Vikipedi:Babil]]
+[[tw:Wikipedia:Babel]]
+[[udm:Wikipedia:Вавилон]]
+[[uk:Вікіпедія:Вавилон]]
+[[vec:Wikipedia:Babel]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[fiu-vro:Wikipedia:Babel]]
+[[wa:Wikipedia:Babel]]
+[[zh-classical:維基大典:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:巴别]]
+[[yi:װיקיפּעדיע:באבעל]]
+[[yo:Wikipedia:Babel]]
+[[zh-yue:Wikipedia:Babel]]
+[[bat-smg:Vikipedėjė:Babėliuons]]
+[[zh:Wikipedia:巴別]]
