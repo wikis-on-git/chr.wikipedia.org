@@ -405,6 +405,17 @@ This language support team will be asked to provide us with information about th
 As much of the activity will be concentrated on [[:translatewiki:Main Page|translatewiki.net]], it will be a plus when team members know how to localise at translatewiki.net.
 Thanks, [[User:Gmeijssen|Gmeijssen]] 07:58, 17 October 2011 (UTC)
 
+== [[User:HiW-Bot|HiW-Bot]] ==
+* Bot                            : [[User:HiW-Bot|HiW-Bot]]
+* Operator                       : [[:de:Benutzer:Hedwig in Washington|Hedwig in Washington]]
+* Automatic or Manually Assisted : automatic
+* Programming Language(s)        : Python (pywikipedia), daily update
+* Function Summary               : Interwiki
+* Already has a bot flag (Y/N)   : Yes, [http://toolserver.org/~vvv/sulutil.php?user=HiW-Bot please see here]
+* Function Details               : just using the standard interwiki.py
+
+I humbly request bot status on this wiki in order to maintain Interwiki.
+Thank you --[[User:Hedwig in Washington|Hedwig in Washington]] 11:23, 23 October 2011 (UTC)
 
 [[ang:Ƿicipǣdia:Þorpes Ƿiella]]
 [[de:Wikipedia:Fragen zur Wikipedia]]
