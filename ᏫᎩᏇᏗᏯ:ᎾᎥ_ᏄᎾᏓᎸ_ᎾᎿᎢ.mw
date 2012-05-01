@@ -484,3 +484,7 @@ Report any [http://labs.wikimedia.beta.wmflabs.org/wiki/Problem_reports problems
 
 [[:m:user:guillom|Guillaume Paumier]], via the [[:m:Global message delivery|Global message delivery system]] <small>([[:m:Distribution list/Global message delivery|wrong page? You can fix it.]])</small>. 14:52, 12 KᎠᎦᎵ 2012 (UTC)
 <!-- EdwardsBot 0154 -->
+
+==Help us localise at least 65 MediaWiki messages==
+One of the [http://translatewiki.net translatewiki] localisers found several errors in the MediaWiki localisation for Cherokee. These updates will not go live because the minimum number of 65 messages have not been localised. The question is therefore if someone of this community can help us and localise messages at translatewiki.net. 65 messages is the absolute requirement but it would be really great when the "[http://translatewiki.net/w/i.php?title=Special:Translate&group=core-0-mostused&language=chr most used messages]" are localised. This will have a really big impact on the users who prefer a user interface in Cherokee.<br/>
+Thanks, [[User:Gmeijssen|Gmeijssen]] ([[User talk:Gmeijssen|talk]]) 09:56, 1 May 2012 (UTC)
