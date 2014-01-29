@@ -37,7 +37,7 @@ Yes, yes, it does exist. I haven't been able to do anything with it lately until
 
 
 
-==ᏫᎩᏇᏗᏯ namespace doesn't exist yet==
+ᏋᏉ==ᏫᎩᏇᏗᏯ namespace doesn't exist yet==
 The namespace "Wikipedia:" hasn't been translated to "ᏫᎩᏇᏗᏯ:", so it is a bad idea to use its translation now.
 You should contact a developper and ask him to put "ᏫᎩᏇᏗᏯ"  for the "Wikipedia" namespace in the LanguageChr.php file on the server.
 Once it is done, then [[{{ns:4}}:Foo]] would expand to "ᏫᎩᏇᏗᏯ:Foo"
