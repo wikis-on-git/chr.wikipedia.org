@@ -2,20 +2,28 @@
 {{CompactTOC8}}
 
 == Ꭰ ==
-* [[United States|ᎠᎹᏰᏟ]]<ref name=cldr>[http:sourceware.org/bugzilla/attachment.cgi?id=5075 Common Locale Data Repository (CLDR) for Cherokee/Tsalagi.] 2010.</ref>
-* [[Germany|ᎠᏂᏛᏥ]]<ref name=CLDR/>
-* [[Philipines|ᎠᏂᏈᎵᎩᏃ]]<ref name=ana>Erb, Joseph. [https://sites.google.com/site/tsalagianagalisgi/ "ᏣᎳᎩ ᎠᎾᎦᎵᏍᎩ."] ''Education Services at Cherokee Nation.'' 2014-07-27.</ref>
-* [[Afghanistan|ᎠᏫᎨᏂᏍᏖᏂ]]<ref name=ana/>
+{{colbegin|2}}
+* [[United States|ᎠᎹᏰᏟ]]<ref name=cldr>[http://sourceware.org/bugzilla/attachment.cgi?id=5075 Common Locale Data Repository (CLDR) for Cherokee/Tsalagi.] 2010.</ref>
 * [[Albania|ᎠᎵᏇᏂᏯ]]<ref name=ana/>
+* [[Germany|ᎠᏂᏛᏥ]]<ref name=cldr/>
+* [[Philipines|ᎠᏂᏈᎵᎩᏃ]]<ref name=ana>Erb, Joseph. [https://sites.google.com/site/tsalagianagalisgi/ "ᏣᎳᎩ ᎠᎾᎦᎵᏍᎩ."] ''Cherokee Nation Education Services.'' 2014-07-27.</ref>
+* [[Armenia|ᎠᎵᎻᏂᎠ]]<ref name=ana/>
 * [[Algeria|ᎠᎵᏥᎵᏯ]]<ref name=ana/>
 * [[Andorra|ᎠᏂᏙᎳ]]<ref name=ana/>
 * [[Angola|ᎠᏂᎪᎳ]]<ref name=ana/>
-* [[Antigua and Barbuda|ᎤᏪᏘ ᎠᎴ ᏆᏊᏓ]]<ref name=ana/>
-* [[Argentina|ᎠᏥᏂᏘᏂᎠ]]<ref name=ana/>
-* [[Armenia|ᎠᎵᎻᏂᎠ]]<ref name=ana/>
+* [[Mexico|ᎠᏂᏍᏆᏂ]]<ref name=ana/ ([[Mexico|ᏍᏆᏂᏱ]]<ref name=cldr/>)
+* [[Spain|ᎠᏂᏍᏆᏂᏱ]]<ref name=ana/>
+* [[Swaziland|ᎠᏂᏍᏩᏏᎢ]]<ref name=ana/>
+* [[Saint Kitts and Nevis|ᎠᏂᏪᏌ ᎠᎴ ᎠᏂᏁᏫᏍ]]<ref name=ana/> 
 * [[Austria|ᎠᏍᏟᏯ]]<ref name=ana/>
 * [[Azerbaijan|ᎠᏏᎵᏆᏌᏂ]]<ref name=ana/>
+* [[Saint Lucia|ᎠᏥᎸᏉᏗ ᎷᏥᎢᏯ]]<ref name=ana/>
+* [[San Marino|ᎠᏥᎸᏉᏗ ᎹᎵᎢᏃ]]<ref name=ana/>
+* [[Saint Vincent and the Grenadines|ᎠᏥᎸᏉᏗ ᏫᏂᏏᏂᏗ ᎠᎴ ᎾᏍᎩ ᏇᎾᏗᏁᏍ]]<ref name=ana/> 
+* [[Argentina|ᎠᏥᏂᏘᏂᎠ]]<ref name=ana/>
+* [[Afghanistan|ᎠᏫᎨᏂᏍᏖᏂ]]<ref name=ana/>
 * [[Ireland|ᎠᏲᎳᏂ]]<ref name=ana/>
+{{colend}}
 
 == Ꭱ ==
 * [[Ecuador|ᎡᏆᏙᎵ]]<ref name=ana/>
@@ -28,11 +36,12 @@
 * [[Ethiopia|ᎢᏗᎣᏈᎠ]]<ref name=ana/>
 * [[Cape Verde|ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ]]<ref name=ana/>
 * [[Egypt|ᎢᏥᏈᎢ]]<ref name=ana/> ([[Egypt|ᎢᏥᏈᏱ]])<ref name=bible>[[American Bible Society|ᏴᏩᏁᎬ ᎪᏪᎵ ᎤᎭᎨᏛ ᎤᎾᏙᏢᎯ]]. [http://www.archive.org/details/cherokeenewtest00socigoog ''[[The New Testament|ᎢᏤ ᎧᏃᎮᏛ ᏓᏠᎯᏍᏛ]]''.] ''Internet Archive.'' 1860 (11 ᎧᎦᎵ 2011)</ref>
-* [[India|ᎢᏂᏗᎢᎠ]]<ref name=ana/> ([[India|ᎢᏅᏗᎾ]]<ref name=CLDR/>)
+* [[India|ᎢᏂᏗᎢᎠ]]<ref name=ana/> ([[India|ᎢᏅᏗᎾ]]<ref name=cldr/>)
 * [[Israel|ᎢᏏᎵᏱ]]<ref name=ana/> ([[Israel|ᎢᏏᎵᎢ]]<ref name=bible/> ([[Isreal|ᎢᏍᏩᎵ]]<ref>[http://home.earthlink.net/~deanna1jc/moondoves_spiral_maindictionary.htm "ᏲᏁᎦ–ᏣᎳᎦ ᎠᏁᏢᏔᏅᎯ."] ''Moondoves Spiral.'' (2 ᏅᏓᏕᏆ 2010)</ref>)
-* [[Indonesia|ᎢᏂᏙᏂᏍᏯ]]<ref name=ana/>
 * [[Iran|ᎢᎴᏂ]]<ref name=ana/>
 * [[Iraq|ᎢᎳᎩ]]<ref name=ana/>
+* [[Indonesia|ᎢᏂᏙᏂᏍᏯ]]<ref name=ana/>
+* [[New Zealand|ᎢᏤ ᏏᎢᎴᏂᏗ]]<ref name=ana/>
 
 == Ꭳ ==
 * [[Oman|ᎣᎺᏂ]]<ref name=ana/>
@@ -42,7 +51,8 @@
 * [[South Africa|ᎤᎦᏃᏮ ᎬᎿᎨᏍᏛ]]<ref name=ana/>
 * [[United Arab Emirates|ᏌᏊᎢᏳᎾᎵᏍᏔᏅᎡᎳᏈᎢᎹᎵᏘᏏ]]<ref name=ana/> 
 * [[Uruguay|ᏳᎷᏇ]]<ref name=ana/> 
-* [[Uzbekistan|ᎤᏍᏇᎩᏍᏖᏂ]]<ref name=ana/> 
+* [[Uzbekistan|ᎤᏍᏇᎩᏍᏖᏂ]]<ref name=ana/>
+* [[Antigua and Barbuda|ᎤᏪᏘ ᎠᎴ ᏆᏊᏓ]]<ref name=ana/>
 
 == C ==
 * [[Chad|ᏣᏗ]]<ref name=ana/>
@@ -55,32 +65,40 @@
 * [[Czech Republic|ᏤᎩ ᏍᎦᏚᎩ]]<ref name=ana/>
 
 == Ꮣ ==
-* [[China|ᏓᎶᏂᎨᏍᏛ]]<ref name=CLDR/><ref name=ana/>
+* [[China|ᏓᎶᏂᎨᏍᏛ]]<ref name=cldr/><ref name=ana/>
 
 == Ꮧ ==
 * [[East Timor|ᏗᎧᎸᎬᎢ ᏘᎼ]]{{citation needed|date=ᎫᏰᏉᏂ 2014}}
 * [[Denmark|ᏗᏂᎹᎦ]]<ref name=ana/>
 * [[Djibouti|ᏗᏂᎹᎦ]]<ref name=ana/>
 
+== Ꮫ ==
+* [[Turkmenistan|ᏛᎵᎩᎺᏂᏍᏔᏂ]]<ref name=ana/>
+
+== Ꮪ ==
+* [[Tunisia|ᏚᏂᏏᏍᎠ]]<ref name=ana/>
+* [[Tuvalu|ᏚᏩᎷ]]<ref name=ana/>
+
 == Ꮩ ==
+* [[Togo|ᏙᎪ]]<ref name=ana/>
 * [[Dominica|ᏙᎻᏂᎧ]]<ref name=ana/>
 * [[Dominican Republic|ᏙᎻᏂᎧᏂ ᏍᎦᏚᎩ]]<ref name=ana/>
 
 == Ꭶ ==
 * [[Ghana|ᎦᎠᎾ]]<ref name=ana/>
-* [[France|ᎦᎸᏥᏱ]]<ref name=CLDR/><ref name=ana/>
+* [[France|ᎦᎸᏥᏱ]]<ref name=cldr/><ref name=ana/>
 * [[Gambia|ᎦᎹᏈᎢᎠ]] ([[The Gambia|ᎾᏍᎩ ᎦᎹᏈᎢᎠ]])<ref name=ana/>
 * [[Gabon|ᎦᏉᏂ]]<ref name=ana/>
 * [[Guatemala|ᏩᏔᎹᎳ]]<ref name=ana/>
 * [[Guyana|ᎦᏯᎾ]]
 
 == Ꭸ ==
-* [[Canada|ᎨᎾᏓ]]<ref name=CLDR/><ref name=ana/>
+* [[Canada|ᎨᎾᏓ]]<ref name=cldr/><ref name=ana/>
 
 == Ꭹ ==
 * [[Guinea|ᎩᎢᏂ]]<ref name=ana/>
 * [[Guinea-Bissau|ᎩᎢᏂᏈᏌᎤᏫ]]<ref name=ana/>
-* [[United Kingdom|ᎩᎵᏏᏲ]]<ref name=CLDR/><ref name=ana/>
+* [[United Kingdom|ᎩᎵᏏᏲ]]<ref name=cldr/><ref name=ana/>
 
 == Ꭺ ==
 * [[Greece|ᎪᎢᎯ]]<ref name=ana/>
@@ -93,6 +111,7 @@
 
 == Ꭼ ==
 * [[Central African Republic|ᎬᎿᎨᏍᏛ ᎠᏰᏟ ᏍᎦᏚᎩ]]<ref name=ana/>
+* [[Turkey|ᎬᏃ]]<ref name=ana/>
 
 == Ꭾ ==
 * [[Haiti|ᎮᎢᏘ]]<ref name=ana/>
@@ -109,114 +128,123 @@
 * [[Congo, Republic of the|ᎧᏂᎪ]] ([[Republic of the Congo|ᏍᎦᏚᎩ ᎾᎿ ᎧᏂᎪ]])<ref name=ana/>
 * [[Congo, Democratic Republic of the|ᎧᏂᎪ (D.R.C.)]] ([[Democratic Republic of the Congo|ᏥᏈᏍᏗᏍᎦᏚᎩᎤᏂᏣᏘᎤᎾᏓᏅᏖᏗᎧᏂᎪ]])<ref name=ana/>
 * [[Croatia|ᎧᎶᎡᏏᎠ]]<ref name=ana/>
+* [[Qatar|ᎧᏔᎵ]]<ref name=ana/>
 
 == Ꮃ ==
-* [[Lebanon|ᎴᏆᎾᏂ]]<ref name=ana/>
-* [[Lesotho|ᎴᏐᏙ]]<ref name=ana/>
+* [[Latvia|ᎳᏘᏫᎠ]]<ref name=ana/>
 
 == Ꮄ ==
 * [[Laos|ᎴᎣᏍ]]<ref name=ana/>
+* [[Lebanon|ᎴᏆᎾᏂ]]<ref name=ana/>
 * [[Liberia|ᎳᏈᎵᏯ]]<ref name=ana/>
-* [[Latvia|ᎳᏘᏫᎠ]]<ref name=ana/>
+* [[Lesotho|ᎴᏐᏙ]]<ref name=ana/>
 
 == Ꮅ ==
 * [[Libya|ᎵᏈᏯ]]<ref name=ana/>
 * [[Liechtenstein|ᎵᎦᏗᏂᏍᏓᏂ]]<ref name=ana/>
 * [[Lithuania|ᎵᏗᏪᏂᎠ]]<ref name=ana/>
 
+== Ꮆ ==
+* [[Romania|ᎶᎹᏂᏯ]]<ref name=ana/>
+* [[Rwanda|ᎶᏩᏂᏓ]]<ref name=ana/>
+
 == Ꮈ ==
 * [[Luxembourg|ᎸᎧᏎᏋᎩ]]<ref name=ana/>
 
 == Ꮉ ==
-* [[Malawi|ᎹᎳᏫ]]
-* [[Mali|ᎹᎵ]]
+* [[Micronesia|ᎹᎢᏉᏂᏏᏯ]]<ref name=ana/>
+* [[Madagascar|ᎹᏓᎦᏍᎧᎵ]]<ref name=ana/>
+* [[Malawi|ᎹᎳᏫ]]<ref name=ana/>
+* [[Mali|ᎹᎵ]]<ref name=ana/>
+* [[Malta|ᎹᎵᏔ]]<ref name=ana/>
+* [[Moldova|ᎹᎵᏙᏫᎠ]]<ref name=ana/>
+* [[Malaysia|ᎹᎴᏏᎢᎠ]]<ref name=ana/>
+* [[Maldives|ᎹᎵᏗᏫᏍ]]<ref name=ana/>
+* [[Monaco|ᎹᎾᎪ]]<ref name=ana/>
+* [[Mongolia|ᎹᏂᎪᎵᎠ]]<ref name=ana/>
+* [[Marshall Islands|ᎹᏌᎵᏚᎦᏚᏛᎢ]]<ref name=ana/>
+* [[Macedonia|ᎹᏏᏙᏂᎢᎠ]]<ref name=ana/>
+* [[Mauritania|ᎹᏘᎢᏯ]]<ref name=ana/>
 * [[Myamar|ᎹᏯᎹᎵ]]<ref name=ana/>
 
-== M ==
-* [[Macedonia]]
-* [[Madagascar|ᎹᏓᎦᏍᎧ]]
-* [[Malaysia|ᎹᎴᏏᏱ]]
-* [[Maldives]]
-* [[Malta|ᎹᎵᏔ]]
-* [[Marshall Islands]]
-* [[Mauritania|ᎼᎵᏖᏂᏱ]]
-* [[Mauritius]]
-* [[Micronesia]]
-* [[Moldova|ᎼᎵᏙᏩ]]
-* [[Monaco|ᎼᎾᎪ]]
-* [[Mongolia|ᎼᏂᎪᎵᏱ]]
-* [[Montenegro|ᎼᏂᏖᏁᏉ]]
-* [[Morocco|ᎼᎶᎪ]]
-* [[Mozambique|ᎼᏣᎻᏈᎩ]]
+== Ꮌ ==
+* [[Mauritius|ᎼᎵᏏᎥᏍ]]<ref name=ana/>
+* [[Morocco|ᎼᎶᎪ]]<ref name=ana/>
+* [[Montenegro|ᎼᏂᏔᏁᎦᎶ]]<ref name=ana/>
+* [[Mozambique|ᎼᏎᎻᏇᎩ]]<ref name=ana/>
 
 == Ꮎ ==
-* [[Saint Lucia|ᎾᏍᎦᏅᎾ ᎷᏏᎠ]]
+* [[Niger|ᎾᎢᏨ]]<ref name=ana/>
+* [[Namibia|ᎾᎻᏈᎢᏯ]]<ref name=ana/>
+* [[Netherlands|ᎾᏍᎩ ᏁᏛᎳᏂ]]<ref name=ana/>
 * [[Bahamas|ᎾᏍᎩ ᏆᎭᎹᏍ]]<ref name=ana/>
 
-== N ==
-* [[Namibia|ᎾᎻᏈᏱ]]
-* [[Nauru|ᎾᎤᎷ]]
-* [[Nepal|ᏁᏆᎵ]]
-* [[Netherlands]]
-* [[New Zealand]]
-* [[Nicaragua|ᏂᎧᎳᏆ]]
-* [[Niger|ᎾᎢᏣ]]
-* [[Nigeria|ᎾᎢᏤᎵᏱ]]
-* [[Norway|ᏃᏩᏱ]]
+== Ꮑ ==
+* [[Nepal|ᏁᏆᎵ]]<ref name=ana/>
 
-== P ==
-* [[Pakistan|ᏆᎩᏍᏔᏂ]]
-* [[Palau|ᏆᎳᎤ]]
-* [[Panama|ᏆᎾᎹ]]
-* [[Papua New Guinea]]
-* [[Paraguay|ᏆᎳᏆᏱ]]
-* [[Peru|ᏇᎷ]]
-* [[Poland|ᏉᎳᎾᏗ]]
-* [[Portugal|ᏉᏚᎦᎵ]]
+== Ꮒ ==
+* [[Nicaragua|ᏂᎧᎳᏆ]]<ref name=ana/>
+* [[Nigeria|ᏂᏥᎵᏯ]]<ref name=ana/>
+
+== Ꮓ ==
+* [[Nauru|ᏃᎤᎷ]]<ref name=ana/>
+* [[Norway|ᏃᏪ]]<ref name=ana/>
 
 == Ꮖ ==
+* [[Pakistan|ᏆᎩᏍᏖᏂ]]<ref name=ana/>
 * [[Bahrain|ᏆᎭᎴᎢᏂ]]<ref name=ana/>
+* [[Paraguay|ᏆᎳᏇᎢᏯ]]<ref name=ana/>
+* [[Palau|ᏆᎴᎠᏫ]]<ref name=ana/>
+* [[Panama|ᏆᎾᎹ]]<ref name=ana/>
 * [[Bangladesh|ᏆᏂᎦᎵᏕᏍ]]<ref name=ana/>
 * [[Benin|ᏆᏂᎢᏂ]]<ref name=ana/>
+* [[Papua New Guinea|ᏆᏇ ᎢᏤ ᎩᎢᏂ]]<ref name=ana/>
 * [[Barbados|ᏆᏇᏙᏍ]]<ref name=ana/>
-* [[Brazil|ᏆᏏᎵ]]<ref name=ana/> ([[Brazil|ᏆᏏᎵᎢ]]<ref name=CLDR/>)
+* [[Brazil|ᏆᏏᎵ]]<ref name=ana/> ([[Brazil|ᏆᏏᎵᎢ]]<ref name=cldr/>)
 * [[Botswana|ᏆᏣᏩᎾ]]<ref name=ana/>
 
 == Ꮗ ==
 * [[Belarus|ᏇᎳᎷᏍ]]<ref name=ana/>
 * [[Belize|ᏇᎵᏍ]]<ref name=ana/>
 * [[Belgium|ᏇᎵᏥᎥᎻ]]<ref name=ana/>
+* [[Peru|ᏇᎷ]]<ref name=ana/>
+
+== Ꮙ ==
+* [[Poland|ᏉᎳᏂ]]<ref name=ana/>
+* [[Bolivia|ᏉᎵᏫᎠ]]<ref name=ana/>
+* [[Bosnia and Herzegovina|ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ]]<ref name=ana/>
+* [[Portugal|ᏉᏥᎦᎳ]]<ref name=ana/>
 
 == Ꮚ ==
 * [[Bulgaria|ᏊᎵᎨᎵᎠ]]<ref name=ana/>
 * [[Brunei|ᏊᎾᎢ]]<ref name=ana/>
 * [[Bhutan|ᏊᏔᏂ]]<ref name=ana/>
 
-== Ꮙ ==
-* [[Bolivia|ᏉᎵᏫᎠ]]<ref name=ana/>
-* [[Bosnia and Herzegovina|ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ]]<ref name=ana/>
-
 == Ꮛ ==
 * [[Burkina Faso|ᏋᎩᎾ ᏩᏐ]]<ref name=ana/>
 * [[Grenada|ᏋᎾᏓ]]<ref name=ana/>
 * [[Burundi|ᏋᎷᏂᏗ]]<ref name=ana/>
 
-== Q ==
-* [[Qatar|ᏆᏔᎵ]]
-
-== R ==
-* [[Romania|ᎣᎹᏂᏱ]]
-* [[Rwanda|ᎷᏩᎾᏓ]]
-
 == Ꮝ ==
-* [[Mexico|ᏍᏆᏂᏱ]]<ref name=CLDR/>
+* [[Sri Lanka|ᏍᎵ ᎳᏂᎧ]]<ref name=ana/>
+* [[Slovakia|ᏍᎶᏩᎩᎠ]]<ref name=ana/>
+* [[Slovenia|ᏍᎶᏫᏂᎠ]]<ref name=ana/>
 * [[Sweden|ᏍᏫᏕᏂ]]<ref name=ana/>
+* [[Switzerland|ᏍᏫᏍ]]<ref name=ana/>
 
 == Ꮜ ==
-* [[Samoa|ᏌᎼᎠ]]
+* [[São Tomé and Príncipe|ᏌᎣ ᏙᎺ ᎠᎴ ᏈᏂᏏᏇ]]<ref name=ana/> 
+* [[Saudi Arabia|ᏌᎤᏗ ᎡᎴᏈᎠ]]<ref name=ana/> 
+* [[Samoa|ᏌᎼᎠ]]<ref name=ana/>
 
-== Ꮞ ==
-* [[Senegal|ᏎᏁᎦᎵ]]
+== Ꮟ ==
+* [[Sierra Leone|ᏏᎡᎳ ᎴᎣᏂ]]<ref name=ana/>
+* [[Seychelles|ᏏᎡᏥᎵᏍ]]<ref name=ana/>
+* [[Syria|ᏏᎵᎠ]]<ref name=ana/>
+* [[Zambia|ᏏᎻᏆᏇ]]<ref name=ana/>
+* [[Zimbabwe|ᏏᎻᏆᏪᎢ]]<ref name=ana/>
+* [[Senegal|ᏏᏂᎦᎵ]]<ref name=ana/>
+* [[Singapore|ᏏᏂᎦᏉᎵ]]<ref name=ana/>
 
 == Ꮠ ==
 * [[Soloman Islands|ᏐᎶᎹᏂ ᎯᎸᏍᎩ ᎠᎹᏰᎵ]]<ref>Howard 98</ref>
@@ -226,71 +254,51 @@
 * [[Sudan|ᏑᏓᏂ]]
 
 == Ꮢ ==
-* [[Australia|ᏒᎳᏗᏝ]]
+* [[Australia|ᎡᎳᏗᏜ]]<ref name=ana/> ([[Australia|ᏒᎳᏗᏝ]]<ref name=cldr/>
+* [[Suriname|ᏒᎵᎾᎻ]]<ref name=ana/>
+* [[Serbia|ᏒᏈᏯ]]<ref name=ana/>
 
-== S ==
-* [[Saint Kitts and Nevis]] <!--ᎾᏍᎦᏅᎾ Kitts ᎠᎴ Nevis-->
-* [[Saint Vincent and the Grenadines]] <!--ᎾᏍᎦᏅᎾ Vincent ᎠᎴ Ꮎ Grenadines -->
-* [[San Marino]]
-* [[São Tomé and Príncipe|ᏌᎣ ᏙᎺ ᎠᎴ ᏟᏂᏏᏇ]]
-* [[Saudi Arabia]]
-* [[Serbia|ᏒᏈᏱ]]
-* [[Seychelles|ᏎᏤᎵ]]
-* [[Sierra Leone|ᏎᎡᏩ ᎵᎣᏂ]]
-* [[Singapore|ᏏᏂᎦᏉᎠ]]
-* [[Slovakia|ᏍᎶᏩᎩᏱ]]
-* [[Slovenia|ᏍᎶᏪᏂᏱ]]
-* [[Spain|ᏍᏆᏂᏱ]]
-* [[Sri Lanka|ᏍᏫ ᎳᏂᎧ]]
-* [[Suriname|ᏑᎵᎾᎻ]]
-* [[Swaziland|ᏍᏩᏥᎳᎾᏗ]]
-* [[Switzerland|ᏍᏫᏣᎳᎾᏗ]]
-* [[Syria|ᏏᎵᏱ]]
+== Ꮤ ==
+* [[Tonga|ᏔᏂᎪ]]<ref name=ana/>
+* [[Tajikistan|ᏔᏥᎩᏍᏕᏂ]]<ref name=ana/>
+* [[Thailand|ᏔᏯᎴᏂ]]<ref name=ana/>
+
+== Ꮦ ==
+* [[Tanzania|ᏖᏂᏏᏂᏯ]]<ref name=ana/>
+
+== Ꮯ ==
+* [[Trinidad and Tobago|ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ]]<ref name=ana/>
 
 == Ꮳ ==
 * [[Georgia|ᏣᎠᏥᎢ]]<ref name=ana/>
-* [[Japan|ᏣᏩᏂᏏ]]<ref name=ana/> ([[Japan|ᏣᏩᏂ]]<ref name=CLDR/>)
+* [[Japan|ᏣᏩᏂᏏ]]<ref name=ana/> ([[Japan|ᏣᏩᏂ]]<ref name=cldr/>)
 
 == Ꮷ ==
 * [[South Korea|ᏧᎦᎾᏮ ᎪᎵᎠ]]
 * [[Iceland|ᏧᏁᏍᏓᎸᎯ]]<ref name=ana/>
 * [[North Korea|ᏧᏴᏢ ᎪᎵᎠ]]<ref name=ana/>
 
-== T ==
-* [[Tajikistan|ᏔᏥᎩᏍᏕᏂ]]<ref name=ana/>
-* [[Tanzania|ᏖᏂᏏᏂᏯ]]<ref name=ana/>
-* [[Thailand|ᏔᏯᎴᏂ]]<ref name=ana/>
-* [[Togo|ᏙᎪ]]<ref name=ana/>
-* [[Tonga|ᏔᏂᎪ]]<ref name=ana/>
-* [[Trinidad and Tobago|ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ]]<ref name=ana/>
-* [[Tunisia|ᏚᏂᏏᏍᎠ]]<ref name=ana/>
-* [[Turkey|ᎬᏃ]]<ref name=ana/>
-* [[Turkmenistan|ᏛᎵᎩᎺᏂᏍᏔᏂ]]<ref name=ana/>
-* [[Tuvalu|ᏚᏩᎷ]]<ref name=ana/>
+== Ꮹ ==
+* [[Vanuatu|ᏩᏂᎤᏩᏚ]]<ref name=ana/>
 
-== V ==
-* [[Vanuatu|ᏩᏄᎠᏚ]]
-* [[Vatican City|ᏩᏘᎧᏂ]]
-* [[Venezuela|ᏪᏁᏍᏪᎳ]]
-* [[Vietnam|ᏫᎡᏘᎾᎻ]]
+== Ꮺ ==
+* [[Vatican City|ᏪᏗᎧᏂᎦᏚᎲ]]<ref name=ana/>
+* [[Venezuela|ᏪᏁᏑᏪᎳ]]<ref name=ana/>
 
 == Ꮻ ==
+* [[Vietnam|ᏫᎡᏘᎾᎻ]]<ref name=ana/>
 * [[Fiji|ᏫᏥ]]<ref name=ana/>
 * [[Finland|ᏫᏂᎦᏙᎯ]]<ref name=ana/>
 
 == Ᏺ ==
-* [[Italy|ᏲᎶ]]<ref name=CLDR/>
-* [[Russia|ᏲᏂᎢ]]<ref name=CLDR/>
+* [[Italy|ᎢᏔᎵ]]<ref name=ana/> ([[Italy|ᏲᎶ]]<ref name=cldr/>)
+* [[Russia|ᏲᏂᎢ]]<ref name=cldr/><ref name=ana/>
 
 == Ᏸ ==
-* [[Yemen|ᏰᎺᏂ]]
+* [[Yemen|ᏰᎺᏂ]]<ref name=ana/>
 
 == Ᏻ ==
 * [[Ukraine|ᏳᎧᎴᏂ]]<ref name=ana/> 
-
-== Z ==
-* [[Zambia|ᏣᎻᏈᏱ]]
-* [[Zimbabwe|ᏥᎻᏆᏇ]]
 
 == ᎯᎪᏩᏔ ᎾᏍᎦ ᎾᏍᏇ ==
 * [[ᎡᏆ ᎦᏙᎯ]]
