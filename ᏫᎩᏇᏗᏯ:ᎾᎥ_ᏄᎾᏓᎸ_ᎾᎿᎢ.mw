@@ -1084,3 +1084,23 @@ There is a [[:de:Wikipedia Diskussion:Kurier#.E2.80.9ENiemand braucht freies Wis
 Hello and sorry for writing in English. Can anyone help me translate a small article (2 paragraphs) from English to your language? Please, fell free to answer in my talk page in your wiki anytime. Thanks! [[User:Xaris333|Xaris333]] ([[User talk:Xaris333|talk]]) 19:15, 12 ᎦᎶᏂᎢ 2014 (UTC)
 == [[:en:Languages in censuses|Languages in censuses]] ==
 Hello, Dear wikipedians. I invite you to edit and improve this article and to add information about your and other country.--[[User:Kaiyr|Kaiyr]] ([[User talk:Kaiyr|talk]]) 11:26, 31 ᏚᏂᏅᏗ 2014 (UTC)
+
+==Please test VisualEditor in your language==
+<div class="mw-content-ltr" lang="en" dir="ltr">
+[[File:VisualEditor-logo.svg|right|frameless]]
+It is very important to us at the [[:mw:Editing|Editing Department]] that [[:mw:Special:MyLanguage/VisualEditor/Portal|VisualEditor]] works in every language, for every user.
+
+VisualEditor's editing environment is a browser ContentEditable element. This means that your [[:en:Input method|input method editor]] (IME) should already know how to work with it. However, to make VisualEditor correctly edit wiki pages, we have to stop browsers in lots of ways from breaking the page.
+
+Sometimes this can interfere with IMEs. To make sure we work in your IME, we need your help: please see '''[http://wikimedia.github.io/VisualEditor/demos/ve/desktop-dist.html#!pages/simple.html wikimedia.github.io/VisualEditor/demos/ve/desktop-dist.html#!pages/simple.html]'''. This is the core system inside VisualEditor which lets you write and edit. It is different from the full editor, and some of the tools you are used to will be missing.
+
+We're interested in particular in whether you can write text at all, what happens when you select different candidate texts, and how VisualEditor behaves in general.
+
+More details, and some early test results, are provided here: '''[[:mw:VisualEditor/IME_Testing#What_to_test|mediawiki.org/wiki/VisualEditor/IME_Testing#What_to_test]]'''.
+
+We would love to hear from every language, and especially languages which use IMEs, like Japanese, Korean, Indic languages, Arabic and others. Thank you for your help.
+
+Yours,
+
+[[:mw:User:Jdforrester (WMF)|James Forrester]] [[:mw:User talk:Jdforrester (WMF)|(talk)]] 18:38, 24 ᎧᏩᏂ 2015 (UTC)
+</div>
