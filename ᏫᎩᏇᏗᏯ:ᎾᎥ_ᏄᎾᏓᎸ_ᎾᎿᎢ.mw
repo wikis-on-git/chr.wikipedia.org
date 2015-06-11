@@ -1108,3 +1108,18 @@ Yours,
 == Galicia 20 - 20 Challenge ==
 <center>[[File:Mapa de Galiza con bandeira.svg|200px]]</center>
 '''[[:w:en:Wikipedia:Galicia 20 - 20 Challenge|Wikipedia:Galicia 20 - 20 Challenge]]''' is a public writing competition which will improve and translate this list of 20 really important articles into as many languages as possible. Everybody can help in any language to collaborate on writing and/or translating articles related to Galicia. To participate you just need to sign up [[Wikipedia:Galicia 20 - 20 Challenge/Participants|here]]. Thank you very much.--[[User:Breogan2008|Breogan2008]] ([[User talk:Breogan2008|talk]]) 10:07, 9 ᏕᎭᎷᏱ 2015 (UTC)
+
+== Content Translation beta-feature is now available ==
+
+[[File:Cx-icon-ltr.svg|264px|right|Icon tool]]
+Hello, [[mw:Content_translation|Content Translation]] has now been enabled as an opt-in beta feature on the Cherokee Wikipedia. To start translating: 
+
+# Please enable the Beta feature in your preferences and check the box for Content Translation. 
+# Visit the page [[Special:ContentTranslation]] or to your contributions page to open the tool. 
+# Click on the blue button to create a new translation. 
+# A dialog will be displayed. In the From section select the language of the original article and the article name, and the language you would like to translate to. Also add the title of the new article (or the original title will be inserted) and click on Translate to begin. Your language preferences will be remembered for the next time. 
+# You will see a screen consisting of three columns. The left column contains the text of the source language and the middle column is for the translated text. Using the right column you can perform several actions such as insert source text, remove the inserted text source text, add or remove links etc.  
+# After you translate the article, you can publish it directly as a new page on the Cherokee Wikipedia by using the publish button that appears. In case the article gets created by another user while you  were translating, you will see an option to save the newly published translation under your user namespace.  
+# The number of published pages can be seen on the [[Special:CXStats|Content Translation stats page]]. 
+
+Since, this is the first time we have installed the tool on this Wikipedia, there are chances that there may be some problems or service disruptions which we are not yet aware of. We will be monitoring the usage to check for any failures or issues, but please do let us know on the [[:mw:Talk:Content_translation|Content Translation talk page]] or through [https://phabricator.wikimedia.org/T101955 Phabricator] if you spot any problems that prevent you from using the tool. For more information, please read the information available in the [[:mw:Content_translation/Documentation/User_guide|User Guide]]. You can also view a [https://upload.wikimedia.org/wikipedia/commons/e/ee/Content_Translation_Screencast_%28English%29.webm short screencast] on how to use Content Translation. Our announcement is written only in English, and we would really appreciate if this message can be translated to reach more users of this Wikipedia. Thank you.--[[User:Runab WMF|Runab WMF]] ([[User talk:Runab WMF|talk]]) 17:03, 11 ᏕᎭᎷᏱ 2015 (UTC)
