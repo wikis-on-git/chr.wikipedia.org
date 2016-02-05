@@ -1153,3 +1153,26 @@ Thank you, [[User:Varlaam|Varlaam]] ([[User talk:Varlaam|talk]]) 06:02, 20 Ꮪ�
 The current banner mentions this page, but the link to here is not working!<br />[[User:Varlaam|Varlaam]] ([[User talk:Varlaam|talk]]) 22:54, 30 ᏚᏃᎸᏔᏂ 2016 (UTC)
 : Now it is working.
 :: Thanks, Varlaam.--[[User:Breogan2008|Breogan2008]] ([[User talk:Breogan2008|talk]]) 10:48, 31 ᏚᏃᎸᏔᏂ 2016 (UTC)
+
+== The visual editor is coming to this wiki ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+[[File:Norwegian-road-sign-110.0 (fluorescent).svg|right|frameless]]
+''Hello. Please excuse the English.  {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}}''
+
+Hi everybody,   
+
+My name is Erica, and I am a [[:mw:Community Engagement (Product)|Community Liaison]] at the Wikimedia Foundation. I'm here to let you know that <mark>[[mw:VisualEditor/Portal|'''the visual editor''']] is coming to editors at this Wikipedia soon.</mark> It allows people to edit Wikipedia articles as if they were using word processing software.  
+
+You don't have to wait until the deployment to test it; '''you can test the visual editor right now.''' To turn it on, select [[Special:Preferences#mw-prefsection-betafeatures|"{{int:betafeatures-toplink}}"]] in your preferences. Choose "{{int:visualeditor}}" and click save.  When it is enabled, you will press the "{{int:vector-view-edit}}" button to edit an article in the new software. To use the wikitext editor, you can press "{{int:visualeditor-ca-editsource}}". 
+
+After the deployment, everyone will automatically have the option to use either the visual editor or the current wikitext editor. For more information about how to use the visual editor, see [[:mw:Help:VisualEditor/User guide]]. 
+
+More information about [[mediawikiwiki:Help:VisualEditor/VE_as_the_main_editor|preparing for the visual editor is posted here]].
+* It's easier to add templates if you've added [[mw:TemplateData|TemplateData]] information. 
+* Please help translate the user interface and pages about the visual editor. See [[:mw:VisualEditor/TranslationCentral|the visual editor's TranslationCentral]] for general information. To translate the user guide, go to [[mediawikiwiki:Help:VisualEditor/User_guide|the MediaWiki.org page]], and select "{{int:translate-tag-translate-link-desc}}". Your language should be available from the drop-down menu on the right. Once you've done this, you'll see the document in English, side by side with any translation work already done in your language. You can add new translations or change old translations.  To [https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-visualeditor-0-all&language= translate the user interface], you need to create an account at translatewiki.net. [[:mediawikiwiki:User_talk:Elitre_(WMF)|Contact me personally]] if you need help with that.
+* Please let us know if you find any problems. You can report issues in [[phab:|Phabricator, the new bug tracking system]] or on the [[:mw:Topic:St8y4ni42d0vr9cv|central feedback page]] on MediaWiki.org. If you notice major issues affecting your project, please leave a note [[:mw:User talk:Elitre (WMF)|on my talk page]].   <div style="float: right;">''[[m:VisualEditor/Newsletter/Phase_6_wikis|Wrong target page? Fix it here]]  •  [[:m:VisualEditor/Newsletter|Sign up for the visual editor's multilingual newsletter]] ''</div> 
+
+Thank you, and happy editing! --[[:mw:User:Elitre (WMF)|Elitre (WMF)]] [[:mw:User talk:Elitre (WMF)|(talk)]] 18:59, 5 ᎧᎦᎵ 2016 (UTC)
+</div>
+<!-- Message sent by User:Elitre (WMF)@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_6_wikis&oldid=15312196 -->
