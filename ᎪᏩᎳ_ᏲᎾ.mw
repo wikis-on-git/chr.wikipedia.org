@@ -1,7 +1,41 @@
-[[File:Phascolarctos cinereus Bonorong.jpg||thumb|180px|''Phascolarctos cinereus'']]
+{{Taxobox
+| name = Koala
+| fossil_range = {{Fossil range|0.7|0}}<small>Middle [[Pleistocene]] – Recent</small>
+| status = LC
+| trend = unknown
+| status_system = iucn3.1
+| status_ref =<ref name=iucn/>
+| image = Koala climbing tree.jpg
+| image_width = 250px
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Marsupialia]]
+| ordo = [[Diprotodontia]]
+| subordo = [[Vombatiformes]]
+| familia = [[Phascolarctidae]]
+| genus = ''[[Phascolarctos]]''
+| species = '''''P. cinereus'''''
+| binomial = ''Phascolarctos cinereus''
+| binomial_authority = ([[Georg August Goldfuss|Goldfuss]], 1817)
+| synonyms_ref =<ref name="Moyal p.45"/><ref name = MSW3>{{MSW3 Diprotodontia | id = 11000005 | page = 43}}</ref>
+| synonyms =
+  {{plainlist|
+* ''Lipurus cinereus'' {{small|Goldfuss, 1817}}
+* ''Marodactylus cinereus'' {{small|Goldfuss, 1820}}
+* ''Phascolarctos fuscus'' {{small|[[Anselme Gaëtan Desmarest|Desmarest]], 1820}}
+* ''Phascolarctos flindersii'' {{small|[[René Primevère Lesson|Lesson]], 1827}}
+* ''Phascolarctos koala'' {{small|[[John Edward Gray|J.E. Gray]], 1827}}
+* ''Koala subiens'' {{small|[[Gilbert Thomas Burnett|Burnett]], 1830}}
+  }}
+| range_map = Koala Range.jpg
+| range_map_width =
+| range_map_caption = Koala range (red – native, purple – introduced)
+}}
 ᏗᎧᎸᎬᏗᏜ ᎡᎳᏗᏜ ᎠᏁᎰᎢ ᎠᏂᎪᏩᎳ ᏲᎾ. ᎾᎪᎯᎸᏊ ᎠᏁᎲ ᏕᏡᎬ ᏚᎾᎩᎶᎢ, ᏓᏂᎩᏍᎬ ᏚᎵᏍᏚᏒᎢ. ᏧᏃᏰᏂ ᏳᏍᏗ ᏚᏙᏢᏐ ᏚᏩᏂᎦᏢ ᏧᏂᏂᏴᏗ. ᎠᏂᎪᏩᎳ ᏲᎾ ᎣᏍᏓ ᎨᏐ ᎤᏂᏩᏒᏍᏗ, ᎥᏍᎩᏅ ᎤᏂᏍᏕᎵᏍᎪ ᎤᎾᏕᎳᎰᎯᏍᏗ ᏫᎬᏩᏓᎯᏍᏗ ᏱᎩ ᏚᎵᏍᏚᏒᎢ.
 
 == ᏙᏯᏗᏢ ᏗᏕᎬᏔᏛ ==
 {{commons|Koala}}
+{{stub}}
 
 [[Category:Animalia]]
