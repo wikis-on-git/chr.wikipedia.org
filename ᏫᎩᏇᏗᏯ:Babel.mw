@@ -50,7 +50,7 @@ To find someone who speaks a particular language, see '''[[:Category:Wikipedians
 
 You can help expand this system by creating templates for your language. Categories have already been created for most languages which have editions of Wikipedia containing over a hundred articles; they just need labelling up! It's recommended to copy the English or French versions when expanding the scheme, as most of the languages listed here are incomplete.
 
-Note that many [[list of sign languages|sign languages]] currently use the same template with language code "sgn", with the exception of [[Category:User ase|American Sign Language]] users who should use the [[Wikipedia:Babel/List#ase|American Sign Language template]]. Other sign languages can be specified within the <nowiki>{{User sgn}}</nowiki> template itself. The use of this parameter requires the user to perform an extra step when using the <nowiki>{{Babel-#}}</nowiki> templates, described [[Category:User sgn|here]].
+Note that many [[list of sign languages|sign languages]] currently use the same template with language code "sgn", with the exception of users who should use the [[Wikipedia:Babel/List#ase|American Sign Language template]]. Other sign languages can be specified within the <nowiki>{{User sgn}}</nowiki> template itself. The use of this parameter requires the user to perform an extra step when using the <nowiki>{{Babel-#}}</nowiki> templates, described .
 
 ==Alternatives==
 ''See also [[WP:UBX|Templates for making babel style templates]].''
@@ -60,4 +60,7 @@ There are other options for achieving results the same as or similar to the stan
 #You can use the Babel-N template. Format: '''<nowiki>{{Babel-N|1={{User xx-1}}{{User yy-1}}{{User zz-1}}}}</nowiki>'''.
 #You can use top and bottom templates to make the box. Format: '''<nowiki>{{Userboxtop}}{{User xx-1}}{{User yy-1}}{{User zz-1}}{{Userboxbottom}}</nowiki>'''.
 
+[[Category:User ase|American Sign Language]]
+[[Category:User sgn|here]]
 [[Category:ᏫᎩᏇᏗᏯ]]
+[[Category:To be checked]]
