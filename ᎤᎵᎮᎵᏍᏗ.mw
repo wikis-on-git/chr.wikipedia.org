@@ -1,10 +1,5 @@
 __NOTOC__
 __NOEDITSECTION__
-<table border="0" cellpadding="0" cellspacing="0" style="border-width: 1px; border-color: #888888; border-style: solid">
-<tr><td align="left" valign="top" style="background: #f3f4f4; padding: 8px">
-'''Note''': ''You must be using Cherokee Unicode Supported Fonts to view this site. Information on obtaining and installing Cherokee Unicode Fonts for Windows 2000 and Windows XP is available on the Cherokee [[Wikipedia:Unicode|Unicode page]]. Mac OS X from version 10.3 (Panther), Windows Vista, 7, the GNU/Linux Operating System, and iOS 4.1 include default support for displaying the Cherokee Language in syllabary.''
-</td></tr></table>
-<br>
 
 <center><h2>ᎠᏓᎵᎮᎵᏍᏗ! ᏫᎩᏇᏗᏯ: [[Special:Statistics|{{NUMBEROFARTICLES}}]] ᎤᏓᏡᎬ!</h2></center>
 
@@ -53,7 +48,7 @@ __NOEDITSECTION__
 
 
 <center>
- {| class="wikitable" border="1" width=700
+ {| class="wikitable" border="1"
  |-
  |<!--column1--><center><h3 id="new">[[File:Crystal 128 forward.png|35px|link=]] ᎠᏤ ᎤᏓᏡᎬ</h3>
  |<!--column2--><center><h3 id="new">[[File:Crystal Clear app clean.png|35px|link=]] ᏄᏍᏛ ᏗᎧᏃᏗ ᎤᏓᏡᎬ</h3>
@@ -71,16 +66,6 @@ __NOEDITSECTION__
  |<!--column2-->{{FeaturedArticle}} <!-- if you want to change the Featured Article, do it on the template, not here. ᏩᏙ -->
  |}<!--end wikitable-->
 </center>
-
-
-<p>
-<inputbox>
-type=create
-width=45
-buttonlabel=ᎠᏤ ᎤᏓᏡᎬ ᎣᏢᎾ
-</inputbox>
-<p>
- <p>
 
 {| style="border:1px solid #006699; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" | ᏏᏭ ᏧᎳᎩ ᏫᎩᎺᏗᎠ:
