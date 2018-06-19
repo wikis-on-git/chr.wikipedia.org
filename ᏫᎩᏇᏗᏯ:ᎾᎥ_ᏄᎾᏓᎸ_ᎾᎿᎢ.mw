@@ -60,6 +60,7 @@ Shall I make a request so someone will run a bot on this wiki to mark all pages 
 This Wikipedia was created before the Incubator system, so there has apparently never been a major push to complete the interface translation. If anyone wants to work on this, the Cherokee portal on translatewiki is here: [https://translatewiki.net/w/i.php?title=Special:Translate&group=core-0-mostused&language=chr], and the direct link to the "most important messages" for the Mediawiki interface is here: [https://translatewiki.net/w/i.php?title=Special:Translate&group=core-0-mostused&language=chr]
 
 Here's a brief article on the topic: [https://medium.com/r12n/translating-the-software-that-powers-wikipedia-c00733503f7a Translating the software that powers Wikipedia] --[[User:R12ntech|R12ntech]] ([[User talk:R12ntech|talk]]) 19:32, 11 ᎧᏩᏂ 2018 (UTC)
+:Thanks for these links. One of the interface links I have been creating a decent amount is one via [[Template:Commons]]. However, I just([diff https://chr.wikipedia.org/w/index.php?title=Template%3ACommons&type=revision&diff=42837&oldid=38456]) unlinked the term ᏫᎩᎻᏗᎠ ᎪᎼᏄᏍ in this template because I'm guessing ᏫᎩᎻᏗᎠ ᎪᎼᏄᏍ means Wikimedia Commons and a separate link to/about that project seems slightly spammy, as if we're promoting Wikimedia Foundation wikis over other sources. [[User:Biosthmors|Biosthmors]] ([[User talk:Biosthmors|talk]]) 15:22, 19 ᏕᎭᎷᏱ 2018 (UTC)
 
 == Admin ==
 
