@@ -33,7 +33,113 @@
 
 ᎾᏍᎩᎾᎢ ᏧᏕᏘᏴᏓ, ᎤᎪᏗᏗ ᏴᏫ ᎤᏬᏪᎳᏅ transliterated ᏣᎳᎩ ᎾᎿ ᎯᎠ ᎧᎾᏁᏍ ᎠᎴ ᎬᏔᏅᎯ ᎥᏳᎩ intercompatible ᏂᎬᏂᏏᏍᎬ ᏗᎦᎪᏗ ᎠᏥᏄ ᎪᏫᏍᎬ ᎯᎠ syllabary. ᏱᏂᎬᏛᎾ, ᎣᏂ ᏧᏩᎫᏛ ᎯᎠ ᏰᎵ ᎣᏏ ᎾᏞᎬ ᎦᏟᏐᏗᎩ ᎯᎠ ᏣᎳᎩ ᎩᎶ ᏂᏓᏳᏅᏅ ᎪᏪᎵ [[Unicode/Cherokee|Unicode]], ᎯᎠ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎨᏒᎢ experiencing ᏅᎪᏢᎯᏐᏗᏱ ᎭᏫᎾᏗᏢ Ꮝ ᎬᏙᏗ ᎾᎿ ᎯᎠ ᎧᎾᏁᏍ. ᎾᏍᎩ ᎢᏳᏗᎾ ᎾᏍᏋ ᎪᏪᎶᏗ, ᏱᏂᎬᏛᎾ, Ꮎ ᏥᏄᏍᏗ ᏕᎭᎷᏱ 2006 ᎯᎠ ᏣᎳᎩ ᎠᏰᎵ ᎤᏙᏢᏒ ᎣᎦᎳᎰᎻ ᏙᎢ ᎠᏰᎵ ᎤᏒᎧᎵ ᎬᏔᏂᏓᏍᏗ ᎬᏙᏗ-unicode ᏂᎬᏂᏏᏍᎬ ᎾᏍᎩᎾᎢ online ᎪᏪᎵᎬᏂᎨᏒ ᎢᏗᎬᏁᎯ, ᎠᏠᏯᏍᏗᏍᎩ online ᎦᏟᏌᏅ ᎦᎴᏴᏔᏅ ᎯᎠ [[ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ]]. 
 
-[[File:Cherokee syllabary (2).png|550px]]
+{| class="wikitable" style="text-align:center; margin-left: auto; margin-right: auto; border: none;"
+! colspan="3" | a
+! colspan="2" | e
+! colspan="2" | i
+! o
+! u
+! v /ə̃/
+|-
+| colspan="3" | Ꭰ a
+| colspan="2" | Ꭱ e
+| colspan="2" | Ꭲ i
+| Ꭳ o
+| Ꭴ u
+| Ꭵ v
+|-
+| Ꭶ ga
+| colspan="2" | Ꭷ ka
+| colspan="2" | Ꭸ ge
+| colspan="2" | Ꭹ gi
+| Ꭺ go
+| Ꭻ gu
+| Ꭼ gv
+|-
+| colspan="3" | Ꭽ ha
+| colspan="2" | Ꭾ he
+| colspan="2" | Ꭿ hi
+| Ꮀ ho
+| Ꮁ hu
+| Ꮂ hv
+|-
+| colspan="3" | Ꮃ la
+| colspan="2" | Ꮄ le
+| colspan="2" | Ꮅ li
+| Ꮆ lo
+| Ꮇ lu
+| Ꮈ lv
+|-
+| colspan="3" | Ꮉ ma
+| colspan="2" | Ꮊ me
+| colspan="2" | Ꮋ mi
+| Ꮌ mo
+| Ꮍ mu
+| Ᏽ mv
+|- 
+| Ꮎ na
+| Ꮏ hna
+| Ꮐ nah
+| colspan="2" | Ꮑ ne
+| colspan="2" | Ꮒ ni
+| Ꮓ no
+| Ꮔ nu
+| Ꮕ nv
+|-
+| colspan="3" | Ꮖ qua
+| colspan="2" | Ꮗ que
+| colspan="2" | Ꮘ qui
+| Ꮙ quo
+| Ꮚ quu
+| Ꮛ quv
+|-
+| Ꮝ s
+| colspan="2" | Ꮜ sa
+| colspan="2" | Ꮞ se
+| colspan="2" | Ꮟ si
+| Ꮠ so
+| Ꮡ su
+| Ꮢ sv
+|-
+| Ꮣ da
+| colspan="2" | Ꮤ ta
+| Ꮥ de
+| Ꮦ te
+| Ꮧ di
+| Ꮨ ti
+| Ꮩ do
+| Ꮪ du
+| Ꮫ dv
+|-
+| Ꮬ dla
+| colspan="2" | Ꮭ tla
+| colspan="2" | Ꮮ tle
+| colspan="2" | Ꮯ tli
+| Ꮰ tlo
+| Ꮱ tlu
+| Ꮲ tlv
+|-
+| colspan="3" | Ꮳ tsa
+| colspan="2" | Ꮴ tse
+| colspan="2" | Ꮵ tsi
+| Ꮶ tso
+| Ꮷ tsu
+| Ꮸ tsv
+|-
+| colspan="3" | Ꮹ wa
+| colspan="2" | Ꮺ we
+| colspan="2" | Ꮻ wi
+| Ꮼ wo
+| Ꮽ wu
+| Ꮾ wv
+|-
+| colspan="3" | Ꮿ ya
+| colspan="2" | Ᏸ ye
+| colspan="2" | Ᏹ yi
+| Ᏺ yo
+| Ᏻ yu
+| Ᏼ yv
+|}
 
 == ᎧᏃᎮᏍᎩ ==
 {| cellpadding="3" bordercolor="#AAAAAA" cellspacing="0" align="right" border="1" style="border-collapse:collapse; margin-left: 12px"
