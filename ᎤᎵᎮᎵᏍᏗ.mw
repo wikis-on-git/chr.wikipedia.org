@@ -1,7 +1,7 @@
 __NOTOC__
 __NOEDITSECTION__
 
-<center><h2>ᎠᏓᎵᎮᎵᏍᏗ! ᏫᎩᏇᏗᏯ: [[Special:Statistics|{{NUMBEROFARTICLES}}]] ᎤᏓᏡᎬ!</h2></center>
+<div class="center"><h2>ᎠᏓᎵᎮᎵᏍᏗ! ᏫᎩᏇᏗᏯ: [[Special:Statistics|{{NUMBEROFARTICLES}}]] ᎤᏓᏡᎬ!</h2></div>
 
 {|width="98%" cellspacing="0" cellpadding="5" style="background-color:"
 |width="50%"|
@@ -47,11 +47,10 @@ __NOEDITSECTION__
 |}
 
 
-<center>
- {| class="wikitable" border="1"
+ {| class="wikitable" border="1" style="margin:auto;"
  |-
- |<!--column1--><center><h3 id="new">[[File:Crystal 128 forward.png|35px|link=]] ᎠᏤ ᎤᏓᏡᎬ</h3>
- |<!--column2--><center><h3 id="new">[[File:Crystal Clear app clean.png|35px|link=]] ᏄᏍᏛ ᏗᎧᏃᏗ ᎤᏓᏡᎬ</h3>
+ |<!--column1--><div class="center"><h3 id="new">[[File:Crystal 128 forward.png|35px|link=]] ᎠᏤ ᎤᏓᏡᎬ</h3></div>
+ |<!--column2--><div class="center"><h3 id="new">[[File:Crystal Clear app clean.png|35px|link=]] ᏄᏍᏛ ᏗᎧᏃᏗ ᎤᏓᏡᎬ</h3></div>
  |-
  |<!--column1-->
 * '''ᏍᎦᏚᎩ/ᎦᏚᎲᎢ''':
@@ -65,23 +64,22 @@ __NOEDITSECTION__
 * '''ᏐᎢ ᎤᏓᏡᎬ''': [[ᎣᎩᏙᏓ (ᎥᏓᏙᎵᏍᏙᏗ)]], [[ᎤᏐᎪᏍᏓᎩᎦᎨ ᎣᎭᎳ]], [[ᏛᎾᏓᏚᏓᎸ]], [[ᎤᎫᎾ]], [[ᏧᎾᎻ]]
  |<!--column2-->{{FeaturedArticle}} <!-- if you want to change the Featured Article, do it on the template, not here. ᏩᏙ -->
  |}<!--end wikitable-->
-</center>
 
 {| style="border:1px solid #006699; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" | ᏏᏭ ᏧᎳᎩ ᏫᎩᎺᏗᎠ:
 | style="border-top:1px solid #006699; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
 {| align="center" cellpadding="2" width="100%"
 |-  valign="top"
-| [[Image:Wiktionary-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wiktionary-logo.svg|35px|<nowiki />]]
 |class=plainlinks| [http://chr.wiktionary.org/ '''Wiktionary''']<br />
-| [[Image:Wikisource-logo.png|35px|<nowiki></nowiki>]]
+| [[File:Wikisource-logo.png|35px|<nowiki />]]
 |class=plainlinks| [http://wikisource.org/wiki/ᎤᎵᎮᎵᏍᏗ:ᏣᎳᎩ '''Wikisource''']<br />
 |-
 |}
 |}
 
 
-<center><h3 id="lang">[[File:Gnome-globe.svg|35px|link=]]ᎠᏂᏐᎢ</h3></center>
+<div class="center"><h3 id="lang">[[File:Gnome-globe.svg|35px|link=]]ᎠᏂᏐᎢ</h3></div>
 {{Wikipedialang}} 
 
 [[Category:To be checked]]
