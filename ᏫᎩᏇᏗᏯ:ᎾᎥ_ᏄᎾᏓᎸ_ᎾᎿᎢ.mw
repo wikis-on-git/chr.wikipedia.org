@@ -304,3 +304,13 @@ Best,
 Movement Strategy and Governance
 
 [[User:Xeno (WMF)|Xeno (WMF)]] ([[User talk:Xeno (WMF)|talk]]) 01:22, 15 ᏚᏃᎸᏔᏂ 2022 (UTC)
+
+== Project namespace name ==
+
+Hello Chrwiki folks! I noticed that MassMessages to this page are [[Special:Log/massmessage|failing to arrive]], because it is not configured as an actual "Project:" namespace, but is simply a page in the main (content) namespace with a prefix of "ᏫᎩᏇᏗᏯ:"
+
+If you would like this changed, you can just follow the instructions at [[m:Requesting wiki configuration changes#How to request a change]]. (I.e. File a Phabricator task, confirming the details of what you want the "Project:" namespace to be localized as.)
+
+Additionally, in your request, it might help to note that there are 3 pages (and 1 redirect) which you'd like moved: https://chr.wikipedia.org/wiki/Special:PrefixIndex?prefix=ᏫᎩᏇᏗᏯ:&namespace=0 (If I understand correctly)
+
+I hope that information helps! [[User:Quiddity (WMF)|Quiddity (WMF)]] ([[User talk:Quiddity (WMF)|talk]]) 22:13, 3 ᎠᏄᏱ 2022 (UTC)
