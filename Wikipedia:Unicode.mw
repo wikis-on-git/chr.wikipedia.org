@@ -1,0 +1,170 @@
+{{Table Unicode}}
+
+''' ''This page is maintained in English to assist users in selecting and locating Unicode Cherokee Fonts to enable their browser to properly render the site in Sequoyah Syllabary. For obvious reasons, the page would be unreadable if site visitors were forced to read a page in Cherokee Syllabary and did not have the fonts installed to render the page properly. A Cherokee version of this page can be found [[Unicode/Cherokee|here]].'' '''
+
+
+In [[w:computing|computing]], '''Unicode''' is the international standard whose goal is to specify a [[w:code|code]] matching every [[w:character (computing)|character]] needed by every written human language to a single unique [[w:integer|integer]] number, called a '''code point'''.
+
+Despite several technical limitations, problems, and criticisms, Unicode has emerged as the dominant encoding scheme in [[w:internationalization|internationalization]] of software and multilingual environments. [[w:Microsoft Windows NT|Microsoft Windows NT]] and its descendants [[w:Windows 2000|Windows 2000]] and [[w:Windows XP|Windows XP]] make extensive use of Unicode, more specifically [[w:UTF-16|UTF-16]], as an internal representation of text. UNIX-like operating systems such as [[w:Linux|Linux]], [[w:BSD|BSD]] and [[w:Mac OS X|Mac OS X]] have adopted Unicode, more specifically [[w:UTF-8|UTF-8]], as the basis of representation of multilingual text.
+
+
+
+Cherokee fonts have become available on the internet. The popular Cherokee Nation font works well for printed Cherokee. However, this font is not compatible with the Unicode standard widely adopted for Internet use. The use of Unicode makes using Cherokee on the Internet ''much'' easier.
+
+Listed below are some recommended Unicode fonts that support Cherokee and the Sequoyah Syllabary. Only one of the listed fonts are required to view ᏫᎩᏇᏗᏯ. The following (free) fonts are available:
+
+* Google's font [https://fonts.google.com/noto/specimen/Noto+Sans+Cherokee Noto Sans Cherokee]
+* Christopher Harvey's [http://www.languagegeek.com/font/abserif.zip Aboriginal Serif]
+* Christopher Harvey's [http://www.languagegeek.com/font/absans.zip Aboriginal Sans]
+* Christopher Harvey's [http://www.languagegeek.com/font/Digohweli.zip Digohweli]
+* Michael Everson's [http://www.evertype.com/emono/evermono.zip Everson Mono]
+* James Kass's font, [http://web.archive.org/web/20100925005717/http://code2000.net/CODE2000.ZIP Code2000]
+* [[Apple|Apple's]] font [http://docs.info.apple.com/article.html?artnum=301033 Plantagenet Cherokee] ships with every copy of [[Mac OS X]].
+* David McCreedy's [http://www.wazu.jp/gallery/Fonts_Cherokee.html helpful site], now part of WAZU JAPAN.
+* [http://www.xenotypetech.com/osxCherokee.html Xenotype Tech].
+* (partial coverage!) Darren Rigby's [http://dartcanada.tripod.com/Objets/Old/hh/hindhist.html#hu Hindsight Unicode], Regular and Italic, from High-Logic.
+* Mark Williamson's [http://www.travelphrases.info/gallery/Fonts_Cherokee.html MPH 2B Damase].
+* Mark E. Shoulson's [http://web.meson.org/write/fonts/mine/ Marin], Regular and Italic.
+* FreeSerif, FreeSans, and FreeMono of the [http://ftp.gnu.org/gnu/freefont/ GNU FreeFont] font family.
+
+== Typing with Cherokee Unicode fonts ==
+
+* [https://addons.mozilla.org/en-US/firefox/addon/883 Transliteration plug-in for Firefox] - Install in Firefox browser, go to the Tools menu and select Transliterator Options, select Cherokee under layout. Simply type Cherokee words with English letters and then highlight the text, right click and select detransliterate to produce a Cherokee text version. Also useful for those beginning to learn to read Cherokee if they want to check that they understand how to read the characters correctly. 
+* Christopher Harvey's [http://www.languagegeek.com/keyboardmaps/tsalagikbd.html keyboards]
+* Xenotype's [http://www.xenotypetech.com/osxCherokee.html Cherokee-Language Kit]
+* Sharmahd Computing's [http://www.unipad.org SC Unipad].
+* An .XCompose file for use with the X Display system on Linux and *BSD based systems to permit phonetic style typing (tsalagi appears as ᏣᎳᎩ): [http://www.linuxforums.org/forum/misc/130701-solved-xmodmap-creating-cherokee-keyboard-3.html#post655532 Discussion at LinuxForums.org]
+* Andrew West's BabelMap. A Unicode Character Map tool that lets you select the Cherokee Language and type in an edit buffer and paste it to a document or web page [http://www.babelstone.co.uk/Software/BabelMap.html Babel Map]
+
+== Code 2000 Cherokee Unicode Font Installation ==
+
+''These instructions are based on Windows XP Professional SP2 and Internet Explorer 7. Menu layout may vary if you are using another operating system and/or browser.''
+
+Once you have added the font to your Control Panel > Fonts folder, you may still not see the characters properly.
+
+If so, go to "Tools" menu > Internet Options > "Fonts" button. Then select "Cherokee" from the "Language script" drop-down list. Click "Code2000" in the Webpage font, then click OK twice. At this point the characters should be displayed properly.
+
+If the characters are difficult to read, try:
+*increasing the text size in the "View" menu > "Text size" option.
+*smoothing your screen fonts by going to Control Panel > Display > "Appearance" tab > "Effects" button. Check "Use the following method to smooth..." and select "ClearType" from the dropdown list, then click OK twice.
+
+== Motive ==
+
+It is the explicit aim of Unicode to transcend the limitations of traditional [[character encoding]]s such as those defined by the [[ISO 8859]] standard, which are used in the various countries of the world, but are largely incompatible with each other. One problem with traditional character encodings is that they allow for bilingual computer processing (usually Roman characters and the local language), but not for multilingual computer processing (computer processing of arbitrary languages mixed with each other).
+
+Unicode in intent encodes the underlying characters and not variant glyphs for such characters. In the case of [[Chinese character]]s, this sometimes leads to controversies over what is the underlying character and what is the variant glyph (see [[w:Han unification]]).
+
+Unicode aims to provide a code point for each character, but not for each glyph—or to put this in more common (but less accurate) terms, Unicode aims to provide a unique number for each letter, without regard to typographic variations used by printers.
+
+This simple aim is greatly complicated by another aim, which is to provide lossless conversion amongst different existing encodings.
+
+== Unicode Consortium ==
+
+The [[w:California]]-based [[w:Unicode Consortium]] first published "[[w:The Unicode Standard]]" in [[w:1991]], and continues to develop standards based on that original work. Unicode was developed in conjunction with the [[w:ISO|International Organization for Standardization]] and it shares its character repertoire with [[w:ISO/IEC 10646]]. Unicode and ISO/IEC 10646 are equivalent as character encodings, but The Unicode Standard contains much more information for implementers, covering, in depth, topics such as bitwise encoding, [[w:collation]], and rendering, and enumerating a multitude of character properties, including those needed for [[w:BiDi]] support. The two standards also have slightly different terminology.
+
+== Repertoire ==
+
+Unicode reserves 1114112 (= 2<sup>20</sup>+2<sup>16</sup>) code points, and currently assigns characters to more than 96000 (8.62%) of those code points. The first 256 codes precisely match those of [[w:ISO 8859-1]], the most popular 8-bit character encoding in the "Western world"; as a result, the first 128 characters are also identical to [[w:ASCII]].
+
+The Unicode code space for characters is divided into 17 "planes" and each plane has 65536 (= 2<sup>16</sup>) code points. The first plane (plane 0), the ''Basic Multilingual Plane'' (BMP), is where most characters have been assigned, so far. The BMP contains characters for almost all modern languages, and a large number of special characters. Most of the allocated code points in the BMP are used to encode [[w:CJK]] characters.
+
+Two more planes are used for "graphic" characters. Plane 1, the ''Supplementary Multilingual Plane'' (SMP) is mostly used for historic scripts such as [[w:Linear B]], but is also used for musical and mathematical symbols. Plane 2, the ''Supplementary Ideographic Plane'' (SIP) is used for about 40000 rare [[Chinese character]]s that are mostly historic, although there are some modern ones. Plane 14 currently contains some non-recommended language tag characters and some variation selection characters. Plane 15 and Plane 16 are open for any private use.
+
+There is much controversy among [[w:CJK]] specialists, particularly Japanese ones, about the desirability and technical merit of the "[[Han unification]]" process used to map multiple Chinese and Japanese character sets into a single set of unified glyphs. (See [[w:Chinese character encoding]])
+
+The cap of ~2<sup>20</sup> code points exists in order to maintain compatibility with the UTF-16 encoding, which can only address that range (see below). There is only ten percent current utilization of the Unicode code space. Furthermore, ranges of characters have been tentatively blocked out for every known unencoded script (see [http://www.unicode.org/roadmaps/]), and while Unicode may need another plane for ideographic characters, there are ten planes that could only be needed if previously unknown scripts with tens of thousands of characters are discovered. Short of discovery of a interstellar community, this ~20 bit limit is unlikely to be reached in the near future.
+
+== Ready-made vs. composite characters ==
+
+Unicode includes a mechanism for modifying character shape and so greatly extending the supported glyph repertoire. This is the use of [[combining diacritical mark]]s. They are inserted after the main character (it is possible to stack several combining diacritics over the same character). However, for reasons of compatibility, Unicode also includes a large quantity of [[precomposed character]]s. So in many cases there are many ways of encoding the same character. To deal with this, Unicode provides the mechanism of [[canonical equivalence]].
+
+The similar situation is with [[Hangul]]. Unicode provides the mechanism for composing Hangul syllables with [[Hangul Jamo]]. However, the precomposed Hangul syllables (about 20,000 of them) are also provided.
+
+The [[CJK]] ideographs currently are encoded only in their precomposed form. Still most of those ideographs are evidently made up of simpler elements, so in principle it would be possible to decompose them just as it is done with [[Hangul]]. This would greatly reduce the number of required codepoints, while allowing to display virtually every conceivable ideograph (and so doing away with all problems of the [[Han unification]]). A similar idea is used for some [[input method]]s, such as [[Cangjie method|Cangjie]] and [[Wubi method|Wubi]]. However, attempts to do this for character encoding have stumbled over the fact that ideographs are not as simply decomposed or as regular as they seem.
+
+Combining marks, like the complex script shaping required to properly render [[Arabic]] text and many other scripts, are usually dependent on complex font technologies, like [[OpenType]] (by [[Adobe]] and [[Microsoft]]), Graphite (by [[SIL International]]), and [[Apple Advanced Typography|AAT]] (by [[Apple Computers|Apple]]), by which a font designer includes instructions in a font telling software how to properly output different character sequences. Another method sometimes employed in [[fixed-width]] fonts is to place the combining mark's glyph before its own left [[sidebearing]]; this method, however, only works for some diacritics and stacking will not occur properly.
+
+[[As of 2004]], most software still cannot reliably handle many features not supported by older font formats, so combining characters generally will not work correctly. Hypothetically, ḗ (precomposed e with macron and acute above) and ḗ (e followed by the combining macron above and combining acute above) are identical in appearance, both giving an [[e]] with [[macron]] and [[acute accent]], but appearance can vary greatly across software applications.
+
+== Issues ==
+
+A number of issues arise in Unicode. Some people from Japan tend to oppose Unicode in general, noting technical limitations [http://www.hastingsresearch.com/net/04-unicode-limitations.shtml] (also see the response, [http://slashdot.org/features/01/06/06/0132203.shtml]) and political problems in process. Unicode is also criticized for failing to allow for older and alternate forms of kanji, this complicates the processing of ancient Japanese and uncommon Japanese names. In fact, there are several attempts to create an alternative to Unicode in those countries. [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html] Among them are [[TRON]] (Although it is not widely adopted in Japan, some, particularly those who need to handle historical Japanese text, favor this), [[UTF-2000]] and [[Giga Character Set]] (GCS).
+
+Some note that one of the reasons for the complaints perhaps stems from the fact that the consortium was initially organized mostly by the US manufacturers like [[Microsoft]]. Among the most controversial is [[Han unification]], where one Chinese character was adopted into Japanese or Korean and there changed slightly, which Unicode is treating as one character in multiple font styles.
+
+Thai language support has been criticized for its illogical ordering of Thai characters. This complication is due to Unicode inheriting the Thai Industrial Standard, which worked in the same way. This ordering problem complicates the Unicode collation process. [http://www-106.ibm.com/developerworks/unicode/library/u-secret.html]
+
+== Encodings ==
+
+So far, it was said only that Unicode is a means to assign a unique number for all characters used by humans in written language. How these numbers are stored in text processing is another matter; problems result from the fact that much [[software]] in the west has so far been written to deal with 8-bit character encodings only, and Unicode support has only been added slowly in recent years. 
+
+The internal logic of much 8-bit legacy software typically permits only 8 bits for each character, making it impossible to use more than 256 code points without special processing. Several mechanisms have therefore been suggested to implement Unicode; which one is chosen depends on available storage space, [[source code]] compatibility, and interoperability with other systems.
+
+The mapping methods are called the UTF (Unicode Transformation Format), and among them are [[UTF-32]], [[UTF-16]], [[UTF-8]] and [[UTF-7]].
+
+=== Unicode and e-mail ===
+
+[[MIME]] defines two different mechanisms for encoding non-ASCII characters in [[e-mail]], depending on whether the characters are in e-mail headers such as the "Subject:" or in the text body of the message. In both cases, the original character set is identified as well as a transfer encoding. For e-mail transmission of Unicode the UTF-8 character set and the [[Base64]] transfer encoding are recommended. The details of the two different mechanisms are specified in the MIME standards and are generally hidden from users of e-mail software.
+
+The adoption of Unicode in [[e-mail]] has been very slow. Most East-Asian text is still encoded in a local encoding such as [[Shift-JIS]], and many commonly used e-mail programs still cannot handle Unicode data correctly.
+
+== Miscellaneous ==
+
+The Unicode standard also includes a number of related items, such as character properties, text normalisation forms, and bidirectional display order (for the correct display of text containing both right-to-left scripts, such as Arabic or Hebrew, and left-to-right scripts).
+
+== Unicode on the web ==
+
+Recent web browsers display web pages using Unicode if an appropriate [[font]] is installed (see [[Unicode and HTML]]).
+
+Although syntax rules may affect the order in which characters are allowed to appear, both HTML 4.0 and XML 1.0 documents are, by definition, comprised of characters from the entire range of Unicode code points, minus only a handful of disallowed control characters and the permanently-unassigned code points D800-DFFF and FFFE-FFFF. These characters manifest either directly as [[byte]]s according to document's encoding, if the encoding supports them, or they may be written as numeric character references based on the character's Unicode code point, as long as the document's encoding supports the digits and symbols required to write the references (all encodings approved for use on the Internet do). For example, the references <code>&amp;#916;</code> <code>&amp;#1049;</code> <code>&amp;#1511;</code> <code>&amp;#1605;</code> <code>&amp;#3671;</code> <code>&amp;#12354;</code> <code>&amp;#21494;</code> <code>&amp;#33865;</code> <code>&amp;#45307;</code> (or the same numeric values expressed in hexadecimal, with <code>&amp;#x</code> as the prefix) display on your browser as Δ, Й, ק, م, ๗, あ, 叶, 葉 and 냻 -- if you have the proper fonts, these symbols look like the [[Greek alphabet|Greek]] capital letter "Delta", [[Cyrillic alphabet|Cyrillic]] capital letter "Short I", the [[Arabic alphabet|Arabic]] letter "Meem", the [[Hebrew alphabet|Hebrew]] letter "Qof", [[Thai language|Thai]] [[numeral]] 7, [[Japanese language|Japanese]] [[Hiragana]] "A", [[simplified Chinese]] "[[Leaf]]", [[traditional Chinese]] "Leaf", and a [[Korean language|Korean]] [[Hangul]] syllable "Nyaerh", respectively.
+
+== Unicode fonts ==
+
+Free and retail fonts based on Unicode are common, since first [[TrueType]] and now [[OpenType]] use Unicode. These font formats map Unicode code points to glyphs.
+
+There are thousands of fonts on the market, but fewer than a dozen fonts attempt to support the majority of Unicode's character repertoire; these fonts are sometimes described as pan-Unicode. Instead, Unicode based fonts typically focus on supporting only basic ASCII and particular scripts or sets of characters or symbols. There are several reasons for this: applications and documents rarely need to render characters from more than one or two writing systems; fonts tend to be resource hogs in computing environments; and operating systems and applications are becoming increasingly intelligent in regard to obtaining glyph information from separate font files as they are needed. Furthermore, it is a monumental task to design a consistent set of rendering instructions for tens of thousands of glyphs; such a venture passes the point of diminishing returns.
+
+== Unicode revision history ==
+
+* [[1991]] Unicode 1.0
+* [[1993]] Unicode 1.1
+* [[1996]] Unicode 2.0
+* [[1998]] Unicode 2.1
+* [[2000]] Unicode 3.0
+* [[2001]] Unicode 3.1
+* [[2002]] Unicode 3.2
+* [[2003]] Unicode 4.0
+* [[2004]] Unicode 4.01
+* [[2005]] Unicode 4.1
+* [[2006]] Unicode 5.0
+* [[2008]] Unicode 5.1
+* [[2009]] Unicode 5.2
+* [[2010]] Unicode 6.0
+* [[2012]] Unicode 6.1
+* [[2014]] Unicode 7.0
+* [[2015]] Unicode 8.0
+* [[2016]] Unicode 9.0
+* [[2017]] Unicode 10.0
+
+[[]]== External links ==
+
+* [http://www.unicode.org The Unicode Consortium]
+** Unicode versions: [http://www.unicode.org/versions/Unicode10.0.0/ 10.0]
+** [http://www.unicode.org/alloc/Pipeline.html Proposed new characters], [http://www.unicode.org/pending/pending.html scripts] and [http://www.unicode.org/alloc/investigation.html characters and scripts under investigation]
+** [http://www.unicode.org/charts/ Code Charts]
+* [http://www.macchiato.com/unicode/charts.html UTF-8, UTF-16, UTF-32 Code Charts] and a [http://www-atm.physics.ox.ac.uk/user/iwi/charmap.html character map]
+* [http://www.eki.ee/letter/ The Letter Database] Uses forms to present groups in list or grid format by hexadecimal.
+* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/ Example text files using Unicode]
+* Michael Everson's [http://www.unicode.org/notes/tn4/everson-iuc21pap.pdf "Leaks in the Unicode pipeline: script, script, script…"] PDF 2MB
+* [http://www.evertype.com/standards/csur/ ConScript Unicode Registry] a project to standardize part of the Private Use Area for use with artificial scripts and artificial languages. An explanation of how to propose character names in Unicode is available here.
+* [http://www.ibm.com/developerworks/java/library/u-secret.html The secret life of Unicode] "A peek at Unicode's soft underbelly" Describes problems requiring resolution. Includes links to Unicode resources.
+* Tim Bray's [http://www.tbray.org/ongoing/When/200x/2003/04/26/UTF Characters vs Bytes] explains how the different encodings work.
+* [http://www.alanwood.net/unicode/ Alan Wood's Unicode Resources] Contains lists of word processors with Unicode capability; characters are grouped by type; characters are presented in lists, not grids.
+* Fonts and tools:
+** [http://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html Unicode fonts and tools] for the X Window System
+** Unicode TTF fonts: Arial Unicode MS, Code2000: [http://home.att.net/~jameskass/ license info and download link], Junicode: [http://www.engl.virginia.edu/OE/junicode/junicode.html license info and download link], Titus Cyberbit Basic: [http://titus.uni-frankfurt.de/indexe.htm?/unicode/unitest2.htm license info] & [http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp download link]
+** [http://earthlingsoft.net/UnicodeChecker/ UnicodeChecker], a Unicode character browser for Mac OS X
+* Software engineering:
+** [http://www.icu-project.org/ International Components for Unicode (ICU)] An open source set of libraries that provide robust and full-featured Unicode services for your applications on a wide variety of platforms.
+** [http://www.joelonsoftware.com/articles/Unicode.html The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)] by Joel Spolsky of JoelonSoftware.com
+** [http://freedesktop.org/wiki/Software_2futf_2d8 Freedesktop.Org’s Project UTF-8]’s purpose is to document and promote proper Unicode support in free and Open Source software.
